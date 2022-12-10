@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useContext } from "react";
-import { FaArrowLeft, FaBackward } from "react-icons/fa";
+import { FaArrowLeft } from "react-icons/fa";
 import { ApplicationContext } from "../layout/ApplicationLayout";
 import DarkModeSwitch from "./DarkModeSwitch";
 
