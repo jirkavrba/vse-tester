@@ -5,6 +5,7 @@ import {
     GetStaticPropsContext,
     NextPage,
 } from "next";
+import Head from "next/head";
 import ApplicationLayout from "../../components/ApplicationLayout";
 import { Question } from "../../types";
 
@@ -22,12 +23,20 @@ const Tester: NextPage<TesterProps> = ({
     questions,
 }: TesterProps) => {
     return (
-        <ApplicationLayout>
-            <div>{subject}</div>
-            <div>{name}</div>
-            <div>{multichoice ? "Multichoice" : "Single choice"}</div>
-            <div>{JSON.stringify(questions)}</div>
-        </ApplicationLayout>
+        <>
+            <Head>
+                <title>{`VŠE Tester | ${subject} - ${name}`}</title>
+                <meta name="description" content={`Tester obsahuje ${questions.length} otázek`}/>
+                <meta name="og:title" content={`VŠE Tester | ${subject} - ${name}`}/>
+                <meta name="og:description" content={`Tester obsahuje ${questions.length} otázek`}/>
+            </Head>
+            <ApplicationLayout>
+                <div>{subject}</div>
+                <div>{name}</div>
+                <div>{multichoice ? "Multichoice" : "Single choice"}</div>
+                <div>{JSON.stringify(questions)}</div>
+            </ApplicationLayout>
+        </>
     );
 };
 
@@ -45,7 +54,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
     };
 };
 
-export const getStaticProps: GetStaticProps<TesterProps> = async (context: GetStaticPropsContext) => {
+export const getStaticProps: GetStaticProps<TesterProps> = async (
+    context: GetStaticPropsContext
+) => {
     const { params } = context;
     const source = await import(`../../questions/${params?.subject}.json`);
 
