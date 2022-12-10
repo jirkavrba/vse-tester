@@ -24,6 +24,9 @@ const Tester: NextPage<TesterProps> = ({
     return (
         <ApplicationLayout>
             <div>{subject}</div>
+            <div>{name}</div>
+            <div>{multichoice ? "Multichoice" : "Single choice"}</div>
+            <div>{JSON.stringify(questions)}</div>
         </ApplicationLayout>
     );
 };
@@ -42,17 +45,16 @@ export const getStaticPaths: GetStaticPaths = async () => {
     };
 };
 
-export const getStaticProps: GetStaticProps<TesterProps> = async (
-    context: GetStaticPropsContext
-) => {
+export const getStaticProps: GetStaticProps<TesterProps> = async (context: GetStaticPropsContext) => {
     const { params } = context;
+    const source = await import(`../../questions/${params?.subject}.json`);
 
     return {
         props: {
-            name: "",
-            subject: "",
-            multichoice: false,
-            questions: [],
+            name: source.name,
+            subject: source.code,
+            multichoice: source.multichoice,
+            questions: source.questions,
         },
     };
 };
