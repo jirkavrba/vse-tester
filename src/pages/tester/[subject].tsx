@@ -5,7 +5,7 @@ import {
     NextPage,
 } from "next";
 import Head from "next/head";
-import ApplicationLayout from "../../components/ApplicationLayout";
+import ApplicationLayout from "../../layout/ApplicationLayout";
 import { fetchQuestionSets } from "../../lib/questions";
 import type { Question, QuestionSet } from "../../types";
 
