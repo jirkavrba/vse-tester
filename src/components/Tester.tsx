@@ -1,4 +1,4 @@
-import { useContext, useEffect, useMemo, useState } from "react";
+import { useContext, useEffect, useMemo, useState, useId } from "react";
 import { FaArrowRight, FaCheck, FaRandom, FaUndo } from "react-icons/fa";
 import seedrandom from "seedrandom";
 import { ApplicationContext } from "../layout/ApplicationLayout";
@@ -22,22 +22,20 @@ const Tester: React.FC<TesterProps> = ({
     const [revealed, setRevealed] = useState<boolean>(false);
     const [selected, setSelected] = useState<Array<string>>([]);
     const [index, setIndex] = useState<number>(0);
-    const [nonce, setNonce] = useState<number>(Math.random());
     const [states, setStates] = useState<Array<QuestionState>>([]);
 
     const { darkmode } = useContext(ApplicationContext);
 
-    const key = `key_${title.replace(/[^a-zA-Z0-9]+/, "-")}`;
+    const key = `key_${(title ?? "").replace(/[^a-zA-Z0-9]+/, "-")}`;
 
     useEffect(() => {
         const defaultStates = [...new Array(questions.length)].fill([
             QuestionState.Unanswered,
         ]);
 
-        setIndex(Math.floor(Math.random() * questions.length));
+        // setIndex(Math.floor(Math.random() * questions.length));
         setRevealed(false);
         setStates(defaultStates);
-        setNonce(Math.random());
 
         const stored = window.localStorage.getItem(key);
 
@@ -115,7 +113,6 @@ const Tester: React.FC<TesterProps> = ({
     const nextQuestion = () => {
         setIndex((index) => (index + 1) % questions.length);
         setRevealed(false);
-        setNonce(Math.random());
     };
 
     const randomQuestion = () => {
@@ -131,13 +128,11 @@ const Tester: React.FC<TesterProps> = ({
 
         setIndex(remaining[Math.floor(Math.random() * remaining.length)] ?? 0);
         setRevealed(false);
-        setNonce(Math.random());
     };
 
     const directQuestion = (index: number) => {
         setIndex(index);
         setRevealed(false);
-        setNonce(Math.random());
     };
 
     const reset = () => {
@@ -149,11 +144,6 @@ const Tester: React.FC<TesterProps> = ({
 
         window.localStorage.removeItem(key);
     };
-
-    const answers = useMemo(() => {
-        const random = seedrandom(nonce.toString());
-        return question.answers.sort((_a, _b) => 0.5 - random());
-    }, [nonce, question.answers]);
 
     return (
         <div
@@ -170,7 +160,7 @@ const Tester: React.FC<TesterProps> = ({
                     {question.text}
                 </h1>
                 <div className="mt-4 flex flex-col lg:mt-10">
-                    {answers.map((answer, i) => (
+                    {question.answers.map((answer, i) => (
                         <Answer
                             key={i}
                             text={answer.text}

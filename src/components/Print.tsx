@@ -13,7 +13,7 @@ const Print: React.FC<PrintProperties> = ({ questionSet, onClose }: PrintPropert
             <header className="flex flex-row justify-between items-start">
                 <div>
                     <h2 className="text-gray-500 font-mono font-bold text-xl tracking-wider">{questionSet.subject}</h2>
-                    <h1 className="font-black text-3xl">{questionSet.title}</h1>
+                    <h1 className="font-black text-3xl">{questionSet.name}</h1>
                 </div>
                 <Button className="px-5 print:hidden" onClick={onClose}>
                     <FaArrowLeft />

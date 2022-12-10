@@ -5,18 +5,20 @@ import {
     NextPage,
 } from "next";
 import Head from "next/head";
+import Header from "../../components/Header";
+import Tester from "../../components/Tester";
 import ApplicationLayout from "../../layout/ApplicationLayout";
 import { fetchQuestionSets } from "../../lib/questions";
-import type { Question, QuestionSet } from "../../types";
+import type { QuestionSet } from "../../types";
 
-type TesterProps = QuestionSet;
+type TesterPageProps = QuestionSet;
 
-const Tester: NextPage<TesterProps> = ({
+const TesterPage: NextPage<TesterPageProps> = ({
     name,
     subject,
     multichoice,
     questions,
-}: TesterProps) => {
+}: TesterPageProps) => {
     return (
         <>
             <Head>
@@ -35,10 +37,12 @@ const Tester: NextPage<TesterProps> = ({
                 />
             </Head>
             <ApplicationLayout>
-                <div>{subject}</div>
-                <div>{name}</div>
-                <div>{multichoice ? "Multichoice" : "Single choice"}</div>
-                <div>{JSON.stringify(questions)}</div>
+                <Header title={name} questionsCount={questions.length}/>
+                <Tester
+                    title={name}
+                    multichoice={multichoice}
+                    questions={questions}
+                />
             </ApplicationLayout>
         </>
     );
@@ -59,7 +63,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     };
 };
 
-export const getStaticProps: GetStaticProps<TesterProps> = async (
+export const getStaticProps: GetStaticProps<TesterPageProps> = async (
     context: GetStaticPropsContext
 ) => {
     const { params } = context;
@@ -73,4 +77,4 @@ export const getStaticProps: GetStaticProps<TesterProps> = async (
     };
 };
 
-export default Tester;
+export default TesterPage;

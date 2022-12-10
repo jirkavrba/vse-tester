@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { AppContext } from "../App";
+import { ApplicationContext } from "../layout/ApplicationLayout";
 
 export interface AnswerProps {
     correct: boolean,
@@ -10,7 +10,7 @@ export interface AnswerProps {
 };
 
 const Answer: React.FC<AnswerProps> = ({correct, revealed, selected, text, onSelect}: AnswerProps) => {
-    const {darkmode} = useContext(AppContext);
+    const {darkmode} = useContext(ApplicationContext);
 
     const base = darkmode 
         ? "border-neutral-800 bg-neutral-800 text-neutral-300 hover:border-neutral-600 hover:shadow-lg" 
