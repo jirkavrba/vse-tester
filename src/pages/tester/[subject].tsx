@@ -1,4 +1,3 @@
-import fs from "fs";
 import {
     GetStaticPaths,
     GetStaticProps,
@@ -7,14 +6,10 @@ import {
 } from "next";
 import Head from "next/head";
 import ApplicationLayout from "../../components/ApplicationLayout";
-import { Question } from "../../types";
+import { fetchQuestionSets } from "../../lib/questions";
+import type { Question, QuestionSet } from "../../types";
 
-interface TesterProps {
-    name: string;
-    subject: string;
-    multichoice: boolean;
-    questions: Array<Question>;
-}
+type TesterProps = QuestionSet;
 
 const Tester: NextPage<TesterProps> = ({
     name,
@@ -26,9 +21,18 @@ const Tester: NextPage<TesterProps> = ({
         <>
             <Head>
                 <title>{`VŠE Tester | ${subject} - ${name}`}</title>
-                <meta name="description" content={`Tester obsahuje ${questions.length} otázek`}/>
-                <meta name="og:title" content={`VŠE Tester | ${subject} - ${name}`}/>
-                <meta name="og:description" content={`Tester obsahuje ${questions.length} otázek`}/>
+                <meta
+                    name="description"
+                    content={`Tester obsahuje ${questions.length} otázek`}
+                />
+                <meta
+                    name="og:title"
+                    content={`VŠE Tester | ${subject} - ${name}`}
+                />
+                <meta
+                    name="og:description"
+                    content={`Tester obsahuje ${questions.length} otázek`}
+                />
             </Head>
             <ApplicationLayout>
                 <div>{subject}</div>
@@ -41,7 +45,8 @@ const Tester: NextPage<TesterProps> = ({
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-    const subjects = ["3sg201", "4it115", "4sa310", "4st204", "11f201"];
+    const sets = await fetchQuestionSets();
+    const subjects = sets.map((set) => set.subject);
     const paths = subjects.map((code) => {
         return {
             params: { subject: code },
@@ -58,14 +63,12 @@ export const getStaticProps: GetStaticProps<TesterProps> = async (
     context: GetStaticPropsContext
 ) => {
     const { params } = context;
-    const source = await import(`../../questions/${params?.subject}.json`);
+    const sets = await fetchQuestionSets();
+    const source = sets.find((set) => set.subject === params?.subject)!;
 
     return {
         props: {
-            name: source.name,
-            subject: source.code,
-            multichoice: source.multichoice,
-            questions: source.questions,
+            ...source,
         },
     };
 };

@@ -7,3 +7,10 @@ export type Question = {
     text: string;
     answers: Array<Answer>;
 };
+
+export type QuestionSet = {
+    name: string;
+    subject: string;
+    multichoice: boolean;
+    questions: Array<Question>;
+};
