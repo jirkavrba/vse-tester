@@ -1,4 +1,4 @@
-import {
+import type {
     GetStaticPaths,
     GetStaticProps,
     GetStaticPropsContext,
@@ -7,7 +7,6 @@ import {
 import Head from "next/head";
 import Header from "../../components/Header";
 import Tester from "../../components/Tester";
-import ApplicationLayout from "../../layout/ApplicationLayout";
 import { fetchQuestionSets } from "../../lib/questions";
 import type { QuestionSet } from "../../types";
 
@@ -36,14 +35,14 @@ const TesterPage: NextPage<TesterPageProps> = ({
                     content={`Tester obsahuje ${questions.length} otázek`}
                 />
             </Head>
-            <ApplicationLayout>
-                <Header title={name} questionsCount={questions.length}/>
+            <main className="flex min-h-screen flex-col">
+                <Header title={name} questionsCount={questions.length} />
                 <Tester
                     title={name}
                     multichoice={multichoice}
                     questions={questions}
                 />
-            </ApplicationLayout>
+            </main>
         </>
     );
 };

@@ -1,8 +1,7 @@
-import { useContext, useEffect, useMemo, useState, useId } from "react";
+import { useContext, useEffect, useState } from "react";
 import { FaArrowRight, FaCheck, FaRandom, FaUndo } from "react-icons/fa";
-import seedrandom from "seedrandom";
 import { ApplicationContext } from "../layout/ApplicationLayout";
-import { Question, QuestionState } from "../types";
+import { type Question, QuestionState } from "../types";
 import Answer from "./Answer";
 import Button from "./Button";
 import Progress from "./Progress";
