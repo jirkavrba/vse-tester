@@ -7,6 +7,7 @@ interface ApplicationContextState {
 
 export const ApplicationContext = createContext<ApplicationContextState>({
     darkmode: false,
+    // eslint-disable-next-line @typescript-eslint/no-empty-function
     setDarkmode: () => {},
 });
 
