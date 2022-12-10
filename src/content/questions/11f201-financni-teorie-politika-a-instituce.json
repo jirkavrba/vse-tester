@@ -1,0 +1,3697 @@
+[
+    {
+        "text": "#1 - Veřejný dluh",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "se často financuje přímými úvěry centrálních bank"
+            },
+            {
+                "correct": false,
+                "text": "je v ČR relativně vyšší než v průmeru v jiných vyspělých zemích"
+            },
+            {
+                "correct": true,
+                "text": "je v ČR prevážně dluhem vůči domácím ekonomickým subjektům"
+            }
+        ]
+    },
+    {
+        "text": "Současná hodnota aktiva",
+        "answers": [
+            {
+                "correct": false,
+                "text": "součet diskontovaných minulých príjmů získaných z držby určitého aktiva"
+            },
+            {
+                "correct": false,
+                "text": "součet diskontovaných současných příjmu získaných z držby určitého aktiva"
+            },
+            {
+                "correct": false,
+                "text": "součet diskontovaných současných příjmu získaných z prodeje určitého aktiva"
+            },
+            {
+                "correct": true,
+                "text": "součet diskontovaných budoucích příjmu získaných z držby určitého aktiva"
+            }
+        ]
+    },
+    {
+        "text": "Lombardní úvěr je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Ani jedna možnost není správná"
+            },
+            {
+                "correct": false,
+                "text": "Nástroj měnové politiky ČNB používaný pro řízení lombardní facility"
+            },
+            {
+                "correct": true,
+                "text": "Bankovní úvěr poskytovaný typicky proti zástavě CP"
+            },
+            {
+                "correct": false,
+                "text": "Hlavní nástroj měnové politiky ČNB používaný při řízení lombardní sazby"
+            }
+        ]
+    },
+    {
+        "text": "Pokud platí, že cenová elasticita spotřebitele je vyšší než cenová elasticita výrobce, pak je při uložení jednotkové daně u výrobce pravdivé tvrzení (predpokládáme lineární průbeh obou křivek)",
+        "answers": [
+            {
+                "correct": false,
+                "text": "DWL spotřebitele je větší než DWL výrobce"
+            },
+            {
+                "correct": true,
+                "text": "DWL je vyšší u výrobce"
+            },
+            {
+                "correct": false,
+                "text": "celkové daňové břemeno je nulové"
+            },
+            {
+                "correct": false,
+                "text": "nadměrné daňové břemeno spotřebitele a výrobce je stejné"
+            },
+            {
+                "correct": false,
+                "text": "nadměrné daňové břemeno je vyšší u spotřebitele"
+            }
+        ]
+    },
+    {
+        "text": "Při cílování inflace vystupuje:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "MB jako dlouhodobé kritérium"
+            },
+            {
+                "correct": false,
+                "text": "IR dlouhodobá jako zprostředkující a IR krátkodobá jako operativní kritérium"
+            },
+            {
+                "correct": false,
+                "text": "MB jako zprostředkující kritérium"
+            },
+            {
+                "correct": true,
+                "text": "IR krátkodobá jako operativní kritérium"
+            }
+        ]
+    },
+    {
+        "text": "Kdy se stává banka nesolventní",
+        "answers": [
+            {
+                "correct": true,
+                "text": "žádná možnost není správná"
+            },
+            {
+                "correct": false,
+                "text": "když hodnota jejích aktiv je vetší než hodnota pasiv"
+            },
+            {
+                "correct": false,
+                "text": "když hodnota jejích pasiv je vetší než hodnota aktiv"
+            },
+            {
+                "correct": false,
+                "text": "když je víkend nebo státní svátek a v bance se nepracuje"
+            }
+        ]
+    },
+    {
+        "text": "Hotovostní oběživo v měnových agregátech zahrnuje",
+        "answers": [
+            {
+                "correct": false,
+                "text": "hotovostní prostředky v rukou nebankovních subjektů a hotovosti na pokladnách CB"
+            },
+            {
+                "correct": true,
+                "text": "pouze hotovostní prostředky v rukou nebankovních subjektu"
+            },
+            {
+                "correct": false,
+                "text": "hotovostní prostředky v rukou nebankovních subjektů a hotovosti na pokladnách OB i CB"
+            },
+            {
+                "correct": false,
+                "text": "hotovostní prostředky v rukou nebankovních subjektů a hotovosti na pokladnách OB"
+            }
+        ]
+    },
+    {
+        "text": "Jakými charakteristickými rysy se vyznačují systémy pevných měnových kurzů?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nejsou stanovena pásma oscilace pohybu měnového kurzu"
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka intervenuje na devizovém trhu pouze příležitostně při silných destabilizačních pohybech spekulačního kapitálu"
+            },
+            {
+                "correct": true,
+                "text": "Centrální banka intervenuje na devizovém trhu pro udržení stanovených pásem oscilace"
+            },
+            {
+                "correct": false,
+                "text": "Jejich pružnost není limitovaná"
+            }
+        ]
+    },
+    {
+        "text": "Príkladem události, která muže zpusobit posunový efekt veřejných výdaju, je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Jednorázové snížení daní"
+            },
+            {
+                "correct": false,
+                "text": "Pomalý růst produktivity ve veřejném sektoru"
+            },
+            {
+                "correct": true,
+                "text": "Válečný konflikt"
+            },
+            {
+                "correct": false,
+                "text": "Dlouhodobý růst veřejného dluhu"
+            },
+            {
+                "correct": false,
+                "text": "Demografický vývoj"
+            }
+        ]
+    },
+    {
+        "text": "Ke zvýšení nabídky peněz dojde při:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "snížení multiplikátoru"
+            },
+            {
+                "correct": true,
+                "text": "zvýšení multiplikátoru"
+            },
+            {
+                "correct": false,
+                "text": "zvýšení IR"
+            }
+        ]
+    },
+    {
+        "text": "Kterou trojici bilančních položek můžete nalézt na aktivech obchodní banky:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "bankou odkoupené směnky, pohledávky za bankami, úvěry poskytnuté klientům"
+            },
+            {
+                "correct": false,
+                "text": "vklady banky u centrální banky, nakoupené cenné papíry s pevným výnosem, bankovní záruky"
+            },
+            {
+                "correct": false,
+                "text": "vlastní kapitál, pokladní hotovost, závazky k bankám"
+            },
+            {
+                "correct": false,
+                "text": "podřízený dluh, vklady přijaté od orgánů státní správy, pohledávky za zaměstnanci"
+            }
+        ]
+    },
+    {
+        "text": "Dluhová past",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": true,
+                "text": "r > q"
+            },
+            {
+                "correct": false,
+                "text": "r < q"
+            },
+            {
+                "correct": true,
+                "text": "stav, kdy objem veřejného dluhu roste, neboť reálná úroková míra roste rychleji než HDP"
+            }
+        ]
+    },
+    {
+        "text": "Modelu AS-AD – co určuje účinnost fiskální politiky",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Sklon AD"
+            },
+            {
+                "correct": false,
+                "text": "Cena"
+            },
+            {
+                "correct": true,
+                "text": "Sklon AS"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            }
+        ]
+    },
+    {
+        "text": "Vyberte správné tvrzení o komerčních bankách:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jejich vlastní prodané emitované dluhopisy se odrazí na straně aktiv"
+            },
+            {
+                "correct": true,
+                "text": "jejich vlastní prodané emitované dluhopisy se odrazí na straně pasiv"
+            },
+            {
+                "correct": false,
+                "text": "Komerční banky jsou finančními zprostředkovateli, které mají jako jediné právo emitovat bezhotovostní peníze"
+            },
+            {
+                "correct": false,
+                "text": "podmínky jejich existence jsou nepřímo determinovány rozhodnutími centrální banky"
+            }
+        ]
+    },
+    {
+        "text": "Reálná úroková míra je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Podíl úroku a zapůjčené částky"
+            },
+            {
+                "correct": false,
+                "text": "Úroková sazba - míra inflace minulého období"
+            },
+            {
+                "correct": false,
+                "text": "Reálná úroková míra + očekávaná míra inflace"
+            },
+            {
+                "correct": true,
+                "text": "Nominální úroková míra snížená o očekávanou míru inface"
+            },
+            {
+                "correct": false,
+                "text": "Rozdím mezi navrácenou a zapůjčenou částkou"
+            }
+        ]
+    },
+    {
+        "text": "Veřejný dluh:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "je v ČR vyšší než v jiných zemích"
+            },
+            {
+                "correct": false,
+                "text": "Je krytý úvěrem od CB"
+            },
+            {
+                "correct": true,
+                "text": "se označuje jako hrubý dluh"
+            },
+            {
+                "correct": false,
+                "text": "emitují se dluhopisy"
+            }
+        ]
+    },
+    {
+        "text": "Do aktiv obchodní banky patří:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "akciový kapitál"
+            },
+            {
+                "correct": false,
+                "text": "cenné papíry ve správě"
+            },
+            {
+                "correct": false,
+                "text": "termínovaný podřízený dluh"
+            },
+            {
+                "correct": false,
+                "text": "vklady u centrální banky"
+            },
+            {
+                "correct": false,
+                "text": "vlastní dluhopisy"
+            }
+        ]
+    },
+    {
+        "text": "Rozhodněte, která čtveřice investičních nástrojů patří mezi termínované transakce",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Forward, futures, bond, obligace"
+            },
+            {
+                "correct": false,
+                "text": "Forward, futures, obligace, opce"
+            },
+            {
+                "correct": false,
+                "text": "Forward swap opce, bond"
+            },
+            {
+                "correct": true,
+                "text": "Forward, futures, swap, opce"
+            }
+        ]
+    },
+    {
+        "text": "Co nepatří mezi daňové příjmy veřejných rozpočtů",
+        "answers": [
+            {
+                "correct": false,
+                "text": "DPH"
+            },
+            {
+                "correct": false,
+                "text": "spotřební daň"
+            },
+            {
+                "correct": false,
+                "text": "daň z nemovitosti"
+            },
+            {
+                "correct": true,
+                "text": "Příjmy z privatizace"
+            }
+        ]
+    },
+    {
+        "text": "Co zpusobuje posun AD doprava nahoru?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "Růst úrokových sazeb"
+            },
+            {
+                "correct": false,
+                "text": "Pokles měnové báze"
+            },
+            {
+                "correct": true,
+                "text": "Růst měnové báze"
+            }
+        ]
+    },
+    {
+        "text": "Principy VF",
+        "answers": [
+            {
+                "correct": true,
+                "text": "neekvivalence"
+            },
+            {
+                "correct": false,
+                "text": "neefektivnost"
+            },
+            {
+                "correct": true,
+                "text": "nedobrovolnost"
+            },
+            {
+                "correct": true,
+                "text": "nenávratnost"
+            }
+        ]
+    },
+    {
+        "text": "Výnosem dluhopisu je",
+        "answers": [
+            {
+                "correct": true,
+                "text": "úrok, který nezávisí na výsledku hospodaření emitenta"
+            },
+            {
+                "correct": false,
+                "text": "dividenda, která závisí na výsledku hospodaření emitenta"
+            },
+            {
+                "correct": false,
+                "text": "dividenda u firemních dluhopisů a úroková sazba u bankovních dluhopisů"
+            },
+            {
+                "correct": false,
+                "text": "dividenda, která nezávisí na výsledku hospodaření emitenta"
+            },
+            {
+                "correct": false,
+                "text": "úroková sazba, která nezávisí na výsledku hospodaření emitenta"
+            }
+        ]
+    },
+    {
+        "text": "Inflace:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "CB prognózuje inflaci pouze na základě vývoje M1"
+            },
+            {
+                "correct": true,
+                "text": "na základě vícefaktorové prognózy"
+            },
+            {
+                "correct": false,
+                "text": "pouze na základě vývoje různých měnových agregátu"
+            },
+            {
+                "correct": false,
+                "text": "pouze na základe vývoje krátkodobých úrokových sazeb"
+            }
+        ]
+    },
+    {
+        "text": "Transfery jsou",
+        "answers": [
+            {
+                "correct": true,
+                "text": "neekvivalentní a nenávratné platby"
+            },
+            {
+                "correct": false,
+                "text": "ekvivalentní a nenávratné platby;"
+            },
+            {
+                "correct": false,
+                "text": "neekvivalentní a návratné platby"
+            },
+            {
+                "correct": false,
+                "text": "ekvivalentní a návratné platby;"
+            }
+        ]
+    },
+    {
+        "text": "Cílování inflace představuje takový postup v měnové politice, kdy centrální banka ve snaze dosáhnout kvantifikované inflace",
+        "answers": [
+            {
+                "correct": false,
+                "text": "reguluje peněžní zásobu prostřednictvím měnové báze i krátkodobé úrokové míry"
+            },
+            {
+                "correct": false,
+                "text": "stanoví bankám limity na úvěry nebankovním klientům"
+            },
+            {
+                "correct": true,
+                "text": "reguluje krátkodobou úrokovou míru"
+            },
+            {
+                "correct": false,
+                "text": "prostřednictvím měnové báze reguluje peněžní zásobu (vybraný měnový agregát)"
+            },
+            {
+                "correct": false,
+                "text": "intervenuje pohyblivý měnový kurs"
+            }
+        ]
+    },
+    {
+        "text": "Penežní trh:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "mohou na nej jen zahraniční subjekty a CB"
+            },
+            {
+                "correct": false,
+                "text": "jedná se o burzovní trh"
+            },
+            {
+                "correct": false,
+                "text": "je málo likvidní"
+            },
+            {
+                "correct": true,
+                "text": "mohou na něj jen vybrané subjekty"
+            }
+        ]
+    },
+    {
+        "text": "Eskontní úvěr je",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Bankovní úvěr poskytovaný proti zástavě věci movité"
+            },
+            {
+                "correct": false,
+                "text": "Nástroj měnové politiky ČNB používaný pro řízení"
+            },
+            {
+                "correct": false,
+                "text": "Hlavní nástroj měnové politiky ČNB používaný při řízení"
+            },
+            {
+                "correct": true,
+                "text": "Bankovní úvěr poskytovaný typicky proti odkupu cenných papírů"
+            }
+        ]
+    },
+    {
+        "text": "Co muže způsobit poptávkovou inflaci",
+        "answers": [
+            {
+                "correct": true,
+                "text": "měnová iluze"
+            },
+            {
+                "correct": false,
+                "text": "pokles mezd"
+            },
+            {
+                "correct": false,
+                "text": "zvýšení DPH"
+            },
+            {
+                "correct": false,
+                "text": "růst nezaměstnanosti"
+            }
+        ]
+    },
+    {
+        "text": "Do svého portfolia jste dnes nakoupil/nakoupila diskontovaný dluhopis, za částku 100 Kc. Za uvedený dluhopis přesně ode dneška za rok obdržíte částku 110 Kc. Pro Vámi provedenou investici není pravdivé tvrzení, že:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Diskontní míra z investice je 10% p.a."
+            },
+            {
+                "correct": false,
+                "text": "Kapitálový výnos z Vámi provedené investice je 10 Kc"
+            },
+            {
+                "correct": false,
+                "text": "Výnosnost do doby splatnosti provedené investice je 10% p.a."
+            },
+            {
+                "correct": false,
+                "text": "Úrok z Vámi provedené investice je 10 Kc"
+            }
+        ]
+    },
+    {
+        "text": "Měnové agregáty",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Z hlediska možností centrální banky se dělí na vypůjčenou a nevypůjčenou část"
+            },
+            {
+                "correct": true,
+                "text": "Představují souhrn peněžních prostředků s různým stupněm likvidity"
+            },
+            {
+                "correct": false,
+                "text": "Mají neomezenou likviditu spočívající v tom, že pro jejich použití v ekonomice je nutné je konvertovat do zahraniční měny"
+            },
+            {
+                "correct": false,
+                "text": "Jejich správná velikost je smyslem a cílem měnové politiky"
+            }
+        ]
+    },
+    {
+        "text": "Co patří mezi exogenní faktory ovlivnující rozpočtový deficit – pasivní deficit",
+        "answers": [
+            {
+                "correct": true,
+                "text": "válka"
+            },
+            {
+                "correct": false,
+                "text": "konjunktura"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": true,
+                "text": "živelná katastrofa"
+            }
+        ]
+    },
+    {
+        "text": "Pro fenomén tzv. černého pasažéra mj. platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "vzniká v případě, jestliže existuje rivalita ve spotřebe"
+            },
+            {
+                "correct": false,
+                "text": "se objevuje tehdy, jestliže spotřebitel odmítá zaplatit za privátní statky"
+            },
+            {
+                "correct": true,
+                "text": "vzniká (muže vzniknout) při spotřebě veřejného statku, kdy spotřebitel neprojevuje preference"
+            },
+            {
+                "correct": false,
+                "text": "je důsledkem vyloučení ze spotřeby"
+            },
+            {
+                "correct": false,
+                "text": "se objevuje v souvislosti s mediánovým voličem"
+            }
+        ]
+    },
+    {
+        "text": "Jaké důchody jsou vypláceny z povinného důchodového pojištení",
+        "answers": [
+            {
+                "correct": false,
+                "text": "starobní"
+            },
+            {
+                "correct": false,
+                "text": "starobní, invalidní, pozůstalostní, vdovský/vdovecký, sirotčí, nouzový"
+            },
+            {
+                "correct": false,
+                "text": "pozůstalostní, vdovský/vdovecký, sirotčí"
+            },
+            {
+                "correct": true,
+                "text": "starobní, invalidní, pozůstalostní, vdovský/vdovecký, sirotčí"
+            }
+        ]
+    },
+    {
+        "text": "Uložím 100 a za dva roky mám 106, míra inflace za poslední dva roky byla 10%. Co platí o reálné úrokové míře?",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Reálná úroková míra byla záporná"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "Reálná úroková míra byla kladná (> 0)"
+            },
+            {
+                "correct": false,
+                "text": "Reálná úroková míra byla 0, záporná nemůže být nikdy"
+            }
+        ]
+    },
+    {
+        "text": "Co nepatří do pasiv centrální banky TROUBLE",
+        "answers": [
+            {
+                "correct": false,
+                "text": "vydané hotovostní prostředky"
+            },
+            {
+                "correct": true,
+                "text": "hmotný majetek"
+            },
+            {
+                "correct": false,
+                "text": "emitované vlastní CP"
+            },
+            {
+                "correct": false,
+                "text": "emise oběživa"
+            }
+        ]
+    },
+    {
+        "text": "Jaký byl rozpocet ČR za posledních 10 let",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": true,
+                "text": "Trvale deficitní"
+            },
+            {
+                "correct": false,
+                "text": "Trvale přebytkový"
+            },
+            {
+                "correct": false,
+                "text": "1 prebytkový (2004), zbytek deficitní"
+            }
+        ]
+    },
+    {
+        "text": "Transfery jsou specifickými veřejnými výdaji, pro které platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jsou to veřejné prostředky, které jsou poskytovány s určitým cílem různým subjektům, vzniká zde protiplnění"
+            },
+            {
+                "correct": false,
+                "text": "jsou to veřejné prostředky, které jsou poskytovány s určitým cílem soukromým firmám"
+            },
+            {
+                "correct": false,
+                "text": "jsou to veřejné prostředky, které jsou poskytovány s určitým cílem ruzným subjektům, jsou to tzv. ujídající výdaje"
+            },
+            {
+                "correct": false,
+                "text": "jsou to veřejné prostředky, které jsou poskytovány různým subjektům s cílem zabezpečení alokační funkce"
+            },
+            {
+                "correct": true,
+                "text": "jsou to veřejné prostředky, které jsou poskytovány s určitým cílem různým subjektům, nevzniká zde žádné protiplnění"
+            }
+        ]
+    },
+    {
+        "text": "Transfery jsou specifickými veřejnými výdaji, pro které platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Jsou to veřejné prostředky, které jsou poskytovány místním a krajským rozpočtům"
+            },
+            {
+                "correct": false,
+                "text": "Jsou to veřejné prostředky, které jsou poskytovány pouze z důvodu realizace stabilizační funkce veřejných financí"
+            },
+            {
+                "correct": true,
+                "text": "Jsou to veřejné prostředky, které jsou poskytovány hlavně domácnostem z důvodu sociálních"
+            },
+            {
+                "correct": false,
+                "text": "Jsou to veřejné prostředky, které jsou poskytovány firmám s cílem zabezpečit alokační funkci"
+            },
+            {
+                "correct": false,
+                "text": "Jsou to veřejné prostředky, které jsou poskytovány domácnostem s cílem omezit jejich disponibilní důchod"
+            }
+        ]
+    },
+    {
+        "text": "Co nepatří do majetkových daní",
+        "answers": [
+            {
+                "correct": false,
+                "text": "daň silniční"
+            },
+            {
+                "correct": false,
+                "text": "daň převodová"
+            },
+            {
+                "correct": true,
+                "text": "daň z přidané hodnoty"
+            },
+            {
+                "correct": false,
+                "text": "daň z nemovitosti"
+            }
+        ]
+    },
+    {
+        "text": "Která z následujících skupin bilančních položek komerční banky patří zcela na stranu aktiv:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nakoupené státní pokladnicní poukázky, úvěry poskytnuté klientům, dluhové cenné papíry emitované danou bankou"
+            },
+            {
+                "correct": true,
+                "text": "Pokladní hotovost, pohledávky za bankami, nakoupené státní pokladniční poukázky"
+            },
+            {
+                "correct": false,
+                "text": "Pohledávky za bankami, úvěry poskytnuté klientům, podřízený dluh"
+            },
+            {
+                "correct": false,
+                "text": "Majetkové účasti, kapitálové fondy, hmotný majetek"
+            }
+        ]
+    },
+    {
+        "text": "Co patrí do aktiv banky?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "podrízený dluh"
+            },
+            {
+                "correct": false,
+                "text": "emise vlastní CP"
+            },
+            {
+                "correct": true,
+                "text": "pohledávky z opcních operací"
+            },
+            {
+                "correct": false,
+                "text": "nerozdělený zisk"
+            }
+        ]
+    },
+    {
+        "text": "Obsah jednotlivých agregátu M1 – M4, co platí:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "M2 = M1 + termínované a jiné vklady"
+            },
+            {
+                "correct": false,
+                "text": "M4 = M3 + vklady u nebank subjektů + kr CP nebankovních subjektu"
+            },
+            {
+                "correct": true,
+                "text": "M1 = hotovostní peníze (nebankovní) + vklady na bežných úctech"
+            },
+            {
+                "correct": false,
+                "text": "M3 = M2 + vklady v cizí měně + repo operace"
+            }
+        ]
+    },
+    {
+        "text": "Horizontální spravedlnost",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Lidé se stejnými charakteristikami by měli mít stejné výdaje a daně"
+            },
+            {
+                "correct": false,
+                "text": "Lidé s rozdílnými charakteristikami by měli mít stejné příjmy a výdaje"
+            },
+            {
+                "correct": true,
+                "text": "Lidé se stejnými charakteristikami by měli mít stejné příjmy a daně"
+            },
+            {
+                "correct": false,
+                "text": "Lidé s rozdílnými charakteristikami by měli mít stejné příjmy a daně"
+            }
+        ]
+    },
+    {
+        "text": "Investiční bankovnictví je typické mj. tím, že:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Zdroje k financování investiční banky jsou získávány především na mezibankovním trhu"
+            },
+            {
+                "correct": false,
+                "text": "Investiční banky reeskontují či eskontují cizí směnky vydávané centrální bankou"
+            },
+            {
+                "correct": false,
+                "text": "Investiční banky eskontují typicky vlastní směnky vydávané centrální bankou"
+            },
+            {
+                "correct": false,
+                "text": "Investiční banky reeskontují typicky vlastní dluhopisy a akcie"
+            }
+        ]
+    },
+    {
+        "text": "Jakou analogii uplatňuje teorie veřejné volby (Public Choice) při analýze v rámci politických procesů:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "analogii s příkazovým systémem"
+            },
+            {
+                "correct": false,
+                "text": "analogii s lidumilstvím"
+            },
+            {
+                "correct": false,
+                "text": "analogii se sponzorstvím"
+            },
+            {
+                "correct": true,
+                "text": "analogii s ekonomickým trhem"
+            }
+        ]
+    },
+    {
+        "text": "Funkce peněz – co nepatří:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "zúčtovací jednotka"
+            },
+            {
+                "correct": true,
+                "text": "měnová jednotka"
+            },
+            {
+                "correct": false,
+                "text": "prostředek směny"
+            },
+            {
+                "correct": false,
+                "text": "uchovatel hodnoty"
+            }
+        ]
+    },
+    {
+        "text": "Měnové agregáty: TROUBLE",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Slouží jako zprostředkující kritérium peněžního transmisivního mechanismu"
+            },
+            {
+                "correct": false,
+                "text": "Slouží jako operativní kritérium peněžního transmisivního mechanismu"
+            },
+            {
+                "correct": false,
+                "text": "Najdeme na straně aktiv u CB"
+            },
+            {
+                "correct": false,
+                "text": "Najdeme na straně pasiv u CB"
+            }
+        ]
+    },
+    {
+        "text": "Která z uvedených příčin muže způsobit pasivní deficit:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Snížení daní"
+            },
+            {
+                "correct": false,
+                "text": "Ekonomická konjuktura"
+            },
+            {
+                "correct": false,
+                "text": "Snížení výdaju"
+            },
+            {
+                "correct": false,
+                "text": "Zvýšení výdaju"
+            },
+            {
+                "correct": true,
+                "text": "Ekonomická recese"
+            }
+        ]
+    },
+    {
+        "text": "Pravidlo hlasovacího volebního paradoxu platí pouze u",
+        "answers": [
+            {
+                "correct": true,
+                "text": "2 vrcholového voliče a zároveň nestandartního"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "u každého voliče"
+            },
+            {
+                "correct": false,
+                "text": "jen u prvovoličů"
+            }
+        ]
+    },
+    {
+        "text": "Pojem pokladní plnění rozpočtu znamená:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Realizaci příjmů a výdajů na rozpočtových účtech"
+            },
+            {
+                "correct": false,
+                "text": "Třídení výdaju a příjmu na odpovídajících účtech státního rozpočtu"
+            },
+            {
+                "correct": false,
+                "text": "Plnění státního závěřečného účtu"
+            },
+            {
+                "correct": false,
+                "text": "Emisní krytí deficitu státního rozpočtu"
+            },
+            {
+                "correct": false,
+                "text": "Emisi pokladničních poukázek"
+            }
+        ]
+    },
+    {
+        "text": "Mezi teorie, pomocí kterých lze vysvětlit růst veřejných výdajů, patří:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Prahový (posunový) efekt"
+            },
+            {
+                "correct": false,
+                "text": "Rychlejší růst produktivity ve veřejném sektoru"
+            },
+            {
+                "correct": false,
+                "text": "Stávkové efekty"
+            },
+            {
+                "correct": false,
+                "text": "Rostoucí podíl počtu dětí v populaci"
+            },
+            {
+                "correct": false,
+                "text": "Stiglitzův zákon"
+            }
+        ]
+    },
+    {
+        "text": "Co je to současná hodnota dluhopisu",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Tržní cena, když je nabídka po dluhopisu vetší než poptávka"
+            },
+            {
+                "correct": false,
+                "text": "Cena, která je utvářená na trhu dluhopisu"
+            },
+            {
+                "correct": true,
+                "text": "Tržní cena, když je poptávka po dluhopisu rovná nabídce po něm"
+            },
+            {
+                "correct": false,
+                "text": "Tržní cena, když je poptávka po dluhopisu menší než poptávka"
+            }
+        ]
+    },
+    {
+        "text": "Vliv regresivního zdanění (míra zdanění se snižuje s rostoucím platem)",
+        "answers": [
+            {
+                "correct": false,
+                "text": "regresivní zdanění respektuje vertikální ale né horizontální spravedlnost"
+            },
+            {
+                "correct": false,
+                "text": "lidé s vetším príjmem platí stejně jako lidé s nižším"
+            },
+            {
+                "correct": true,
+                "text": "regresivní zdanění respektuje horizontální ale né vertikální spravedlnost"
+            },
+            {
+                "correct": false,
+                "text": "lidé s vetším príjmem platí více než lidé s nižším"
+            }
+        ]
+    },
+    {
+        "text": "Definičním znakem čistých veřejných statků je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Regulace jejich cen"
+            },
+            {
+                "correct": false,
+                "text": "Regulace jejich nabídky a poptávky"
+            },
+            {
+                "correct": false,
+                "text": "Neekvivalentnost ve spotřebe, snadná vylučitelnost ze spotřeby"
+            },
+            {
+                "correct": true,
+                "text": "Ani jedna odpověd není správná"
+            },
+            {
+                "correct": false,
+                "text": "Rivalita ve spotřebě a obtížná vyléčitelnost ze spotřeby"
+            }
+        ]
+    },
+    {
+        "text": "Bežný úcet platební bilance",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": true,
+                "text": "rozdíl importu a exportu v položkách zboží, služby, důchody a nekapitálové transfery"
+            },
+            {
+                "correct": false,
+                "text": "rozdíl importu a exportu v položkách zboží, služby a důchody"
+            },
+            {
+                "correct": false,
+                "text": "rozdíl importu a exportu v položkách zboží a důchodu"
+            }
+        ]
+    },
+    {
+        "text": "Co patří pouze na stranu pasiv banky",
+        "answers": [
+            {
+                "correct": false,
+                "text": "CP, ážiový fond, vklad od CB"
+            },
+            {
+                "correct": true,
+                "text": "Závazky, rezervní fondy, základní kapitál"
+            },
+            {
+                "correct": false,
+                "text": "ZK, nehmotný majetek, hmotný majetek"
+            },
+            {
+                "correct": false,
+                "text": "Rezervy, penežní hotovost, ZK"
+            }
+        ]
+    },
+    {
+        "text": "Veřejný dluh",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Je nejčasteji vykazován jako hrubý veřejný dluh"
+            },
+            {
+                "correct": false,
+                "text": "Není ovlivňován poměrem tempa ekonomického růstu a úrokové míry z dluhu"
+            },
+            {
+                "correct": false,
+                "text": "Je nejčastěji vykazován jako čistý veřejný dluh"
+            },
+            {
+                "correct": false,
+                "text": "Je často omezován pomocí administrativního odmítnutí částí veřejného dluhu vládou"
+            },
+            {
+                "correct": false,
+                "text": "Je za jinak nezměněných podmínek zvýšen zavedením mimořádné daně sloužící ke krytí veřejného dluhu"
+            }
+        ]
+    },
+    {
+        "text": "Která možnost zahrnuje položky OB pouze na straně aktiv?",
+        "answers": [
+            {
+                "correct": true,
+                "text": "PMR, CP, státní pokladniční poukázky"
+            },
+            {
+                "correct": false,
+                "text": "úvery klientů, rezervní fondy, pokladní hotovost"
+            },
+            {
+                "correct": false,
+                "text": "CP, základní kapitál, poskytnuté úvěry bankám"
+            },
+            {
+                "correct": false,
+                "text": "CP pevně úročené, pokladní hotovost, vklady klientů"
+            }
+        ]
+    },
+    {
+        "text": "Monetarizací vládního dluhu chápeme stav, kdy:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Centrální banka nakupuje státem emitované cenné papíry"
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka prodává státem garantované dluhopisy komerčních bank"
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka kupuje státem garantované dluhopisy komerčních bank"
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka prodává státem emitované cenné papíry"
+            }
+        ]
+    },
+    {
+        "text": "Charakter přímých daní v ČR mají:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "DPPO"
+            },
+            {
+                "correct": false,
+                "text": "DPH"
+            },
+            {
+                "correct": true,
+                "text": "daň z nemovitosti"
+            },
+            {
+                "correct": true,
+                "text": "DPFO"
+            }
+        ]
+    },
+    {
+        "text": "S čím pracuje transmisní keynesiánský mechanismus:TROUBLE",
+        "answers": [
+            {
+                "correct": false,
+                "text": "nástroje měnové politiky -> krátkodobé úrokové sazby -> inflace -> reálný důchod"
+            },
+            {
+                "correct": false,
+                "text": "nástroje měnové politiky -> inflace -> krátkodobé úrokové sazby -> dlouhodobé úrokové sazby -> reálný důchod"
+            },
+            {
+                "correct": false,
+                "text": "nástroje měnové politiky -> úrokové sazby -> měnové báze -> peněžní zásoba -> reálný důchod"
+            },
+            {
+                "correct": true,
+                "text": "krátkodobé úrokové sazby -> dlouhodobé úrokové sazby -> hospodářský růst nebo kontrola nezaměstnanosti"
+            },
+            {
+                "correct": false,
+                "text": "nástroje měnové politiky -> krátkodobé úrokové sazby -> dlouhodobé úrokové sazby -> reálný důchod"
+            }
+        ]
+    },
+    {
+        "text": "Vyznačte položku, kterou lze nalézt na aktivech v bilanci centrální banky",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Devizové rezervy"
+            },
+            {
+                "correct": false,
+                "text": "Vklady státu"
+            },
+            {
+                "correct": false,
+                "text": "Emitované oběživo"
+            },
+            {
+                "correct": false,
+                "text": "Hotovostní oběživo"
+            }
+        ]
+    },
+    {
+        "text": "Co nepatří do měnové báze",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Vklady na BÚ"
+            },
+            {
+                "correct": false,
+                "text": "PMR"
+            },
+            {
+                "correct": false,
+                "text": "Dobrovolné rezervy"
+            },
+            {
+                "correct": false,
+                "text": "Hotovostní rezervy na pokladnách bank"
+            }
+        ]
+    },
+    {
+        "text": "Co platí o Lórenzově křivce?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Křivka úplně rovnoměrného rozdělení důchodu je napravo od křivky skutečného rozdělení"
+            },
+            {
+                "correct": true,
+                "text": "Progresivní zdanění posune křivku skutečného rozdělení doleva"
+            },
+            {
+                "correct": false,
+                "text": "Křivka úplně nerovnoměrného rozdělení důchodu je rovnobežná s křivkou rovnoměrného rozdělení"
+            },
+            {
+                "correct": false,
+                "text": "Progresivní zdanění posune křivku skutečného rozdělení doprava"
+            }
+        ]
+    },
+    {
+        "text": "Na pasivech bilance centrální banky můžeme současně nalézt následující položky:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Povinné minimální rezervy obchodních bank, centrální bankou emitované dluhopisy a komerčními bankami emitované akcie"
+            },
+            {
+                "correct": false,
+                "text": "Obeživo (peníze v obehu), peníze v pokladně, povinné minimální rezervy, centrální bankou nakoupené akcie"
+            },
+            {
+                "correct": true,
+                "text": "Peníze v oběhu (obeživo), centrální bankou emitované dluhopisy, základní kapitál"
+            },
+            {
+                "correct": false,
+                "text": "Vlastní jmění, nakoupené pokladniční poukázky, zlato"
+            }
+        ]
+    },
+    {
+        "text": "Racionální chování byrokracie",
+        "answers": [
+            {
+                "correct": false,
+                "text": "snaha minimalizovat náklady"
+            },
+            {
+                "correct": false,
+                "text": "snaha minimalizovat velikost vlastního rozpočtu"
+            },
+            {
+                "correct": false,
+                "text": "snaha maximalizovat užitek pro společnost"
+            },
+            {
+                "correct": true,
+                "text": "snaha maximalizovat velikost vlastního rozpočtu"
+            }
+        ]
+    },
+    {
+        "text": "Daň z příjmu FO byla do roku 2008 v ČR TROUBLE",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "konstantní"
+            },
+            {
+                "correct": false,
+                "text": "stupňovitá"
+            },
+            {
+                "correct": true,
+                "text": "klouzavá progresivní"
+            }
+        ]
+    },
+    {
+        "text": "V souvislosti s operacemi na volném trhu platí:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nákup cenných papíru centrální bankou od bank za jinak nezměněných podmínek snižuje rezervy bank a měnovou bázi"
+            },
+            {
+                "correct": false,
+                "text": "Je-li hlavním cílem přesná změna měnové báze, centrální banka předem stanoví úrokové sazby, resp. ceny cenných papírů"
+            },
+            {
+                "correct": true,
+                "text": "Při prostých repo operacích centrální banka nejprve cenné papíry prodává s tím, že je po určité době zpětne koupí"
+            },
+            {
+                "correct": false,
+                "text": "Provádějí se vždy bezhotovostně a převážně s majetkovými cennými papíry"
+            }
+        ]
+    },
+    {
+        "text": "Může být měnová báze vypůjčená?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "ne, je to zakázané"
+            },
+            {
+                "correct": true,
+                "text": "ano může"
+            },
+            {
+                "correct": false,
+                "text": "vždy je vypůjčená"
+            }
+        ]
+    },
+    {
+        "text": "Vypočítejte, jak se změní MB když: CB nakoupila zahraniční měnu za 1,9 mld Kč Splatila směnné pokladniční poukázky za 2,5 mld Kc Nakoupila od KB cenné papíry v hodnote 4,5 mld Kč Prodala zahraniční měnu v hodnotě 4,4 mld Kc",
+        "answers": [
+            {
+                "correct": false,
+                "text": "4"
+            },
+            {
+                "correct": false,
+                "text": "-4,5"
+            },
+            {
+                "correct": true,
+                "text": "4,5"
+            },
+            {
+                "correct": false,
+                "text": "0"
+            }
+        ]
+    },
+    {
+        "text": "Aplikace metody CEA znamená, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Efekty a náklady musí být vyjádřeny v peněžních jednotkách"
+            },
+            {
+                "correct": false,
+                "text": "Efekty a náklady jsou vyjádřeny pouze v nepenežních jednotkách (např. v kusech, tunách apod.)"
+            },
+            {
+                "correct": false,
+                "text": "Efekty (výstupy) musí být v penězích, náklady jsou v naturálních jednotkách"
+            },
+            {
+                "correct": false,
+                "text": "Nezáleží, v jakých jednotkách jsou výstupy a vstupy (náklady)"
+            },
+            {
+                "correct": true,
+                "text": "Náklady musí být v penězích, ale výstupy (efekty) jsou v naturálních jednotkách"
+            }
+        ]
+    },
+    {
+        "text": "Broker",
+        "answers": [
+            {
+                "correct": true,
+                "text": "jedná svým jménem a na účet klienta"
+            },
+            {
+                "correct": false,
+                "text": "jedná jménem a na účet klienta"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "jedná svým jménem a na vlastní účet"
+            }
+        ]
+    },
+    {
+        "text": "Podle Cambrigské teorie dojde ke snížení poptávky po M, pokud se",
+        "answers": [
+            {
+                "correct": true,
+                "text": "sníží cenová hladina"
+            },
+            {
+                "correct": false,
+                "text": "sníží IR"
+            },
+            {
+                "correct": false,
+                "text": "zvýší důchod"
+            },
+            {
+                "correct": false,
+                "text": "sníží transakční rychlost peněz"
+            }
+        ]
+    },
+    {
+        "text": "Diskreční nástroj – co to je",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Lineární daň"
+            },
+            {
+                "correct": false,
+                "text": "Progresivní daň"
+            },
+            {
+                "correct": false,
+                "text": "Sociální dávky"
+            },
+            {
+                "correct": true,
+                "text": "Jednorázová povodňová daň"
+            }
+        ]
+    },
+    {
+        "text": "V ČR se vyplácí ze státního (veřejného) důchodového pojištění mimo jiné následující druhy důchodu: TROUBLE",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Invalidní důchody"
+            },
+            {
+                "correct": false,
+                "text": "Důchody v nezaměstnanosti"
+            },
+            {
+                "correct": false,
+                "text": "Nemocenské důchody"
+            },
+            {
+                "correct": false,
+                "text": "Ani jedna odpověď není správná"
+            },
+            {
+                "correct": false,
+                "text": "Důchody zdravotním pojištencům ke krytí zdravotních nákladu"
+            }
+        ]
+    },
+    {
+        "text": "Tzv. základ daně je vlastně modifikovaným predmětem zdanění. K modifikaci predmětu zdanění lze uplatnit následující postupy:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "odečtení daňové sazby"
+            },
+            {
+                "correct": true,
+                "text": "zúžení predmětu zdanění (vynětím určitých činností nebo osvobozením od zdanění)"
+            },
+            {
+                "correct": false,
+                "text": "kvantifikací daňového základu"
+            },
+            {
+                "correct": false,
+                "text": "násobení daňovou sazbou"
+            }
+        ]
+    },
+    {
+        "text": "Lombardní sazba je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nástroj měnové politiky ČNB používaný pro řízení reeskontu směnek"
+            },
+            {
+                "correct": true,
+                "text": "Úroková sazba používaná bankami při poskytování lombardních úvěrů"
+            },
+            {
+                "correct": false,
+                "text": "Bankovní úvěr poskytovaný typicky proti zástavě věci movité"
+            },
+            {
+                "correct": false,
+                "text": "Nástroj měnové politiky ČNB používaný pro řízení eskontu směnek"
+            }
+        ]
+    },
+    {
+        "text": "K efektivnímu zabezpečování veřejných statků dochází:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "když jsou zohledněny všechny reálné náklady produkce soukromých statků"
+            },
+            {
+                "correct": true,
+                "text": "když jsou zohledněny všechny mezní náklady produkce veřejných statků"
+            },
+            {
+                "correct": false,
+                "text": "když jsou zohledněny všechny reálné náklady produkce veřejných statků"
+            },
+            {
+                "correct": false,
+                "text": "když jsou zohledněny všechny mezní náklady produkce soukromých statků"
+            }
+        ]
+    },
+    {
+        "text": "Mezi charakteristiky daní patří:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "neekvivalence"
+            },
+            {
+                "correct": true,
+                "text": "nedobrovolnost"
+            },
+            {
+                "correct": true,
+                "text": "neúčelovost"
+            },
+            {
+                "correct": true,
+                "text": "nenávratnost"
+            }
+        ]
+    },
+    {
+        "text": "Co patří mezi sdílené daňe",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "silniční dan"
+            },
+            {
+                "correct": true,
+                "text": "DPH"
+            },
+            {
+                "correct": false,
+                "text": "daň z nemovitosti"
+            }
+        ]
+    },
+    {
+        "text": "Podle Keynesovy teorie determinace úrokové míry (teorie preference likvidity) je růst úrokové míry způsoben:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "poklesem nabídky peněz"
+            },
+            {
+                "correct": false,
+                "text": "poklesem důchodu, který vede k poklesu úspor"
+            },
+            {
+                "correct": false,
+                "text": "růstem cenové hladiny"
+            },
+            {
+                "correct": false,
+                "text": "zvýšením mezní efektivnosti kapitálu"
+            }
+        ]
+    },
+    {
+        "text": "Cílování inflace",
+        "answers": [
+            {
+                "correct": true,
+                "text": "repo sazba (kr úrok sazba) je užívána jako operativní kritérium"
+            },
+            {
+                "correct": false,
+                "text": "repo sazba (dl úrok sazba) je užívána jako zprostředkovatelské kritérium"
+            },
+            {
+                "correct": true,
+                "text": "repo sazba (dl úrok sazba) je užívána jako operativní kritérium"
+            },
+            {
+                "correct": false,
+                "text": "repo sazba (kr úrok sazba) je užívána jako zprostředkovatelské kritérium"
+            }
+        ]
+    },
+    {
+        "text": "V souvislosti s poptávkou po investičních instrumentech platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Výnosové míry investičních instrumentů vykazují velké kolísání predevším v dlouhém období"
+            },
+            {
+                "correct": false,
+                "text": "Cílem investoru je minimalizovat výnos ve vztahu k riziku a likvidite"
+            },
+            {
+                "correct": false,
+                "text": "Ve velké vetšině investičních situací je výnos zaručen"
+            },
+            {
+                "correct": true,
+                "text": "Kapitálové zisky, popr. kapitálové ztráty jsou rozdílem mezi cenou investičního instrumentu a cenou, za kterou muže být instrument prodán, nebo prodán byl."
+            }
+        ]
+    },
+    {
+        "text": "Pro Fisherovou rovnici směny platí (důchodovou rovnici směny)",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Zvýšení nabídky peněz neovlivní velikost reálných transakcí."
+            },
+            {
+                "correct": false,
+                "text": "Snížení nabídky peněz neovlivní množství obeživa v ekonomice."
+            },
+            {
+                "correct": false,
+                "text": "Zvýšení nabídky peněz ovlivní velikost reálných transakcí."
+            },
+            {
+                "correct": false,
+                "text": "Snížení nabídky peněz ovlivní velikost reálných transakcí."
+            }
+        ]
+    },
+    {
+        "text": "Daňová incidence je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "v ČR neexistuje"
+            },
+            {
+                "correct": false,
+                "text": "placena jen lidmi s 5% nevyšších příjmu"
+            },
+            {
+                "correct": false,
+                "text": "jiný název pro daňové břemeno"
+            },
+            {
+                "correct": true,
+                "text": "žádná odpověd není správná"
+            }
+        ]
+    },
+    {
+        "text": "Za jaké situace se zvýší měnový agregát M1",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nákup akcií za hotovost"
+            },
+            {
+                "correct": true,
+                "text": "Převedení pěnez z termínovaného na běžný účet"
+            },
+            {
+                "correct": false,
+                "text": "Převedení peněz z bežného na termínový úcet"
+            },
+            {
+                "correct": false,
+                "text": "Splacení hypotéky z BÚ"
+            }
+        ]
+    },
+    {
+        "text": "Uveďte, které tvrzení je pravdivé",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Teorie zápůjčních fondů uvažuje při stanovení rovnovážné úrokové míry úspory, investice, přírůstek nabídky nových penez, přírůstek poptávky po penězích"
+            },
+            {
+                "correct": false,
+                "text": "Podle teorie preference likvidity je nabídka peněz veličinou, jejíž velikost závisí jak na úrokové míře, tak na národním důchodu"
+            },
+            {
+                "correct": false,
+                "text": "Podle Keynese změny národního důchodu působí pouze na spekulativní poptávku po penězích"
+            },
+            {
+                "correct": false,
+                "text": "V teorii zápůjčních fondů zaručuje rovnováha úspor a investic rovnovážnou úrokovou míru"
+            }
+        ]
+    },
+    {
+        "text": "Monetizací vládního (státního) dluhu chápeme stav, kdy:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Centrální banka prodává „státem“ garantované dluhopisy komerčních bank"
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka prodává „státem“ emitované cenné papíry"
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka kupuje „státem“ garantované dluhopisy komerčních bank"
+            },
+            {
+                "correct": true,
+                "text": "Centrální banka nakupuje „státem“ emitované cenné papíry"
+            }
+        ]
+    },
+    {
+        "text": "Pro měření rozdělení důchodu ve společnosti lze použít Lorenzovu křivku a Giniho koeficient. Platí přitom, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "v důsledku progresivního zdaňení se Lorenzova křivka nemění ve srovnání s jejím průběhem před zdaněním"
+            },
+            {
+                "correct": false,
+                "text": "panuje-li absolutní nerovnost při rozdědování důchodu ve společnosti, pak je Giniho koeficient roven 2,0"
+            },
+            {
+                "correct": true,
+                "text": "reálné rozdělení důchodu podle Lorenzovy křivky znázorňuje odchylku od absolutní rovnosti"
+            },
+            {
+                "correct": false,
+                "text": "Lorenzova křivka je jiné pojmenování pro Lafferovu křivku"
+            },
+            {
+                "correct": false,
+                "text": "je-li ve společnosti absolutní rovnost rozdělení důchodu, pak je Giniho koeficient = 0,25"
+            }
+        ]
+    },
+    {
+        "text": "Mezi hlavní příčiny zpoždení v měnové politice nepatří:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "poznávací zpoždění"
+            },
+            {
+                "correct": false,
+                "text": "přizpusobovací (reakční) zpoždění"
+            },
+            {
+                "correct": false,
+                "text": "rozhodovací a realizační zpoždění"
+            },
+            {
+                "correct": true,
+                "text": "vyhodnocovací zpoždění"
+            }
+        ]
+    },
+    {
+        "text": "Zdravotní pojištění je příjmem",
+        "answers": [
+            {
+                "correct": false,
+                "text": "státního fondu zdravotního pojištení"
+            },
+            {
+                "correct": false,
+                "text": "municipálních rozpočtů, částečně kryto dotací ze SR"
+            },
+            {
+                "correct": true,
+                "text": "zdravotních pojišťoven"
+            },
+            {
+                "correct": false,
+                "text": "státního rozpočtu, vázáno na speciálním účtu"
+            },
+            {
+                "correct": false,
+                "text": "státních fondů"
+            }
+        ]
+    },
+    {
+        "text": "Označte pravdivý výrok:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Inflace způsobuje růst nominálních a současne růst reálných úrokových sazeb"
+            },
+            {
+                "correct": true,
+                "text": "Reálná úroková míra může být záporná"
+            },
+            {
+                "correct": false,
+                "text": "Růst tržní úrokové míry je obvykle doprovázen růstem tržních cen obligací"
+            },
+            {
+                "correct": false,
+                "text": "Reálná úroková míra je vždy záporná"
+            }
+        ]
+    },
+    {
+        "text": "Co způsobí dle Keynesiáncu růst agregátní poptávky",
+        "answers": [
+            {
+                "correct": false,
+                "text": "automaticky i růst AS"
+            },
+            {
+                "correct": false,
+                "text": "Růst agregátní cenové hladiny"
+            },
+            {
+                "correct": false,
+                "text": "Růst IR"
+            },
+            {
+                "correct": true,
+                "text": "Pokles nezaměstnanosti"
+            }
+        ]
+    },
+    {
+        "text": "Když se zvýší progresivita u klouzavé daňe, co se stane?",
+        "answers": [
+            {
+                "correct": true,
+                "text": "sníží se Giniho koeficient"
+            },
+            {
+                "correct": false,
+                "text": "Giniho koeficient je konstantní"
+            },
+            {
+                "correct": false,
+                "text": "žádná odpověd není správná"
+            },
+            {
+                "correct": false,
+                "text": "zvýší se Giniho koeficient"
+            }
+        ]
+    },
+    {
+        "text": "Při cílování inflace postupuje banka následujícím způsobem:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Pomocí regulace měnové báze se snaží ovlivnit dlouhodobé úrokové sazby a cílovanou míru inflace"
+            },
+            {
+                "correct": false,
+                "text": "Reguluje dlouhodobou úrokovou míru s cílem ovlivnit vývoj investic a následně cílovaný index spotřebitelských cen"
+            },
+            {
+                "correct": true,
+                "text": "Reguluje krátkodobou úrokovou míru s cílem dosáhnout cílovanou míru inflace"
+            },
+            {
+                "correct": false,
+                "text": "Operacemi na volném trhu reguluje peněžní zásobu s cílem ovlivnit vývoj cílované inflace"
+            }
+        ]
+    },
+    {
+        "text": "Jaké je zvýšení vládních výdajů, jestliže mezní sklon ke spotřebě MPC(c) je 0,47, daňová sazba t je 20,9% a agregátní poptávka vzrostla o 477,5?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "-100"
+            },
+            {
+                "correct": true,
+                "text": "300"
+            },
+            {
+                "correct": false,
+                "text": "196"
+            },
+            {
+                "correct": false,
+                "text": "100"
+            },
+            {
+                "correct": false,
+                "text": "862"
+            }
+        ]
+    },
+    {
+        "text": "Vyberte pravdivé tvrzení:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Cenné papíry v obchodním portfoliu jsou zejména cenné papíry, u nichž má banka úmysl a schopnost držet je do jejich splatnosti"
+            },
+            {
+                "correct": false,
+                "text": "Mezi interní příčiny vzniku úvěrového rizika patří nestabilní politická situace země"
+            },
+            {
+                "correct": false,
+                "text": "Kapitálová přiměřenost je vztahem mezi výší kapitálu banky a jejími úvěrovými aktivitami"
+            },
+            {
+                "correct": true,
+                "text": "Riziko nedostatečné diversifikace aktiv vyplývá z nadměrné orientace banky na určité odvětví nebo malý počet klientů"
+            }
+        ]
+    },
+    {
+        "text": "Graficky vyjádřená výnosová křivka je:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "závislost úrokové míry na splatnosti úvěru nebo vkladu"
+            },
+            {
+                "correct": false,
+                "text": "závislost výnosové míry na likviditě CP"
+            },
+            {
+                "correct": false,
+                "text": "závislost úrokové míry na likviditě CP"
+            },
+            {
+                "correct": false,
+                "text": "závislost úrokové míry na bonitě dlužníka"
+            }
+        ]
+    },
+    {
+        "text": "Baumolův zákon",
+        "answers": [
+            {
+                "correct": false,
+                "text": "veřejné výdaje rostou geometrickou řadou v závislosti na růstu produktu"
+            },
+            {
+                "correct": false,
+                "text": "náklady na jednotku výkonu ve veřejném sektoru klesají z důvodu rostoucí produktivity práce"
+            },
+            {
+                "correct": false,
+                "text": "efekt na tlak růstu veřejných výdaju"
+            },
+            {
+                "correct": false,
+                "text": "náklady ve verejném sektoru rostou nižším tempem než spotreba soukromého sektoru"
+            },
+            {
+                "correct": true,
+                "text": "náklady na jednotku výkonu se ve veřejném sektoru zvyšují"
+            },
+            {
+                "correct": false,
+                "text": "veřejné výdaje rostou v závislosti na fiskální aktivitě státu"
+            }
+        ]
+    },
+    {
+        "text": "V oblasti veřejných výdaju jsou známy tzv. důchodový a substitucní efekt. Platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "substituční efekty obecně většinou zvyšují ekonomickou efektivnost"
+            },
+            {
+                "correct": false,
+                "text": "substituční efekty jsou spojené zejména s neúčelovými (plošnými) dotacemi"
+            },
+            {
+                "correct": false,
+                "text": "důsledky důchodového a substitučního efektu jsou z hlediska dopadu na spotřebitele shodné"
+            },
+            {
+                "correct": true,
+                "text": "ani jedna odpověd není správně"
+            },
+            {
+                "correct": false,
+                "text": "důchodový (bez substitučního) efekt znamená změnu struktury spotřeby resp. výdajů"
+            }
+        ]
+    },
+    {
+        "text": "Aplikace pravidla jednomyslné shody:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Je nejčasteji používaným rozhodovacím mechanismem"
+            },
+            {
+                "correct": false,
+                "text": "Eliminuje informační převahu byrokracie"
+            },
+            {
+                "correct": false,
+                "text": "Je používána při schvalování změn ústavních zákonů"
+            },
+            {
+                "correct": false,
+                "text": "Může vést k tyranii vetšiny"
+            },
+            {
+                "correct": true,
+                "text": "Je velmi nákladná, neboť v sobě skrývá nebezpečí vydírání ze strany jedince"
+            }
+        ]
+    },
+    {
+        "text": "Co nepatří na stranu pasiv KB TROUBLE",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Základní kapitál"
+            },
+            {
+                "correct": false,
+                "text": "Rezervní fondy"
+            },
+            {
+                "correct": true,
+                "text": "žádná možnost není správná"
+            },
+            {
+                "correct": false,
+                "text": "Závazky"
+            }
+        ]
+    },
+    {
+        "text": "Keynesiánský transmisivní mechanismus měnové politiky obsahuje následující řetezec kauzálních vztahů:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nástroje měnové politiky – měnová báze – dlouhodobé úrokové sazby – úvěry – inflace"
+            },
+            {
+                "correct": true,
+                "text": "Nástroje měnové politiky – krátkodobé úrokové sazby – dlouhodobé úrokové sazby – reálný důchod (nezaměstnanost)"
+            },
+            {
+                "correct": false,
+                "text": "Krátkodobé úrokové sazby – měnová báze – penežní zásoba – reálných důchod (nezaměstnanost)"
+            },
+            {
+                "correct": false,
+                "text": "Nástroje měnové politiky – krátkodobé úrokové sazby – inflace"
+            }
+        ]
+    },
+    {
+        "text": "Co patří do aktiv KB TROUBLE",
+        "answers": [
+            {
+                "correct": true,
+                "text": "dobrovolné rezervy, povinné rezervy, cenné papíry"
+            },
+            {
+                "correct": false,
+                "text": "rezervní fond, úvěry jiným bankám"
+            },
+            {
+                "correct": false,
+                "text": "dobrovolné rezervy, cenné papíry, kapitál"
+            },
+            {
+                "correct": false,
+                "text": "nerozdělený zisk minulých let, úvěry jiným bankám"
+            }
+        ]
+    },
+    {
+        "text": "Pro nadměrné daňové břemeno platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "patří mezi nepřímé administrativní náklady"
+            },
+            {
+                "correct": false,
+                "text": "při zdanění vzniká vždy"
+            },
+            {
+                "correct": true,
+                "text": "vzniká jako důsledek distorze v cenách statků, kdy distorze je způsobena paušální daní"
+            },
+            {
+                "correct": false,
+                "text": "patří mezi přímé administrativní náklady"
+            }
+        ]
+    },
+    {
+        "text": "Peněžní nabídku může centrální banka zvyšovat:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "nákupem státních pokladničních poukázek z portfolia obchodních bank"
+            },
+            {
+                "correct": false,
+                "text": "zvýšením povinných min. rezerv jen z bežných depozit"
+            },
+            {
+                "correct": false,
+                "text": "zvýšením diskontní sazby"
+            },
+            {
+                "correct": false,
+                "text": "zvýšením povinných min. rezerv jak z bežných a současně z termínových depozit"
+            }
+        ]
+    },
+    {
+        "text": "Gini koeficient - označte pravdivá tvrzení",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Je to poměr mezi rovnoměrným rozdělením bohatství a reálným rozdělením"
+            },
+            {
+                "correct": true,
+                "text": "Giniho koeficient vyjadřuje rozdělení bohatství v rámci jednoho celku"
+            },
+            {
+                "correct": true,
+                "text": "Pokud by byl 1, jeden človek by vlastnil všecko"
+            },
+            {
+                "correct": true,
+                "text": "Pokud by byl 0, bohatství by bylo rozděleno rovnoměrně"
+            }
+        ]
+    },
+    {
+        "text": "Kterou teorii popisuje obrázek: http://i.imgur.com/OinAHIi.png",
+        "answers": [
+            {
+                "correct": false,
+                "text": "paradox 101kové vetšiny"
+            },
+            {
+                "correct": false,
+                "text": "GINI koeficient"
+            },
+            {
+                "correct": false,
+                "text": "problém vyděrače"
+            },
+            {
+                "correct": true,
+                "text": "hlasovací paradox"
+            }
+        ]
+    },
+    {
+        "text": "Existujícím úrokovým rizikům se banka vyhne tím že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "přijímáním úroků za pevné sažby"
+            },
+            {
+                "correct": false,
+                "text": "nákupem dluhových instrumentů"
+            },
+            {
+                "correct": true,
+                "text": "termínovanými obchody, např. opčními kontrakty"
+            },
+            {
+                "correct": false,
+                "text": "přijímáním úroku za pohyblivé sazby"
+            }
+        ]
+    },
+    {
+        "text": "Akcie je cenný papír, který svému majiteli nepřináší:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Právo podílet se na likvidačním zůstatku as"
+            },
+            {
+                "correct": false,
+                "text": "Právo podílet se na správě majetku as"
+            },
+            {
+                "correct": false,
+                "text": "Právo podílet se na výnosu majetku z as"
+            },
+            {
+                "correct": true,
+                "text": "Právo podílet se na nákupu emitovaných dluhopisů as"
+            }
+        ]
+    },
+    {
+        "text": "Podstatou alokační funkce je:",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Zvýšení ekonomické efektivnosti eliminací selhání trhu"
+            },
+            {
+                "correct": false,
+                "text": "Minimalizace počtu chudých domácností"
+            },
+            {
+                "correct": false,
+                "text": "Stimulace ekonomického růstu"
+            },
+            {
+                "correct": false,
+                "text": "Takové rozdělení bohatství, které považuje společnost za spravedlivé"
+            },
+            {
+                "correct": false,
+                "text": "Tvorba legislativního prostředí"
+            }
+        ]
+    },
+    {
+        "text": "Tieboutův model „hlasování nohou“",
+        "answers": [
+            {
+                "correct": false,
+                "text": "objasňuje platbu obyvatel jen za VS, které preferují"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": true,
+                "text": "objasňuje stěhování obyvatel za VS, které preferují"
+            },
+            {
+                "correct": false,
+                "text": "objasňuje roli černého pasažéra"
+            }
+        ]
+    },
+    {
+        "text": "Určete, při které z těchto operací nedojde k nové emisi pěnez do oběhu (za jinak nezměněných okolností):",
+        "answers": [
+            {
+                "correct": false,
+                "text": "CB poskytne úvěr nebankovnímu subjektu v bezhotovostní formě"
+            },
+            {
+                "correct": false,
+                "text": "CB poskytne bezhotovostní úvěr bankovnímu subjektu"
+            },
+            {
+                "correct": true,
+                "text": "CB poskytne úvěr nebankovnímu subjektu v hotovostní formě"
+            },
+            {
+                "correct": false,
+                "text": "CB přijme úvěr v hotovosti od centrální banky"
+            }
+        ]
+    },
+    {
+        "text": "Monetaristický zprostředkující mechanismus měnové politiky",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Operace na volném trhu – Měnová báze - Peněžní zásoba – Průměrná inflace"
+            },
+            {
+                "correct": false,
+                "text": "Operace na volném trhu – Peněžní zásoba – Průměrná inflace"
+            },
+            {
+                "correct": false,
+                "text": "Žádná možnost není správná"
+            },
+            {
+                "correct": false,
+                "text": "Operace na volném trhu - Peněžní zásoba - Měnová báze – Průměrná inflace"
+            }
+        ]
+    },
+    {
+        "text": "Model IS-LM, co způsobuje posun IS doprava",
+        "answers": [
+            {
+                "correct": false,
+                "text": "měnová restrikce"
+            },
+            {
+                "correct": false,
+                "text": "měnová expanze"
+            },
+            {
+                "correct": true,
+                "text": "fiskální expanze"
+            },
+            {
+                "correct": false,
+                "text": "fiskální restrikce"
+            }
+        ]
+    },
+    {
+        "text": "Vyberte správné tvrzení:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "depreciace domácí měny znamená snížení zahraniční měny vyjádřené v domácí měne"
+            },
+            {
+                "correct": true,
+                "text": "snížení devizových rezerv povede k apreciaci domácí měny"
+            },
+            {
+                "correct": false,
+                "text": "apreciace domácí měny znamená zvýšení zahraniční měny vyjádřené v domácí měne"
+            },
+            {
+                "correct": false,
+                "text": "zvýšení devizových rezerv povede k apreciaci domácí měny"
+            }
+        ]
+    },
+    {
+        "text": "Veřejný dluh",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Může být financován přímými úvěry od CB"
+            },
+            {
+                "correct": true,
+                "text": "V ČR narůstá vůči zahraničním subjektům"
+            },
+            {
+                "correct": false,
+                "text": "Tvoří i podrozvahové něco např. záruky"
+            },
+            {
+                "correct": false,
+                "text": "V ČR vyšší než v ostatních vyspělých zemích"
+            },
+            {
+                "correct": false,
+                "text": "Zpravidla není financován emisí dluhopisů"
+            }
+        ]
+    },
+    {
+        "text": "Jak se obchodní banka brání proti kurzovému riziku?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Přijímá vklady jen v cizí měne a poskytuje úvěry jen v domácí měne"
+            },
+            {
+                "correct": true,
+                "text": "Nakupuje dluhopisy v cizí měne"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "Přijímá vklady jen v domácí měne a poskytuje úvěry jen v cizí měne"
+            }
+        ]
+    },
+    {
+        "text": "Na pasivech bilance centrální banky můžeme současne nalézt následující položky:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Povinné minimální rezervy obchodních bank, centrální bankou emitované dluhopisy a komerčními bankami emitované akcie"
+            },
+            {
+                "correct": false,
+                "text": "Obeživo, peníze v pokladně, povinné minimální rezervy, centrální bankou nakoupené akcie ostatních bank"
+            },
+            {
+                "correct": false,
+                "text": "Vlastní jmení, nakoupené pokladnicní poukázky, zlato"
+            },
+            {
+                "correct": true,
+                "text": "Peníze v oběhu, centrální bankou emitované pokladniční poukázky"
+            }
+        ]
+    },
+    {
+        "text": "Vyberte správné tvrzení:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Daň z nemovitostí je daní nepřímou"
+            },
+            {
+                "correct": false,
+                "text": "Daň z příjmu FO dopadá zejména na firmy"
+            },
+            {
+                "correct": false,
+                "text": "Výnos DPFO je v ČR menší než výnos daňe z nemovitosti"
+            },
+            {
+                "correct": false,
+                "text": "Předmětem DPH jsou příjmy"
+            },
+            {
+                "correct": true,
+                "text": "Pojistné na veřejné zdravotní pojištení je v ČR neekvivalentní platbou dopadající na příjmy jednotlivců i zaměstnavatelů"
+            }
+        ]
+    },
+    {
+        "text": "Určete velikost daně pokud je používán systém stupňovité progrese u osobní důchodové daně (viz tabulka) v případě, že príjem poplatníka před zdaněním = 680 000 Kč a sleva na dani = 20 000 Kč. 1 – 120 000 ... 15% 120 001 – 240 000 ... 20% 240 001 – 360 000 ... 23% 360 001 – 740 000 ... 25% 740 001 a více ... 30%",
+        "answers": [
+            {
+                "correct": false,
+                "text": "160 000 Kc"
+            },
+            {
+                "correct": true,
+                "text": "150 000 Kc"
+            },
+            {
+                "correct": false,
+                "text": "130 000 Kc"
+            },
+            {
+                "correct": false,
+                "text": "170 000 Kc"
+            },
+            {
+                "correct": false,
+                "text": "140 000 Kc"
+            }
+        ]
+    },
+    {
+        "text": "Pokud hovoříme o hlasovacím paradoxu, může k němu dojít, jestliže použijeme:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "hlasování na bázi prosté vetšiny"
+            },
+            {
+                "correct": false,
+                "text": "konsensuální rozhodování"
+            },
+            {
+                "correct": false,
+                "text": "hlasování na bázi vážení hlasu"
+            },
+            {
+                "correct": false,
+                "text": "rozhodování diktátorské"
+            },
+            {
+                "correct": true,
+                "text": "Condorcetovo rozhodovací kritérium"
+            }
+        ]
+    },
+    {
+        "text": "Dluhové financování deficitu státního rozpočtu znamená, že deficit je financován",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Přímou půjčkou vlády od parlamentu"
+            },
+            {
+                "correct": false,
+                "text": "Z jednorázových daní"
+            },
+            {
+                "correct": true,
+                "text": "Z prodeje vládních obligací doma či v zahraničí"
+            },
+            {
+                "correct": false,
+                "text": "Z výnosu prodeje státních nefinancních aktiv (státního majetku)"
+            },
+            {
+                "correct": false,
+                "text": "Z přebytku státního rozpočtu z minulého roku"
+            }
+        ]
+    },
+    {
+        "text": "Redistribuční funkce státního rozpočtu",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Slouží jako nástroj snižování veřejného dluhu"
+            },
+            {
+                "correct": true,
+                "text": "Zajištuje změny v rozdělování důchodů a bohatství ve společnosti"
+            },
+            {
+                "correct": false,
+                "text": "Je program postavení státu jako produkčního subjektu"
+            },
+            {
+                "correct": false,
+                "text": "Nástrojem fiskální politiky k ovlivnění zaměstnanosti"
+            }
+        ]
+    },
+    {
+        "text": "Přímé daně",
+        "answers": [
+            {
+                "correct": false,
+                "text": "DPH"
+            },
+            {
+                "correct": true,
+                "text": "daň z příjmu"
+            },
+            {
+                "correct": false,
+                "text": "spotřební daň"
+            },
+            {
+                "correct": true,
+                "text": "daň z nemovitosti"
+            }
+        ]
+    },
+    {
+        "text": "Keynesiánský přístup k deficitu",
+        "answers": [
+            {
+                "correct": false,
+                "text": "odmítavý a to z důvodu obav keynesiáncu z negativně makroekonomických důsledků"
+            },
+            {
+                "correct": false,
+                "text": "negativní v oblasti konjunktury"
+            },
+            {
+                "correct": false,
+                "text": "je téměr úplně shodný s přístupem monetaristu k deficitu"
+            },
+            {
+                "correct": true,
+                "text": "pozitivní z důvodu deficitního potlačení nadměrné inflace"
+            }
+        ]
+    },
+    {
+        "text": "Když klesnou bežná depozita a vzrostou termínovaná depozita, jaký to má vliv na M2?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "vždy zůstane stejný"
+            },
+            {
+                "correct": false,
+                "text": "zvýší se"
+            },
+            {
+                "correct": false,
+                "text": "klesne"
+            },
+            {
+                "correct": true,
+                "text": "záleží na absolutní hodnotě rozdílu BV a TV"
+            }
+        ]
+    },
+    {
+        "text": "Uveďte, které z následujících tvrzení je pravdivé",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Na primárním trhu dochází k obchodum s již dříve emitovanými instrumenty"
+            },
+            {
+                "correct": false,
+                "text": "Devizový kurz je vztah mezi promptní operací a obchodem na volném trhu"
+            },
+            {
+                "correct": true,
+                "text": "Význam sekundárních trhů spočívá mimo jiné v možnosti investoru získat investovaný kapitál před původně sjednanou dobou splatnosti"
+            },
+            {
+                "correct": false,
+                "text": "Na trhu cenných papíru jsou alokování finanční prostředky od deficitních subjektu k přebytkovým"
+            }
+        ]
+    },
+    {
+        "text": "V modelu IS-LM fiskální restrikce může způsobit:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Pohyb křivky IS doleva, růst úrokové míry, pokles cenové hladiny"
+            },
+            {
+                "correct": false,
+                "text": "Pohyb křivky IS doleva, pokles produktu, snížení cenové hladiny"
+            },
+            {
+                "correct": true,
+                "text": "Pohyb křivky IS doleva, pokles úrokové míry a produktu"
+            },
+            {
+                "correct": false,
+                "text": "Pohyb křivky IS doleva, pokles cenové hladiny, růst nezaměstnanosti"
+            }
+        ]
+    },
+    {
+        "text": "Čistý veřejný dluh: TROUBLE",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Představuje rozdíl mezi závazky a pohledávkami státu vůci domácím a zahraničním subjektům"
+            },
+            {
+                "correct": false,
+                "text": "Je sumou všech závazků státu vůči ostatním ekonomickým subjektům"
+            },
+            {
+                "correct": false,
+                "text": "Je suma finančních prostředků, které dluží vláda ostatním státním subjektům"
+            },
+            {
+                "correct": false,
+                "text": "Je sumou pokladničních poukázek emitovaných státem pro krytí deficitu státního rozpočtu"
+            },
+            {
+                "correct": false,
+                "text": "V ČR (v současné době) prekračuje tzv. Maastrichtské dluhové kritérium"
+            }
+        ]
+    },
+    {
+        "text": "Příklad polotržního statku:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Náramkové hodinky"
+            },
+            {
+                "correct": false,
+                "text": "Montáž kuchyně"
+            },
+            {
+                "correct": true,
+                "text": "Stavební spočení"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            }
+        ]
+    },
+    {
+        "text": "Co se děje s menovou bází, když centrální banka nakupuje cenné papíry nebo zahraniční měnu od obchodní banky?.",
+        "answers": [
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": true,
+                "text": "roste"
+            },
+            {
+                "correct": false,
+                "text": "zůstává stejná"
+            },
+            {
+                "correct": false,
+                "text": "klesá"
+            }
+        ]
+    },
+    {
+        "text": "Když vzroste úroková míra, investice",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Klesají"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "Rostou"
+            },
+            {
+                "correct": false,
+                "text": "IR nemá vliv na investice"
+            }
+        ]
+    },
+    {
+        "text": "Co nezpůsobuje růst veřejných výdaju",
+        "answers": [
+            {
+                "correct": false,
+                "text": "demonstrační efekt"
+            },
+            {
+                "correct": false,
+                "text": "Baumolův efekt"
+            },
+            {
+                "correct": false,
+                "text": "prahový efekt"
+            },
+            {
+                "correct": true,
+                "text": "žádná možnost není správná"
+            }
+        ]
+    },
+    {
+        "text": "Tzv. Niskanenuv model řeší:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "pokles efektivnosti v rámci fiskálního federalismu"
+            },
+            {
+                "correct": false,
+                "text": "změnu objemu poskytovaných veřejných statků z důvodu dokonalé informovanosti"
+            },
+            {
+                "correct": false,
+                "text": "růst veřejného dluhu z důvodu informační asymetrie"
+            },
+            {
+                "correct": true,
+                "text": "růst objemu veřejných statků a služeb z důvodu informační asymetrie"
+            },
+            {
+                "correct": false,
+                "text": "růst daňového výnosu v souvislosti se změnami Lorenzovy křivky"
+            }
+        ]
+    },
+    {
+        "text": "Co platí podle teorie zápujčních fondu",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Jestliže rostou důchody, rostou úspory a klesá úroková míra"
+            },
+            {
+                "correct": false,
+                "text": "Jestliže klesají důchody, rostou úspory a klesá úroková míra"
+            },
+            {
+                "correct": false,
+                "text": "Jestliže rostou důchody, rostou úspory a roste úroková míra"
+            },
+            {
+                "correct": false,
+                "text": "Jestliže rostou důchody, klesají úspory a klesá úroková míra"
+            }
+        ]
+    },
+    {
+        "text": "Co způsobuje růst veřejných výdaju?",
+        "answers": [
+            {
+                "correct": true,
+                "text": "demonstrační efekt"
+            },
+            {
+                "correct": true,
+                "text": "Baumolův efekt"
+            },
+            {
+                "correct": true,
+                "text": "prahový efekt"
+            },
+            {
+                "correct": false,
+                "text": "žádná možnost není správná"
+            }
+        ]
+    },
+    {
+        "text": "Vyberte pravdivé tvrzení:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Pokud má banka méně aktiv citlivých na změnu úrokových sazeb, než pasiv, znamená to při poklesu tržních úrokových sazeb pokles čistých úrokových výnosu"
+            },
+            {
+                "correct": false,
+                "text": "Úvěrovému riziku je banka vystavena tehdy, pokud je úroková citlivost aktiv shodná s úrokovou citlivostí pasiv"
+            },
+            {
+                "correct": true,
+                "text": "Pokud má banka více aktiv citlivých na změnu úrokových sazeb, než pasiv, znamená to při poklesu tržních úrokových sazeb pokles čistých úrokových výnosu"
+            },
+            {
+                "correct": false,
+                "text": "Pokud má banka vetší objem pasiv citlivých na změnu úrokových sazeb, než aktiv, představuje to pro ni snížení čistých úrokových výnosů v případe poklesu tržních úrokových sazeb."
+            }
+        ]
+    },
+    {
+        "text": "Co platí o Lorenzove křivce/Giniho Koeficientu, když se zvýší progresivita daně",
+        "answers": [
+            {
+                "correct": true,
+                "text": "křivka skutečného rozdělení se posune doleva nahoru"
+            },
+            {
+                "correct": false,
+                "text": "křivka skutečného rozdělení se posune doleva dolu"
+            },
+            {
+                "correct": false,
+                "text": "křivka skutečného rozdělení se posune doprava dolu"
+            },
+            {
+                "correct": false,
+                "text": "hodnota Giniho koeficientu se zvýší"
+            }
+        ]
+    },
+    {
+        "text": "Zprostředkující kritérium monetaristického peněžního transmisivního mechanismu",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Penežní zásoba"
+            },
+            {
+                "correct": false,
+                "text": "Měnová báze"
+            },
+            {
+                "correct": false,
+                "text": "Krátkodobá IR"
+            },
+            {
+                "correct": false,
+                "text": "Operace na volném trhu"
+            }
+        ]
+    },
+    {
+        "text": "Které z uvedených faktoru jsou v neoklasické teorii úrokové míry přícinou takového posunu křivky úspor, který povede za jinak nezmenených okolností k poklesu rovnovážné tržní úrokové míry:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "růst mezní efektivnosti kapitálu"
+            },
+            {
+                "correct": false,
+                "text": "pokles mezní efektivnosti kapitálu"
+            },
+            {
+                "correct": true,
+                "text": "pokles očekávané míry inflace"
+            },
+            {
+                "correct": false,
+                "text": "růst očekávané míry inflace"
+            }
+        ]
+    },
+    {
+        "text": "Veřejný statek je označován jako selhání trhu, protože:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "stát je schopen lépe odhadnout preference lidí než soukromý sektor"
+            },
+            {
+                "correct": false,
+                "text": "stát je při jejich produkci nákladově efektivnejší než soukromý sektor"
+            },
+            {
+                "correct": false,
+                "text": "firmy nemají o jejich produkci zájem, neboť se jedná o odvětví s nízkou ziskovou marží"
+            },
+            {
+                "correct": false,
+                "text": "soukromý sektor tyto statky neposkytuje v důsledku absence sociálního cítění"
+            },
+            {
+                "correct": true,
+                "text": "v důsledku nemožnosti vyloučit ze spotřeby nejsou firmy schopné vybrat potřebné příjmy na pokrytí nákladu produkce"
+            }
+        ]
+    },
+    {
+        "text": "Kdy se realizuje obchod dohodnutý na promptním trhu",
+        "answers": [
+            {
+                "correct": true,
+                "text": "ihned"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "ve smluvený čas (čas operace je dán smluvně)"
+            },
+            {
+                "correct": false,
+                "text": "do 14 dnů"
+            }
+        ]
+    },
+    {
+        "text": "Zdanění je lineární, pokud s růstem důchodu:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "míra zdanění roste, vybraná částka daně roste"
+            },
+            {
+                "correct": false,
+                "text": "míra zdanění klesá, částka vybrané daně roste"
+            },
+            {
+                "correct": true,
+                "text": "míra zdanění je konstantní, částka vybrané daně roste"
+            },
+            {
+                "correct": false,
+                "text": "míra zdanění je konstantní, částka vybrané daně klesá"
+            }
+        ]
+    },
+    {
+        "text": "Cyklické saldo rozpočtu",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Zahrnuje i strukturální saldo"
+            },
+            {
+                "correct": true,
+                "text": "Ani jedna odpověd není správně"
+            },
+            {
+                "correct": false,
+                "text": "Je vždy stejné jako celkové saldo, protože zahrnuje i úroky z veřejného dluhu"
+            },
+            {
+                "correct": false,
+                "text": "Je v období recese obvykle nižší, než v období potenciálního tempa růstu"
+            },
+            {
+                "correct": false,
+                "text": "Je definováno jako pravidelně se opakující negativní saldo"
+            }
+        ]
+    },
+    {
+        "text": "Tzv. Maastrichtská konvergencní kritéria pro fiskální oblast: TROUBLE",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Zakazují vládě výpůjčky u zahraničních komerčních bank"
+            },
+            {
+                "correct": false,
+                "text": "Stanoví maximálně 60% podílu deficitu na HDP"
+            },
+            {
+                "correct": true,
+                "text": "Maximální podíl deficitu na HDP určují na výši 3%"
+            },
+            {
+                "correct": false,
+                "text": "Stanoví maximální podíl dluhu na HDP na úrovni deficitu"
+            },
+            {
+                "correct": false,
+                "text": "Doporučují podíl deficitu HDP nad 3%"
+            }
+        ]
+    },
+    {
+        "text": "Určete změnu HDP a rozpočtový dopad, pokud v průběhu rozpočtového roku došlo k rustu G o 21,",
+        "answers": [
+            {
+                "correct": false,
+                "text": "současne se snížil příjem rozpočtu (z důvodu zjednodušení je uvažována pouze paušální daň) o 21, ;"
+            },
+            {
+                "correct": false,
+                "text": "saldo na počátku rozpočtového roku deficit = 21, MPS = 0,2:"
+            },
+            {
+                "correct": true,
+                "text": "Změna HDP je 189, rozpočtové saldo – deficit 63"
+            },
+            {
+                "correct": false,
+                "text": "Změna HDP je 169, rozpočtové saldo – deficit 63"
+            },
+            {
+                "correct": false,
+                "text": "Změna HDP je 126, rozpočtové saldo – deficit 42"
+            },
+            {
+                "correct": false,
+                "text": "Změna HDP je 19, rozpočtové saldo – deficit 42"
+            },
+            {
+                "correct": false,
+                "text": "Změna HDP je 19, rozpočtové saldo – deficit 21"
+            }
+        ]
+    },
+    {
+        "text": "Co je typické pro operace na volném trhu",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Přímá repo operace znamená: nejdřív koupí pak prodá"
+            },
+            {
+                "correct": false,
+                "text": "Když CB odkoupí od KB cenné papíry a sníží tím měnovou bázi"
+            },
+            {
+                "correct": false,
+                "text": "Obchoduje se pouze s CP v bezhotovostní formě"
+            },
+            {
+                "correct": true,
+                "text": "Přímá repo operace znamená: nejdřív prodá pak koupí zpět"
+            }
+        ]
+    },
+    {
+        "text": "Pro klasické bankovky je charakteristické:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Výhradní právo k jejich emisi měly centrální banky"
+            },
+            {
+                "correct": false,
+                "text": "Výhradní právo k jejich emisi – emisní monopol – měl stát"
+            },
+            {
+                "correct": false,
+                "text": "K jejich emisi docházelo při poskytování hotovostního úvěru centrální bankou k obchodní bance"
+            },
+            {
+                "correct": true,
+                "text": "K jejich emisi docházelo při nákupu zlata a obchodních směnek obchodními bankami"
+            }
+        ]
+    },
+    {
+        "text": "Podstatou stabilizační funkce je:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "stabilizace příjmové úrovně chudých domácností"
+            },
+            {
+                "correct": false,
+                "text": "eliminace nedokonale konkurenčních struktur"
+            },
+            {
+                "correct": false,
+                "text": "zajištení stabilní úrovně nabídky veřejných statků"
+            },
+            {
+                "correct": false,
+                "text": "tvorba legislativního prostředí"
+            },
+            {
+                "correct": true,
+                "text": "využití veřejných financí k ovlivnění dynamiky hospodářského růstu"
+            }
+        ]
+    },
+    {
+        "text": "Maastrichtské kritérium",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Stanoví maximální podíl dluhu na HDP na úrovni deficitu"
+            },
+            {
+                "correct": true,
+                "text": "Podíl deficitu na HDP musí být maximálně 3 %."
+            },
+            {
+                "correct": true,
+                "text": "Podíl veřejného dluhu na HDP musí být menší než 60 %."
+            },
+            {
+                "correct": false,
+                "text": "Zakazují vládě výpujčky u zahraničních komerčních bank"
+            }
+        ]
+    },
+    {
+        "text": "Pokud je elasticita u spotřebitele rovna nule a u výrobce je vetší od nuly, potom:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Nadměrné daňové břemeno vzniká úměrně s elasticitou nabídky/poptávky"
+            },
+            {
+                "correct": false,
+                "text": "jiná možnost"
+            },
+            {
+                "correct": false,
+                "text": "DWL je vyšší u spotřebitele"
+            },
+            {
+                "correct": true,
+                "text": "Nadměrné danové břemeno je nulové"
+            }
+        ]
+    },
+    {
+        "text": "Ukazatel kapitálové přimeřenosti bank lze zlepšit",
+        "answers": [
+            {
+                "correct": true,
+                "text": "Zvýšením kapitálu přídělem ze zisku do rezervních fondu"
+            },
+            {
+                "correct": false,
+                "text": "Přesunem aktiv s nižšími vahami rizikovosti do aktiv s vyššími vahami rizikovosti"
+            },
+            {
+                "correct": false,
+                "text": "Snížením kapitálu pri současném zvýšení objemu rizikových aktiv"
+            },
+            {
+                "correct": false,
+                "text": "Zvýšením absolutní výše aktiv s nenulovými vahami rizikovosti"
+            }
+        ]
+    },
+    {
+        "text": "Pro nabídku peněz je typické",
+        "answers": [
+            {
+                "correct": false,
+                "text": "žádná odpověd není správná"
+            },
+            {
+                "correct": true,
+                "text": "Není závislá ani na IR ani na důchodu"
+            },
+            {
+                "correct": false,
+                "text": "Není závislá na rozhodnutích CB"
+            },
+            {
+                "correct": false,
+                "text": "Je závislá na IR"
+            }
+        ]
+    },
+    {
+        "text": "pro čisté veřejné statky platí:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "při jejich spotřebe spotřebitelé projevují zjevně své preference"
+            },
+            {
+                "correct": false,
+                "text": "jsou to statky dělitelné ve spotřebe"
+            },
+            {
+                "correct": false,
+                "text": "jsou rivalitní ve spotřebe"
+            },
+            {
+                "correct": false,
+                "text": "jejich mezní produkční náklady jsou nulové"
+            },
+            {
+                "correct": true,
+                "text": "jejich mezní spotř. náklady jsou nulové"
+            }
+        ]
+    },
+    {
+        "text": "Externalita znamená, neexistuje rovnováha mezi náklady a užitky, pričemž platí, že:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "kladná externalita znamená nižší užitky"
+            },
+            {
+                "correct": true,
+                "text": "kladná externalita znamená vyšší efekty"
+            },
+            {
+                "correct": false,
+                "text": "záporná externalita znamená vyšší užitky"
+            },
+            {
+                "correct": false,
+                "text": "záporná externalita znamená nižší náklady"
+            },
+            {
+                "correct": false,
+                "text": "kladná externalita znamená vyšší náklady"
+            }
+        ]
+    },
+    {
+        "text": "Které z následujících tvrzení o transmisních mechanismech měnové politiky platí?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Předpokladem fungování cílování inflace je vysoká nestabilita peněžního multiplikátoru a důchodové rychlosti penez."
+            },
+            {
+                "correct": false,
+                "text": "Monetaristický transmisní mechanismus si klade za cíl měnové politiky reálný růst ekonomiky."
+            },
+            {
+                "correct": true,
+                "text": "Předpoklady fungování monetaristického transmisního mechanismu jsou: dokonalá kontrola měnové báze, stabilita peněžního multipliklátoru a stabilita důchodové rychlosti peněz."
+            },
+            {
+                "correct": false,
+                "text": "Operativním kritériem cílování inflace je měnová báze."
+            }
+        ]
+    },
+    {
+        "text": "Centrální banka se rozhodne pro operace na volném trhu: prodej cenných papíru domácím bankám. Potom platí:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Touto operací nedochází ke změně množství peněz v ekonomice."
+            },
+            {
+                "correct": false,
+                "text": "Centrální banka využívá administrativního (přímého) nástroje měnové politiky."
+            },
+            {
+                "correct": false,
+                "text": "Dojde k růstu měnové báze."
+            },
+            {
+                "correct": true,
+                "text": "Touto operací provádí centrální banka restriktivní měnovou politiku."
+            }
+        ]
+    },
+    {
+        "text": "Pasivní deficit rozpočtu",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Je důsledkem subjektivních rozhodnutí vlády"
+            },
+            {
+                "correct": false,
+                "text": "Vzniká v důsledku fiskálních opatření vlády"
+            },
+            {
+                "correct": false,
+                "text": "Je chtěným deficitem"
+            },
+            {
+                "correct": true,
+                "text": "Může být ovlivněn fázemi hospodářského cyklu"
+            },
+            {
+                "correct": false,
+                "text": "Vzniká v důsledku poklesu ekonomického růstu a vzestupu zaměstnanosti"
+            }
+        ]
+    },
+    {
+        "text": "Které zadávání veřejných zakázek je nejméně regulovane?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Podlimitní"
+            },
+            {
+                "correct": true,
+                "text": "Malého rozsahu"
+            },
+            {
+                "correct": false,
+                "text": "Nadlimitní"
+            },
+            {
+                "correct": false,
+                "text": "Mimolimitní"
+            }
+        ]
+    },
+    {
+        "text": "Dlouhá devizová pozice je bilanční stav, kdy",
+        "answers": [
+            {
+                "correct": false,
+                "text": "devizová pasiva jsou větší než devizová aktiva - spekulujeme na depreciaci domácí měny "
+            },
+            {
+                "correct": false,
+                "text": "devizová aktiva jsou menší než devizová pasiva - spekulujeme na depreciaci cizí měny"
+            },
+            {
+                "correct": false,
+                "text": "devizová pasiva jsou větší než devizová aktiva - spekulujeme na apreciaci domácí měny"
+            },
+            {
+                "correct": false,
+                "text": "devizová aktiva jsou větší než devizová pasiva - spekulujeme na depreciaci cizí měny"
+            },
+            {
+                "correct": true,
+                "text": "devizová pasiva jsou menší než devizová aktiva - spekulujeme na apreciaci cizí měny"
+            }
+        ]
+    },
+    {
+        "text": "Co je charakteristické pro dluhopis s pohyblivým výnosem?",
+        "answers": [
+            {
+                "correct": false,
+                "text": "s růstem úrokové míry roste jmenovitá hodnota a současně i tržní cena"
+            },
+            {
+                "correct": true,
+                "text": "výnos tohoto dluhopisu odráží pohyb tržní úrokové míry"
+            },
+            {
+                "correct": false,
+                "text": "jeho tržní cena roste s růstem tržní úrokové míry"
+            },
+            {
+                "correct": false,
+                "text": "jeho jmenovitá hodnota klesá s růstem tržní úrokové míry"
+            },
+            {
+                "correct": false,
+                "text": "jeho tržní cena klesá s růstem tržní úrokové míry"
+            }
+        ]
+    },
+    {
+        "text": "Mezi základní součásti systému bankovní regulace patří",
+        "answers": [
+            {
+                "correct": false,
+                "text": "devizová směnitelnost"
+            },
+            {
+                "correct": false,
+                "text": "limitování vnitřních úvěrů tempem ekonomického růstu"
+            },
+            {
+                "correct": false,
+                "text": "operace na volném trhu"
+            },
+            {
+                "correct": false,
+                "text": "měnová politika"
+            },
+            {
+                "correct": true,
+                "text": "pomoc věřitele poslední instance"
+            }
+        ]
+    },
+    {
+        "text": "Peníze v součastnosti emitují",
+        "answers": [
+            {
+                "correct": false,
+                "text": "centrální banka i obchodní banky do ekonomiky"
+            },
+            {
+                "correct": true,
+                "text": "centrální banka do bankovního systému a obchodní banky do ekonomiky"
+            },
+            {
+                "correct": false,
+                "text": "výhradně obchodní banky, a to do ekonomiky i bankovního systému"
+            },
+            {
+                "correct": false,
+                "text": "centrální banka i obchodní banky do bankovního systému"
+            },
+            {
+                "correct": false,
+                "text": "centrální banka do ekonomiky a obchodní banky do bankovního systému"
+            }
+        ]
+    },
+    {
+        "text": "Centralizace (tzn. z úrovně státního rozpočtu) stabilizační fiskální funkce:",
+        "answers": [
+            {
+                "correct": false,
+                "text": "znamená řešení mikroekonomických důsledku zdanění"
+            },
+            {
+                "correct": true,
+                "text": "je efektivní, protože problémy typu cenová stabilita, nezaměstnanost jsou dobře řešitelné na centrální úrovni"
+            },
+            {
+                "correct": false,
+                "text": "představuje řešení mikroekonomických selhání trhu"
+            },
+            {
+                "correct": false,
+                "text": "znamená řešení problému spravedlnosti, které je vhodné řešit prostřednictvím státního rozpočtu"
+            },
+            {
+                "correct": false,
+                "text": "je neefektivní, neboť probly typu hospodárský růst, nezaměstnanost apod. jsou lépe řešitelné na nižší než ústřední úrovni"
+            }
+        ]
+    },
+    {
+        "text": "Součástí žádosti o přidělení bankovní licence nejsou",
+        "answers": [
+            {
+                "correct": false,
+                "text": "kvalifikační předpoklady osob navrhovaných do statutárních orgánů banky"
+            },
+            {
+                "correct": false,
+                "text": "prokázání původu kapitálu"
+            },
+            {
+                "correct": false,
+                "text": "záměry při rozvíjení jednotlivých bankovních činností"
+            },
+            {
+                "correct": true,
+                "text": "hlášení o devizové pozici"
+            },
+            {
+                "correct": false,
+                "text": "minimální výše kapitálu"
+            }
+        ]
+    },
+    {
+        "text": "Kontrola zadávácího řízení u veřejných zakázek v ČR",
+        "answers": [
+            {
+                "correct": false,
+                "text": "Ministerstvo financí"
+            },
+            {
+                "correct": false,
+                "text": "Stát"
+            },
+            {
+                "correct": true,
+                "text": "Úřad pro ochranu hospodářské souteže"
+            }
+        ]
+    }
+]

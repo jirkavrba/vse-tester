@@ -1,0 +1,918 @@
+[
+    {
+        "text": "1. Occamova břitva???",
+        "answers": [
+            {
+                "text": "pravidlo, že nejjednodušší řečení je zpravidla to správné",
+                "correct": true
+            },
+            {
+                "text": "označení pro dilema dvou variant",
+                "correct": false
+            },
+            {
+                "text": "postup jak maximalizovat zisk",
+                "correct": false
+            },
+            {
+                "text": "princip jak vybírat jednoduchá řešení",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "2. Co je motivem pro zavedení Datového skladu (DWH) z pohledu managementu?",
+        "answers": [
+            {
+                "text": "řízení přístupu k datům",
+                "correct": true
+            },
+            {
+                "text": "snadná archivace dat",
+                "correct": false
+            },
+            {
+                "text": "získání jednotného datového pohledu na celou na celou firmu",
+                "correct": false
+            },
+            {
+                "text": "odstranění odlišných odpovědí různých oddělení na stejnou otázku",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "3. Jaká jsou základní důvody vedoucí ke vzniku podnikových norem?",
+        "answers": [
+            {
+                "text": "eliminace zbytečných činností",
+                "correct": true
+            },
+            {
+                "text": "výrazné zjednodušení práce s dokumenty",
+                "correct": false
+            },
+            {
+                "text": "řízení kvality a aplikace nejlepších praktik v oboru",
+                "correct": true
+            },
+            {
+                "text": "soulad s platnou legislativou",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "4. Co jsou Master Data?",
+        "answers": [
+            {
+                "text": "Základní data",
+                "correct": false
+            },
+            {
+                "text": "referenční data",
+                "correct": false
+            },
+            {
+                "text": "data o datech",
+                "correct": false
+            },
+            {
+                "text": "agregovaná data",
+                "correct": false
+            },
+            {
+                "text": "klíčová data",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "5. Co se očekává od člena představenstva firmy?",
+        "answers": [
+            {
+                "text": "aktivní rozhodování v oblasti IT",
+                "correct": false
+            },
+            {
+                "text": "taktické řízení firmy",
+                "correct": false
+            },
+            {
+                "text": "operativní řízení firmy",
+                "correct": false
+            },
+            {
+                "text": "řízení rizik a dlouhodobé perspektivy firmy",
+                "correct": true
+            },
+            {
+                "text": "Strategické řízení firmy a kontrola výkonného managementu",
+                "correct": true
+            },
+            {
+                "text": "Schvalování dílčích investic",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "6. Kterou oblast pokrývá pojem Bi-modální řízení IT?",
+        "answers": [
+            {
+                "text": "???",
+                "correct": false
+            },
+            {
+                "text": "řízení provozu IT",
+                "correct": true
+            },
+            {
+                "text": "řízení rozvoje IT",
+                "correct": true
+            },
+            {
+                "text": "řízení výnosů",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "7. Který z uvedených standardů nepatří mezi agilní projektové metodiky?",
+        "answers": [
+            {
+                "text": "IMPA",
+                "correct": true
+            },
+            {
+                "text": "PMI",
+                "correct": true
+            },
+            {
+                "text": "Kanban",
+                "correct": false
+            },
+            {
+                "text": "XP",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "8. Co znamená Gantt Chart v rámci projektového řízení?",
+        "answers": [
+            {
+                "text": "seznam technologií",
+                "correct": false
+            },
+            {
+                "text": "grafické zobrazení činnosti projektů v čase",
+                "correct": true
+            },
+            {
+                "text": "graf nákladů",
+                "correct": false
+            },
+            {
+                "text": "graf nákladů",
+                "correct": false
+            },
+            {
+                "text": "časový harmonogram",
+                "correct": false
+            },
+            {
+                "text": "vizualizace parametrů kvality",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "9. Co nepatří mezi jednotlivé fáze v rámci procesu risk analýzy?",
+        "answers": [
+            {
+                "text": "sestavení plánu opatření eliminujících rizika",
+                "correct": false
+            },
+            {
+                "text": "zabezpečení úniku dat",
+                "correct": true
+            },
+            {
+                "text": "ohodnocení dopadu rizik",
+                "correct": false
+            },
+            {
+                "text": "řízení a monitorování rizik",
+                "correct": false
+            },
+            {
+                "text": "identifikace rizik",
+                "correct": false
+            },
+            {
+                "text": "ochrana perimetru",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "10. Jaký je rozdíl mezi pojmy Governance a Management podniku?",
+        "answers": [
+            {
+                "text": "Governance je podmnožina nástrojů užívaných v Managementu",
+                "correct": false
+            },
+            {
+                "text": "Governance obecně představuje PRAVIDLA tedy řídící rámec definující role, zodpovědnosti,  pravomoci, a způsob komunikace",
+                "correct": true
+            },
+            {
+                "text": "rozdíly jsou v terminologii užívané v Evropě a USA",
+                "correct": false
+            },
+            {
+                "text": "žádný, jde o ekvivalentní pojmy",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "11. Která z uvedených norem je nejvíce specifická pro práci s daty?",
+        "answers": [
+            {
+                "text": "DMBOK DAMA",
+                "correct": true
+            },
+            {
+                "text": "ITIL",
+                "correct": false
+            },
+            {
+                "text": "COBIT",
+                "correct": false
+            },
+            {
+                "text": "ISO 9000",
+                "correct": false
+            },
+            {
+                "text": "ISO 27000",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "12. Co odlišuje řízení IT v prostředí Startupů vůči Korporacím?",
+        "answers": [
+            {
+                "text": "robustní systém řízení rizik",
+                "correct": false
+            },
+            {
+                "text": "chyba znamená důvod pro hloubkovou analýzu",
+                "correct": false
+            },
+            {
+                "text": "agilní řízení s inkrementálními výstupy",
+                "correct": true
+            },
+            {
+                "text": "standardizace je základ pro efektivitu",
+                "correct": false
+            },
+            {
+                "text": "Důkladný plánovací proces",
+                "correct": false
+            },
+            {
+                "text": "Dílčí chyba je chápána jako zdroj poznání a inovace ???",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "13. Na co je zaměřen CMM model procesů?",
+        "answers": [
+            {
+                "text": "rentabilitu procesu",
+                "correct": false
+            },
+            {
+                "text": "výkonnost procesu",
+                "correct": false
+            },
+            {
+                "text": "ohodnocení zralosti procesu",
+                "correct": true
+            },
+            {
+                "text": "produktivitu procesu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "14. Které z uvedených pojmů označuje notaci zápisu procesů?",
+        "answers": [
+            {
+                "text": "BMPN",
+                "correct": true
+            },
+            {
+                "text": "EPC",
+                "correct": true
+            },
+            {
+                "text": "COBIT",
+                "correct": false
+            },
+            {
+                "text": "ISO 27000",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "15. Který z uvedených pojmů nepatří mezi Enablers v rámci COBIT 5?",
+        "answers": [
+            {
+                "text": "informace",
+                "correct": false
+            },
+            {
+                "text": "řízení rizik",
+                "correct": true
+            },
+            {
+                "text": "aplikace, infrastruktura, služby",
+                "correct": false
+            },
+            {
+                "text": "procesy",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "16. Který z uvedených typů IT teamů zapadá do rozdělení dle samostatnosti?",
+        "answers": [
+            {
+                "text": "autonomní team",
+                "correct": true
+            },
+            {
+                "text": "homogenní team",
+                "correct": false
+            },
+            {
+                "text": "centrálně řízení team",
+                "correct": false
+            },
+            {
+                "text": "vzdálený team",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "17. Jakého procesu je následkem Organizační struktura?",
+        "answers": [
+            {
+                "text": "plánování",
+                "correct": false
+            },
+            {
+                "text": "personálního zajištění",
+                "correct": false
+            },
+            {
+                "text": "identifikace činností a procesů řízení vedoucích k nastavení struktury nutné k dosažení cílů podniku",
+                "correct": false
+            },
+            {
+                "text": "analýzy informací",
+                "correct": false
+            },
+            {
+                "text": "organizování",
+                "correct": true
+            },
+            {
+                "text": "vedení a motivace",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "19. Co je to entropie?",
+        "answers": [
+            {
+                "text": "ITIL doména",
+                "correct": false
+            },
+            {
+                "text": "míra neuspořádanosti",
+                "correct": true
+            },
+            {
+                "text": "vzorkovací frekvence",
+                "correct": false
+            },
+            {
+                "text": "rychlost přenosu informace",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "20. Jaké jsou principy a klíčové oblasti IT Governance?",
+        "answers": [
+            {
+                "text": "oddělení role vlastníků a manažerů",
+                "correct": true
+            },
+            {
+                "text": "eliminace zbytečných činností a centralizace zdrojů",
+                "correct": false
+            },
+            {
+                "text": "kaskádování cílů a zpětný reporting",
+                "correct": false
+            },
+            {
+                "text": "transparentní definice organizační struktury",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "21. Jaký je vztah Enterprise a IT Governance (ITG)?",
+        "answers": [
+            {
+                "text": "ITG je nadřazené Enterprise",
+                "correct": false
+            },
+            {
+                "text": "jsou nezávislé",
+                "correct": false
+            },
+            {
+                "text": "jsou rovnocené",
+                "correct": false
+            },
+            {
+                "text": "Enterprise je nadřazené ITG",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "22. Jaká norma se píše v organizaci jako první?",
+        "answers": [
+            {
+                "text": "směrnice o účetnictví",
+                "correct": false
+            },
+            {
+                "text": "technologická norma",
+                "correct": false
+            },
+            {
+                "text": "směrnice o odměňování",
+                "correct": false
+            },
+            {
+                "text": "podpisový řád",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "23. Který z uvedených termínů popisuje situaci nezaujatě?",
+        "answers": [
+            {
+                "text": "fakta",
+                "correct": true
+            },
+            {
+                "text": "moudrost",
+                "correct": false
+            },
+            {
+                "text": "informace",
+                "correct": false
+            },
+            {
+                "text": "data",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "24. Který z dokumentů nepatří mezi klíčové publikace COBIT 5?",
+        "answers": [
+            {
+                "text": "Val IT",
+                "correct": true
+            },
+            {
+                "text": "Enabling Information",
+                "correct": false
+            },
+            {
+                "text": "Implementation",
+                "correct": false
+            },
+            {
+                "text": "Framework",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "25. Co je nového v pojetí Data science vůči původnímu pojetí Teorie informací?",
+        "answers": [
+            {
+                "text": "rozmanitost datových formátů a technologie pro jejich zpracování",
+                "correct": true
+            },
+            {
+                "text": "vztah mezi přenosovou rychlostí a chybovostí dat",
+                "correct": false
+            },
+            {
+                "text": "metody kódování dat",
+                "correct": false
+            },
+            {
+                "text": "nový pojem entropie",
+                "correct": false
+            },
+            {
+                "text": "důraz na metody vzorkování dat",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "26. Která z uvedených oblastí nepatří mezi ITIL 3 domény?",
+        "answers": [
+            {
+                "text": "value creation",
+                "correct": true
+            },
+            {
+                "text": "service outcome",
+                "correct": true
+            },
+            {
+                "text": "service operations",
+                "correct": false
+            },
+            {
+                "text": "continual service improvement",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "27. Co v měkkých systémech označuje pojem Rich Picture?",
+        "answers": [
+            {
+                "text": "nejdražší obraz",
+                "correct": false
+            },
+            {
+                "text": "označení procesu",
+                "correct": false
+            },
+            {
+                "text": "zakreslení výchozího stavu systému grafickou formou",
+                "correct": true
+            },
+            {
+                "text": "vizualizace výchozí situace",
+                "correct": true
+            },
+            {
+                "text": "Princip jak zakreslit jednoduchá řešení",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "28. Podle čeho je primárně nastaven oběh (workflow) dokumentů v organizaci?",
+        "answers": [
+            {
+                "text": "dle normy nastavující organizační strukturu",
+                "correct": true
+            },
+            {
+                "text": "dle pravidel v ERP systému",
+                "correct": false
+            },
+            {
+                "text": "dle nákladových středisek",
+                "correct": false
+            },
+            {
+                "text": "dle řídících procesů",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "29. Která z uvedených oblastí nepatří do perspektiv (domén) Informačního modelu podniku?",
+        "answers": [
+            {
+                "text": "organizační struktura",
+                "correct": true
+            },
+            {
+                "text": "infrastruktura",
+                "correct": false
+            },
+            {
+                "text": "data",
+                "correct": false
+            },
+            {
+                "text": "procesy",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "30. Co patří mezi základní kritéria, podle kterého se hodnotí úspěšný či neúspěšný projekt?",
+        "answers": [
+            {
+                "text": "míra optimalizace projektových činností",
+                "correct": false
+            },
+            {
+                "text": "efektivní využití alokovaných zdrojů projektu",
+                "correct": false
+            },
+            {
+                "text": "dodržení finančního a časového rozpočtu",
+                "correct": true
+            },
+            {
+                "text": "podepsání akceptačního protokolu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "31. Které z uvedených systémů a metod nepatří mezi Decision Supporting Systems (DSS)?",
+        "answers": [
+            {
+                "text": "scrum",
+                "correct": true
+            },
+            {
+                "text": "kanban",
+                "correct": true
+            },
+            {
+                "text": "na pravidlech založené rozhodování strojů",
+                "correct": false
+            },
+            {
+                "text": "hromadné zpracování dat stroji",
+                "correct": false
+            },
+            {
+                "text": "algoritmy umělé inteligence",
+                "correct": false
+            },
+            {
+                "text": "samoučící se inteligence",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "32. Co jsou Meta Data?",
+        "answers": [
+            {
+                "text": "transakční data",
+                "correct": false
+            },
+            {
+                "text": "data, která poskytují informace o jiných datech",
+                "correct": true
+            },
+            {
+                "text": "intervalová data",
+                "correct": false
+            },
+            {
+                "text": "základní data",
+                "correct": false
+            },
+            {
+                "text": "referenční data",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "33. Co je základním nástrojem v komunikaci dobrého vlastníka firmy?",
+        "answers": [
+            {
+                "text": "ptát se a naslouchat",
+                "correct": true
+            },
+            {
+                "text": "dávat dobré příkazy",
+                "correct": false
+            },
+            {
+                "text": "aktivní naslouchání",
+                "correct": true
+            },
+            {
+                "text": "nevšímavost",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "34. Které z uvedených organizační modelů a struktur označujeme jako alternativní?",
+        "answers": [
+            {
+                "text": "Svobodná firma",
+                "correct": true
+            },
+            {
+                "text": "Maticová struktura",
+                "correct": false
+            },
+            {
+                "text": "Štábní struktura",
+                "correct": false
+            },
+            {
+                "text": "Liniová struktura",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "35. Který z uvedených uživatelů je nejméně dotčen COBIT metodikou?",
+        "answers": [
+            {
+                "text": "Finanční ředitel",
+                "correct": false
+            },
+            {
+                "text": "IT Auditor",
+                "correct": false
+            },
+            {
+                "text": "Pracovník call centra",
+                "correct": false
+            },
+            {
+                "text": "Obchodní asistentka",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "36. Které z uvedených typů procesů patří mezi elementární typové dělení procesů?",
+        "answers": [
+            {
+                "text": "Prodejní proces",
+                "correct": false
+            },
+            {
+                "text": "Proces vývoje produktů",
+                "correct": false
+            },
+            {
+                "text": "Řídící",
+                "correct": true
+            },
+            {
+                "text": "Logistický proces",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "37. Který ze systémů není podmnožinou Enterprise Content Management (ECM)?",
+        "answers": [
+            {
+                "text": "ERP",
+                "correct": true
+            },
+            {
+                "text": "DMS",
+                "correct": false
+            },
+            {
+                "text": "Web content management systém",
+                "correct": false
+            },
+            {
+                "text": "Fotobank",
+                "correct": false
+            },
+            {
+                "text": "Records Management systém",
+                "correct": false
+            },
+            {
+                "text": "CRM",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "38. Který z uvedený typů IT teamu zapadá do rozdělení teamů dle diverzity?",
+        "answers": [
+            {
+                "text": "Vzdálený team",
+                "correct": false
+            },
+            {
+                "text": "Homogenní team",
+                "correct": true
+            },
+            {
+                "text": "Autonomní team",
+                "correct": false
+            },
+            {
+                "text": "Heterogenní team",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "39. Jaké jsou základní přínosy Enterprise Content Management (ECM) nástroje?",
+        "answers": [
+            {
+                "text": "Důvěrné dokumenty mohou být přístupné všem uživatelům",
+                "correct": false
+            },
+            {
+                "text": "Přehled o aktivitě uživatelů a Work-flow dokumentů",
+                "correct": true
+            },
+            {
+                "text": "Příjemné grafické rozhraní (GUI)",
+                "correct": false
+            },
+            {
+                "text": "Nákladově efektivní řešení",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "40. Co patří mezi komponenty Enterprise BSC (Balanced Score Card)?",
+        "answers": [
+            {
+                "text": "IT infrastruktura",
+                "correct": false
+            },
+            {
+                "text": "Učení a Růst",
+                "correct": true
+            },
+            {
+                "text": "Organizační struktura",
+                "correct": false
+            },
+            {
+                "text": "Procesy",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "41. Která z uvedených oblastí nepatří do bezpečnostního cyklu práce s informacemi?",
+        "answers": [
+            {
+                "text": "Create",
+                "correct": false
+            },
+            {
+                "text": "Extract, Transform, Load (ETL)",
+                "correct": true
+            },
+            {
+                "text": "Destroy",
+                "correct": false
+            },
+            {
+                "text": "Archive",
+                "correct": false
+            }
+        ]
+    }
+]

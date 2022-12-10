@@ -1,0 +1,2439 @@
+[
+    {
+        "text": "Aby komponenta reagovala na vstup od uživatele, např. aby se po stisknutí tlačítka spustila odpovídající akce, musíme:",
+        "answers": [
+            {
+                "text": "napsat ovladač události jako třídu implementující rozhraní xxxListener, kde xxx představuje označení typu události např. ActionListener nebo WindowListener.Takto vytvořený ovladač již není třeba komponentě přiřazovat.",
+                "correct": false
+            },
+            {
+                "text": "napsat ovladač události (na předkovi či implementovaném rozhraní nezáleží) a instanci této třídy přiřadit příslušné komponentě pomocí metody addXxxListener() (Xxx představuje označení typu přižazované události)",
+                "correct": false
+            },
+            {
+                "text": "napsat ovladač události jako třídu implementující rozhraní xxxListener, kde xxx představuje označení typu události např. ActionListener nebo WindowListener, a instanci této třídy přiřadit příslušné komponentě pomocí metody addXxxListener() (Xxx opět představuje označení typu přižazované události)",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Aktér v diagramu případů užití reprezentuje",
+        "answers": [
+            {
+                "text": "konkrétní osobu",
+                "correct": false
+            },
+            {
+                "text": "hardwarové zařízení",
+                "correct": false
+            },
+            {
+                "text": "roli, kterou plní uživatel systému",
+                "correct": true
+            },
+            {
+                "text": "funkční místo v organizaci",
+                "correct": false
+            },
+            {
+                "text": "funkcionalitu systému",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Diagram aktivit lze použít pro",
+        "answers": [
+            {
+                "text": "modelování logiky byznys pravidla",
+                "correct": true
+            },
+            {
+                "text": "modelování byznys procesů",
+                "correct": true
+            },
+            {
+                "text": "zachycení komunikace objektů",
+                "correct": false
+            },
+            {
+                "text": "zachycení událostí v systému",
+                "correct": true
+            },
+            {
+                "text": "modelování logiky uvnitř případu užití nebo scénáře případu užití",
+                "correct": true
+            },
+            {
+                "text": "vyjádření algoritmu metody",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Iterace je v metodice Scrum nazývána (SINGLE)",
+        "answers": [
+            {
+                "text": "sprint",
+                "correct": true
+            },
+            {
+                "text": "cycle",
+                "correct": false
+            },
+            {
+                "text": "iteration",
+                "correct": false
+            },
+            {
+                "text": "run",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké alternativní názvy se používají pro vzor Pozorovatel (Observer)? (MULTI)",
+        "answers": [
+            {
+                "text": "Posluchač (Listener)",
+                "correct": true
+            },
+            {
+                "text": "Vydavatel-Předplatitel (Publisher-Subscriber)",
+                "correct": true
+            },
+            {
+                "text": "Předváděč (Demonstrator)",
+                "correct": false
+            },
+            {
+                "text": "Ukazovač (Shower)",
+                "correct": false
+            },
+            {
+                "text": "Vizitor (Vizitor)",
+                "correct": false
+            },
+            {
+                "text": "Sledovač (Watcher)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké jsou cíle správy verzí (označte všechny pravdivé odpovědi):",
+        "answers": [
+            {
+                "text": "je zdrojem pro \"manažerské\" statistiky",
+                "correct": true
+            },
+            {
+                "text": "správa verzí vytváří centralizované místo pro uložení různých verzí zdrojových kódů a souvisejících dat",
+                "correct": true
+            },
+            {
+                "text": "správa verzí je zdrojem dat pro sestavení aplikace a související nepřetržitou integraci",
+                "correct": true
+            },
+            {
+                "text": "správa verzí poskytuje aktuální zdrojový kód vývojářům",
+                "correct": true
+            },
+            {
+                "text": "umožňuje zobrazit historii projektu",
+                "correct": true
+            },
+            {
+                "text": "umožňuje udržet konzistenci",
+                "correct": true
+            },
+            {
+                "text": "jde o řízený přístup k dokumentům",
+                "correct": true
+            },
+            {
+                "text": "ke správě verzí potřebují mít přístup pracovníci helpdesku, aby mohli rovnou opravovat chyby nahlášené uživateli,",
+                "correct": false
+            },
+            {
+                "text": "součástí správy verzí je i evidence chyb a požadavků uživatelů (bug tracking system)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "10)Jaké nejsou cíle správy verzí:",
+        "answers": [
+            {
+                "text": "součástí správy verzí je i evidence chyb a požadavků uživatelů (bug tracking system)",
+                "correct": true
+            },
+            {
+                "text": "správa verzí je jedním ze zdrojů informací pro manažerské statistiky týkající se vývoje aplikace",
+                "correct": false
+            },
+            {
+                "text": "správa verzí vytváří centralizované místo pro uložení různých verzí zdrojových kódů a souvisejících dat",
+                "correct": false
+            },
+            {
+                "text": "správa verzí je zdrojem dat pro sestavení aplikace a související nepřetržitou integraci",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké hlavní oblasti by měla řešit SOA?",
+        "answers": [
+            {
+                "text": "schopnost IS/ICT rychle odpovídat na změny požadavků byznysu",
+                "correct": true
+            },
+            {
+                "text": "propojení byznysu a IT",
+                "correct": true
+            },
+            {
+                "text": "integraci aplikací",
+                "correct": true
+            },
+            {
+                "text": "dodávat software včas",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké vztahy (vazby) mohou být mezi třídami v diagramu tříd UML 2.x",
+        "answers": [
+            {
+                "text": "asociace",
+                "correct": true
+            },
+            {
+                "text": "kompozice",
+                "correct": true
+            },
+            {
+                "text": "agregace",
+                "correct": true
+            },
+            {
+                "text": "include",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké jsou cíle refaktoringu",
+        "answers": [
+            {
+                "text": "Zlepšení návrhu kódu",
+                "correct": true
+            },
+            {
+                "text": "Výstižné pojmenování",
+                "correct": true
+            },
+            {
+                "text": "Odstranění duplicit",
+                "correct": true
+            },
+            {
+                "text": "eliminace duplicit v kódu",
+                "correct": true
+            },
+            {
+                "text": "Metoda zajišťuje jen jednu činnost",
+                "correct": true
+            },
+            {
+                "text": "Odstranění nepoužívaného kódu",
+                "correct": true
+            },
+            {
+                "text": "Lepší srozumitelnost kódu (Z hlediska programování, aby mu rozuměl počítač + Z hlediska refaktorování - aby kódu rozuměli ostatní vývojáři)",
+                "correct": true
+            },
+            {
+                "text": "Pomáhá hledat chyby",
+                "correct": true
+            },
+            {
+                "text": "Pomáhá zrychlit programování",
+                "correct": true
+            },
+            {
+                "text": "zjištění chybějících testů",
+                "correct": true
+            },
+            {
+                "text": "zlepšení parametrizovatelnosti vytvářené aplikace",
+                "correct": false
+            },
+            {
+                "text": "odhadování časové náročnosti jednotlivých \"uživatelských příběhů\" (user stories)",
+                "correct": false
+            },
+            {
+                "text": "vzdělávání spolupracovníků na projektu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaká společná doporučení dávají vzory ovlivňující počet instancí",
+        "answers": [
+            {
+                "text": "Soukromý konstruktor",
+                "correct": true
+            },
+            {
+                "text": "Zákaz vytvářet potomky",
+                "correct": true
+            },
+            {
+                "text": "Inicializace atributu v deklaraci",
+                "correct": false
+            },
+            {
+                "text": "Získání instance pomocí tovární metody - např. Factory ano, Singleton ne",
+                "correct": false
+            },
+            {
+                "text": "Vyhození výjimky při pokusu o vytvoření přespočetné instance",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké hlavní aspekty pomáhá řešit architektura softwarového systému?",
+        "answers": [
+            {
+                "text": "kvalitu systému",
+                "correct": true
+            },
+            {
+                "text": "složitost",
+                "correct": true
+            },
+            {
+                "text": "kontext - vztahy k okolí",
+                "correct": true
+            },
+            {
+                "text": "délku projektu",
+                "correct": false
+            },
+            {
+                "text": "počet členů týmu",
+                "correct": false
+            },
+            {
+                "text": "rozdeleni úkolů?????",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které diagramy nepatří do UML 2.x",
+        "answers": [
+            {
+                "text": "diagram datových toků (Data flow diagram)",
+                "correct": true
+            },
+            {
+                "text": "stavový diagram (State Diagram)",
+                "correct": false
+            },
+            {
+                "text": "diagram tříd (Class diagram)",
+                "correct": false
+            },
+            {
+                "text": "diagram vnitřní struktury (Composite Structure Diagram)",
+                "correct": false
+            },
+            {
+                "text": "diagram nasazení (Deployment Diagram)",
+                "correct": false
+            },
+            {
+                "text": "diagram komponent (Component Diagram)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které faktory zohledňuje kritérium kategorizace metodik - Rozsah metodiky?",
+        "answers": [
+            {
+                "text": "počet rolí, které metodika pokrývá",
+                "correct": true
+            },
+            {
+                "text": "počet dimenzí, které metodika pokrývá",
+                "correct": true
+            },
+            {
+                "text": "počet fází životního cyklu, které metodika pokrývá",
+                "correct": true
+            },
+            {
+                "text": "počet produktů vytvářených v metodice",
+                "correct": false
+            },
+            {
+                "text": "podrobnost metodiky",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které faktory zohledňuje kritérium kategorizace metodik - Váha metodiky?",
+        "answers": [
+            {
+                "text": "velikost metodiky",
+                "correct": true
+            },
+            {
+                "text": "způsob vývoje",
+                "correct": false
+            },
+            {
+                "text": "hustota metodiky",
+                "correct": true
+            },
+            {
+                "text": "počet produktů vytvářených v metodice",
+                "correct": false
+            },
+            {
+                "text": "podrobnost metodiky",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které faktory zohledňuje kritérium kategorizace metodik - Podrobnost metodiky?",
+        "answers": [
+            {
+                "text": "těžké metodiky  - podrobný popis, rigorózní",
+                "correct": true
+            },
+            {
+                "text": "lehké metodiky - minimálně dostatečná metodika",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Které faktory zohledňuje kritérium kategorizace metodik - Způsob vývoje?",
+        "answers": [
+            {
+                "text": "tradiční metodiky s vodopádovým životním cyklem",
+                "correct": true
+            },
+            {
+                "text": "metodiky pro iterativní a přírůstkový vývoj",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Které faktory zohledňuje kritérium kategorizace metodik - Přístup k vývoji?",
+        "answers": [
+            {
+                "text": "strukturované metodiky",
+                "correct": true
+            },
+            {
+                "text": "RAD metodiky",
+                "correct": true
+            },
+            {
+                "text": "objektově orientované metodiky",
+                "correct": true
+            },
+            {
+                "text": "metodiky pro komponentový vývoj",
+                "correct": true
+            },
+            {
+                "text": "metodiky pro vývoj orientovaný na služby",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Které z následujících praktik jsou praktikami XP?",
+        "answers": [
+            {
+                "text": "Plánovací hra",
+                "correct": true
+            },
+            {
+                "text": "Malé verze",
+                "correct": true
+            },
+            {
+                "text": "Metafora",
+                "correct": true
+            },
+            {
+                "text": "Jednoduchý návrh",
+                "correct": true
+            },
+            {
+                "text": "Testování",
+                "correct": true
+            },
+            {
+                "text": "Refaktorizace",
+                "correct": true
+            },
+            {
+                "text": "Párové programování",
+                "correct": true
+            },
+            {
+                "text": "Společné vlastnictví kódu",
+                "correct": true
+            },
+            {
+                "text": "Nepřetržitá integrace",
+                "correct": true
+            },
+            {
+                "text": "40hodinový týden, čerpat dovolenou, žádné přesčasy",
+                "correct": true
+            },
+            {
+                "text": "Zákazník na pracovišti (člen týmu)",
+                "correct": true
+            },
+            {
+                "text": "Standardy pro psaní zdrojového kódu",
+                "correct": true
+            },
+            {
+                "text": "psaní testů před kódem",
+                "correct": false
+            },
+            {
+                "text": "integrace na konci iterace",
+                "correct": false
+            },
+            {
+                "text": "individuální vlastnictví tříd",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které z následujících vzorů řeší počet vytvářených instancí:",
+        "answers": [
+            {
+                "text": "Knihovní třída (library class, utility)",
+                "correct": true
+            },
+            {
+                "text": "Jedináček (singleton)",
+                "correct": true
+            },
+            {
+                "text": "Výčtový typ (Enumaration, enum)",
+                "correct": true
+            },
+            {
+                "text": "Muší váha (flyweight)",
+                "correct": true
+            },
+            {
+                "text": "Fond (Pool)",
+                "correct": true
+            },
+            {
+                "text": "Originál (Original)",
+                "correct": true
+            },
+            {
+                "text": "Továrna (Factory)",
+                "correct": false
+            },
+            {
+                "text": "Stavitel (Builder)",
+                "correct": false
+            },
+            {
+                "text": "Iterátor (Iterator)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Který vzor použijeme při tvorbě událostmi řízených programů?",
+        "answers": [
+            {
+                "text": "Pozorovatel (Observer)",
+                "correct": true
+            },
+            {
+                "text": "Stavitel (Builder)",
+                "correct": false
+            },
+            {
+                "text": "Iterátor (Iterator)",
+                "correct": false
+            },
+            {
+                "text": "Továrna (Factory)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které vlastnosti patří mezi atributy kvality FURPS?",
+        "answers": [
+            {
+                "text": "Performance",
+                "correct": true
+            },
+            {
+                "text": "Reliability",
+                "correct": true
+            },
+            {
+                "text": "Supportability",
+                "correct": true
+            },
+            {
+                "text": "Usability",
+                "correct": true
+            },
+            {
+                "text": "Functionality",
+                "correct": true
+            },
+            {
+                "text": "Productivity",
+                "correct": false
+            },
+            {
+                "text": "Success",
+                "correct": false
+            },
+            {
+                "text": "uniformity",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které z následujících vzorů řeší počet vytvářených instancí",
+        "answers": [
+            {
+                "text": "Muší váha (Flightweight)",
+                "correct": true
+            },
+            {
+                "text": "Jedináček (Singleton)",
+                "correct": true
+            },
+            {
+                "text": "Fond (Pool)",
+                "correct": true
+            },
+            {
+                "text": "Iterátor (Iterator)",
+                "correct": false
+            },
+            {
+                "text": "Stavitel (Builder)",
+                "correct": false
+            },
+            {
+                "text": "Továrna (Factory)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které z následujících nástrojů slouží pro správu verzí:",
+        "answers": [
+            {
+                "text": "Subversion",
+                "correct": true
+            },
+            {
+                "text": "CVS",
+                "correct": true
+            },
+            {
+                "text": "Visual Sourcesafe",
+                "correct": true
+            },
+            {
+                "text": "Quicksafe",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Metodika Scrum definuje následující počet rolí",
+        "answers": [
+            {
+                "text": "3",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Návrhový vzor Adaptér použijeme v situacích, kdy",
+        "answers": [
+            {
+                "text": "Chceme v programu použít instance třídy z knihovny, avšak název a/nebo parametry metod těchto instancí se liší od zvyklostí v cílovém programu.",
+                "correct": true
+            },
+            {
+                "text": "Chceme k objektu přidat novou funkčnost a adaptovat jej tak na nové podmínky.",
+                "correct": true
+            },
+            {
+                "text": "Definujeme rozhraní deklarující několik metod a chceme umožnit budoucím uživatelům tohoto rozhraní definovat pouze některé z deklarovaných metod.",
+                "correct": false
+            },
+            {
+                "text": "Definujeme novou třídu a nechce se nám implementovat všechny metody deklarované v implementovaném rozhraní.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Název metodiky Scrum byl zvolen podle (single)",
+        "answers": [
+            {
+                "text": "rugby",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Návrhový vzor Most (Bridge) používáme pro:",
+        "answers": [
+            {
+                "text": "Oddělení třídy, která zprostředkovává funkčnost okolnímu programu od třídy, která tuto funkčnost ve skutečnosti realizuje, vložením rozhraní - mostu.",
+                "correct": true
+            },
+            {
+                "text": "Dosažení těžko realizovatelné funkčnosti přemostěním problemat. třídy prostřednictvím pomocné \"mostní\" třídy.",
+                "correct": false
+            },
+            {
+                "text": "Přemostění rozdílů mezi různými implementacemi téže funkčnosti",
+                "correct": false
+            },
+            {
+                "text": "Přizpůsobení třídy novým požadavkům okolních tříd definicí tzv. mostu, který překlene problematická místa a umožní tak další fungování původní třídy bez velkých zásahu do jejího kódu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Návrhový vzor Dekorátor:",
+        "answers": [
+            {
+                "text": "Zmenšuje počet nutných tříd zavedením speciálních tříd, jejichž instance obalí svěřený objekt a vybaví (dekorují) jej dodatečnou funkčností.",
+                "correct": true
+            },
+            {
+                "text": "Doporučuje složit komplikovaný objekt z více jednoduchých objektů a umožnit tak rozdělit funkčnost do menších bloků, které se snáze programují a ladí.",
+                "correct": true
+            },
+            {
+                "text": "Poskytuje alternativu k dědění, při níž se \"rodičovský podobjekt\" předá vytvářenému objektu jako parametr jeho konstruktoru.",
+                "correct": true
+            },
+            {
+                "text": "Definuje rozhraní deklarující několik metod. ale umožňuje budoucím uživatelům tohoto rozhraní definovat pouze některé z deklarovaných metod.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte, které vlastnosti patří mezi atributy kvality FURPS",
+        "answers": [
+            {
+                "text": "uniformity",
+                "correct": false
+            },
+            {
+                "text": "functionality",
+                "correct": true
+            },
+            {
+                "text": "usability",
+                "correct": true
+            },
+            {
+                "text": "supportability",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Označte pravdivá tvrzení o správcích rozvržení (LayoutManager) používaných při vytváření GUI v Javě",
+        "answers": [
+            {
+                "text": "Pokud  do aplikace přidáte nebo naopak odeberete komponentu za běhu, je nutné zavolat metodu revalidate() kontejnerové komponenty, aby bylo upraveno umístění a velikost komponent.",
+                "correct": false
+            },
+            {
+                "text": "Pro jednu kontejnerovou komponentu je možné nastavit více správců rozvržení",
+                "correct": false
+            },
+            {
+                "text": "Pokud nenastavím správce rozvržení pro hlavní okno aplikace, bude použit BorderLayout",
+                "correct": true
+            },
+            {
+                "text": "V aplikaci je možné kombinovat více druhů rozvržení komponent za pomoci panelů s různě nastavenými správci rozvržení",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Které vzory vzor doporučují vložit rozhraní mezi abstrakci a implementaci a umožňují je tak nezávisle měnit",
+        "answers": [
+            {
+                "text": "Most (Bridge)",
+                "correct": true
+            },
+            {
+                "text": "Továrna (Factory)",
+                "correct": false
+            },
+            {
+                "text": "Abstraktní továrna (Abstract Factory)",
+                "correct": false
+            },
+            {
+                "text": "Stavitel (Builder)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Které z následujících rolí definuje metodika Scrum?",
+        "answers": [
+            {
+                "text": "Developer",
+                "correct": false
+            },
+            {
+                "text": "Product Owner",
+                "correct": true
+            },
+            {
+                "text": "Team",
+                "correct": true
+            },
+            {
+                "text": "Tester",
+                "correct": false
+            },
+            {
+                "text": "Scrum Master",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Návrhový vzor Composite (Strom, Složenina, Skladba) doporučuje:",
+        "answers": [
+            {
+                "text": "Sjednodit typ komponent hierarchicky strukturovaného objektu a umožnit tak jejich jednotné zpracování.",
+                "correct": true
+            },
+            {
+                "text": "Dávat přednost skládání objektů před dědičností a vyhnout se tak problémům s narušením zapouzdření.",
+                "correct": true
+            },
+            {
+                "text": "Složit komplikovaný objekt z více jednoduchých objektů a umožnit tak rozdělit funkčnost do menších bloků, které se snáze programují a ladí.",
+                "correct": false
+            },
+            {
+                "text": "Definovat pro všechny třídy, jejichž instance jsou prvky stromu či grafu jednoho společného rodiče.",
+                "correct": true
+            },
+            {
+                "text": "Přistupovat ke všem prvkům hierarchicky strukturovaného objektu pomocí jednoho rozhraní.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Které z uvedených metodik můžeme zařadit mezi globální, tj. zaměřené na organizaci jako celek nikoli jen na projekt",
+        "answers": [
+            {
+                "text": "Enterprise Unified Process",
+                "correct": true
+            },
+            {
+                "text": "Multidimensional Management and Development of Information System (MMDIS)",
+                "correct": true
+            },
+            {
+                "text": "Feature Driven Development (FDD)",
+                "correct": false
+            },
+            {
+                "text": "Rational Unified Process (RUP)",
+                "correct": false
+            },
+            {
+                "text": "Scrum",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Jaké techniky (artefakty) můžeme použít k návrhu uživatelského rozhraní?",
+        "answers": [
+            {
+                "text": "navigační diagram",
+                "correct": true
+            },
+            {
+                "text": "prototypy aplikace",
+                "correct": true
+            },
+            {
+                "text": "mapy stránek (sitemaps)",
+                "correct": true
+            },
+            {
+                "text": "makety (mockups)",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Označte pravdivá tvrzení o událostech",
+        "answers": [
+            {
+                "text": "Pro každý typ události existuje specifická třída, jejíž instance je vytvořena při vzniku konkrétní události a která pak obsahuje informace o této události jako je zdroj události, obsah závislý na typu události (která klávesa byla stisknuta, které tlačítko myši uživatel použil),",
+                "correct": true
+            },
+            {
+                "text": "Sémantické události jsou události, které vznikají při logických změnách stavu komponenty nezávisle na konkrétním zdroji",
+                "correct": true
+            },
+            {
+                "text": "Každá komponenta může sledovat pouze jeden typ události",
+                "correct": false
+            },
+            {
+                "text": "Všechny události pro GUI v Javě jsou z jednoho balíčku, a to java.awt.event",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Označte nepravdivá tvrzení o událostech",
+        "answers": [
+            {
+                "text": "Každá komponenta může sledovat pouze jeden typ události",
+                "correct": true
+            },
+            {
+                "text": "Všechny události pro GUI v Javě jsou z jednoho balíčku, a to java.awt.event",
+                "correct": true
+            },
+            {
+                "text": "Pro každý typ události existuje specifická třída, jejíž instance je vytvořena při vzniku konkrétní události a která pak obsahuje informace o této události jako je zdroj události, obsah závislý na typu události (která klávesa byla stisknuta, které tlačítko myši uživatel použil),",
+                "correct": false
+            },
+            {
+                "text": "Sémantické události jsou události, které vznikají při logických změnách stavu komponenty nezávisle na konkrétním zdroji",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Označte správná tvrzení o uživatelském rozhraní:",
+        "answers": [
+            {
+                "text": "UI má být intuitivní",
+                "correct": true
+            },
+            {
+                "text": "UI má být konzistentní",
+                "correct": true
+            },
+            {
+                "text": "UI se uživatel musí snadno naučit",
+                "correct": true
+            },
+            {
+                "text": "UI má být efektivní pro realizaci úloh, které je třeba provést.",
+                "correct": true
+            },
+            {
+                "text": "UI má mít co nejvíce obrázků a ikon",
+                "correct": false
+            },
+            {
+                "text": "UI má chránit uživatele před velkým množstvím chyb; //systém by měl být navržen tak, aby uživatel nemohl udělat vážnou chybu, tak si vyberte",
+                "correct": true
+            },
+            {
+                "text": "Používaání UI musí uživatele uspokojovat.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Označte správná tvrzení, která představují dodržování zásad správného návrhu uživatelského rozhraní:",
+        "answers": [
+            {
+                "text": "Je-li vstupem výběr z nabízených možností (check box, radio button, list box) měla by být nastavena implicitní volba.",
+                "correct": true
+            },
+            {
+                "text": "Související prvky musí být seskupeny a horizontálně i vertikálně zarovnány.",
+                "correct": true
+            },
+            {
+                "text": "Počáteční velikost a rozvržení okna musí být takové, aby uživatel nemusel posouvat obsah okna.",
+                "correct": true
+            },
+            {
+                "text": "Trvá-li určitá operace delší dobu, je třeba zobrazit okno informující o průběhu operace.",
+                "correct": true
+            },
+            {
+                "text": "Zobrazení každého prvku musí odrážet jeho aktuální stav (vybraný prvek, nepřístupný prvek).",
+                "correct": true
+            },
+            {
+                "text": "Prvky v okně by měly být seřazeny dle abecedy.",
+                "correct": false
+            },
+            {
+                "text": "Tlačítka, která ovlivňují celé okno, by měla být umístěna na nástrojovou lištu.",
+                "correct": true
+            },
+            {
+                "text": "Textový popis prvku by se měl umísťovat nalevo od prvku.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Označte nesprávná tvrzení, která představují dodržování zásad správného návrhu uživatelského rozhraní:",
+        "answers": [
+            {
+                "text": "Prvky v okně by měly být seřazeny dle abecedy.",
+                "correct": true
+            },
+            {
+                "text": "Je-li vstupem výběr z nabízených možn. (check box, radio button, list box) měla by být nastavena implic. volba.",
+                "correct": false
+            },
+            {
+                "text": "Související prvky musí být seskupeny a horizontálně i vertikálně zarovnány.",
+                "correct": false
+            },
+            {
+                "text": "Počáteční velikost a rozvržení okna musí být takové, aby uživatel nemusel posouvat obsah okna.",
+                "correct": false
+            },
+            {
+                "text": "Trvá-li určitá operace delší dobu, je třeba zobrazit okno informující o průběhu operace.",
+                "correct": false
+            },
+            {
+                "text": "Zobrazení každého prvku musí odrážet jeho aktuální stav (vybraný prvek, nepřístupný prvek).",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Uveďte, kolik typů diagramů je definováno v UML 2.x",
+        "answers": [
+            {
+                "text": "13",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Označte faktory, které tvoří vrcholy tzv. železného trojúhelníka - omezují projekt vývoje softwaru.",
+        "answers": [
+            {
+                "text": "náklady",
+                "correct": true
+            },
+            {
+                "text": "požadavky",
+                "correct": true
+            },
+            {
+                "text": "čas",
+                "correct": true
+            },
+            {
+                "text": "velikost týmu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "54)Odpovědnost vývojáře podle metodiky XP patří k:",
+        "answers": [
+            {
+                "text": "definování funkčních testů",
+                "correct": false
+            },
+            {
+                "text": "odhad náročnosti realizace požadavku",
+                "correct": true
+            },
+            {
+                "text": "programování požadavku",
+                "correct": true
+            },
+            {
+                "text": "definování priorit požadavků",
+                "correct": false
+            },
+            {
+                "text": "definování požadavků",
+                "correct": false
+            },
+            {
+                "text": "definování akceptačních testů",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "55)Odpovědnost zákazníka podle metodiky XP patří k:",
+        "answers": [
+            {
+                "text": "definování funkčních testů",
+                "correct": true
+            },
+            {
+                "text": "definování priorit požadavků",
+                "correct": true
+            },
+            {
+                "text": "definování požadavků",
+                "correct": true
+            },
+            {
+                "text": "definování akceptačních testů",
+                "correct": true
+            },
+            {
+                "text": "odhad náročnosti realizace požadavku",
+                "correct": false
+            },
+            {
+                "text": "programování požadavku",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Co je to uživatelské rozhraní?",
+        "answers": [
+            {
+                "text": "je hlavní okno aplikace",
+                "correct": false
+            },
+            {
+                "text": "je soubor prostředků, pomocí kterých probíhá interakce mezi uživateli a určitým zařízením či počítačovým programem",
+                "correct": true
+            },
+            {
+                "text": "je soubor rolí uživatelů aplikace",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Označte základní typy distribuce aplikací (dle RUPu):",
+        "answers": [
+            {
+                "text": "tichá instalace (silent installation)",
+                "correct": true
+            },
+            {
+                "text": "elektronická distribuce (downloadable software)",
+                "correct": true
+            },
+            {
+                "text": "krabicový software (ShrinkWrap Product)",
+                "correct": true
+            },
+            {
+                "text": "instalace pomocí balíčků (package manager installation)",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Označte pravdivá tvrzení o vývoji řízeném testy:",
+        "answers": [
+            {
+                "text": "velké množství procházejících jednotkových testů vytváří falešný pocit kvality kódu, jednotkové testy je proto nutné doplnit o další typy testů",
+                "correct": true
+            },
+            {
+                "text": "TDD je nejlepší dělat/programovat ve dvojicích - jeden píše testy, druhý vlastní kód. To vede k většímu počtu vývojářů na projektu.",
+                "correct": true
+            },
+            {
+                "text": "autor kódu a jednotkových testů při TDD je obvykle jedna osoba. Jednotkové testy jsou proto subjektivní - projevují se na nich stejné chyby a problémy jako na vlastním kódu",
+                "correct": false
+            },
+            {
+                "text": "vytváření jednotkových testů zhoršuje veřejné rozhraní testovaných tříd a modulů, neboť autoři přemýšlí víc nad testy než nad vlastním použitím třídy/modulu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "63 ) Označte nepravdivá tvrzení o vývoji řízeném testy:",
+        "answers": [
+            {
+                "text": "autor kódu a jednotkových testů při TDD je obvykle jedna osoba. Jednotkové testy jsou proto subjektivní - projevují se na nich stejné chyby a problémy jako na vlastním kódu",
+                "correct": true
+            },
+            {
+                "text": "vytváření jednotkových testů zhoršuje veřejné rozhraní testovaných tříd a modulů, neboť autoři přemýšlí víc nad testy než nad vlastním použitím třídy/modulu",
+                "correct": true
+            },
+            {
+                "text": "TDD je nejlepší dělat/programovat ve dvojicích - jeden píše testy, druhý vlastní kód. To vede k většímu počtu vývojářů na projektu.",
+                "correct": false
+            },
+            {
+                "text": "velké množství procházejících jednotkových testů vytváří falešný pocit kvality kódu, jednotkové testy je proto nutné doplnit o další typy testů",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Označte pravdivá tvrzení o knihovnách pro tvorbu GUI v Javě:",
+        "answers": [
+            {
+                "text": "Pro komponenty z knihovny Swing platí, že události na které reagují,mohou být i z knihovny AWT",
+                "correct": true
+            },
+            {
+                "text": "Knihovna Swing vznikla jako rozšíření knihovny AWT (její třídy mají jako předky třídy z knihovny AWT)",
+                "correct": true
+            },
+            {
+                "text": "Většina tříd pro komponenty v knihovně Swing má na začátku názvu písmeno J např.JButton,JLabel",
+                "correct": true
+            },
+            {
+                "text": "Knihovny AWT a Swing jsou na sobě nezávislé",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Pro vztah kompozice v diagramu tříd platí (single)",
+        "answers": [
+            {
+                "text": "představuje vztah celku a části, objekt třídy části nemůže existovat bez objektu třídy celku, tj. jestliže objekt celku zaniká, musí zaniknout i objekty částí",
+                "correct": true
+            },
+            {
+                "text": "představuje vztah mezi obecnou a speciální třídou",
+                "correct": false
+            },
+            {
+                "text": "představuje vztah celku a části, části mohou být obsaženy v různých celcích",
+                "correct": false
+            },
+            {
+                "text": "vztah kompozice se nevyskytuje v diagramu tříd UML 2.x",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "71)Praktika, která se realizuje každý den v rámci iterace v metodice Scrum se nazývá",
+        "answers": [
+            {
+                "text": "Standup Meeting",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Pro jaké projekty nejsou příliš vhodné agilní metodiky?",
+        "answers": [
+            {
+                "text": "Velký tým nad 50 lidí.",
+                "correct": true
+            },
+            {
+                "text": "V projektu se vytváří znovupoužitelné komponenty",
+                "correct": true
+            },
+            {
+                "text": "Zákazník komunikuje s dodavatelem jen na začátku a konci projektu.",
+                "correct": true
+            },
+            {
+                "text": "Vyvíjí se životně důležitý SW.",
+                "correct": true
+            },
+            {
+                "text": "Část řešení vytváří subdodavatelé.",
+                "correct": true
+            },
+            {
+                "text": "Malý tým do 10 lidí",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Při pokrytí kódu testy se zjišťuje",
+        "answers": [
+            {
+                "text": "zda jsou otestovány mezní hodnoty vstupů metod",
+                "correct": true
+            },
+            {
+                "text": "zda jsou pokryty všechny cesty průchodu kódem",
+                "correct": true
+            },
+            {
+                "text": "zda jednotkové testy pokrývají všechny možné hodnoty vstupů",
+                "correct": true
+            },
+            {
+                "text": "zda je kód správně okomentován",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Prvek klasifikátor (clasifier) v sekvenčním diagramu může být",
+        "answers": [
+            {
+                "text": "objekt",
+                "correct": true
+            },
+            {
+                "text": "třída",
+                "correct": true
+            },
+            {
+                "text": "případ užití",
+                "correct": true
+            },
+            {
+                "text": "aktér",
+                "correct": true
+            },
+            {
+                "text": "metoda",
+                "correct": false
+            },
+            {
+                "text": "stav objektu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Pro rozšiřující případ užití se v UML 2.x používá vztah se stereotypem. (single)",
+        "answers": [
+            {
+                "text": "extend",
+                "correct": true
+            },
+            {
+                "text": "extends",
+                "correct": false
+            },
+            {
+                "text": "add",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Pro vodopádový model životního cyklu softwaru platí",
+        "answers": [
+            {
+                "text": "obsahuje tyto fáze: specifikace požadavků etc like Široký",
+                "correct": true
+            },
+            {
+                "text": "předpokládá, že se všechny požadavky specifikují na začátku projektu",
+                "correct": true
+            },
+            {
+                "text": "je výhodný v případě měnících se požadavků na systém",
+                "correct": false
+            },
+            {
+                "text": "výhodou je, že lze dobře stanovit rozsah projektu",
+                "correct": true
+            },
+            {
+                "text": "k integraci modulů dochází okamžitě po jejich implementaci",
+                "correct": false
+            },
+            {
+                "text": "dnes se již nepoužívá",
+                "correct": false
+            },
+            {
+                "text": "výhodou je častá zpětná vazba od zákazníka",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Přiřaďte následující charakteristiky agilních metodik:",
+        "answers": [
+            {
+                "text": "definují jen principy a praktiky",
+                "correct": true
+            },
+            {
+                "text": "předpokládají, že SW procesy není možné popsat",
+                "correct": true
+            },
+            {
+                "text": "hodí se pro výzkumné projekty a projekty s rychlým vývojem",
+                "correct": true
+            },
+            {
+                "text": "požadavky definují na začátku projektu",
+                "correct": false
+            },
+            {
+                "text": "předpokládají, že SW procesy je možné popsat",
+                "correct": false
+            },
+            {
+                "text": "obsahují přesně definované procesy, činnosti, artefakty",
+                "correct": false
+            },
+            {
+                "text": "hodí se pro standardní projekty, velké projekty",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Přiřaďte správný popis k modálnímu typu okna:",
+        "answers": [
+            {
+                "text": "příkladem jsou dialogová okna Open dialog, Save dialog atd",
+                "correct": true
+            },
+            {
+                "text": "takové okno, které musí být uzavřeno a teprve potom je předáno řízení do jiného okna",
+                "correct": true
+            },
+            {
+                "text": "okno zůstane otevřeno a je možné předat řízení na jiné otevřené okno",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Pro plavecké dráhy (swimlines) v diagramu aktivit platí (single)",
+        "answers": [
+            {
+                "text": "lze využít pro modelování nositele aktivit",
+                "correct": true
+            },
+            {
+                "text": "slouží k vyjádření paralelních procesů",
+                "correct": false
+            },
+            {
+                "text": "v diagramu aktivit se nevyskytují",
+                "correct": false
+            },
+            {
+                "text": "slouží k uspořádání aktivit podle posloupnosti",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "S webovou službou (Web service) nůže komunikovat",
+        "answers": [
+            {
+                "text": "jen aplikace či webová služba",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Přiřaďte pojem CORBA k příslušné komponentní architektuře:",
+        "answers": [
+            {
+                "text": "Object Request Broker",
+                "correct": true
+            },
+            {
+                "text": "vytváří organizace OMG",
+                "correct": true
+            },
+            {
+                "text": "Entity Beans",
+                "correct": false
+            },
+            {
+                "text": "out of process server",
+                "correct": false
+            },
+            {
+                "text": "DLL knihovna",
+                "correct": false
+            },
+            {
+                "text": "Session Beans",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Přiřaďte pojem COM k příslušné komponentní architektuře:",
+        "answers": [
+            {
+                "text": "out of process server",
+                "correct": true
+            },
+            {
+                "text": "DLL knihovna",
+                "correct": true
+            },
+            {
+                "text": "Object Request Broker",
+                "correct": false
+            },
+            {
+                "text": "Entity Beans",
+                "correct": false
+            },
+            {
+                "text": "vytváří organizace OMG",
+                "correct": false
+            },
+            {
+                "text": "Session Beans",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Přiřaďte pojem EJB k příslušné komponentní architektuře:",
+        "answers": [
+            {
+                "text": "Entity Beans",
+                "correct": true
+            },
+            {
+                "text": "Session Beans",
+                "correct": true
+            },
+            {
+                "text": "out of process server",
+                "correct": false
+            },
+            {
+                "text": "vytváří organizace OMG",
+                "correct": false
+            },
+            {
+                "text": "DLL knihovna",
+                "correct": false
+            },
+            {
+                "text": "Object Request Broker",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Seznam požadavků na SW se v metodice Scrum nazývá (SINGLE)",
+        "answers": [
+            {
+                "text": "product backlog",
+                "correct": true
+            },
+            {
+                "text": "features list",
+                "correct": false
+            },
+            {
+                "text": "requirements list",
+                "correct": false
+            },
+            {
+                "text": "neodpovídat na tuto otázku",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Spojte typ architektury - dvouúrovňová architektura - se správným vysvětlením:",
+        "answers": [
+            {
+                "text": "odděluje a zapouzdřuje aplikační logiku do samostatné vrstvy tak, aby ji mohli používat různí klienti",
+                "correct": true
+            },
+            {
+                "text": "odděluje řízení databáze od prezentace dat a aplikační logiky",
+                "correct": false
+            },
+            {
+                "text": "je tříúrovňová architektura C/S, kde prezentační vrstva je webový prohlížeč",
+                "correct": false
+            },
+            {
+                "text": "odděluje aplikační logiku, která vyžaduje interakci s uživatelem od aplikační logiky nezávislé na interakci s uživatelem",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Spojte typ architektury - tříúrovňová architektura - se správným vysvětlením:",
+        "answers": [
+            {
+                "text": "odděluje řízení databáze od prezentace dat a aplikační logiky",
+                "correct": true
+            },
+            {
+                "text": "odděluje a zapouzdřuje aplikační logiku do samostatné vrstvy tak, aby ji mohli používat různí klienti",
+                "correct": false
+            },
+            {
+                "text": "je tříúrovňová architektura C/S, kde prezentační vrstva je webový prohlížeč",
+                "correct": false
+            },
+            {
+                "text": "odděluje aplikační logiku, která vyžaduje interakci s uživatelem od aplikační logiky nezávislé na interakci s uživatelem",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Spojte typ architektury - tenký klient - se správným vysvětlením:",
+        "answers": [
+            {
+                "text": "je tříúrovňová architektura C/S, kde prezentační vrstva je webový prohlížeč",
+                "correct": true
+            },
+            {
+                "text": "odděluje a zapouzdřuje aplikační logiku do samostatné vrstvy tak, aby ji mohli používat různí klienti",
+                "correct": false
+            },
+            {
+                "text": "odděluje řízení databáze od prezentace dat a aplikační logiky",
+                "correct": false
+            },
+            {
+                "text": "odděluje aplikační logiku, která vyžaduje interakci s uživatelem od aplikační logiky nezávislé na interakci s uživatelem",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Spojte typ architektury - čtyřúrovňová architektura - se správným vysvětlením:",
+        "answers": [
+            {
+                "text": "odděluje aplikační logiku, která vyžaduje interakci s uživatelem od aplikační logiky nezávislé na interakci s uživatelem",
+                "correct": true
+            },
+            {
+                "text": "odděluje a zapouzdřuje aplikační logiku do samostatné vrstvy tak, aby ji mohli používat různí klienti",
+                "correct": false
+            },
+            {
+                "text": "odděluje řízení databáze od prezentace dat a aplikační logiky",
+                "correct": false
+            },
+            {
+                "text": "je tříúrovňová architektura C/S, kde prezentační vrstva je webový prohlížeč",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "S webovou službou (Web service) může komunikovat",
+        "answers": [
+            {
+                "text": "jen aplikace či webová služba",
+                "correct": true
+            },
+            {
+                "text": "klient přes webový prohlížeč nebo aplikace (či webová služba)",
+                "correct": false
+            },
+            {
+                "text": "žádná z možností",
+                "correct": false
+            },
+            {
+                "text": "jen klient přes webový prohlížeč",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "140)Stereotyp v UML",
+        "answers": [
+            {
+                "text": "je například <<interface>>",
+                "correct": true
+            },
+            {
+                "text": "je možnost, jak rozšiřovat UML",
+                "correct": true
+            },
+            {
+                "text": "je prvek, který se opakuje ve více diagramech",
+                "correct": true
+            },
+            {
+                "text": "může být uveden jedině u třídy v diagramu tříd",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Třídy, které jsou nazvány XxxAdapter, kde Xxx představuje typ události v GUI, např. WindowAdapter, MouseAdapter, KeyAdapter, přestavují: (single)",
+        "answers": [
+            {
+                "text": "prázdnou implementaci všech metod shodně nazvaného rozhraní sloužícího pro tvorbu ovladače událostí (např. WindowListener, MouseListener). Pokud programátor píše ovladač události jako potomka XxxAdapteru nemusí již implementovat metody rozhraní Listeneru, které ve svém kódu nepoužije.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uveďte správná tvrzení o metodice RUP.",
+        "answers": [
+            {
+                "text": "Metodiku RUP je možné použít pro agilní projekty.",
+                "correct": true
+            },
+            {
+                "text": "Metodika RUP je určena pro velké projekty.",
+                "correct": true
+            },
+            {
+                "text": "RUP je možné přizpůsobit danému projektu.",
+                "correct": true
+            },
+            {
+                "text": "Metodika RUP používá vodopádový model.",
+                "correct": false
+            },
+            {
+                "text": "Metodika RUP je volně dostupná.",
+                "correct": false
+            },
+            {
+                "text": "Metodika RUP musí být použita na projektu celá - všechny role, činnosti, produkty.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Uveďte, zda jsou následující tvrzení o agilních metodikách pravdivá.",
+        "answers": [
+            {
+                "text": "Agilní metodiky definují jen principy a praktiky.",
+                "correct": true
+            },
+            {
+                "text": "Agilní metodiky jsou určeny spíše pro menší týmy.",
+                "correct": true
+            },
+            {
+                "text": "Agilní metodiky vyžadují specializaci členů týmu na analytiky, návrháře, programátory, testery.",
+                "correct": false
+            },
+            {
+                "text": "Agilní metodiky popisují procesy a činnosti při vývoji softwaru. //procesy ne, ale PRINCIPY ANO",
+                "correct": false
+            },
+            {
+                "text": "Agilní metodiky jsou postaveny na direktivním řízení.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte, které vlastnosti patří mezi 6 atributů kvality dle normy ISO/IEC 9126 //dále patří funkčnost",
+        "answers": [
+            {
+                "text": "použitelnost (Usability)",
+                "correct": true
+            },
+            {
+                "text": "přenositelnost (Portability)",
+                "correct": true
+            },
+            {
+                "text": "účinnost (Efficiency)",
+                "correct": true
+            },
+            {
+                "text": "bezporuchovost (Reliability)",
+                "correct": true
+            },
+            {
+                "text": "udržovatelnost (Maintainability)",
+                "correct": true
+            },
+            {
+                "text": "funkcionalita (Functionality)",
+                "correct": true
+            },
+            {
+                "text": "rychlost",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "V metodice extrémní programování se tvrdí, že refaktoring umožňuje dělat jednodušší počáteční návrh aplikace. Označte zdůvodnění, které používají: (single)",
+        "answers": [
+            {
+                "text": "refactoring snižuje náklady na změny v průběhu projektu",
+                "correct": true
+            },
+            {
+                "text": "refactoring umožňuje předjímat možné budoucí změny",
+                "correct": false
+            },
+            {
+                "text": "refactorování umožňuje vyhledat chyby v návrhu (lze snadno verifikovat návrh aplikace),",
+                "correct": false
+            },
+            {
+                "text": "bez refactoringu nelze vytvářet flexibilní řešení; pojem flexibilní se zde používá ve smyslu, že řešení je více - parametrizovatelné při nasazení",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "V designovém diagramu tříd se uvádí:",
+        "answers": [
+            {
+                "text": "průchodnost",
+                "correct": true
+            },
+            {
+                "text": "datový typ atributu",
+                "correct": true
+            },
+            {
+                "text": "viditelnost atributu",
+                "correct": true
+            },
+            {
+                "text": "asociační třída",
+                "correct": false
+            },
+            {
+                "text": "parametry metod",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Vyberte správná tvrzení pro iterativní model životního cyklu:",
+        "answers": [
+            {
+                "text": "výsledkem každé iterace je spustitelný produkt (release)",
+                "correct": true
+            },
+            {
+                "text": "výhodou je rychlá a častá zpětná vazba od zákazníka",
+                "correct": true
+            },
+            {
+                "text": "v rámci každé iterace probíhají všechny fáze požadavky analýza návrh implementace testování",
+                "correct": true
+            },
+            {
+                "text": "všechny iterace probíhají podle stejných postupů",
+                "correct": false
+            },
+            {
+                "text": "na začátku projektu se specifikují detailně všechny požadavky",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte nesprávná tvrzení pro iterativní model životního cyklu:",
+        "answers": [
+            {
+                "text": "všechny iterace probíhají podle stejných postupů",
+                "correct": true
+            },
+            {
+                "text": "výsledkem každé iterace je spustitelný produkt (release)",
+                "correct": false
+            },
+            {
+                "text": "výhodou je rychlá a častá zpětná vazba od zákazníka",
+                "correct": false
+            },
+            {
+                "text": "v rámci každé iterace probíhají všechny fáze požadavky analýza návrh implementace testování",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte, na kterých best practises je založena metodika RUP.",
+        "answers": [
+            {
+                "text": "inkrementální vývoj",
+                "correct": true
+            },
+            {
+                "text": "správa požadavků",
+                "correct": true
+            },
+            {
+                "text": "použití komponentové architektury",
+                "correct": true
+            },
+            {
+                "text": "vizuální modelování (UML)",
+                "correct": true
+            },
+            {
+                "text": "kontrola a ověřování kvality",
+                "correct": true
+            },
+            {
+                "text": "řízení změn",
+                "correct": true
+            },
+            {
+                "text": "denní schůzky",
+                "correct": false
+            },
+            {
+                "text": "párové programování",
+                "correct": false
+            },
+            {
+                "text": "vodopádový vývoj",
+                "correct": false
+            },
+            {
+                "text": "vývoj řízený užitnými vlastnostmi (features)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "V jaké podobě se distribuuje metodika RUP?",
+        "answers": [
+            {
+                "text": "tištěný manuál",
+                "correct": false
+            },
+            {
+                "text": "sada knih",
+                "correct": false
+            },
+            {
+                "text": "kniha",
+                "correct": false
+            },
+            {
+                "text": "hypertextový dokument",
+                "correct": true
+            },
+            {
+                "text": "hypertextový dokument a nástroj na správu metodiky Rational Method Composer",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "158 )Vyberte kolik rolí je definováno v RUP",
+        "answers": [
+            {
+                "text": "více než 15",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Vyberte standardy technologie Web services",
+        "answers": [
+            {
+                "text": "SOAP (Simple Object Access Protocol)",
+                "correct": true
+            },
+            {
+                "text": "WSDL (Web Service Description Language)",
+                "correct": true
+            },
+            {
+                "text": "DISCO (Discovery)",
+                "correct": true
+            },
+            {
+                "text": "UDDI (Universal Description Discovery and Integration)",
+                "correct": true
+            },
+            {
+                "text": "TCP/IP",
+                "correct": false
+            },
+            {
+                "text": "HTML",
+                "correct": false
+            },
+            {
+                "text": "COM+",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "V jaké podobě se píší požadavky dle metodiky XP? (single)",
+        "answers": [
+            {
+                "text": "user story",
+                "correct": true
+            },
+            {
+                "text": "requirement",
+                "correct": false
+            },
+            {
+                "text": "use case",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte správné (platné) konvence pro UML diagram tříd. Vyberte libovolný počet možných odpovědí. Správná nemusí být žádná, ale také mohou být správné všechny.",
+        "answers": [
+            {
+                "text": "jména abstraktních tříd a metod se píší kurzívou",
+                "correct": true
+            },
+            {
+                "text": "metody začínají malým písmenem",
+                "correct": true
+            },
+            {
+                "text": "atributy začínají malým písmenem",
+                "correct": true
+            },
+            {
+                "text": "jméno třídy začíná velkým písmenem",
+                "correct": true
+            },
+            {
+                "text": "jména abstraktních tříd a metod se píší tučně",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte pravdivá tvrzení o refaktoringu:",
+        "answers": [
+            {
+                "text": "refaktorování urychluje programování, neboť v nepřehledném či duplicitním kódu se špatně dělají změny,",
+                "correct": true
+            },
+            {
+                "text": "Refaktorování jsou takové úpravy existujícího kódu, které vedou k jeho snazšímu pochopení a k usnadnění dalších úprav bez změny jeho chování.",
+                "correct": true
+            },
+            {
+                "text": "Doporučuje se pročistit (refaktorovat) kód těsně před dokončením aplikace.",
+                "correct": false
+            },
+            {
+                "text": "Pokud neprocházejí jednotkové testy, tak by se měl refaktorovat zdrojový kód aplikace i testů.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Vyberte techniky verifikace - ověřování:",
+        "answers": [
+            {
+                "text": "bezpečnostní testování",
+                "correct": false
+            },
+            {
+                "text": "review",
+                "correct": true
+            },
+            {
+                "text": "statická analýza",
+                "correct": true
+            },
+            {
+                "text": "walkthrough",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "169)Vyberte z následujících tvrzení o agilních metodikách ta pravdivá.",
+        "answers": [
+            {
+                "text": "Agilní metodiky vyžadují specializaci členů týmu na analytiky, návrháře, programátory, testery.",
+                "correct": false
+            },
+            {
+                "text": "Agilní metodiky definují jen principy a praktiky.",
+                "correct": true
+            },
+            {
+                "text": "Agilní metodiky jsou vhodné pro rozsáhlé a komplexní projekty.",
+                "correct": false
+            },
+            {
+                "text": "Agilní metodiky popisují procesy a činnosti při vývoji softwaru.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "V jakých případech lze použít vazbu generalizace-specializace v diagramu případů užití? (MULTI)",
+        "answers": [
+            {
+                "text": "pro vztah aktérů",
+                "correct": true
+            },
+            {
+                "text": "pro vztah mezi případy užití",
+                "correct": true
+            },
+            {
+                "text": "pro vztah mezi aktérem a případem užití",
+                "correct": false
+            },
+            {
+                "text": "nelze použít",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Zaškrtněte správná tvrzení o architektonických vzorech",
+        "answers": [
+            {
+                "text": "představují základní strukturu softwarového systému, která se skládá ze subsystémů, jejich odpovědností a vzájemných vztahů",
+                "correct": true
+            },
+            {
+                "text": "důležitou vlastností je, že obsahují různé atributy kvality systému - některé vzory představují řešení problémů výkonu, jiné řeší problém vysoké dostupnosti",
+                "correct": true
+            },
+            {
+                "text": "řeší opakující se problémy návrhu tříd",
+                "correct": true
+            },
+            {
+                "text": "hlavním cílem jejich použití je zvýšení rychlosti systému",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Z následujících nástrojů vyberte ty, které podporují sestavení (build) aplikace",
+        "answers": [
+            {
+                "text": "Hudson //správa sestavení",
+                "correct": true
+            },
+            {
+                "text": "Maven // vytváření skript",
+                "correct": true
+            },
+            {
+                "text": "Luntbuild //správa sestavení",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Zaškrtněte všechny správné výroky o případu užití v diagramu případů užití UML.",
+        "answers": [
+            {
+                "text": "případ užití se v průběhu vývoje nachází v různých stavech??",
+                "correct": true
+            },
+            {
+                "text": "případ užití je množina možných scénářů, které vedou k dosažení cíle případu užit",
+                "correct": true
+            },
+            {
+                "text": "případ užití musí být hned zpočátku detailně rozepsán včetně alternativních scénářů",
+                "correct": false
+            },
+            {
+                "text": "případ užití se na diagramu případů užití znázorňuje obdélníkem",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "180)Základním cílem při vývoji řízeném testy je",
+        "answers": [
+            {
+                "text": "napsat co nejvíce testů, abychom měli jistotu, že nikde v kódu není chyba",
+                "correct": true
+            },
+            {
+                "text": "napsat čistý kód, který funguje (přesně splňuje požadavky uživatele)",
+                "correct": false
+            },
+            {
+                "text": "snaha co nejrychleji vytvořit aplikaci",
+                "correct": false
+            },
+            {
+                "text": "ušetřit náklady na testery, testy píší a provádějí přímo programátoři",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "181)Základní dokument poskytující informaci o průběhu projektu je v metodice Scrum",
+        "answers": [
+            {
+                "text": "BurnDown Chart",
+                "correct": true
+            },
+            {
+                "text": "WorkItems report",
+                "correct": false
+            },
+            {
+                "text": "Scrum Chart",
+                "correct": false
+            },
+            {
+                "text": "Daily report",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Asociační třída se používá",
+        "answers": [
+            {
+                "text": "v konceptuálním modelu tříd",
+                "correct": true
+            },
+            {
+                "text": "v implementačním modelu tříd",
+                "correct": false
+            },
+            {
+                "text": "v designovém modelu tříd",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Co je to UML profil",
+        "answers": [
+            {
+                "text": "je to přizpůsobení UML v určitém CASE nástroji??",
+                "correct": false
+            },
+            {
+                "text": "představuje obecný mechanismus pro vytváření UML modelů ve specifických problémových oblastech",
+                "correct": true
+            },
+            {
+                "text": "je to popis prvků UML",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Aktuální verze UML?",
+        "answers": [
+            {
+                "text": "2.5",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Designový model doplnění",
+        "answers": [
+            {
+                "text": "viditelnosti,",
+                "correct": true
+            },
+            {
+                "text": "datových typů,",
+                "correct": true
+            },
+            {
+                "text": "metod",
+                "correct": true
+            },
+            {
+                "text": "parametrů metod,",
+                "correct": true
+            },
+            {
+                "text": "návratových hodnot metod",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Konceptuální model:",
+        "answers": [
+            {
+                "text": "zachycuje jen byznys třídy",
+                "correct": true
+            },
+            {
+                "text": "zachycuje hlavní odpovědnosti třídy (atributy)",
+                "correct": true
+            },
+            {
+                "text": "používají se názvy s diakritikou, terminologie věcné oblasti",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Specifika JavaFX",
+        "answers": [
+            {
+                "text": "Souřadnice i rozměry se zadávají jako čísla typu double",
+                "correct": true
+            },
+            {
+                "text": "Jakékoliv operace, které se mají vzápětí projevit na obrazovce, je třeba provádět z vlákna JavaFX Application",
+                "correct": true
+            },
+            {
+                "text": "Operace, které trvají delší dobu, je třeba provádět v jiném vlákně a vlákno JavaFX Application pověřovat pouze zobrazením výsledku",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Jaké jsou hlavní části DevOps?",
+        "answers": [
+            {
+                "text": "Kontinuální testování, kontinuální audit, kontinuální reporting nejvyššímu managementu",
+                "correct": false
+            },
+            {
+                "text": "Kontinuální monitoring, agilní testování, agilní projektový management",
+                "correct": false
+            },
+            {
+                "text": "Kontinuální deployment, kontinuální testování, kontinuální monitoring",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Co patří mezi praktiky IaaC (Infrastukture as a Code)?",
+        "answers": [
+            {
+                "text": "V kódu, který definuje (definition files) infastrukturum prováděj raději velké změn, ale méně často",
+                "correct": false
+            },
+            {
+                "text": "Nevlastní žádný hardware",
+                "correct": false
+            },
+            {
+                "text": "Drž všechny služby dostupné kontinuálně (použití blue/green deployment)",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Jak se dělí prostředí při vývoji software z pohledu provozu softwaru?",
+        "answers": [
+            {
+                "text": "Vývojové->Zátěžové->Akceptační->Před-produkční",
+                "correct": false
+            },
+            {
+                "text": "Testovací->Auditní->Produkční",
+                "correct": false
+            },
+            {
+                "text": "Vývojové->Testovací->Před-produkční->Produkční",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Co si vše kupujete jako službu, pokud používáte PaaS?",
+        "answers": [
+            {
+                "text": "Runtime, operační systém, middlware, síťovou vrstvu",
+                "correct": true
+            },
+            {
+                "text": "Datovou základnu, aplikace, server, operační systém",
+                "correct": false
+            },
+            {
+                "text": "Call centrum, datovou základnu, server, middlware",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "text": "Co patří mezi best practices kontinuální integrace?",
+        "answers": [
+            {
+                "text": "Jednotné uložiště zdrojového kódu",
+                "correct": true
+            },
+            {
+                "text": "Každodenní commit zdrojového kódu",
+                "correct": true
+            },
+            {
+                "text": "Každodenní stabilizace odevzdaného zdrojového kódu",
+                "correct": false
+            }
+        ]
+    }
+]
