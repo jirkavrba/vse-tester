@@ -14,3 +14,9 @@ export type QuestionSet = {
     multichoice: boolean;
     questions: Array<Question>;
 };
+
+export enum QuestionState {
+    Unanswered,
+    Correct,
+    Incorrect,
+}
