@@ -1,257 +1,127 @@
 {
     "code": "1FP201",
     "name": "Finance podniku",
-    "multichoice": true,
+    "multichoice": false,
     "questions": [
         {
             "text": "Jak se nazývá úvěr, kterým banka odkupuje směnky před dobou splatnosti a nevzdává se možnosti uplatňovat nárok na předchozím majiteli, v případé nesplacení směnky?",
             "answers": [
-                {
-                    "text": "avalový",
-                    "correct": false
-                },
-                {
-                    "text": "akceptační",
-                    "correct": false
-                },
-                {
-                    "text": "eskontní",
-                    "correct": true
-                },
-                {
-                    "text": "kontokorentní",
-                    "correct": false
-                }
+                { "text": "avalový", "correct": false },
+                { "text": "kontokorentní", "correct": false },
+                { "text": "akceptační", "correct": false },
+                { "text": "eskontní", "correct": true }
             ]
         },
         {
             "text": "Vzoreček budoucí hodnoty anuity placené dopředu:",
             "answers": [
-                {
-                    "text": "FVAp = FVAz * (1 + i)",
-                    "correct": true
-                },
-                {
-                    "text": "FVAp = Az * (1 + i)^2",
-                    "correct": false
-                },
-                {
-                    "text": "PVap = PVAz / (1 - i)",
-                    "correct": false
-                }
+                { "text": "FVAp = FVAz * (1 + i)", "correct": true },
+                { "text": "FVAp = Az * (1 + i)^2", "correct": false },
+                { "text": "PVap = PVAz / (1 - i)", "correct": false }
             ]
         },
         {
             "text": "Předmětem cizí směnky je bezpodmínečný příkaz:",
             "answers": [
                 {
-                    "text": "Výstavce směnečníkovi zaplatit v určitý den určitou částku oprávněnému majiteli směnky",
-                    "correct": true
-                },
-                {
                     "text": "Výstavce směnečníkovi nezaplatit v určitý den určitou částku oprávněnému majiteli směnky",
                     "correct": false
+                },
+                {
+                    "text": "Výstavce směnečníkovi zaplatit v určitý den určitou částku oprávněnému majiteli směnky",
+                    "correct": true
                 }
             ]
         },
         {
             "text": "Majetková dividenda nemůže být vyplacena v podobě:",
             "answers": [
-                {
-                    "text": "Akcií dceřiné společnosti",
-                    "correct": false
-                },
-                {
-                    "text": "Pivních kartonech",
-                    "correct": false
-                },
+                { "text": "Stavebních něco", "correct": false },
                 {
                     "text": "V hotovosti v podobě peněžních prostředků",
                     "correct": true
                 },
-                {
-                    "text": "Stavebních něco",
-                    "correct": false
-                }
+                { "text": "Akcií dceřiné společnosti", "correct": false },
+                { "text": "Pivních kartonech", "correct": false }
             ]
         },
         {
             "text": "V umořovacích schématu představuje rozdíl mezi KS a PS ve stejném období",
             "answers": [
-                {
-                    "text": "anuita",
-                    "correct": false
-                },
-                {
-                    "text": "anuita a splátka",
-                    "correct": false
-                },
-                {
-                    "text": "splátka",
-                    "correct": true
-                },
-                {
-                    "text": "úrok",
-                    "correct": false
-                }
+                { "text": "úrok", "correct": false },
+                { "text": "splátka", "correct": true },
+                { "text": "anuita a splátka", "correct": false },
+                { "text": "anuita", "correct": false }
             ]
         },
         {
             "text": "Co zvyšuje CF?",
             "answers": [
-                {
-                    "text": "Emise akcií",
-                    "correct": true
-                },
-                {
-                    "text": "zvýšení nákladů",
-                    "correct": false
-                },
-                {
-                    "text": "snížení tržeb",
-                    "correct": false
-                }
+                { "text": "zvýšení nákladů", "correct": false },
+                { "text": "snížení tržeb", "correct": false },
+                { "text": "Emise akcií", "correct": true }
             ]
         },
         {
             "text": "Když matka plánuje pro dceru dlouhodobé strategické cíle, tak se jedná o:",
             "answers": [
-                {
-                    "text": "Strategická kontrola",
-                    "correct": false
-                },
-                {
-                    "text": "Strategické plánování",
-                    "correct": true
-                }
+                { "text": "Strategické plánování", "correct": true },
+                { "text": "Strategická kontrola", "correct": false }
             ]
         },
         {
             "text": "VH musí s.r.o. nejdříve dát na:",
             "answers": [
+                { "text": "zaplatit z něj daně", "correct": false },
                 {
                     "text": "povinný příděl do rezervního fondu",
                     "correct": true
                 },
-                {
-                    "text": "sociální fond",
-                    "correct": false
-                },
-                {
-                    "text": "zaplatit z něj daně",
-                    "correct": false
-                }
+                { "text": "sociální fond", "correct": false }
             ]
         },
         {
             "text": "Definiční obor korelačního koeficientu:",
             "answers": [
-                {
-                    "text": "<-1;1>",
-                    "correct": true
-                },
-                {
-                    "text": "(-1;1)",
-                    "correct": false
-                },
-                {
-                    "text": "(-1;1>",
-                    "correct": false
-                },
-                {
-                    "text": "<-1;1)",
-                    "correct": false
-                }
+                { "text": "<-1;1>", "correct": true },
+                { "text": "(-1;1)", "correct": false },
+                { "text": "(-1;1>", "correct": false },
+                { "text": "<-1;1)", "correct": false }
             ]
         },
         {
             "text": "Faktoring od forfaitingu se liší:",
             "answers": [
-                {
-                    "text": "nezajištěnými pohledávkami",
-                    "correct": true
-                },
-                {
-                    "text": "zajištěnými pohledávkami",
-                    "correct": false
-                }
+                { "text": "zajištěnými pohledávkami", "correct": false },
+                { "text": "nezajištěnými pohledávkami", "correct": true }
             ]
         },
         {
             "text": "O co se liší náklady zastoupení v užším a širším pojetí?",
             "answers": [
-                {
-                    "text": "O motivační a monitorující složku",
-                    "correct": true
-                },
-                {
-                    "text": "O finančí složku",
-                    "correct": false
-                }
+                { "text": "O finančí složku", "correct": false },
+                { "text": "O motivační a monitorující složku", "correct": true }
             ]
         },
         {
             "text": "Riziko, které lze rozložit je",
             "answers": [
-                {
-                    "text": "nesystematické",
-                    "correct": true
-                },
-                {
-                    "text": "systematické",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Silniční daň patří mezi daně:",
-            "answers": [
-                {
-                    "text": "přímé",
-                    "correct": true
-                },
-                {
-                    "text": "majetkové",
-                    "correct": true
-                },
-                {
-                    "text": "nepřímé",
-                    "correct": false
-                }
+                { "text": "nesystematické", "correct": true },
+                { "text": "systematické", "correct": false }
             ]
         },
         {
             "text": "Když jde o zelenou poštu, jak se říká tomu „zlému\" akcionáři?",
             "answers": [
-                {
-                    "text": "modrý listonoš",
-                    "correct": false
-                },
-                {
-                    "text": "černý rytíř",
-                    "correct": true
-                },
-                {
-                    "text": "zelená příšera",
-                    "correct": false
-                },
-                {
-                    "text": "červení alizka",
-                    "correct": false
-                }
+                { "text": "modrý listonoš", "correct": false },
+                { "text": "červení alizka", "correct": false },
+                { "text": "černý rytíř", "correct": true },
+                { "text": "zelená příšera", "correct": false }
             ]
         },
         {
             "text": "Roční nominální úroková míra je:",
             "answers": [
-                {
-                    "text": "větší než reálná úroková míra a větší nebo rovna efektivní úrokové míře",
-                    "correct": false
-                },
-                {
-                    "text": "větší než reálná úroková míra a menší nebo rovna efektivní úrokové míře",
-                    "correct": true
-                },
                 {
                     "text": "menší než reálná úroková míra a menší nebo rovna efektivní úrokové míře",
                     "correct": false
@@ -259,90 +129,43 @@
                 {
                     "text": "menší než reálná úroková míra a větší nebo rovna efektivní úrokové míře",
                     "correct": false
+                },
+                {
+                    "text": "větší než reálná úroková míra a větší nebo rovna efektivní úrokové míře",
+                    "correct": false
+                },
+                {
+                    "text": "větší než reálná úroková míra a menší nebo rovna efektivní úrokové míře",
+                    "correct": true
                 }
             ]
         },
         {
             "text": "Při směnce-aval banka vystupuje jako:",
             "answers": [
-                {
-                    "text": "solidární dlužník",
-                    "correct": true
-                },
-                {
-                    "text": "banka nezasahuje",
-                    "correct": false
-                }
+                { "text": "banka nezasahuje", "correct": false },
+                { "text": "solidární dlužník", "correct": true }
             ]
         },
         {
             "text": "V případě, že od nepřátelské firmy nakupujeme naše akcie za vyšší než tržní cenu, jedná se o:",
             "answers": [
-                {
-                    "text": "hořké pilulky",
-                    "correct": false
-                },
-                {
-                    "text": "repelent na žraloky",
-                    "correct": false
-                },
-                {
-                    "text": "zlatý padák",
-                    "correct": false
-                },
-                {
-                    "text": "zelená pošta",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Které náklady jsou nepřímo závislé na stavu materiálu?",
-            "answers": [
-                {
-                    "text": "manipulační",
-                    "correct": false
-                },
-                {
-                    "text": "pořizovací",
-                    "correct": true
-                },
-                {
-                    "text": "skladovací",
-                    "correct": false
-                },
-                {
-                    "text": "kapitálové",
-                    "correct": false
-                },
-                {
-                    "text": "pojištění",
-                    "correct": false
-                },
-                {
-                    "text": "škoda",
-                    "correct": false
-                },
-                {
-                    "text": "manka",
-                    "correct": false
-                },
-                {
-                    "text": "ze ztrát z množstevních slev",
-                    "correct": true
-                }
+                { "text": "hořké pilulky", "correct": false },
+                { "text": "zelená pošta", "correct": true },
+                { "text": "repelent na žraloky", "correct": false },
+                { "text": "zlatý padák", "correct": false }
             ]
         },
         {
             "text": "Co zvýší hospodářský výsledek (pro výpočet daňového základu)?",
             "answers": [
                 {
-                    "text": "kladný rozdíl účetních a daňových odpisů",
-                    "correct": true
-                },
-                {
                     "text": "kladný rozdíl daňových a účetních odpisů",
                     "correct": false
+                },
+                {
+                    "text": "kladný rozdíl účetních a daňových odpisů",
+                    "correct": true
                 }
             ]
         },
@@ -350,12 +173,12 @@
             "text": "Co sníží hospodářský výsledek pro výpočet daní?",
             "answers": [
                 {
-                    "text": "kladný rozdíl účetních a daňových odpisů",
-                    "correct": false
-                },
-                {
                     "text": "kladný rozdíl daňových a účetních odpisů",
                     "correct": true
+                },
+                {
+                    "text": "kladný rozdíl účetních a daňových odpisů",
+                    "correct": false
                 }
             ]
         },
@@ -366,100 +189,58 @@
                     "text": "Výsledek může být správný, neboť obě kritéria můžou stanovit odlišné pořadí investičních projektů.",
                     "correct": true
                 },
-                {
-                    "text": "Udělali jsme při výpočtu chybu",
-                    "correct": false
-                }
+                { "text": "Udělali jsme při výpočtu chybu", "correct": false }
             ]
         },
         {
             "text": "Položky, které zvýší základ daně jsou:",
             "answers": [
-                {
-                    "text": "daňově neuznatelné náklady",
-                    "correct": true
-                },
+                { "text": "výnosy již zdaněné", "correct": false },
                 {
                     "text": "výnosy osvobozené od daně z příjmu",
                     "correct": false
                 },
-                {
-                    "text": "výnosy již zdaněné",
-                    "correct": false
-                }
+                { "text": "daňově neuznatelné náklady", "correct": true }
             ]
         },
         {
             "text": "Z titulu zaměstnávání pracovníků se zdravotním postižením............",
             "answers": [
                 {
-                    "text": "Snížit sazbu daně",
-                    "correct": false
-                },
-                {
                     "text": "Uplatnit slevu na dani, zaměstnavatel si podle zákona může od své daňové povinnosti odečíst částku stanovenou na každého pracovníka",
                     "correct": true
-                }
+                },
+                { "text": "Snížit sazbu daně", "correct": false }
             ]
         },
         {
             "text": "Z jakého vzorce se počítá PVAz vzhledem k FVAz?",
             "answers": [
-                {
-                    "text": "PVAz = FVAz / (1 + i)n",
-                    "correct": true
-                },
-                {
-                    "text": "PVAz = FVAz * (1 + i)",
-                    "correct": false
-                }
+                { "text": "PVAz = FVAz * (1 + i)", "correct": false },
+                { "text": "PVAz = FVAz / (1 + i)n", "correct": true }
             ]
         },
         {
             "text": "Z jakého vzorce se počítá PVAp vzhledem k PVAz?",
             "answers": [
-                {
-                    "text": "PVAp = PVAz * (1 + i)",
-                    "correct": true
-                },
-                {
-                    "text": "PVAp = PVAz / (1 + i)n",
-                    "correct": false
-                }
+                { "text": "PVAp = PVAz / (1 + i)n", "correct": false },
+                { "text": "PVAp = PVAz * (1 + i)", "correct": true }
             ]
         },
         {
             "text": "Když matka sleduje, jak dcera plní své plány (např. VH nebo ještě něco finančního), jedná se o:",
             "answers": [
-                {
-                    "text": "finanční kontrolu",
-                    "correct": true
-                },
-                {
-                    "text": "strategická kontrola",
-                    "correct": false
-                },
-                {
-                    "text": "strategické plánování",
-                    "correct": false
-                },
-                {
-                    "text": "finanční plánování",
-                    "correct": false
-                }
+                { "text": "finanční kontrolu", "correct": true },
+                { "text": "finanční plánování", "correct": false },
+                { "text": "strategická kontrola", "correct": false },
+                { "text": "strategické plánování", "correct": false }
             ]
         },
         {
             "text": "Z jakého vzorce se počítá FVAp vzhledem k FVAz?",
             "answers": [
-                {
-                    "text": "FVAp = FVAz * (1 + i)",
-                    "correct": true
-                },
-                {
-                    "text": "FVAp = FVAz / (1 + i)n",
-                    "correct": false
-                }
+                { "text": "FVAp = FVAz * (1 + i)", "correct": true },
+                { "text": "FVAp = FVAz / (1 + i)n", "correct": false }
             ]
         },
         {
@@ -499,72 +280,33 @@
         {
             "text": "Jaký je vzorec souč. hodnoty perpetuity placené dopředu?",
             "answers": [
-                {
-                    "text": "PVPp = PVPz + Ap",
-                    "correct": true
-                },
-                {
-                    "text": "PVPp = PVPz + Az",
-                    "correct": false
-                }
+                { "text": "PVPp = PVPz + Ap", "correct": true },
+                { "text": "PVPp = PVPz + Az", "correct": false }
             ]
         },
         {
             "text": "Pokud je SH dluhopisu vyšší než cena na trhu, tak:",
             "answers": [
-                {
-                    "text": "koupíme dluhopis",
-                    "correct": true
-                },
-                {
-                    "text": "prodáme dluhopis",
-                    "correct": false
-                }
+                { "text": "prodáme dluhopis", "correct": false },
+                { "text": "koupíme dluhopis", "correct": true }
             ]
         },
         {
             "text": "Pro který typ společnosti je typická stabilní dividendová politika:",
             "answers": [
-                {
-                    "text": "s větším počtem akcionářů",
-                    "correct": true
-                },
-                {
-                    "text": "s menším počtem akcionářů",
-                    "correct": false
-                }
+                { "text": "s větším počtem akcionářů", "correct": true },
+                { "text": "s menším počtem akcionářů", "correct": false }
             ]
         },
         {
             "text": "správní holding:",
             "answers": [
                 {
-                    "text": "vystupuje jako správce portfolia dceřiné společnosti",
-                    "correct": true
-                },
-                {
                     "text": "vystupuje jako správce portfolia mateřské společnosti",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Zásady stabilní dividendové politiky:",
-            "answers": [
-                {
-                    "text": "1st: kmenová dividenda na akcii nesmí být menší než v předchozím roce (Div/A1 ≥ Div/A0)",
-                    "correct": true
                 },
                 {
-                    "text": "2nd: dlouhodobým cílem společnosti je dosažení určité výše dividendového podílu, která by neměla být překročena (DPCÍL ≥ DP1)",
-                    "correct": true
-                },
-                {
-                    "text": "3rd: růst kmenové dividendy signalizuje zlepšující perspektivu společnosti (↑ Div/A1)",
-                    "correct": true
-                },
-                {
-                    "text": "4th: 1. princip nadřazen 2. principu, 2. princip nadřazen 3. principu",
+                    "text": "vystupuje jako správce portfolia dceřiné společnosti",
                     "correct": true
                 }
             ]
@@ -572,40 +314,22 @@
         {
             "text": "Na co má majitel prioritní akcie právo - přednostní právo na dividendu:",
             "answers": [
-                {
-                    "text": "vždy",
-                    "correct": true
-                },
-                {
-                    "text": "někdy",
-                    "correct": false
-                }
+                { "text": "vždy", "correct": true },
+                { "text": "někdy", "correct": false }
             ]
         },
         {
             "text": "Na co má majitel prioritní akcie právo - přednostní právo na likvidační zůstatek:",
             "answers": [
-                {
-                    "text": "vždy",
-                    "correct": true
-                },
-                {
-                    "text": "nekdy",
-                    "correct": false
-                }
+                { "text": "nekdy", "correct": false },
+                { "text": "vždy", "correct": true }
             ]
         },
         {
             "text": "Na co má majitel prioritní akcie právo - hlasovací právo:",
             "answers": [
-                {
-                    "text": "někdy",
-                    "correct": true
-                },
-                {
-                    "text": "nikdy",
-                    "correct": false
-                }
+                { "text": "nikdy", "correct": false },
+                { "text": "někdy", "correct": true }
             ]
         },
         {
@@ -628,209 +352,102 @@
         {
             "text": "Riziko, které se nedá odstranit diverzifikací je:",
             "answers": [
-                {
-                    "text": "systematické",
-                    "correct": true
-                },
-                {
-                    "text": "nestematické",
-                    "correct": false
-                }
+                { "text": "systematické", "correct": true },
+                { "text": "nestematické", "correct": false }
             ]
         },
         {
             "text": "Co nepatři do vnějších podmínek způsobující nejistotu v podniku",
             "answers": [
-                {
-                    "text": "zemětřesení na Filipínách",
-                    "correct": false
-                },
+                { "text": "nestabilita politické situace", "correct": false },
                 {
                     "text": "nespokojenost zaměstnanců s platy",
                     "correct": true
                 },
-                {
-                    "text": "nestabilita politické situace",
-                    "correct": false
-                }
+                { "text": "zemětřesení na Filipínách", "correct": false }
             ]
         },
         {
             "text": "Mezi platební zajišťovací instrumenty nepatří:",
             "answers": [
-                {
-                    "text": "dokument. Akreditiv",
-                    "correct": false
-                },
-                {
-                    "text": "dokument. Inkaso",
-                    "correct": false
-                },
-                {
-                    "text": "regresní faktoring",
-                    "correct": true
-                },
-                {
-                    "text": "zaručení třetí osobou",
-                    "correct": false
-                }
+                { "text": "zaručení třetí osobou", "correct": false },
+                { "text": "dokument. Inkaso", "correct": false },
+                { "text": "dokument. Akreditiv", "correct": false },
+                { "text": "regresní faktoring", "correct": true }
             ]
         },
         {
             "text": "Doplňte: Efektivní hranice je na ......... pokud má na ose x riziko a na ose y výnos.",
             "answers": [
-                {
-                    "text": "severozápadní straně",
-                    "correct": true
-                },
-                {
-                    "text": "jihovýchodní straně",
-                    "correct": false
-                }
+                { "text": "jihovýchodní straně", "correct": false },
+                { "text": "severozápadní straně", "correct": true }
             ]
         },
         {
             "text": "Doplňte: Efektivní hranice je na ......... pokud má na ose x výnos a na ose y riziko.",
             "answers": [
-                {
-                    "text": "severozápadní straně",
-                    "correct": false
-                },
-                {
-                    "text": "jihovýchodní straně",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Vyber definici prioritní akcie:",
-            "answers": [
-                {
-                    "text": "Stálá výše dividend bez ohledu na zisk",
-                    "correct": true
-                },
-                {
-                    "text": "Majitelé obvykle nemají právo hlasovat",
-                    "correct": true
-                },
-                {
-                    "text": "Přednostní podíl na dividendě",
-                    "correct": true
-                }
+                { "text": "jihovýchodní straně", "correct": true },
+                { "text": "severozápadní straně", "correct": false }
             ]
         },
         {
             "text": "Akciovou dividendu podle českého obchodního zákoníku můžeme označit jako",
             "answers": [
+                { "text": "neuznává se", "correct": false },
                 {
-                    "text": "zvýšení základního kapitálu z vlastních zdrojů společnosti",
-                    "correct": true
+                    "text": "lze ji ztotožnit s vyplácením většího počtu nových akcií za staré za nižší částky",
+                    "correct": false
                 },
                 {
                     "text": "zvýšení základního kapitálu z majetku společnosti",
                     "correct": false
                 },
                 {
-                    "text": "lze ji ztotožnit s vyplácením většího počtu nových akcií za staré za nižší částky",
-                    "correct": false
-                },
-                {
-                    "text": "neuznává se",
-                    "correct": false
+                    "text": "zvýšení základního kapitálu z vlastních zdrojů společnosti",
+                    "correct": true
                 }
             ]
         },
         {
             "text": "O jaký se jedná holding? - Snaha matky rozhodovat centrálně v podstatě o veškeré činnosti dcer.",
             "answers": [
-                {
-                    "text": "centralistický",
-                    "correct": true
-                },
-                {
-                    "text": "správní",
-                    "correct": false
-                },
-                {
-                    "text": "strategický",
-                    "correct": false
-                },
-                {
-                    "text": "finanční",
-                    "correct": false
-                }
+                { "text": "finanční", "correct": false },
+                { "text": "strategický", "correct": false },
+                { "text": "správní", "correct": false },
+                { "text": "centralistický", "correct": true }
             ]
         },
         {
             "text": "O jaký se jedná holding? - Mateřská společnost vystupuje jako správce portfolia.",
             "answers": [
-                {
-                    "text": "centralistický",
-                    "correct": false
-                },
-                {
-                    "text": "správní",
-                    "correct": true
-                },
-                {
-                    "text": "strategický",
-                    "correct": false
-                },
-                {
-                    "text": "finanční",
-                    "correct": false
-                }
+                { "text": "strategický", "correct": false },
+                { "text": "správní", "correct": true },
+                { "text": "centralistický", "correct": false },
+                { "text": "finanční", "correct": false }
             ]
         },
         {
             "text": "O jaký se jedná holding? - Matka se zaměřuje na dlouhodobé strategické řízení.",
             "answers": [
-                {
-                    "text": "centralistický",
-                    "correct": false
-                },
-                {
-                    "text": "správní",
-                    "correct": false
-                },
-                {
-                    "text": "strategický",
-                    "correct": true
-                },
-                {
-                    "text": "finanční",
-                    "correct": false
-                }
+                { "text": "centralistický", "correct": false },
+                { "text": "správní", "correct": false },
+                { "text": "strategický", "correct": true },
+                { "text": "finanční", "correct": false }
             ]
         },
         {
             "text": "O jaký se jedná holding? - Hlavni funkce matky je shánět kapitál pro dcery.",
             "answers": [
-                {
-                    "text": "centralistický",
-                    "correct": false
-                },
-                {
-                    "text": "správní",
-                    "correct": false
-                },
-                {
-                    "text": "strategický",
-                    "correct": false
-                },
-                {
-                    "text": "finanční",
-                    "correct": true
-                }
+                { "text": "strategický", "correct": false },
+                { "text": "finanční", "correct": true },
+                { "text": "správní", "correct": false },
+                { "text": "centralistický", "correct": false }
             ]
         },
         {
             "text": "V jaké firmě se používá pasivní reziduální dividendová politika:",
             "answers": [
-                {
-                    "text": "s větším počtem akcionářů",
-                    "correct": false
-                },
+                { "text": "s větším počtem akcionářů", "correct": false },
                 {
                     "text": "v malých začínajících firmách, menší počet akcionářů",
                     "correct": true
@@ -840,40 +457,15 @@
         {
             "text": "Nejčastější metoda finančního plánování a také nejvíce doporučovaná:",
             "answers": [
-                {
-                    "text": "kauzální metoda",
-                    "correct": true
-                },
-                {
-                    "text": "statistická",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Důležitý princip při sestavování finančního plánu:",
-            "answers": [
-                {
-                    "text": "prostorový",
-                    "correct": true
-                },
-                {
-                    "text": "časový",
-                    "correct": true
-                }
+                { "text": "kauzální metoda", "correct": true },
+                { "text": "statistická", "correct": false }
             ]
         },
         {
             "text": "Zásoby, které nejsou přímo závislé na stavu materiálu?",
             "answers": [
-                {
-                    "text": "pořizovací",
-                    "correct": true
-                },
-                {
-                    "text": "skladovací",
-                    "correct": false
-                }
+                { "text": "skladovací", "correct": false },
+                { "text": "pořizovací", "correct": true }
             ]
         },
         {
@@ -918,12 +510,12 @@
             "text": "Vyberte pravdivé tvrzení:",
             "answers": [
                 {
-                    "text": "Je-li dividenda kmenové akcie vyšší, než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu výše kmenové dividendy",
-                    "correct": true
-                },
-                {
                     "text": "Je-li dividenda kmenové akcie nižší, než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu výše kmenové dividendy",
                     "correct": false
+                },
+                {
+                    "text": "Je-li dividenda kmenové akcie vyšší, než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu výše kmenové dividendy",
+                    "correct": true
                 }
             ]
         },
@@ -944,16 +536,16 @@
             "text": "Vyberte nepravdivé tvrzení:",
             "answers": [
                 {
-                    "text": "součet hodnot účetního zisku a daňových odpisů musí být za jinak stejných okolností vždy konstantní",
-                    "correct": true
+                    "text": "Je-li dividenda kmenové akcie nižší, než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu výše kmenové dividendy",
+                    "correct": false
                 },
                 {
                     "text": "Jedním ze zakladatelů oboru finance podniku je H. Markowitz, který vytvořil teorii o portfoliu",
                     "correct": false
                 },
                 {
-                    "text": "Je-li dividenda kmenové akcie nižší, než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu výše kmenové dividendy",
-                    "correct": false
+                    "text": "součet hodnot účetního zisku a daňových odpisů musí být za jinak stejných okolností vždy konstantní",
+                    "correct": true
                 }
             ]
         },
@@ -1012,26 +604,20 @@
         {
             "text": "Co musí nejdříve udělat akciovka v nějakým řízeni.... (nevím v jakém)",
             "answers": [
-                {
-                    "text": "splatit daně",
-                    "correct": true
-                },
-                {
-                    "text": "vyplatit prioritní dividendu",
-                    "correct": false
-                }
+                { "text": "splatit daně", "correct": true },
+                { "text": "vyplatit prioritní dividendu", "correct": false }
             ]
         },
         {
             "text": "Vyberte nepravdivé tvrzení:",
             "answers": [
                 {
-                    "text": "náklady zastoupení představují pro případného akvizitora hrozbu, která má destimulační účinky na jeho motivaci ohledně převzetí takovéhoto podniku.",
-                    "correct": true
-                },
-                {
                     "text": "Jedním ze zakladatelů oboru finance podniku je H. Markowitz, který vytvořil teorii o portfoliu",
                     "correct": false
+                },
+                {
+                    "text": "náklady zastoupení představují pro případného akvizitora hrozbu, která má destimulační účinky na jeho motivaci ohledně převzetí takovéhoto podniku.",
+                    "correct": true
                 }
             ]
         },
@@ -1039,11 +625,7 @@
             "text": "Variační koeficient se vypočítá jako:",
             "answers": [
                 {
-                    "text": "poměr druhé odmocniny rozptylu a očekávaného výnosu investice",
-                    "correct": true
-                },
-                {
-                    "text": "poměr třetí odmocniny rozptylu a očekávaného výnosu investice",
+                    "text": "poměr třetí odmocniny rozptylu a očekávaného nákladu investice",
                     "correct": false
                 },
                 {
@@ -1051,8 +633,12 @@
                     "correct": false
                 },
                 {
-                    "text": "poměr třetí odmocniny rozptylu a očekávaného nákladu investice",
+                    "text": "poměr třetí odmocniny rozptylu a očekávaného výnosu investice",
                     "correct": false
+                },
+                {
+                    "text": "poměr druhé odmocniny rozptylu a očekávaného výnosu investice",
+                    "correct": true
                 }
             ]
         },
@@ -1060,15 +646,15 @@
             "text": "Bod návratu v Miller-Orrově modelu se nachází směrem od dolního limitu:",
             "answers": [
                 {
-                    "text": "V 1 rozmezí horního a dolního limitu",
-                    "correct": false
-                },
-                {
                     "text": "V 1/3 rozmezí horního a dolního limitu",
                     "correct": true
                 },
                 {
                     "text": "Ve 2/3 rozmezí horního a dolního limitu",
+                    "correct": false
+                },
+                {
+                    "text": "V 1 rozmezí horního a dolního limitu",
                     "correct": false
                 }
             ]
@@ -1076,41 +662,29 @@
         {
             "text": "Metoda diskontovaných peněžních toků patří mezi metody:",
             "answers": [
-                {
-                    "text": "majetkové",
-                    "correct": false
-                },
-                {
-                    "text": "investiční",
-                    "correct": false
-                },
-                {
-                    "text": "porovnávací",
-                    "correct": false
-                },
-                {
-                    "text": "výnosové",
-                    "correct": true
-                }
+                { "text": "majetkové", "correct": false },
+                { "text": "investiční", "correct": false },
+                { "text": "porovnávací", "correct": false },
+                { "text": "výnosové", "correct": true }
             ]
         },
         {
             "text": "Dobu obratovosti zásob ve dnech spočteme jako:",
             "answers": [
                 {
-                    "text": "Poměr průměrného stavu zásob a denních tržeb",
-                    "correct": true
+                    "text": "Poměr průměrného stavu zásob a celkových tržeb tržeb",
+                    "correct": false
                 },
                 {
                     "text": "Poměr celkového stavu zásob a denních tržeb",
                     "correct": false
                 },
                 {
-                    "text": "Poměr průměrného stavu zásob a průměrných tržeb",
-                    "correct": false
+                    "text": "Poměr průměrného stavu zásob a denních tržeb",
+                    "correct": true
                 },
                 {
-                    "text": "Poměr průměrného stavu zásob a celkových tržeb tržeb",
+                    "text": "Poměr průměrného stavu zásob a průměrných tržeb",
                     "correct": false
                 }
             ]
@@ -1118,146 +692,63 @@
         {
             "text": "Emise akcií jsou finanční zdroje:",
             "answers": [
-                {
-                    "text": "interní cizí",
-                    "correct": false
-                },
-                {
-                    "text": "interní vlastní",
-                    "correct": false
-                },
-                {
-                    "text": "externí cizí",
-                    "correct": true
-                },
-                {
-                    "text": "externí vlastní",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Doplňovací otázka na vypsaný příklady ohledně daní:(vědět stačil jen jeden příklad)",
-            "answers": [
-                {
-                    "text": "mezi přímé důchodové daně patří např. DAŇ Z PŘÍJMU FO",
-                    "correct": true
-                },
-                {
-                    "text": "mezi přímé majetkové např.: SILNIČNÍ DAŇ",
-                    "correct": true
-                },
-                {
-                    "text": "mezi nepřímé např.: DPH",
-                    "correct": true
-                }
+                { "text": "interní vlastní", "correct": false },
+                { "text": "interní cizí", "correct": false },
+                { "text": "externí cizí", "correct": true },
+                { "text": "externí vlastní", "correct": false }
             ]
         },
         {
             "text": "Metoda, která využívá dat z minulosti pro předpověď budoucnosti, se nazývá:",
             "answers": [
-                {
-                    "text": "Intuitivní",
-                    "correct": false
-                },
-                {
-                    "text": "Kauzální",
-                    "correct": false
-                },
-                {
-                    "text": "Jiná mrdka",
-                    "correct": false
-                },
-                {
-                    "text": "Statistická",
-                    "correct": true
-                }
+                { "text": "Kauzální", "correct": false },
+                { "text": "Intuitivní", "correct": false },
+                { "text": "Statistická", "correct": true },
+                { "text": "Jiná mrdka", "correct": false }
             ]
         },
         {
             "text": "Opakované pozorování určité dílčí události je ... mžÝenŪ pravděpodobnosti.",
             "answers": [
-                {
-                    "text": "objektivní",
-                    "correct": true
-                },
-                {
-                    "text": "subjektivní",
-                    "correct": false
-                }
+                { "text": "subjektivní", "correct": false },
+                { "text": "objektivní", "correct": true }
             ]
         },
         {
             "text": "Subjektivní oceňování ustanovuje ... hodnotu.",
             "answers": [
-                {
-                    "text": "investiční",
-                    "correct": true
-                },
-                {
-                    "text": "nominální",
-                    "correct": false
-                },
-                {
-                    "text": "reálnou",
-                    "correct": false
-                }
+                { "text": "investiční", "correct": true },
+                { "text": "nominální", "correct": false },
+                { "text": "reálnou", "correct": false }
             ]
         },
         {
             "text": "Jak se nazývá činnost, kdy v Miller-Orrově modelu dosáhneme dolního limitu?",
             "answers": [
-                {
-                    "text": "prodej pokladničních poukázek",
-                    "correct": true
-                },
-                {
-                    "text": "nákup pokladničních poukázek",
-                    "correct": false
-                }
+                { "text": "prodej pokladničních poukázek", "correct": true },
+                { "text": "nákup pokladničních poukázek", "correct": false }
             ]
         },
         {
             "text": "Jak se nazývá úročení s nekonečným počtem skládání kroků?",
             "answers": [
-                {
-                    "text": "spojité",
-                    "correct": true
-                },
-                {
-                    "text": "nespojité",
-                    "correct": false
-                },
-                {
-                    "text": "rentové",
-                    "correct": false
-                }
+                { "text": "rentové", "correct": false },
+                { "text": "spojité", "correct": true },
+                { "text": "nespojité", "correct": false }
             ]
         },
         {
             "text": "... úročení je takové úročení, u kterého je krokovací období nekonečně malé.",
             "answers": [
-                {
-                    "text": "spojité",
-                    "correct": true
-                },
-                {
-                    "text": "nespojité",
-                    "correct": false
-                },
-                {
-                    "text": "rentové",
-                    "correct": false
-                }
+                { "text": "nespojité", "correct": false },
+                { "text": "spojité", "correct": true },
+                { "text": "rentové", "correct": false }
             ]
         },
         {
             "text": "Jaké jsou tři hlavní směry dividendové politiky?:",
             "answers": [
-                {
-                    "text": "Stabilní div. politika",
-                    "correct": true
-                },
+                { "text": "Stabilní div. politika", "correct": true },
                 {
                     "text": "pasivní reziduální div. politika",
                     "correct": false
@@ -1271,39 +762,18 @@
         {
             "text": "Proč není hlavním cílem podniku maximalizace zisku?:",
             "answers": [
-                {
-                    "text": "Snadná manipulovatelnost",
-                    "correct": true
-                },
-                {
-                    "text": "těžká manipulovatelnost",
-                    "correct": false
-                },
-                {
-                    "text": "Jednoduchost splnění",
-                    "correct": false
-                }
+                { "text": "Jednoduchost splnění", "correct": false },
+                { "text": "těžká manipulovatelnost", "correct": false },
+                { "text": "Snadná manipulovatelnost", "correct": true }
             ]
         },
         {
             "text": "Čím ..A.. počet skládání, tím bude ..B.. efektivní úroková míra:",
             "answers": [
-                {
-                    "text": "A = nižší, B = nižší",
-                    "correct": true
-                },
-                {
-                    "text": "A = vyšší, B = nižší",
-                    "correct": false
-                },
-                {
-                    "text": "A= nižší, B = vyšší",
-                    "correct": false
-                },
-                {
-                    "text": "A= vyšší, B = vyšší",
-                    "correct": false
-                }
+                { "text": "A = nižší, B = nižší", "correct": true },
+                { "text": "A = vyšší, B = nižší", "correct": false },
+                { "text": "A= nižší, B = vyšší", "correct": false },
+                { "text": "A= vyšší, B = vyšší", "correct": false }
             ]
         },
         {
@@ -1313,23 +783,14 @@
                     "text": "finanční, legislativní, ostatní objektivní, subjektivní",
                     "correct": true
                 },
-                {
-                    "text": "bavim se",
-                    "correct": false
-                }
+                { "text": "bavim se", "correct": false }
             ]
         },
         {
             "text": "Cílem optimalizace zásob je .... pořizovací a skladovací náklady (doplň):",
             "answers": [
-                {
-                    "text": "minimalizovat",
-                    "correct": true
-                },
-                {
-                    "text": "maximalizovat",
-                    "correct": false
-                }
+                { "text": "maximalizovat", "correct": false },
+                { "text": "minimalizovat", "correct": true }
             ]
         },
         {
@@ -1343,10 +804,7 @@
                     "text": "padák, který namočím do zlata a skočím s ním z letadla, protože mám cashflow jak rakeťák",
                     "correct": false
                 },
-                {
-                    "text": "cena za nejlepšího manažera",
-                    "correct": false
-                },
+                { "text": "cena za nejlepšího manažera", "correct": false },
                 {
                     "text": "záchrana pro firmu ve formě finanční dávky",
                     "correct": false
@@ -1356,69 +814,39 @@
         {
             "text": "Hlavním cílem podnikání je:",
             "answers": [
+                { "text": "vydělat raketu", "correct": false },
                 {
                     "text": "maximalizace tržní hodnoty podniku",
                     "correct": true
                 },
-                {
-                    "text": "maximalizace pracovní síly",
-                    "correct": false
-                },
-                {
-                    "text": "vydělat raketu",
-                    "correct": false
-                }
+                { "text": "maximalizace pracovní síly", "correct": false }
             ]
         },
         {
             "text": "Pokud je SH dluhopisu vyšší než cena na trhu, tak:",
             "answers": [
-                {
-                    "text": "koupíme dluhopis",
-                    "correct": true
-                },
-                {
-                    "text": "prodáme dluhopis",
-                    "correct": false
-                },
-                {
-                    "text": "je to jedno",
-                    "correct": false
-                }
+                { "text": "prodáme dluhopis", "correct": false },
+                { "text": "koupíme dluhopis", "correct": true },
+                { "text": "je to jedno", "correct": false }
             ]
         },
         {
             "text": "Co způsobují náklady zastoupení:",
             "answers": [
+                { "text": "nový pracovník", "correct": false },
+                { "text": "vyšší tržby", "correct": false },
                 {
                     "text": "nižší tržní (něco), vyšší zisk agenta a nižší principála",
                     "correct": true
-                },
-                {
-                    "text": "vyšší tržby",
-                    "correct": false
-                },
-                {
-                    "text": "nový pracovník",
-                    "correct": false
                 }
             ]
         },
         {
             "text": "Definiční obor korelačního koeficientu:",
             "answers": [
-                {
-                    "text": "<-1 ; 1>",
-                    "correct": true
-                },
-                {
-                    "text": "(-1 ; 1)",
-                    "correct": false
-                },
-                {
-                    "text": "<0 ; 1>",
-                    "correct": false
-                }
+                { "text": "<-1 ; 1>", "correct": true },
+                { "text": "(-1 ; 1)", "correct": false },
+                { "text": "<0 ; 1>", "correct": false }
             ]
         },
         {
@@ -1438,289 +866,151 @@
             "text": "Jedním z důvodů, proč není zisk základním cílem podniku:",
             "answers": [
                 {
-                    "text": "snadno manipulovatelný",
-                    "correct": true
-                },
-                {
-                    "text": "jednoduchost splnění",
-                    "correct": false
-                },
-                {
                     "text": "zisk je základním cílem podniku, vole",
                     "correct": false
-                }
+                },
+                { "text": "jednoduchost splnění", "correct": false },
+                { "text": "snadno manipulovatelný", "correct": true }
             ]
         },
         {
             "text": "Jednou z metod výnosového oceňování podniku je:",
             "answers": [
+                { "text": "metoda finálního zisku", "correct": false },
+                { "text": "metoda metody o metodě metody", "correct": false },
                 {
                     "text": "metoda diskontovaných peněžních toků",
                     "correct": true
-                },
-                {
-                    "text": "metoda finálního zisku",
-                    "correct": false
-                },
-                {
-                    "text": "metoda metody o metodě metody",
-                    "correct": false
                 }
             ]
         },
         {
             "text": ".... zajišťuje při daném riziku nejvyšší možný výnos a při daném výnosu nejnižší možné riziko (doplň)",
             "answers": [
-                {
-                    "text": "Efektivní portfolio",
-                    "correct": true
-                },
-                {
-                    "text": "Efektivní úroková míra",
-                    "correct": false
-                },
-                {
-                    "text": "Price earning ratio",
-                    "correct": false
-                }
+                { "text": "Efektivní portfolio", "correct": true },
+                { "text": "Efektivní úroková míra", "correct": false },
+                { "text": "Price earning ratio", "correct": false }
             ]
         },
         {
             "text": "Čím více se dlouhodobé finanční zdroje podílí na financování krátkodobých aktiv podniku, tím za jinak stejných okolností, to bude vést k ..A.. výnosu a k ..B.. riziku. (Doplň)",
             "answers": [
-                {
-                    "text": "A = nižšímu, B = nižšímu",
-                    "correct": true
-                },
-                {
-                    "text": "A = vyššímu, B = nižšímu",
-                    "correct": false
-                },
-                {
-                    "text": "A= nižšímu, B = vyššímu",
-                    "correct": false
-                },
-                {
-                    "text": "A= vyššímu, B = vyššímu",
-                    "correct": false
-                }
+                { "text": "A = nižšímu, B = nižšímu", "correct": true },
+                { "text": "A = vyššímu, B = nižšímu", "correct": false },
+                { "text": "A= nižšímu, B = vyššímu", "correct": false },
+                { "text": "A= vyššímu, B = vyššímu", "correct": false }
             ]
         },
         {
             "text": "Za .... peněžní tok považujeme takové peněžní toky, kdy platí předpoklad, že od zahájení investice převyšují očekávané peněžní výdaje v jednotlivých letech nepřetržitě očekávané příjmy do určité doby, po níž jsou v jednotlivých letech vyšší jen peněžní příjmy (doplň):",
             "answers": [
-                {
-                    "text": "konvenční",
-                    "correct": true
-                },
-                {
-                    "text": "nekonvenční",
-                    "correct": false
-                },
-                {
-                    "text": "rychlý",
-                    "correct": false
-                },
-                {
-                    "text": "pomalý",
-                    "correct": false
-                }
+                { "text": "rychlý", "correct": false },
+                { "text": "pomalý", "correct": false },
+                { "text": "konvenční", "correct": true },
+                { "text": "nekonvenční", "correct": false }
             ]
         },
         {
             "text": "Podle druhového investičního axiomu upřednostňuje racionální investor ..A.. rizika než ..B..:",
             "answers": [
-                {
-                    "text": "A = méně, B = více",
-                    "correct": true
-                },
-                {
-                    "text": "A = více, B = méně",
-                    "correct": false
-                }
+                { "text": "A = méně, B = více", "correct": true },
+                { "text": "A = více, B = méně", "correct": false }
             ]
         },
         {
             "text": ".... je poměr tržní ceny akcie a výsledku hospodaření na akcii (doplň):",
             "answers": [
-                {
-                    "text": "Price earning ratio",
-                    "correct": true
-                },
-                {
-                    "text": "VHpD",
-                    "correct": false
-                },
-                {
-                    "text": "Úhrný vložený kapitál",
-                    "correct": false
-                }
+                { "text": "Úhrný vložený kapitál", "correct": false },
+                { "text": "VHpD", "correct": false },
+                { "text": "Price earning ratio", "correct": true }
             ]
         },
         {
             "text": "Když se zvýší četnost skládání během jednoho roku, co se stane s efektivní úrokovou mírou:",
             "answers": [
-                {
-                    "text": "zvýší se",
-                    "correct": true
-                },
-                {
-                    "text": "sníží se",
-                    "correct": false
-                },
-                {
-                    "text": "zůstane stejná",
-                    "correct": false
-                }
+                { "text": "zvýší se", "correct": true },
+                { "text": "zůstane stejná", "correct": false },
+                { "text": "sníží se", "correct": false }
             ]
         },
         {
             "text": "Podle ..... .... ..... má a.s. vyplácet dividendu jen pokud nemá výnosnější investiční příležitost než její průměrný akcionář",
             "answers": [
-                {
-                    "text": "pasivní reziduální politiky",
-                    "correct": true
-                },
-                {
-                    "text": "aktivní reziduální politiky",
-                    "correct": false
-                }
+                { "text": "pasivní reziduální politiky", "correct": true },
+                { "text": "aktivní reziduální politiky", "correct": false }
             ]
         },
         {
             "text": "Pokud chce finanční management snížit náklady vynaložené na zásoby, musí se zaměřit na .... skladovacích a pořizovacích nákladů",
             "answers": [
-                {
-                    "text": "snížení",
-                    "correct": true
-                },
-                {
-                    "text": "zvýšení",
-                    "correct": false
-                }
+                { "text": "snížení", "correct": true },
+                { "text": "zvýšení", "correct": false }
             ]
         },
         {
             "text": "Označení sloučení společností, kdy se 1 či více zanikajících společností začlení do jiné existující společnosti, na níž přechází veškerý majetek a závazky:",
             "answers": [
-                {
-                    "text": "fůze",
-                    "correct": true
-                },
-                {
-                    "text": "sjednocení",
-                    "correct": false
-                },
-                {
-                    "text": "bratrství",
-                    "correct": false
-                }
+                { "text": "sjednocení", "correct": false },
+                { "text": "fůze", "correct": true },
+                { "text": "bratrství", "correct": false }
             ]
         },
         {
             "text": "Když splácíme dluh, anuitní platba se skládá z:",
             "answers": [
-                {
-                    "text": "úroku a úmoru",
-                    "correct": true
-                },
-                {
-                    "text": "akcií a úmoru",
-                    "correct": false
-                },
-                {
-                    "text": "brambor a špaget",
-                    "correct": false
-                }
+                { "text": "brambor a špaget", "correct": false },
+                { "text": "akcií a úmoru", "correct": false },
+                { "text": "úroku a úmoru", "correct": true }
             ]
         },
         {
             "text": "Osoba, která je pověřená řízením podniku se nazývá agent a osoba, které podnik patří a nechá ho řídit jinou osobou, se nazývá:",
             "answers": [
-                {
-                    "text": "principál",
-                    "correct": true
-                },
-                {
-                    "text": "šéf",
-                    "correct": false
-                },
-                {
-                    "text": "král",
-                    "correct": false
-                }
+                { "text": "principál", "correct": true },
+                { "text": "šéf", "correct": false },
+                { "text": "král", "correct": false }
             ]
         },
         {
             "text": "Jak v Miller-Orrův modelu dosáhneme horní hranice, .... pokladniční poukázky (doplň):",
             "answers": [
-                {
-                    "text": "nakupujeme",
-                    "correct": true
-                },
-                {
-                    "text": "prodáváme",
-                    "correct": false
-                }
+                { "text": "nakupujeme", "correct": true },
+                { "text": "prodáváme", "correct": false }
             ]
         },
         {
             "text": "Výše kmenové dividendy na akcii v běžném roce ....... menší než kmenová dividenda na akcii v předchozím roce (doplň):",
             "answers": [
-                {
-                    "text": "nesmí být nikdy",
-                    "correct": true
-                },
-                {
-                    "text": "může být",
-                    "correct": false
-                },
-                {
-                    "text": "má být",
-                    "correct": false
-                }
+                { "text": "má být", "correct": false },
+                { "text": "může být", "correct": false },
+                { "text": "nesmí být nikdy", "correct": true }
             ]
         },
         {
             "text": "Metody měření Cash Flow:",
             "answers": [
-                {
-                    "text": "přímá, nepřímá",
-                    "correct": true
-                },
-                {
-                    "text": "spojitě, nespojitě",
-                    "correct": false
-                }
+                { "text": "spojitě, nespojitě", "correct": false },
+                { "text": "přímá, nepřímá", "correct": true }
             ]
         },
         {
             "text": "Odpis je menší dnes než minulý rok:",
             "answers": [
-                {
-                    "text": "degresivní odepisování",
-                    "correct": true
-                },
-                {
-                    "text": "regresivní odepisování",
-                    "correct": false
-                },
-                {
-                    "text": "aktivní odepisování",
-                    "correct": false
-                }
+                { "text": "aktivní odepisování", "correct": false },
+                { "text": "regresivní odepisování", "correct": false },
+                { "text": "degresivní odepisování", "correct": true }
             ]
         },
         {
             "text": "4 báze při vyhodnocování ukazatelů ve finanční analýze:",
             "answers": [
                 {
-                    "text": "prostorová, časová, báze fin. plánu, báze expertních zkušeností",
-                    "correct": true
-                },
-                {
                     "text": "negativní, místní, vědecká, fiktivní",
                     "correct": false
+                },
+                {
+                    "text": "prostorová, časová, báze fin. plánu, báze expertních zkušeností",
+                    "correct": true
                 }
             ]
         },
@@ -1740,70 +1030,37 @@
         {
             "text": "3 typy dividend dle doby vyplácení:",
             "answers": [
-                {
-                    "text": "řádná, mimořádná, likvidační",
-                    "correct": true
-                },
-                {
-                    "text": "pravá, levá, prostřední",
-                    "correct": false
-                }
+                { "text": "pravá, levá, prostřední", "correct": false },
+                { "text": "řádná, mimořádná, likvidační", "correct": true }
             ]
         },
         {
             "text": "Roční efektivní úroková míra je při měsíčním skládání úroků .... než roční efektivní úroková míra při spojitém skládání úroků (doplň)",
             "answers": [
-                {
-                    "text": "menší",
-                    "correct": true
-                },
-                {
-                    "text": "větší",
-                    "correct": false
-                }
+                { "text": "větší", "correct": false },
+                { "text": "menší", "correct": true }
             ]
         },
         {
             "text": "Racionální investor má: ..... postoj k riziku:",
             "answers": [
-                {
-                    "text": "pozitivní",
-                    "correct": false
-                },
-                {
-                    "text": "negativní",
-                    "correct": true
-                }
+                { "text": "pozitivní", "correct": false },
+                { "text": "negativní", "correct": true }
             ]
         },
         {
             "text": "X11,200+X21,400+X33,300+X40,600+X5*0,999 je ukazatel ve finanční analýze a nazývá se .... skóre (doplň):",
             "answers": [
-                {
-                    "text": "ZETA",
-                    "correct": true
-                },
-                {
-                    "text": "GIGA",
-                    "correct": false
-                },
-                {
-                    "text": "BETA",
-                    "correct": false
-                }
+                { "text": "ZETA", "correct": true },
+                { "text": "BETA", "correct": false },
+                { "text": "GIGA", "correct": false }
             ]
         },
         {
             "text": "...... neboli rozložení rizika se provádí rozdělením finančních zdrojů mezi několik alternativních investic (doplň):",
             "answers": [
-                {
-                    "text": "Diverzifikace",
-                    "correct": true
-                },
-                {
-                    "text": "Sjednocení",
-                    "correct": false
-                }
+                { "text": "Diverzifikace", "correct": true },
+                { "text": "Sjednocení", "correct": false }
             ]
         },
         {
@@ -1814,11 +1071,11 @@
                     "correct": true
                 },
                 {
-                    "text": "poměru současné hodnoty splátek a současné hodnoty úrokových plateb",
+                    "text": "násobku sumy současné hodnoty splátek a současné hodnoty úrokových plateb",
                     "correct": false
                 },
                 {
-                    "text": "násobku sumy současné hodnoty splátek a současné hodnoty úrokových plateb",
+                    "text": "poměru současné hodnoty splátek a současné hodnoty úrokových plateb",
                     "correct": false
                 }
             ]
@@ -1826,160 +1083,82 @@
         {
             "text": "Strategie řízení běžné likvidity, když běžná likvidita je pod nějakou hodnotou:",
             "answers": [
-                {
-                    "text": "agresivní",
-                    "correct": true
-                },
-                {
-                    "text": "klidná",
-                    "correct": false
-                }
+                { "text": "klidná", "correct": false },
+                { "text": "agresivní", "correct": true }
             ]
         },
         {
             "text": "Když společnost vyplácí dividendy, protože peníze nemůže využít lépe než její akcionář, tak její dividendová politika se nazývá:",
             "answers": [
-                {
-                    "text": "pasivní reziduální",
-                    "correct": true
-                },
-                {
-                    "text": "aktivní reziduální",
-                    "correct": false
-                }
+                { "text": "aktivní reziduální", "correct": false },
+                { "text": "pasivní reziduální", "correct": true }
             ]
         },
         {
             "text": "Reálná úroková míra je .... než nominální úroková míra (doplň):",
             "answers": [
-                {
-                    "text": "nižší",
-                    "correct": true
-                },
-                {
-                    "text": "vyšší",
-                    "correct": false
-                }
+                { "text": "nižší", "correct": true },
+                { "text": "vyšší", "correct": false }
             ]
         },
         {
             "text": "Když banka vyplatí peníze člověku až po předání určitých dokumentů, tak se to jmenuje:",
             "answers": [
-                {
-                    "text": "dokumentární akreditiv",
-                    "correct": true
-                },
-                {
-                    "text": "inkaso",
-                    "correct": false
-                }
+                { "text": "inkaso", "correct": false },
+                { "text": "dokumentární akreditiv", "correct": true }
             ]
         },
         {
             "text": "Při platbě DPH je lepší být na konci řetězce:",
             "answers": [
-                {
-                    "text": "neplátce daně",
-                    "correct": true
-                },
-                {
-                    "text": "plátce daně",
-                    "correct": false
-                },
-                {
-                    "text": "je to jedno",
-                    "correct": false
-                }
+                { "text": "je to jedno", "correct": false },
+                { "text": "plátce daně", "correct": false },
+                { "text": "neplátce daně", "correct": true }
             ]
         },
         {
             "text": "Fúze dvou společností, jejichž výroba na sebe navazuje se nazývá:",
             "answers": [
-                {
-                    "text": "vertikální",
-                    "correct": true
-                },
-                {
-                    "text": "horizontální",
-                    "correct": false
-                }
+                { "text": "horizontální", "correct": false },
+                { "text": "vertikální", "correct": true }
             ]
         },
         {
             "text": "Úroková míra, kdy se rovná SH dluhopisu TH:",
             "answers": [
-                {
-                    "text": "výnos ke dni splatnosti",
-                    "correct": true
-                },
-                {
-                    "text": "výnosnost obligací",
-                    "correct": false
-                }
+                { "text": "výnos ke dni splatnosti", "correct": true },
+                { "text": "výnosnost obligací", "correct": false }
             ]
         },
         {
             "text": "Metody oceňování podniku majetkové:",
             "answers": [
-                {
-                    "text": "substanční, účetní, likvidační",
-                    "correct": true
-                },
-                {
-                    "text": "pouze likvidační",
-                    "correct": false
-                },
-                {
-                    "text": "pouze účetní",
-                    "correct": false
-                },
-                {
-                    "text": "pouze substanční",
-                    "correct": false
-                }
+                { "text": "pouze likvidační", "correct": false },
+                { "text": "substanční, účetní, likvidační", "correct": true },
+                { "text": "pouze substanční", "correct": false },
+                { "text": "pouze účetní", "correct": false }
             ]
         },
         {
             "text": "Anuitní platba se rovná:",
             "answers": [
-                {
-                    "text": "součtu úrokové platby a splátky",
-                    "correct": true
-                },
-                {
-                    "text": "podílu úrokové platby a splátky",
-                    "correct": false
-                },
-                {
-                    "text": "násobku úrokové platby a splátky",
-                    "correct": false
-                }
+                { "text": "podílu úrokové platby a splátky", "correct": false },
+                { "text": "součtu úrokové platby a splátky", "correct": true },
+                { "text": "násobku úrokové platby a splátky", "correct": false }
             ]
         },
         {
             "text": "Je-li dividenda kmenové akcie vyšší než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu:",
             "answers": [
-                {
-                    "text": "výše kmenové dividendy",
-                    "correct": true
-                },
-                {
-                    "text": "výše vkladu",
-                    "correct": false
-                }
+                { "text": "výše kmenové dividendy", "correct": true },
+                { "text": "výše vkladu", "correct": false }
             ]
         },
         {
             "text": "Nacházíme-li se v Miller-Orrovu modelu na horním limitu, ..... pokladniční poukázky (doplň):",
             "answers": [
-                {
-                    "text": "nakupujeme",
-                    "correct": true
-                },
-                {
-                    "text": "prodáváme",
-                    "correct": false
-                }
+                { "text": "nakupujeme", "correct": true },
+                { "text": "prodáváme", "correct": false }
             ]
         },
         {
@@ -1989,44 +1168,23 @@
                     "text": "solventnost, zajištění nejlepšího využití peněžních prostředků",
                     "correct": true
                 },
-                {
-                    "text": "Proč ne?",
-                    "correct": false
-                }
+                { "text": "Proč ne?", "correct": false }
             ]
         },
         {
             "text": "Teorie U-křivky: vzdálenost od obou křivek musí být..... (Doplň):",
             "answers": [
-                {
-                    "text": "minimální",
-                    "correct": true
-                },
-                {
-                    "text": "maximální",
-                    "correct": false
-                }
+                { "text": "minimální", "correct": true },
+                { "text": "maximální", "correct": false }
             ]
         },
         {
             "text": "Riziko na vodorovné ose, výnos na svislé ose, kde leží efektivní hranice?:",
             "answers": [
-                {
-                    "text": "Severozápadní",
-                    "correct": true
-                },
-                {
-                    "text": "Jihovýchodní",
-                    "correct": false
-                },
-                {
-                    "text": "Západní",
-                    "correct": false
-                },
-                {
-                    "text": "Severovýchodní",
-                    "correct": false
-                }
+                { "text": "Severozápadní", "correct": true },
+                { "text": "Severovýchodní", "correct": false },
+                { "text": "Jihovýchodní", "correct": false },
+                { "text": "Západní", "correct": false }
             ]
         },
         {
@@ -2045,83 +1203,36 @@
         {
             "text": "Rostou-li náklady zastoupení, .... tržní hodnota podniku (doplň):",
             "answers": [
-                {
-                    "text": "Klesá",
-                    "correct": true
-                },
-                {
-                    "text": "Roste",
-                    "correct": false
-                }
+                { "text": "Roste", "correct": false },
+                { "text": "Klesá", "correct": true }
             ]
         },
         {
             "text": "Při počítání efektivní hranice portfolia stanovujeme riziko pomocí:",
             "answers": [
-                {
-                    "text": "rozptylu (směrodatné odchylky)",
-                    "correct": true
-                },
-                {
-                    "text": "Věřitelského rizika",
-                    "correct": false
-                }
+                { "text": "rozptylu (směrodatné odchylky)", "correct": true },
+                { "text": "Věřitelského rizika", "correct": false }
             ]
         },
         {
             "text": "Podle racionálního investora je lepší mít peníze dnes spíše:",
             "answers": [
-                {
-                    "text": "dnes než zítra",
-                    "correct": true
-                },
-                {
-                    "text": "zítra než dnes",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Mezi metody oceňovací porovnávací patří např. ocenění na základě:",
-            "answers": [
-                {
-                    "text": "srovnatelných podniků",
-                    "correct": true
-                },
-                {
-                    "text": "srovnatelných transakcí",
-                    "correct": true
-                },
-                {
-                    "text": "podniků uváděných na burzu",
-                    "correct": true
-                }
+                { "text": "zítra než dnes", "correct": false },
+                { "text": "dnes než zítra", "correct": true }
             ]
         },
         {
             "text": "Platební instrument, který zaručuje klientovi, že se odběratel nedostane k penězům dříve než předá určité dokumenty:",
             "answers": [
-                {
-                    "text": "Dokumentární inkaso",
-                    "correct": true
-                },
-                {
-                    "text": "Internetové bankovnictví",
-                    "correct": false
-                }
+                { "text": "Dokumentární inkaso", "correct": true },
+                { "text": "Internetové bankovnictví", "correct": false }
             ]
         },
         {
             "text": "Silniční daň patří mezi daně:",
             "answers": [
-                {
-                    "text": "přímé majetkové",
-                    "correct": true
-                },
-                {
-                    "text": "vedlejší majetkové",
-                    "correct": false
-                }
+                { "text": "přímé majetkové", "correct": true },
+                { "text": "vedlejší majetkové", "correct": false }
             ]
         },
         {
@@ -2142,213 +1253,78 @@
             ]
         },
         {
-            "text": "Mimosoudní vymáhání pohledávek je např.:",
-            "answers": [
-                {
-                    "text": "detektivní firma",
-                    "correct": true
-                },
-                {
-                    "text": "inkasní firma",
-                    "correct": true
-                },
-                {
-                    "text": "Kotlar security",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Hlavní 4 motivy pro spojování podniků:",
-            "answers": [
-                {
-                    "text": "synergie",
-                    "correct": true
-                },
-                {
-                    "text": "investiční motiv",
-                    "correct": true
-                },
-                {
-                    "text": "náklady zastoupení",
-                    "correct": true
-                },
-                {
-                    "text": "diverzifikace rizika",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Aktiva z hlediska postavení v provozním cyklu dělíme na:",
             "answers": [
-                {
-                    "text": "stálá, oběžná",
-                    "correct": true
-                },
-                {
-                    "text": "občasná a konstantní",
-                    "correct": false
-                }
+                { "text": "občasná a konstantní", "correct": false },
+                { "text": "stálá, oběžná", "correct": true }
             ]
         },
         {
             "text": "Iracionální investor se vyznačuje tím, že:",
             "answers": [
-                {
-                    "text": "miluje riziko",
-                    "correct": true
-                },
-                {
-                    "text": "je neutrální k riziku",
-                    "correct": false
-                },
-                {
-                    "text": "riziko odmítá",
-                    "correct": false
-                }
+                { "text": "je neutrální k riziku", "correct": false },
+                { "text": "miluje riziko", "correct": true },
+                { "text": "riziko odmítá", "correct": false }
             ]
         },
         {
             "text": "O co se liší náklady zastoupení v užším pojetí a širším pojetí: v širším pojetí vznikají v důsledku existence ..A.., v užším pojetí jsou to ..B.. vznikající odchýlením zájmu agentů od zájmu principálů (podvodné jednání agenta, nadspotřeba agenta, neschopnost a lhostejnost agenta) - Doplň:",
             "answers": [
                 {
-                    "text": "A = vztahu zastoupení, B = ztráty",
-                    "correct": true
-                },
-                {
                     "text": "A = ztrát, B = vztahy zastoupení",
                     "correct": false
-                }
+                },
+                { "text": "A = vztahu zastoupení, B = ztráty", "correct": true }
             ]
         },
         {
             "text": "Družstvo musí povinně ze zákona tvořit:",
             "answers": [
-                {
-                    "text": "nedělitelný fond",
-                    "correct": true
-                },
-                {
-                    "text": "Dělitelný fond",
-                    "correct": false
-                }
+                { "text": "nedělitelný fond", "correct": true },
+                { "text": "Dělitelný fond", "correct": false }
             ]
         },
         {
             "text": ".... zdroje jsou zdroje, které si podnik tvoří vlastní činností (doplň):",
             "answers": [
-                {
-                    "text": "interní",
-                    "correct": true
-                },
-                {
-                    "text": "externí",
-                    "correct": false
-                }
+                { "text": "externí", "correct": false },
+                { "text": "interní", "correct": true }
             ]
         },
         {
             "text": "Jaké riziko nelze dělit:",
             "answers": [
-                {
-                    "text": "systematické",
-                    "correct": true
-                },
-                {
-                    "text": "neorganizované",
-                    "correct": false
-                }
+                { "text": "systematické", "correct": true },
+                { "text": "neorganizované", "correct": false }
             ]
         },
         {
             "text": "Likvidační hodnota podniku se používá pro stanovení .... hranice hodnoty podniku (doplň):",
             "answers": [
-                {
-                    "text": "dolní",
-                    "correct": true
-                },
-                {
-                    "text": "horní",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Podstatu finančního managementu tvoří:",
-            "answers": [
-                {
-                    "text": "dlouhodobý finanční management",
-                    "correct": true
-                },
-                {
-                    "text": "krátkodobý finanční management",
-                    "correct": true
-                },
-                {
-                    "text": "finanční management",
-                    "correct": false
-                }
+                { "text": "dolní", "correct": true },
+                { "text": "horní", "correct": false }
             ]
         },
         {
             "text": "Když se VVP rovná zvažované úrokové míře, pak hodnota indexu čisté současné hodnoty investice se rovná?:",
             "answers": [
-                {
-                    "text": "1",
-                    "correct": true
-                },
-                {
-                    "text": "0",
-                    "correct": false
-                },
-                {
-                    "text": "-1",
-                    "correct": false
-                }
+                { "text": "0", "correct": false },
+                { "text": "1", "correct": true },
+                { "text": "-1", "correct": false }
             ]
         },
         {
             "text": "..... je kombinace aktiv pro investiční rozhodování:",
             "answers": [
-                {
-                    "text": "Portfolio",
-                    "correct": true
-                },
-                {
-                    "text": "něco jiného",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Vyjmenovat 3 náklady zastoupení v širším pojetí:",
-            "answers": [
-                {
-                    "text": "monitorovací",
-                    "correct": true
-                },
-                {
-                    "text": "motivační",
-                    "correct": true
-                },
-                {
-                    "text": "reziduální",
-                    "correct": true
-                }
+                { "text": "něco jiného", "correct": false },
+                { "text": "Portfolio", "correct": true }
             ]
         },
         {
             "text": "Roční nominální úroková míra je .... než reálná úroková míra a menší nebo rovna efektivní úrokové míře",
             "answers": [
-                {
-                    "text": "větší",
-                    "correct": true
-                },
-                {
-                    "text": "menší",
-                    "correct": false
-                }
+                { "text": "menší", "correct": false },
+                { "text": "větší", "correct": true }
             ]
         },
         {
@@ -2371,291 +1347,132 @@
         {
             "text": "Při směnce aval banka vystupuje jako:",
             "answers": [
-                {
-                    "text": "solidární dlužník",
-                    "correct": true
-                },
-                {
-                    "text": "prostředník",
-                    "correct": false
-                }
+                { "text": "prostředník", "correct": false },
+                { "text": "solidární dlužník", "correct": true }
             ]
         },
         {
             "text": "Smlouva, na jejímž základě je osoba řízená pod vlivem osoby řídící se nazývá:",
             "answers": [
-                {
-                    "text": "ovládací",
-                    "correct": true
-                },
-                {
-                    "text": "posouvací",
-                    "correct": false
-                }
+                { "text": "ovládací", "correct": true },
+                { "text": "posouvací", "correct": false }
             ]
         },
         {
             "text": "Efektivní úroková míra je .... nebo rovna nominální úrokové míře (doplň):",
             "answers": [
-                {
-                    "text": "větší",
-                    "correct": true
-                },
-                {
-                    "text": "menší",
-                    "correct": false
-                }
+                { "text": "větší", "correct": true },
+                { "text": "menší", "correct": false }
             ]
         },
         {
             "text": "Koordinace, která má za úkol sladění všech ekonomických plánů:",
             "answers": [
-                {
-                    "text": "prostorová",
-                    "correct": true
-                },
-                {
-                    "text": "časová",
-                    "correct": false
-                },
-                {
-                    "text": "místní",
-                    "correct": false
-                }
+                { "text": "prostorová", "correct": true },
+                { "text": "místní", "correct": false },
+                { "text": "časová", "correct": false }
             ]
         },
         {
             "text": "Ukazatele celkové nákladovosti lze rozložit na .... než 10 ukazatelů (doplň):",
             "answers": [
-                {
-                    "text": "více",
-                    "correct": true
-                },
-                {
-                    "text": "méně",
-                    "correct": false
-                }
+                { "text": "více", "correct": true },
+                { "text": "méně", "correct": false }
             ]
         },
         {
             "text": "Dluhopis, jehož jmenovitá hodnota roste spolu s inflací:",
             "answers": [
-                {
-                    "text": "indexový",
-                    "correct": true
-                },
-                {
-                    "text": "úrokový",
-                    "correct": false
-                }
+                { "text": "indexový", "correct": true },
+                { "text": "úrokový", "correct": false }
             ]
         },
         {
             "text": "Substanční metoda je druhem:",
             "answers": [
-                {
-                    "text": "majetkové ocenění",
-                    "correct": true
-                },
-                {
-                    "text": "duševní ocenění",
-                    "correct": false
-                }
+                { "text": "majetkové ocenění", "correct": true },
+                { "text": "duševní ocenění", "correct": false }
             ]
         },
         {
             "text": "Metoda finančního plánování, která spočívá v prodlužování časových řad, např. extrapolací:",
             "answers": [
-                {
-                    "text": "statistická",
-                    "correct": true
-                },
-                {
-                    "text": "Kauzální",
-                    "correct": false
-                }
+                { "text": "statistická", "correct": true },
+                { "text": "Kauzální", "correct": false }
             ]
         },
         {
             "text": "Finanční metoda ..... model slouží k určení, zda podnik směřuje k prosperitě nebo bankrotu (doplň):",
             "answers": [
-                {
-                    "text": "Altmanův",
-                    "correct": true
-                },
-                {
-                    "text": "MArkův",
-                    "correct": false
-                },
-                {
-                    "text": "Glossův",
-                    "correct": false
-                }
+                { "text": "Glossův", "correct": false },
+                { "text": "Altmanův", "correct": true },
+                { "text": "MArkův", "correct": false }
             ]
         },
         {
             "text": "Holding, kde hlavní funkcí matky je shánět kapitál pro dcery:",
             "answers": [
-                {
-                    "text": "finanční",
-                    "correct": true
-                },
-                {
-                    "text": "majetkový",
-                    "correct": false
-                }
+                { "text": "finanční", "correct": true },
+                { "text": "majetkový", "correct": false }
             ]
         },
         {
             "text": "..... určování pravděpodobnosti je založeno na opakovaném pozorování dílčí události a výsledků, jež jsou spojeny s touto událostí (doplň):",
             "answers": [
-                {
-                    "text": "objektivní",
-                    "correct": true
-                },
-                {
-                    "text": "subjektivní",
-                    "correct": false
-                }
+                { "text": "objektivní", "correct": true },
+                { "text": "subjektivní", "correct": false }
             ]
         },
         {
             "text": "Čím méně se dlouhodobé finanční zdroje podílí na financování krátkodobých aktiv podniku, tím za jinak stejných okolností, to bude vést k ..A.. výnosu a ..B.. riziku (doplň):",
             "answers": [
-                {
-                    "text": "A = nižšímu, B = nižšímu",
-                    "correct": false
-                },
-                {
-                    "text": "A = vyššímu, B = nižšímu",
-                    "correct": false
-                },
-                {
-                    "text": "A= nižšímu, B = vyššímu",
-                    "correct": false
-                },
-                {
-                    "text": "A= vyššímu, B = vyššímu",
-                    "correct": true
-                }
+                { "text": "A= vyššímu, B = vyššímu", "correct": true },
+                { "text": "A= nižšímu, B = vyššímu", "correct": false },
+                { "text": "A = nižšímu, B = nižšímu", "correct": false },
+                { "text": "A = vyššímu, B = nižšímu", "correct": false }
             ]
         },
         {
             "text": "Když je výše odpisu v roce i nižší než v roce i+1, jde o .... odepisování (doplň):",
             "answers": [
-                {
-                    "text": "progresivní",
-                    "correct": true
-                },
-                {
-                    "text": "agresivní",
-                    "correct": false
-                },
-                {
-                    "text": "regresivní",
-                    "correct": false
-                }
+                { "text": "progresivní", "correct": true },
+                { "text": "regresivní", "correct": false },
+                { "text": "agresivní", "correct": false }
             ]
         },
         {
             "text": "Z hlediska daně z přidané hodnoty je výhodnější, nacházíme-li se ..... výrobně obchodního řetězce, být plátcem daně z přidané hodnoty (doplň):",
             "answers": [
-                {
-                    "text": "uprostřed",
-                    "correct": true
-                },
-                {
-                    "text": "na konci",
-                    "correct": false
-                },
-                {
-                    "text": "na začátku",
-                    "correct": false
-                }
+                { "text": "na začátku", "correct": false },
+                { "text": "na konci", "correct": false },
+                { "text": "uprostřed", "correct": true }
             ]
         },
         {
             "text": "Holding, který spojuje podniky s odlišným předmětem činnosti:",
             "answers": [
-                {
-                    "text": "konglomerátní",
-                    "correct": true
-                },
-                {
-                    "text": "centralistický",
-                    "correct": false
-                },
-                {
-                    "text": "správní",
-                    "correct": false
-                }
+                { "text": "konglomerátní", "correct": true },
+                { "text": "centralistický", "correct": false },
+                { "text": "správní", "correct": false }
             ]
         },
         {
             "text": "Roční nominální úroková míra je .... nebo rovna roční reálné úrokové míře a .... nebo rovna efektivní úrokové míře (doplň):",
             "answers": [
-                {
-                    "text": "větší, menší",
-                    "correct": true
-                },
-                {
-                    "text": "menší, větší",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "4 okruhy řízení dlouhodobého finančního managementu:",
-            "answers": [
-                {
-                    "text": "rozhodování o investicích do dlouhodobého majetku",
-                    "correct": true
-                },
-                {
-                    "text": "optimalizace finanční struktury",
-                    "correct": true
-                },
-                {
-                    "text": "rozhodování o podílech na zisku",
-                    "correct": true
-                },
-                {
-                    "text": "sestavení dlouhodobého finančního plánu",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Náklady zastoupení v užším pojetí jsou způsobeny 4 příčinami:",
-            "answers": [
-                {
-                    "text": "podvodné jednání agenta",
-                    "correct": true
-                },
-                {
-                    "text": "nadspotřeba agenta",
-                    "correct": true
-                },
-                {
-                    "text": "neschopnost a lhostejnost agenta",
-                    "correct": true
-                },
-                {
-                    "text": "arogantnost agenta",
-                    "correct": false
-                }
+                { "text": "menší, větší", "correct": false },
+                { "text": "větší, menší", "correct": true }
             ]
         },
         {
             "text": "Směnka cizí:",
             "answers": [
                 {
-                    "text": "bezpodmínečný příkaz výstavce směnečníkovi zaplatit v určitý den určitou částku oprávněnému majiteli směnky",
-                    "correct": true
-                },
-                {
                     "text": "bezpodmínečný příkaz výstavce směnečníkovi zaplatit někdy určitou částku oprávněnému majiteli směnky",
                     "correct": false
+                },
+                {
+                    "text": "bezpodmínečný příkaz výstavce směnečníkovi zaplatit v určitý den určitou částku oprávněnému majiteli směnky",
+                    "correct": true
                 }
             ]
         },
@@ -2663,12 +1480,12 @@
             "text": "Riziko je:",
             "answers": [
                 {
-                    "text": "nebezpečí, že se skutečné výsledky budou lišit od výsledků námi očekávaných",
-                    "correct": true
-                },
-                {
                     "text": "nemožnost spolehlivého stanovení budoucího výsledku",
                     "correct": false
+                },
+                {
+                    "text": "nebezpečí, že se skutečné výsledky budou lišit od výsledků námi očekávaných",
+                    "correct": true
                 }
             ]
         },
@@ -2676,35 +1493,33 @@
             "text": "Pracovní kapitál je:",
             "answers": [
                 {
-                    "text": "rozdíl mezi krátkodobými aktivy a krátkodobými pasivy",
-                    "correct": true
-                },
-                {
                     "text": "podíl mezi krátkodobými aktivy a krátkodobými pasivy",
                     "correct": false
                 },
                 {
                     "text": "součet mezi krátkodobými aktivy a krátkodobými pasivy",
                     "correct": false
+                },
+                {
+                    "text": "rozdíl mezi krátkodobými aktivy a krátkodobými pasivy",
+                    "correct": true
                 }
             ]
         },
         {
             "text": "Zásadou ..... se rozumí to, aby plánovací horizont starého finančního plánu do určité míry překrýval plánovací horizont nového finančního plánu:",
             "answers": [
-                {
-                    "text": "klouzavosti",
-                    "correct": true
-                },
-                {
-                    "text": "konstantnosti",
-                    "correct": false
-                }
+                { "text": "konstantnosti", "correct": false },
+                { "text": "klouzavosti", "correct": true }
             ]
         },
         {
             "text": "Variační koeficient je:",
             "answers": [
+                {
+                    "text": "součet směrodatné odchylky a průměrného očekávaného výnosu",
+                    "correct": false
+                },
                 {
                     "text": "poměr směrodatné odchylky a průměrného očekávaného výnosu",
                     "correct": true
@@ -2712,67 +1527,39 @@
                 {
                     "text": "rozdíl směrodatné odchylky a průměrného očekávaného výnosu",
                     "correct": false
-                },
-                {
-                    "text": "součet směrodatné odchylky a průměrného očekávaného výnosu",
-                    "correct": false
                 }
             ]
         },
         {
             "text": "KS při anuitním splácení úvěru se vypočítá jako PS mínus:",
             "answers": [
-                {
-                    "text": "splátka",
-                    "correct": true
-                },
-                {
-                    "text": "úrok",
-                    "correct": false
-                }
+                { "text": "úrok", "correct": false },
+                { "text": "splátka", "correct": true }
             ]
         },
         {
             "text": "Odradit akvizitora od úmyslu ovládnout společnost pomocí stanov je:",
             "answers": [
-                {
-                    "text": "repelent na žraloky",
-                    "correct": true
-                },
-                {
-                    "text": "zelená pošta",
-                    "correct": false
-                },
-                {
-                    "text": "jedovaté granule",
-                    "correct": false
-                }
+                { "text": "repelent na žraloky", "correct": true },
+                { "text": "zelená pošta", "correct": false },
+                { "text": "jedovaté granule", "correct": false }
             ]
         },
         {
             "text": "Stabilní dividendová politika se používá:",
             "answers": [
                 {
-                    "text": "ve společnosti s více akcionáři",
-                    "correct": true
-                },
-                {
                     "text": "ve společnosti s jedním akcionářem",
                     "correct": false
-                }
+                },
+                { "text": "ve společnosti s více akcionáři", "correct": true }
             ]
         },
         {
             "text": "Jaký je platební instrument, v jehož rámci banka zajišťuje dodavateli, že se odběratel nedostane k dokumentům umožňujícím nakládat s daným zbožím dříve, než zaplatí:",
             "answers": [
-                {
-                    "text": "dokumentární inkaso",
-                    "correct": true
-                },
-                {
-                    "text": "dokumentární akreditiv",
-                    "correct": false
-                }
+                { "text": "dokumentární akreditiv", "correct": false },
+                { "text": "dokumentární inkaso", "correct": true }
             ]
         },
         {
@@ -2782,62 +1569,35 @@
                     "text": "ano, např. při různé výši počátečních výdajů",
                     "correct": true
                 },
-                {
-                    "text": "ne",
-                    "correct": false
-                }
+                { "text": "ne", "correct": false }
             ]
         },
         {
             "text": "Období, na které je půjčený kapitál se nazývá doba úročení a naopak období, na konci kterého jsou připsány úroky, se nazývá úrokové období:",
             "answers": [
-                {
-                    "text": "ano",
-                    "correct": true
-                },
-                {
-                    "text": "ne",
-                    "correct": false
-                }
+                { "text": "ano", "correct": true },
+                { "text": "ne", "correct": false }
             ]
         },
         {
             "text": "Při fúzi formou sloučení se dvě či více zanikajících firem začlení do jedné již existující.",
             "answers": [
-                {
-                    "text": "ano",
-                    "correct": true
-                },
-                {
-                    "text": "ne",
-                    "correct": false
-                }
+                { "text": "ne", "correct": false },
+                { "text": "ano", "correct": true }
             ]
         },
         {
             "text": "Při výměně nižšího počtu starých akcií za vyšší počet nových akcií při nižší JH se jedná o klasický typ akciového rozštěpení:",
             "answers": [
-                {
-                    "text": "ano",
-                    "correct": true
-                },
-                {
-                    "text": "ne",
-                    "correct": false
-                }
+                { "text": "ano", "correct": true },
+                { "text": "ne", "correct": false }
             ]
         },
         {
             "text": "Na horní hranici Miller-Orrova modelu budeme prodávat pokladniční poukázky a naopak při dosažení dolní hranice budeme nakupovat pokladniční poukázky:",
             "answers": [
-                {
-                    "text": "ano",
-                    "correct": false
-                },
-                {
-                    "text": "ne",
-                    "correct": true
-                }
+                { "text": "ne", "correct": true },
+                { "text": "ano", "correct": false }
             ]
         },
         {
@@ -2857,476 +1617,198 @@
             "text": "Na horní hranici efektivního portfolia investuje:",
             "answers": [
                 {
+                    "text": "racionální investor se silnou averzí k riziku",
+                    "correct": false
+                },
+                {
                     "text": "racionální investor se slabou averzí k riziku",
                     "correct": true
                 },
                 {
                     "text": "iracionální investor s láskou k riziku",
                     "correct": false
-                },
-                {
-                    "text": "racionální investor se silnou averzí k riziku",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Složky krátkodobého finančního managementu:",
-            "answers": [
-                {
-                    "text": "řízení likvidity a pracovního kapitálu",
-                    "correct": true
-                },
-                {
-                    "text": "řízení krátkodobých aktiv a jejich jednotlivých složek",
-                    "correct": true
-                },
-                {
-                    "text": "řízení krátkodobých pasiv a jejich jednotlivých složek",
-                    "correct": true
-                },
-                {
-                    "text": "sestavení krátkodobého finančního plánu",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "2 způsoby hodnocení rizika:",
-            "answers": [
-                {
-                    "text": "absolutní (rozptyl, směrodatná odchylka)",
-                    "correct": true
-                },
-                {
-                    "text": "relativní (variační koeficient)",
-                    "correct": true
-                },
-                {
-                    "text": "konstantní",
-                    "correct": false
-                },
-                {
-                    "text": "fůzní",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "3 typy dividend dle doby vyplácení:",
-            "answers": [
-                {
-                    "text": "řádná",
-                    "correct": true
-                },
-                {
-                    "text": "mimořádná",
-                    "correct": true
-                },
-                {
-                    "text": "likvidační",
-                    "correct": true
                 }
             ]
         },
         {
             "text": "Fúze dvou společností, jejichž výroba je stejná nebo podobná se nazývá:",
             "answers": [
-                {
-                    "text": "horizontální",
-                    "correct": true
-                },
-                {
-                    "text": "vertikální",
-                    "correct": false
-                }
+                { "text": "horizontální", "correct": true },
+                { "text": "vertikální", "correct": false }
             ]
         },
         {
             "text": "Interní financování podniku je též, když se podnik financuje z vlastních zdrojů:",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Když je výše odpisu v roce i vyšší než v roce i+1, jde o degresivní odepisování:",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Mimosoudní vymáhání pohledávek je např.: najmutí detektivní či inkasní firmy (odkup vybraných pohledávek a v inkasu prostřednictvím mandátní smlouvy nebo zprostředkování vzájemného započtení závazků a pohledávek či pořádání dražeb)",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ano", "correct": true },
+                { "text": "Ne", "correct": false }
             ]
         },
         {
             "text": "Nepřímý leasing: tzv. zpětný leasing, pronajímatel pronajímá nájemci majetek, který od něho předtím odkoupil",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Podle obchodního zákoníku ovládající osobou je ta, která vykonává fakticky nebo právně, přímo nebo nepřímo rozhodující vliv na řízení či provozování podniku jiné ovládané osoby",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ano", "correct": true },
+                { "text": "Ne", "correct": false }
             ]
         },
         {
             "text": "Pro koho se stanovuje investiční hodnota společnosti:",
             "answers": [
-                {
-                    "text": "pro investora",
-                    "correct": true
-                },
-                {
-                    "text": "pro vlastníka společnosti",
-                    "correct": false
-                },
-                {
-                    "text": "pro veřejnost",
-                    "correct": false
-                }
+                { "text": "pro investora", "correct": true },
+                { "text": "pro vlastníka společnosti", "correct": false },
+                { "text": "pro veřejnost", "correct": false }
             ]
         },
         {
             "text": "Při platbě DPH je lepší být na konci výrobně obchodního řetězce:",
             "answers": [
-                {
-                    "text": "neplátce daně",
-                    "correct": true
-                },
-                {
-                    "text": "plátce daně",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Rezervní fond musí ze zákona tvořit:",
-            "answers": [
-                {
-                    "text": "a.s.",
-                    "correct": true
-                },
-                {
-                    "text": "s.r.o.",
-                    "correct": true
-                },
-                {
-                    "text": "v.o.s.",
-                    "correct": false
-                },
-                {
-                    "text": "k.s.",
-                    "correct": false
-                }
+                { "text": "plátce daně", "correct": false },
+                { "text": "neplátce daně", "correct": true }
             ]
         },
         {
             "text": "Současná hodnota dluhopisu se rovná součtu současné hodnoty splátek a současné hodnoty úrokových plateb:",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Zanikající společnost vytváří novou nástupnickou společnost (A+B=C):",
             "answers": [
-                {
-                    "text": "splynutí",
-                    "correct": true
-                },
-                {
-                    "text": "sjednocení",
-                    "correct": false
-                }
+                { "text": "splynutí", "correct": true },
+                { "text": "sjednocení", "correct": false }
             ]
         },
         {
             "text": "Zlatý padák: zajištění pomocí smlouvy, zajišťující vysoké odstupné, jestliže budou manažeři ze svých míst uvolněni z důvodu fúze či akvizice:",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Eskontní úvěr: převod směnky na banku před termínem splatnosti, přičemž se banka nevzdává možnosti uplatnit zpětný postih na předchozího majitele, pokud jí směnka nebude uhrazena včas",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Součet hodnot účetního zisku a daňových odpisů musí být za jinak stejných podmínek vždy konstantní:",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ano", "correct": true },
+                { "text": "Ne", "correct": false }
             ]
         },
         {
             "text": "Rostou-li náklady zastoupení, .... tržní hodnota podniku:",
             "answers": [
-                {
-                    "text": "klesá",
-                    "correct": true
-                },
-                {
-                    "text": "roste",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Co způsobují náklady zastoupení?:",
-            "answers": [
-                {
-                    "text": "nižší tržní hodnotu",
-                    "correct": true
-                },
-                {
-                    "text": "vyšší zisk agenta",
-                    "correct": true
-                },
-                {
-                    "text": "nižší zisk principála",
-                    "correct": true
-                },
-                {
-                    "text": "vyšší tržní hodnotu",
-                    "correct": false
-                }
+                { "text": "roste", "correct": false },
+                { "text": "klesá", "correct": true }
             ]
         },
         {
             "text": "Diskontovaná doba návratnosti je nevýhodná:",
             "answers": [
+                { "text": "tvrzení není pravda, je výhodná", "correct": false },
                 {
                     "text": "abstrahuje od peněžních toků po době návratnosti",
                     "correct": true
-                },
-                {
-                    "text": "tvrzení není pravda, je výhodná",
-                    "correct": false
                 }
             ]
         },
         {
             "text": "Dle zákona se CF dělí na: provozní, finanční, investiční",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Faktoring: faktorem prováděný odkup pohledávek:",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Forfaiting: dodavatel dodá nakupovaný investiční majetek dovážejícímu podniku na účet",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Jak dělíme kauzální podmínky:",
-            "answers": [
-                {
-                    "text": "vstupní",
-                    "correct": true
-                },
-                {
-                    "text": "výstupní",
-                    "correct": true
-                },
-                {
-                    "text": "žádoucí",
-                    "correct": true
-                },
-                {
-                    "text": "kontrolní",
-                    "correct": true
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Jedním ze zakladatelů oboru finance podniku je H. ......, který vytvořil teorii o portfoliu",
             "answers": [
-                {
-                    "text": "Markovitz",
-                    "correct": true
-                },
-                {
-                    "text": "Konstantinov",
-                    "correct": false
-                },
-                {
-                    "text": "Petrowizs",
-                    "correct": false
-                },
-                {
-                    "text": "Kurwic",
-                    "correct": false
-                }
+                { "text": "Petrowizs", "correct": false },
+                { "text": "Kurwic", "correct": false },
+                { "text": "Konstantinov", "correct": false },
+                { "text": "Markovitz", "correct": true }
             ]
         },
         {
             "text": "Metoda DCF je metodou:",
             "answers": [
-                {
-                    "text": "výnosovou",
-                    "correct": true
-                },
-                {
-                    "text": "nákladovou",
-                    "correct": false
-                }
+                { "text": "nákladovou", "correct": false },
+                { "text": "výnosovou", "correct": true }
             ]
         },
         {
             "text": "Na co má majitel prioritní akcie právo: přednostní právo na dividendu (VŽDY), přednostní právo na likvidační zůstatek (VŽDY), hlasovací právo (NĚKDY)",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ano", "correct": true },
+                { "text": "Ne", "correct": false }
             ]
         },
         {
             "text": "O co se liší náklady v zastoupení v užším a širším pojetí:",
             "answers": [
-                {
-                    "text": "o motivační a monitorovací složku",
-                    "correct": true
-                },
-                {
-                    "text": "o rycholst dodání zboží",
-                    "correct": false
-                }
+                { "text": "o rycholst dodání zboží", "correct": false },
+                { "text": "o motivační a monitorovací složku", "correct": true }
             ]
         },
         {
             "text": "Riziko, které lze rozložit:",
             "answers": [
-                {
-                    "text": "nesystematické",
-                    "correct": true
-                },
-                {
-                    "text": "systematické",
-                    "correct": false
-                }
+                { "text": "nesystematické", "correct": true },
+                { "text": "systematické", "correct": false }
             ]
         },
         {
             "text": "Správní holding: mateřská společnost vystupuje jako správce portfolia dceřiné společnosti",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
+                { "text": "Ne", "correct": false },
+                { "text": "Ano", "correct": true }
             ]
         },
         {
             "text": "Správní holding: mateřská společnost nevystupuje jako správce portfolia dceřiné společnosti",
             "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
+                { "text": "Ne", "correct": true },
+                { "text": "Ano", "correct": false }
             ]
         }
     ]
