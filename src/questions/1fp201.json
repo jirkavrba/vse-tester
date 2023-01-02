@@ -771,9 +771,14 @@
             "text": "Čím ..A.. počet skládání, tím bude ..B.. efektivní úroková míra:",
             "answers": [
                 { "text": "A = nižší, B = nižší", "correct": true },
-                { "text": "A = vyšší, B = nižší", "correct": false },
                 { "text": "A= nižší, B = vyšší", "correct": false },
-                { "text": "A= vyšší, B = vyšší", "correct": false }
+            ]
+        },
+        {
+            "text": "Čím ..A.. počet skládání, tím bude ..B.. efektivní úroková míra:",
+            "answers": [
+                { "text": "A = vyšší, B = nižší", "correct": false },
+                { "text": "A= vyšší, B = vyšší", "correct": true }
             ]
         },
         {
