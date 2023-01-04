@@ -47,8 +47,12 @@ const Tester: React.FC<TesterProps> = ({
 
     const question = questions[index % questions.length]!;
 
-    const correct = states.filter((state) => state === QuestionState.Correct).length;
-    const incorrect = states.filter((state) => state === QuestionState.Incorrect).length;
+    const correct = states.filter(
+        (state) => state === QuestionState.Correct
+    ).length;
+    const incorrect = states.filter(
+        (state) => state === QuestionState.Incorrect
+    ).length;
 
     const select = (correct: boolean, text: string): void => {
         if (revealed) {

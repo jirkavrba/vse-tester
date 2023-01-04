@@ -23,7 +23,14 @@ const Header: React.FC<HeaderProps> = ({
         >
             <div className="flex w-full flex-row items-start justify-between">
                 <div className="flex w-full flex-col items-center lg:w-auto lg:items-start">
-                    <Link href={"/"} className={`flex flex-row items-center gap-2 mb-4 uppercase text-sm tracking-widest font-bold transition-all ${darkmode ? "text-neutral-700 hover:text-white" : "text-neutral-400 hover:text-black"}`}>
+                    <Link
+                        href={"/"}
+                        className={`mb-4 flex flex-row items-center gap-2 text-sm font-bold uppercase tracking-widest transition-all ${
+                            darkmode
+                                ? "text-neutral-700 hover:text-white"
+                                : "text-neutral-400 hover:text-black"
+                        }`}
+                    >
                         <FaArrowLeft /> Zpět na výběr předmětu
                     </Link>
                     <h1

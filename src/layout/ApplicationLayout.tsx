@@ -33,17 +33,19 @@ const ApplicationLayout: FC<ApplicationLayoutProps> = ({
     const setDarkmodePersisting = (dark: boolean) => {
         setDarkmode(dark);
         storeDarkmode(dark);
-    }
+    };
 
     useEffect(() => {
         const dark = window.localStorage.getItem("theme") !== "light-mode";
 
         setDarkmode(dark);
-        storeDarkmode(dark); 
+        storeDarkmode(dark);
     }, []);
 
     return (
-        <ApplicationContext.Provider value={{ darkmode, setDarkmode: setDarkmodePersisting }}>
+        <ApplicationContext.Provider
+            value={{ darkmode, setDarkmode: setDarkmodePersisting }}
+        >
             {children}
         </ApplicationContext.Provider>
     );
