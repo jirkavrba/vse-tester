@@ -2,6 +2,7 @@ import type { GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import { useContext } from "react";
+import { Contributors } from "../components/Contributors";
 import { ApplicationContext } from "../layout/ApplicationLayout";
 import { fetchQuestionSets } from "../lib/questions";
 import type { QuestionSet } from "../types";
@@ -74,7 +75,7 @@ const Home: NextPage<HomeProps> = ({ sets }: HomeProps) => {
                         ))}
                     </div>
                 </div>
-                {/* TODO: Contributors component */}
+                <Contributors names={["Kreamis#4003", "Biting Palace#9378", "Lajtkek#2530"]}/>
             </main>
         </>
     );
