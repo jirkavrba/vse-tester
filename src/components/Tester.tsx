@@ -99,8 +99,9 @@ const Tester: React.FC<TesterProps> = ({
             .map((answer) => answer.text);
 
         const correct =
+            selected.length === correctAnswers.length &&
             selected.every((answer) => correctAnswers.includes(answer)) &&
-            !selected.some((answer) => incorrectAnswers.includes(answer));
+            selected.every((answer) => !incorrectAnswers.includes(answer));
 
         setRevealed(true);
         setSelected([]);
