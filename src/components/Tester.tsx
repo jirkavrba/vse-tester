@@ -2,7 +2,7 @@ import { useContext, useEffect, useState } from "react";
 import { FaArrowRight, FaCheck, FaRandom, FaUndo } from "react-icons/fa";
 import seedrandom from "seedrandom";
 import { ApplicationContext } from "../layout/ApplicationLayout";
-import { type Question, QuestionState } from "../types";
+import { type Question, QuestionState, type Answer as AnswerType } from "../types";
 import Answer from "./Answer";
 import Button from "./Button";
 import Progress from "./Progress";
@@ -24,6 +24,7 @@ const Tester: React.FC<TesterProps> = ({
     const [index, setIndex] = useState<number>(0);
     const [states, setStates] = useState<Array<QuestionState>>([]);
     const [seed, setSeed] = useState<string>("");
+    const [shuffledAnswers, setShuffledAnswers] = useState<Array<AnswerType>>([]);
 
     const { darkmode } = useContext(ApplicationContext);
 
@@ -152,7 +153,10 @@ const Tester: React.FC<TesterProps> = ({
         window.localStorage.removeItem(key);
     };
 
-    const random = seedrandom(seed);
+    useEffect(() => {
+        const random = seedrandom(seed);
+        setShuffledAnswers(() => question.answers.sort(() => 0.5 - random()));
+    }, [seed, question.answers]);
 
     return (
         <div
@@ -169,9 +173,9 @@ const Tester: React.FC<TesterProps> = ({
                     {question.text}
                 </h1>
                 <div className="mt-4 flex flex-col lg:mt-10">
-                    {question.answers.sort(() => 0.5 - random()).map((answer, i) => (
+                    {shuffledAnswers.map((answer, i) => (
                         <Answer
-                            key={answer.text}
+                            key={i}
                             text={answer.text}
                             correct={answer.correct}
                             revealed={revealed}
