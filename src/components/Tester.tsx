@@ -1,5 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import { FaArrowRight, FaCheck, FaRandom, FaUndo } from "react-icons/fa";
+import seedrandom from "seedrandom";
 import { ApplicationContext } from "../layout/ApplicationLayout";
 import { type Question, QuestionState } from "../types";
 import Answer from "./Answer";
@@ -22,6 +23,7 @@ const Tester: React.FC<TesterProps> = ({
     const [selected, setSelected] = useState<Array<string>>([]);
     const [index, setIndex] = useState<number>(0);
     const [states, setStates] = useState<Array<QuestionState>>([]);
+    const [seed, setSeed] = useState<string>("");
 
     const { darkmode } = useContext(ApplicationContext);
 
@@ -32,7 +34,6 @@ const Tester: React.FC<TesterProps> = ({
             QuestionState.Unanswered,
         ]);
 
-        // setIndex(Math.floor(Math.random() * questions.length));
         setRevealed(false);
         setStates(defaultStates);
 
@@ -51,12 +52,8 @@ const Tester: React.FC<TesterProps> = ({
 
     const question = questions[index % questions.length]!;
 
-    const correct = states.filter(
-        (state) => state === QuestionState.Correct
-    ).length;
-    const incorrect = states.filter(
-        (state) => state === QuestionState.Incorrect
-    ).length;
+    const correct = states.filter((state) => state === QuestionState.Correct).length;
+    const incorrect = states.filter((state) => state === QuestionState.Incorrect).length;
 
     const select = (correct: boolean, text: string): void => {
         if (revealed) {
@@ -140,18 +137,22 @@ const Tester: React.FC<TesterProps> = ({
 
     const directQuestion = (index: number) => {
         setIndex(index);
+        setSeed(Math.random().toString().substring(2));
         setRevealed(false);
     };
 
     const reset = () => {
         setRevealed(false);
         setIndex(Math.floor(Math.random() * questions.length));
+        setSeed(Math.random().toString().substring(2));
         setStates(
             [...new Array(questions.length)].fill(QuestionState.Unanswered)
         );
 
         window.localStorage.removeItem(key);
     };
+
+    const random = seedrandom(seed);
 
     return (
         <div
@@ -168,7 +169,7 @@ const Tester: React.FC<TesterProps> = ({
                     {question.text}
                 </h1>
                 <div className="mt-4 flex flex-col lg:mt-10">
-                    {question.answers.map((answer, i) => (
+                    {question.answers.sort(() => 0.5 - random()).map((answer, i) => (
                         <Answer
                             key={i}
                             text={answer.text}
