@@ -192,11 +192,7 @@ const Tester: React.FC<TesterProps> = ({
                 />
                 <div className="flex-col">
                     {multichoice && (
-                        <Button
-                            disabled={selected.length === 0}
-                            onClick={checkAnswers}
-                            className="mt-3 mr-5 w-full text-center md:mr-0"
-                        >
+                        <Button onClick={checkAnswers} className="mt-3 mr-5 w-full text-center md:mr-0">
                             <FaCheck className="md:mr-5" />
                             <div className="hidden md:block">
                                 Zkontrolovat odpovědi
