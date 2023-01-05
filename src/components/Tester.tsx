@@ -171,7 +171,7 @@ const Tester: React.FC<TesterProps> = ({
                 <div className="mt-4 flex flex-col lg:mt-10">
                     {question.answers.sort(() => 0.5 - random()).map((answer, i) => (
                         <Answer
-                            key={i}
+                            key={answer.text}
                             text={answer.text}
                             correct={answer.correct}
                             revealed={revealed}
