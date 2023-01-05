@@ -45,6 +45,10 @@ const Tester: React.FC<TesterProps> = ({
         document.title = title;
     }, [questions, title, key]);
 
+    useEffect(() => {
+        setIndex(Math.floor(Math.random() * questions.length));
+    }, [questions.length]);
+
     const question = questions[index % questions.length]!;
 
     const correct = states.filter(

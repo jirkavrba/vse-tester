@@ -4,7 +4,7 @@
     "multichoice": true,
     "questions": [
         {
-            "text": "1. Occamova břitva???",
+            "text": "Occamova břitva???",
             "answers": [
                 {
                     "text": "pravidlo, že nejjednodušší řečení je zpravidla to správné",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "text": "2. Co je motivem pro zavedení Datového skladu (DWH) z pohledu managementu?",
+            "text": "Co je motivem pro zavedení Datového skladu (DWH) z pohledu managementu?",
             "answers": [
                 {
                     "text": "řízení přístupu k datům",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "3. Jaká jsou základní důvody vedoucí ke vzniku podnikových norem?",
+            "text": "Jaká jsou základní důvody vedoucí ke vzniku podnikových norem?",
             "answers": [
                 {
                     "text": "eliminace zbytečných činností",
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "text": "4. Co jsou Master Data?",
+            "text": "Co jsou Master Data?",
             "answers": [
                 {
                     "text": "Základní data",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "text": "5. Co se očekává od člena představenstva firmy?",
+            "text": "Co se očekává od člena představenstva firmy?",
             "answers": [
                 {
                     "text": "aktivní rozhodování v oblasti IT",
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "text": "6. Kterou oblast pokrývá pojem Bi-modální řízení IT?",
+            "text": "Kterou oblast pokrývá pojem Bi-modální řízení IT?",
             "answers": [
                 {
                     "text": "???",
@@ -142,7 +142,7 @@
             ]
         },
         {
-            "text": "7. Který z uvedených standardů nepatří mezi agilní projektové metodiky?",
+            "text": "Který z uvedených standardů nepatří mezi agilní projektové metodiky?",
             "answers": [
                 {
                     "text": "IMPA",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "text": "8. Co znamená Gantt Chart v rámci projektového řízení?",
+            "text": "Co znamená Gantt Chart v rámci projektového řízení?",
             "answers": [
                 {
                     "text": "seznam technologií",
@@ -192,7 +192,7 @@
             ]
         },
         {
-            "text": "9. Co nepatří mezi jednotlivé fáze v rámci procesu risk analýzy?",
+            "text": "Co nepatří mezi jednotlivé fáze v rámci procesu risk analýzy?",
             "answers": [
                 {
                     "text": "sestavení plánu opatření eliminujících rizika",
@@ -221,7 +221,7 @@
             ]
         },
         {
-            "text": "10. Jaký je rozdíl mezi pojmy Governance a Management podniku?",
+            "text": "Jaký je rozdíl mezi pojmy Governance a Management podniku?",
             "answers": [
                 {
                     "text": "Governance je podmnožina nástrojů užívaných v Managementu",
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "text": "11. Která z uvedených norem je nejvíce specifická pro práci s daty?",
+            "text": "Která z uvedených norem je nejvíce specifická pro práci s daty?",
             "answers": [
                 {
                     "text": "DMBOK DAMA",
@@ -267,7 +267,7 @@
             ]
         },
         {
-            "text": "12. Co odlišuje řízení IT v prostředí Startupů vůči Korporacím?",
+            "text": "Co odlišuje řízení IT v prostředí Startupů vůči Korporacím?",
             "answers": [
                 {
                     "text": "robustní systém řízení rizik",
@@ -296,7 +296,7 @@
             ]
         },
         {
-            "text": "13. Na co je zaměřen CMM model procesů?",
+            "text": "Na co je zaměřen CMM model procesů?",
             "answers": [
                 {
                     "text": "rentabilitu procesu",
@@ -317,7 +317,7 @@
             ]
         },
         {
-            "text": "14. Které z uvedených pojmů označuje notaci zápisu procesů?",
+            "text": "Které z uvedených pojmů označuje notaci zápisu procesů?",
             "answers": [
                 {
                     "text": "BMPN",
@@ -338,7 +338,7 @@
             ]
         },
         {
-            "text": "15. Který z uvedených pojmů nepatří mezi Enablers v rámci COBIT 5?",
+            "text": "Který z uvedených pojmů nepatří mezi Enablers v rámci COBIT 5?",
             "answers": [
                 {
                     "text": "informace",
@@ -359,7 +359,7 @@
             ]
         },
         {
-            "text": "16. Který z uvedených typů IT teamů zapadá do rozdělení dle samostatnosti?",
+            "text": "Který z uvedených typů IT teamů zapadá do rozdělení dle samostatnosti?",
             "answers": [
                 {
                     "text": "autonomní team",
@@ -380,7 +380,7 @@
             ]
         },
         {
-            "text": "17. Jakého procesu je následkem Organizační struktura?",
+            "text": "Jakého procesu je následkem Organizační struktura?",
             "answers": [
                 {
                     "text": "plánování",
@@ -409,7 +409,7 @@
             ]
         },
         {
-            "text": "19. Co je to entropie?",
+            "text": "Co je to entropie?",
             "answers": [
                 {
                     "text": "ITIL doména",
@@ -430,7 +430,7 @@
             ]
         },
         {
-            "text": "20. Jaké jsou principy a klíčové oblasti IT Governance?",
+            "text": "Jaké jsou principy a klíčové oblasti IT Governance?",
             "answers": [
                 {
                     "text": "oddělení role vlastníků a manažerů",
@@ -451,7 +451,7 @@
             ]
         },
         {
-            "text": "21. Jaký je vztah Enterprise a IT Governance (ITG)?",
+            "text": "Jaký je vztah Enterprise a IT Governance (ITG)?",
             "answers": [
                 {
                     "text": "ITG je nadřazené Enterprise",
@@ -472,7 +472,7 @@
             ]
         },
         {
-            "text": "22. Jaká norma se píše v organizaci jako první?",
+            "text": "Jaká norma se píše v organizaci jako první?",
             "answers": [
                 {
                     "text": "směrnice o účetnictví",
@@ -493,7 +493,7 @@
             ]
         },
         {
-            "text": "23. Který z uvedených termínů popisuje situaci nezaujatě?",
+            "text": "Který z uvedených termínů popisuje situaci nezaujatě?",
             "answers": [
                 {
                     "text": "fakta",
@@ -514,7 +514,7 @@
             ]
         },
         {
-            "text": "24. Který z dokumentů nepatří mezi klíčové publikace COBIT 5?",
+            "text": "Který z dokumentů nepatří mezi klíčové publikace COBIT 5?",
             "answers": [
                 {
                     "text": "Val IT",
@@ -535,7 +535,7 @@
             ]
         },
         {
-            "text": "25. Co je nového v pojetí Data science vůči původnímu pojetí Teorie informací?",
+            "text": "Co je nového v pojetí Data science vůči původnímu pojetí Teorie informací?",
             "answers": [
                 {
                     "text": "rozmanitost datových formátů a technologie pro jejich zpracování",
@@ -560,7 +560,7 @@
             ]
         },
         {
-            "text": "26. Která z uvedených oblastí nepatří mezi ITIL 3 domény?",
+            "text": "Která z uvedených oblastí nepatří mezi ITIL 3 domény?",
             "answers": [
                 {
                     "text": "value creation",
@@ -581,7 +581,7 @@
             ]
         },
         {
-            "text": "27. Co v měkkých systémech označuje pojem Rich Picture?",
+            "text": "Co v měkkých systémech označuje pojem Rich Picture?",
             "answers": [
                 {
                     "text": "nejdražší obraz",
@@ -606,7 +606,7 @@
             ]
         },
         {
-            "text": "28. Podle čeho je primárně nastaven oběh (workflow) dokumentů v organizaci?",
+            "text": "Podle čeho je primárně nastaven oběh (workflow) dokumentů v organizaci?",
             "answers": [
                 {
                     "text": "dle normy nastavující organizační strukturu",
@@ -627,7 +627,7 @@
             ]
         },
         {
-            "text": "29. Která z uvedených oblastí nepatří do perspektiv (domén) Informačního modelu podniku?",
+            "text": "Která z uvedených oblastí nepatří do perspektiv (domén) Informačního modelu podniku?",
             "answers": [
                 {
                     "text": "organizační struktura",
@@ -648,7 +648,7 @@
             ]
         },
         {
-            "text": "30. Co patří mezi základní kritéria, podle kterého se hodnotí úspěšný či neúspěšný projekt?",
+            "text": "Co patří mezi základní kritéria, podle kterého se hodnotí úspěšný či neúspěšný projekt?",
             "answers": [
                 {
                     "text": "míra optimalizace projektových činností",
@@ -669,7 +669,7 @@
             ]
         },
         {
-            "text": "31. Které z uvedených systémů a metod nepatří mezi Decision Supporting Systems (DSS)?",
+            "text": "Které z uvedených systémů a metod nepatří mezi Decision Supporting Systems (DSS)?",
             "answers": [
                 {
                     "text": "scrum",
@@ -698,7 +698,7 @@
             ]
         },
         {
-            "text": "32. Co jsou Meta Data?",
+            "text": "Co jsou Meta Data?",
             "answers": [
                 {
                     "text": "transakční data",
@@ -723,7 +723,7 @@
             ]
         },
         {
-            "text": "33. Co je základním nástrojem v komunikaci dobrého vlastníka firmy?",
+            "text": "Co je základním nástrojem v komunikaci dobrého vlastníka firmy?",
             "answers": [
                 {
                     "text": "ptát se a naslouchat",
@@ -744,7 +744,7 @@
             ]
         },
         {
-            "text": "34. Které z uvedených organizační modelů a struktur označujeme jako alternativní?",
+            "text": "Které z uvedených organizační modelů a struktur označujeme jako alternativní?",
             "answers": [
                 {
                     "text": "Svobodná firma",
@@ -765,7 +765,7 @@
             ]
         },
         {
-            "text": "35. Který z uvedených uživatelů je nejméně dotčen COBIT metodikou?",
+            "text": "Který z uvedených uživatelů je nejméně dotčen COBIT metodikou?",
             "answers": [
                 {
                     "text": "Finanční ředitel",
@@ -786,7 +786,7 @@
             ]
         },
         {
-            "text": "36. Které z uvedených typů procesů patří mezi elementární typové dělení procesů?",
+            "text": "Které z uvedených typů procesů patří mezi elementární typové dělení procesů?",
             "answers": [
                 {
                     "text": "Prodejní proces",
@@ -807,7 +807,7 @@
             ]
         },
         {
-            "text": "37. Který ze systémů není podmnožinou Enterprise Content Management (ECM)?",
+            "text": "Který ze systémů není podmnožinou Enterprise Content Management (ECM)?",
             "answers": [
                 {
                     "text": "ERP",
@@ -836,7 +836,7 @@
             ]
         },
         {
-            "text": "38. Který z uvedený typů IT teamu zapadá do rozdělení teamů dle diverzity?",
+            "text": "Který z uvedený typů IT teamu zapadá do rozdělení teamů dle diverzity?",
             "answers": [
                 {
                     "text": "Vzdálený team",
@@ -857,7 +857,7 @@
             ]
         },
         {
-            "text": "39. Jaké jsou základní přínosy Enterprise Content Management (ECM) nástroje?",
+            "text": "Jaké jsou základní přínosy Enterprise Content Management (ECM) nástroje?",
             "answers": [
                 {
                     "text": "Důvěrné dokumenty mohou být přístupné všem uživatelům",
@@ -878,7 +878,7 @@
             ]
         },
         {
-            "text": "40. Co patří mezi komponenty Enterprise BSC (Balanced Score Card)?",
+            "text": "Co patří mezi komponenty Enterprise BSC (Balanced Score Card)?",
             "answers": [
                 {
                     "text": "IT infrastruktura",
@@ -899,7 +899,7 @@
             ]
         },
         {
-            "text": "41. Která z uvedených oblastí nepatří do bezpečnostního cyklu práce s informacemi?",
+            "text": "Která z uvedených oblastí nepatří do bezpečnostního cyklu práce s informacemi?",
             "answers": [
                 {
                     "text": "Create",
@@ -920,7 +920,7 @@
             ]
         },
         {
-            "text": "42. Na co se shodně soustředí soustředí ITIL 3 a ITIL 4?",
+            "text": "Na co se shodně soustředí soustředí ITIL 3 a ITIL 4?",
             "answers": [
                 {
                     "text": "Zákazníka, procesy a služby",
@@ -941,7 +941,7 @@
             ]
         },
         {
-            "text": "43. Definice Paretova pravidla?",
+            "text": "Definice Paretova pravidla?",
             "answers": [
                 {
                     "text": "80% problémů způsobuje 20% faktorů",
@@ -962,7 +962,7 @@
             ]
         },
         {
-            "text": "44. Který z uvedených standardů nepatří mezi agilní projektové metodiky?",
+            "text": "Který z uvedených standardů nepatří mezi agilní projektové metodiky?",
             "answers": [
                 {
                     "text": "Prince 2",
@@ -991,7 +991,7 @@
             ]
         },
         {
-            "text": "45. Co tvoří jednotlivé vstupy zakreslované v rámci Fishbone diagram (rybí páteř)?",
+            "text": "Co tvoří jednotlivé vstupy zakreslované v rámci Fishbone diagram (rybí páteř)?",
             "answers": [
                 {
                     "text": "Seznam rizik",
@@ -1012,7 +1012,7 @@
             ]
         },
         {
-            "text": "46. Které z uvedených pojmů označuje notaci zápisu procesů?",
+            "text": "Které z uvedených pojmů označuje notaci zápisu procesů?",
             "answers": [
                 {
                     "text": "ISO 27000",
@@ -1033,7 +1033,7 @@
             ]
         },
         {
-            "text": "47. Co patří mezi základní principy COBIT 5?",
+            "text": "Co patří mezi základní principy COBIT 5?",
             "answers": [
                 {
                     "text": "Řízení rostoucí komplexity v IT službách (na to reaguje ITIL 4)",
@@ -1054,7 +1054,7 @@
             ]
         },
         {
-            "text": "48. Jaký je rozdíl mezi Governance a Management podniku?",
+            "text": "Jaký je rozdíl mezi Governance a Management podniku?",
             "answers": [
                 {
                     "text": "Governance je podmnoživa nástrojů užívaných v Managementu",
@@ -1075,7 +1075,7 @@
             ]
         },
         {
-            "text": "49. Co znamená zkratka WBS (Work Breakdown Structure) v rámci projektového řízení?",
+            "text": "Co znamená zkratka WBS (Work Breakdown Structure) v rámci projektového řízení?",
             "answers": [
                 {
                     "text": "ITIL doménu",
@@ -1096,7 +1096,7 @@
             ]
         },
         {
-            "text": "50. Čím se zabývá obecná etika, která je základem pro AI etiku?",
+            "text": "Čím se zabývá obecná etika, která je základem pro AI etiku?",
             "answers": [
                 {
                     "text": "Jak řídit firmu",
