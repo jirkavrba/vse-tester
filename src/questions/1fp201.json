@@ -694,6 +694,15 @@
             "answers": [
                 { "text": "interní vlastní", "correct": false },
                 { "text": "interní cizí", "correct": false },
+                { "text": "externí cizí", "correct": false },
+                { "text": "externí vlastní", "correct": true }
+            ]
+        },
+        {
+            "text": "Emise dluhopisů jsou finanční zdroje:",
+            "answers": [
+                { "text": "interní vlastní", "correct": false },
+                { "text": "interní cizí", "correct": false },
                 { "text": "externí cizí", "correct": true },
                 { "text": "externí vlastní", "correct": false }
             ]

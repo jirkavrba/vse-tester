@@ -75,7 +75,7 @@ const Home: NextPage<HomeProps> = ({ sets }: HomeProps) => {
                         ))}
                     </div>
                 </div>
-                <Contributors names={["Kreamis#4003", "Biting Palace#9378", "Lajtkek#2530"]}/>
+                <Contributors names={["Kreamis#4003", "Biting Palace#9378", "Lajtkek#2530", "Imposter Mr.Shadow#4225"]}/>
             </main>
         </>
     );
