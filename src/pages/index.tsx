@@ -81,7 +81,8 @@ const Home: NextPage<HomeProps> = ({ sets }: HomeProps) => {
                     "Lajtkek#2530",
                     "Imposter Mr.Shadow#4225",
                     "D'oh#0403",
-                    "dinoghost#8108"
+                    "dinoghost#8108",
+                    "ghoust#2295"
                 ]}/>
             </main>
         </>

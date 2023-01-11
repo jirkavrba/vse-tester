@@ -748,7 +748,7 @@
             "answers": [
                 {
                     "text": "Svobodná firma",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Maticová struktura",
