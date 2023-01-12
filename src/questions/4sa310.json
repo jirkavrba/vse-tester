@@ -756,11 +756,11 @@
                 },
                 {
                     "text": "Štábní struktura",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Liniová struktura",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
