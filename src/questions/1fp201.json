@@ -537,7 +537,7 @@
             "answers": [
                 {
                     "text": "Je-li dividenda kmenové akcie nižší, než stanovená částka na kombinované prioritní akcii, tak akcionář prioritní dividendy má právo na výplatu výše kmenové dividendy",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Jedním ze zakladatelů oboru finance podniku je H. Markowitz, který vytvořil teorii o portfoliu",
@@ -545,7 +545,7 @@
                 },
                 {
                     "text": "součet hodnot účetního zisku a daňových odpisů musí být za jinak stejných okolností vždy konstantní",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
