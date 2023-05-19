@@ -3162,7 +3162,7 @@
                 },
                 {
                     "text": "Ne",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
