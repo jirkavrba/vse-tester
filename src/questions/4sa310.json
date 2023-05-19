@@ -1092,6 +1092,73 @@
                 {
                     "text": "kritérium kvality",
                     "correct": false
+                },
+                {
+                    "text": "dekompozice činnosti v projektu na malé pracovní úkoly",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Která z uvedených norem je úzce specifická pro práci s daty?",
+            "answers": [
+                {
+                    "text": "ISO 27000",
+                    "correct": false
+                },
+                {
+                    "text": "ITIL",
+                    "correct": false
+                },
+                {
+                    "text": "CRISP DM",
+                    "correct": true
+                },
+                {
+                    "text": "COBIT",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Který z následujících pojmů nejlépe definuje obecný pojem riziko?",
+            "answers": [
+                {
+                    "text": "Nejistota výsledku",
+                    "correct": true
+                },
+                {
+                    "text": "Výpadek ERP systému",
+                    "correct": false
+                },
+                {
+                    "text": "Technologická havárie",
+                    "correct": false
+                },
+                {
+                    "text": "Ztráty na životech",
+                    "correct": false
+                }
+            ]
+        },
+         {
+            "text": "Který z uvedených typů IT teamů patří do rozdělení teamů dle samostatnosti?",
+            "answers": [
+                {
+                    "text": "centrálně řízený team",
+                    "correct": true
+                },
+                {
+                    "text": "heterogenní team",
+                    "correct": false
+                },
+                {
+                    "text": "homogenní team",
+                    "correct": false
+                },
+                {
+                    "text": "vzdálený team",
+                    "correct": false
                 }
             ]
         },
