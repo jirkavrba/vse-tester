@@ -1241,7 +1241,7 @@
             "answers": [
                 {
                     "text": "Pro komponenty z knihovny Swing platí, že události na které reagují,mohou být i z knihovny AWT",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Knihovna Swing vznikla jako rozšíření knihovny AWT (její třídy mají jako předky třídy z knihovny AWT)",
