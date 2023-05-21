@@ -13,7 +13,8 @@ export const Contributors: FC = () => {
         "ghoust#2295",
         "Starzor#7497",
         "Endru#9239",
-        "GalileoM#2464"
+        "GalileoM#2464",
+        "jure01#5182"
     ];
 
     return (
