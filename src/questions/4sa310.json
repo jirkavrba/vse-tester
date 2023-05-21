@@ -752,7 +752,7 @@
                 },
                 {
                     "text": "Maticová struktura",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Štábní struktura",
@@ -1180,6 +1180,65 @@
                 {
                     "text": "jak řídit stát",
                     "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Jaký z těchto ISO standardů se zabývá podobnými věcmi jako ITIL?",
+            "answers": [
+                {
+                    "text": "ISO 9000",
+                    "correct": false
+                },
+                {
+                    "text": "ISO 27000",
+                    "correct": false
+                },
+                {
+                    "text": "ISO 20000",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Co lže považovat za opodstatněný důvod pro změnu firemní kultury?",
+            "answers": [
+                {
+                    "text": "Negativní zpětná vazba od zákazníků",
+                    "correct": true
+                },
+                {
+                    "text": "Když firma není úspěšná",
+                    "correct": false
+                },
+                {
+                    "text": "Vysoká míra reklamací",
+                    "correct": false
+                },
+                {
+                    "text": "Zvýšená fluktuace zaměstnanců",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Které z uvedených organizačních modelů a struktur označujeme jako alternativní?",
+            "answers": [
+                {
+                    "text": "Projektová struktura",
+                    "correct": true
+                },
+                {
+                    "text": "Štábní struktura",
+                    "correct": false
+                },
+                {
+                    "text": "Liniová struktura",
+                    "correct": false
+                },
+                {
+                    "text": "Maticová struktura",
+                    "correct": true
                 }
             ]
         }
