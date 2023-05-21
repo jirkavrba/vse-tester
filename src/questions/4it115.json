@@ -118,6 +118,10 @@
                     "text": "Vizitor (Vizitor)",
                     "correct": false
                 },
+				{
+                    "text": "Dependents",
+                    "correct": true
+                },
                 {
                     "text": "Sledovač (Watcher)",
                     "correct": false
@@ -522,7 +526,7 @@
                 },
                 {
                     "text": "psaní testů před kódem",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "integrace na konci iterace",
@@ -798,7 +802,7 @@
                 },
                 {
                     "text": "Pokud nenastavím správce rozvržení pro hlavní okno aplikace, bude použit BorderLayout",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "V aplikaci je možné kombinovat více druhů rozvržení komponent za pomoci panelů s různě nastavenými správci rozvržení",
@@ -1099,7 +1103,7 @@
             "answers": [
                 {
                     "text": "definování funkčních testů",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "odhad náročnosti realizace požadavku",
@@ -1237,7 +1241,7 @@
             "answers": [
                 {
                     "text": "Pro komponenty z knihovny Swing platí, že události na které reagují,mohou být i z knihovny AWT",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Knihovna Swing vznikla jako rozšíření knihovny AWT (její třídy mají jako předky třídy z knihovny AWT)",
