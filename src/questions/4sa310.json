@@ -138,6 +138,14 @@
                 {
                     "text": "řízení výnosů",
                     "correct": false
+                },
+                {
+                    "text": "řízení výkonosti",
+                    "correct": false
+                },
+                {
+                    "text": "řízení nákladů",
+                    "correct": false
                 }
             ]
         },
@@ -286,11 +294,11 @@
                     "correct": false
                 },
                 {
-                    "text": "Důkladný plánovací proces",
+                    "text": "důkladný plánovací proces",
                     "correct": false
                 },
                 {
-                    "text": "Dílčí chyba je chápána jako zdroj poznání a inovace ???",
+                    "text": "dílčí chyba je chápána jako zdroj poznání a inovace ???",
                     "correct": true
                 }
             ]
@@ -376,6 +384,10 @@
                 {
                     "text": "vzdálený team",
                     "correct": false
+                },
+                {
+                    "text": "heterogenní team",
+                    "correct": false
                 }
             ]
         },
@@ -426,6 +438,10 @@
                 {
                     "text": "rychlost přenosu informace",
                     "correct": false
+                },
+                {
+                    "text": "Míra informace",
+                    "correct": true
                 }
             ]
         },
@@ -466,7 +482,11 @@
                     "correct": false
                 },
                 {
-                    "text": "Enterprise je nadřazené ITG",
+                    "text": "enterprise je nadřazené ITG",
+                    "correct": true
+                },
+                {
+                    "text": "enterprise určuje pravidla od kterých se následně odvozují pravidla ITG",
                     "correct": true
                 }
             ]
@@ -489,6 +509,10 @@
                 {
                     "text": "podpisový řád",
                     "correct": false
+                },
+                {
+                    "text": "norma o normách",
+                    "correct": true
                 }
             ]
         },
@@ -510,6 +534,10 @@
                 {
                     "text": "data",
                     "correct": true
+                },
+                {
+                    "text": "znalost",
+                    "correct": false
                 }
             ]
         },
@@ -531,7 +559,12 @@
                 {
                     "text": "Framework",
                     "correct": false
+                },
+                {
+                    "text": "Risk IT",
+                    "correct": true
                 }
+                
             ]
         },
         {
@@ -600,7 +633,11 @@
                     "correct": true
                 },
                 {
-                    "text": "Princip jak zakreslit jednoduchá řešení",
+                    "text": "princip jak zakreslit jednoduchá řešení",
+                    "correct": false
+                },
+                {
+                    "text": "návod jak maximalizovat zisk",
                     "correct": false
                 }
             ]
@@ -623,6 +660,14 @@
                 {
                     "text": "dle řídících procesů",
                     "correct": false
+                },
+                {
+                    "text": "dle hlavních procesů",
+                    "correct": false
+                },
+                {
+                    "text": "dle organizační struktury",
+                    "correct": true
                 }
             ]
         },
@@ -643,6 +688,10 @@
                 },
                 {
                     "text": "procesy",
+                    "correct": false
+                },
+                {
+                    "text": "aplikace",
                     "correct": false
                 }
             ]
@@ -665,6 +714,14 @@
                 {
                     "text": "podepsání akceptačního protokolu",
                     "correct": false
+                },
+                {
+                    "text": "dodání kvalitní dokumentace projektu",
+                    "correct": false
+                },
+                {
+                    "text": "naplnění zadání projektu z pohledu kvality",
+                    "correct": true
                 }
             ]
         },
@@ -719,6 +776,10 @@
                 {
                     "text": "referenční data",
                     "correct": false
+                },
+                {
+                    "text": "Data o datech",
+                    "correct": true
                 }
             ]
         },
@@ -747,19 +808,19 @@
             "text": "Které z uvedených organizační modelů a struktur označujeme jako alternativní?",
             "answers": [
                 {
-                    "text": "Svobodná firma",
+                    "text": "svobodná firma",
                     "correct": true
                 },
                 {
-                    "text": "Maticová struktura",
+                    "text": "maticová struktura",
                     "correct": true
                 },
                 {
-                    "text": "Štábní struktura",
+                    "text": "štábní struktura",
                     "correct": false
                 },
                 {
-                    "text": "Liniová struktura",
+                    "text": "liniová struktura",
                     "correct": false
                 }
             ]
@@ -822,7 +883,7 @@
                     "correct": false
                 },
                 {
-                    "text": "Fotobank",
+                    "text": "Fotobanka",
                     "correct": false
                 },
                 {
@@ -853,6 +914,14 @@
                 {
                     "text": "Heterogenní team",
                     "correct": true
+                },
+                {
+                    "text": "Lokální team",
+                    "correct": false
+                },
+                {
+                    "text": "Centrálně řízený team",
+                    "correct": false
                 }
             ]
         },
@@ -936,6 +1005,14 @@
                 },
                 {
                     "text": "Řízení rostoucí komplexity v IT službách",
+                    "correct": false
+                },
+                {
+                    "text": "Agilní metodiky pro řízení v IT",
+                    "correct": false
+                },
+                {
+                    "text": "Aplikační vrstvu v rámci IT služeb",
                     "correct": false
                 }
             ]
@@ -1096,6 +1173,10 @@
                 {
                     "text": "dekompozice činnosti v projektu na malé pracovní úkoly",
                     "correct": true
+                },
+                {
+                    "text": "princip v rámci COBIT 5 standardu",
+                    "correct": false
                 }
             ]
         },
@@ -1180,6 +1261,14 @@
                 {
                     "text": "jak řídit stát",
                     "correct": false
+                },
+                {
+                    "text": "jak rozdělovat zdroje ve společnosti",
+                    "correct": false
+                },
+                {
+                    "text": "jak získat co největší užitek",
+                    "correct": false
                 }
             ]
         },
@@ -1239,6 +1328,48 @@
                 {
                     "text": "Maticová struktura",
                     "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Označte IT metodiku, kterou lze považovat za obdobnou jako ITIL?",
+            "answers": [
+                {
+                    "text": "ISO 27000",
+                    "correct": false
+                },
+                {
+                    "text": "ISO 20000",
+                    "correct": true
+                },
+                {
+                    "text": "COBIT",
+                    "correct": true
+                },
+                {
+                    "text": "ISO 14000",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je hlavním prvkem nestability v sociálním (měkkém) systému?",
+            "answers": [
+                {
+                    "text": "procesy",
+                    "correct": false
+                },
+                {
+                    "text": "data",
+                    "correct": false
+                },
+                {
+                    "text": "člověk",
+                    "correct": true
+                },
+                {
+                    "text": "informace",
+                    "correct": false
                 }
             ]
         }
