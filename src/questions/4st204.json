@@ -133,11 +133,11 @@
             "answers": [
                 {
                     "text": "Ano",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Ne",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
