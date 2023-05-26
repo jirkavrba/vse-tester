@@ -7,18 +7,16 @@ import Answer from "./Answer";
 import Button from "./Button";
 import Progress from "./Progress";
 import QuestionsOverview from "./QuestionsOverview";
+import Link from "next/link";
 
 export interface TesterProps {
+    subject: string;
     title: string;
     multichoice: boolean;
     questions: Array<Question>;
 }
 
-const Tester: React.FC<TesterProps> = ({
-    questions,
-    multichoice,
-    title,
-}: TesterProps) => {
+const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title }: TesterProps) => {
     const [revealed, setRevealed] = useState<boolean>(false);
     const [selected, setSelected] = useState<Array<string>>([]);
     const [index, setIndex] = useState<number>(0);
@@ -127,10 +125,10 @@ const Tester: React.FC<TesterProps> = ({
         )
             ? states.map((_, i) => i)
             : states
-                  .map((state, i) =>
-                      state !== QuestionState.Correct ? i : null
-                  )
-                  .filter((state) => state !== null);
+                .map((state, i) =>
+                    state !== QuestionState.Correct ? i : null
+                )
+                .filter((state) => state !== null);
 
         setIndex(remaining[Math.floor(Math.random() * remaining.length)] ?? 0);
         setRevealed(false);
@@ -159,17 +157,9 @@ const Tester: React.FC<TesterProps> = ({
     }, [seed, question.answers]);
 
     return (
-        <div
-            className={`flex flex-grow flex-col items-stretch p-10 lg:flex-row ${
-                darkmode ? "bg-neutral-900" : "bg-white"
-            }`}
-        >
+        <div className={`flex flex-grow flex-col items-stretch p-10 lg:flex-row ${darkmode ? "bg-neutral-900" : "bg-white"}`}>
             <div className="w-full md:w-1/2 xl:w-3/5 2xl:w-3/4">
-                <h1
-                    className={`${
-                        darkmode ? "text-white" : "text-black"
-                    } text-xl font-bold lg:text-3xl`}
-                >
+                <h1 className={`${darkmode ? "text-white" : "text-black"} text-xl font-bold lg:text-2xl`}>
                     {question.text}
                 </h1>
                 <div className="mt-4 flex flex-col lg:mt-10">
@@ -184,12 +174,11 @@ const Tester: React.FC<TesterProps> = ({
                         />
                     ))}
                 </div>
+                <Link href={`https://github.com/jirkavrba/vse-tester/blob/main/src/questions/${subject.toLowerCase()}.json`} target="_blank" className="text-neutral-700 font-bold text-sm hover:text-white hover:underline hover:decoration-white">
+                    Odpověď je špatně? Můžeš poslat PR na Githubu!
+                </Link>
             </div>
-            <aside
-                className={`${
-                    darkmode ? "bg-neutral-800" : "bg-gray-200"
-                } mt-5 ml-0 flex w-full flex-col rounded-xl p-5 md:ml-5 md:w-1/2 lg:mt-0 xl:w-2/5 2xl:w-1/4`}
-            >
+            <aside className={`${darkmode ? "bg-neutral-800" : "bg-gray-200"} mt-5 ml-0 flex w-full flex-col rounded-xl p-5 md:ml-5 md:w-1/2 lg:mt-0 xl:w-2/5 2xl:w-1/4`}>
                 <Progress
                     correct={correct}
                     incorrect={incorrect}
@@ -232,7 +221,7 @@ const Tester: React.FC<TesterProps> = ({
                 />
                 <button
                     onClick={reset}
-                    className="flex flex-row items-center justify-center text-sm font-bold uppercase tracking-widest text-neutral-700 transition hover:text-neutral-500"
+                    className="mt-2 flex flex-row items-center justify-center text-sm font-bold uppercase tracking-widest text-neutral-700 transition hover:text-neutral-500"
                 >
                     <FaUndo className="mr-2" />
                     Reset

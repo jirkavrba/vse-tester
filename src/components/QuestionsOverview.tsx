@@ -37,7 +37,7 @@ const QuestionSquare: React.FC<QuestionSquareProps> = ({
     return (
         <div
             onClick={() => onSelect(index)}
-            className={`m-1 flex h-4 w-4 cursor-pointer flex-col items-center justify-center rounded font-mono text-xs font-bold transition ${
+            className={`m-1 flex h-2 w-2 cursor-pointer flex-col items-center justify-center rounded font-mono text-xs font-bold transition ${
                 active ? "ring-2" : ""
             } ${classes[state]}`}
         />
@@ -50,7 +50,7 @@ const QuestionsOverview: React.FC<QuestionsOverviewProps> = ({
     onSelect,
 }: QuestionsOverviewProps) => {
     return (
-        <div className="mt-5 flex flex-grow flex-row flex-wrap content-start items-start justify-start">
+        <div className="mt-2 flex flex-grow flex-row flex-wrap content-start items-start justify-center">
             {questions.map((state, i) => (
                 <QuestionSquare
                     key={i}
