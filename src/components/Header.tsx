@@ -16,31 +16,23 @@ const Header: React.FC<HeaderProps> = ({
     const { darkmode, setDarkmode } = useContext(ApplicationContext);
 
     return (
-        <header
-            className={`flex flex-col p-3 lg:flex-row lg:p-10 ${
-                darkmode ? "bg-black" : "bg-gray-200"
-            } items-start`}
-        >
+        <header className={`flex flex-col p-3 lg:flex-row lg:py-6 lg:px-10 ${darkmode ? "bg-neutral-800" : "bg-gray-200"} items-start`}>
             <div className="flex w-full flex-row items-start justify-between">
                 <div className="flex w-full flex-col items-center lg:w-auto lg:items-start">
                     <Link
                         href={"/"}
-                        className={`mb-4 flex flex-row items-center gap-2 text-sm font-bold uppercase tracking-widest transition-all ${
+                        className={`mb-2 flex flex-row items-center gap-2 text-xs font-bold uppercase tracking-widest transition-all ${
                             darkmode
-                                ? "text-neutral-700 hover:text-white"
+                                ? "text-neutral-500 hover:text-white"
                                 : "text-neutral-400 hover:text-black"
                         }`}
                     >
                         <FaArrowLeft /> Zpět na výběr předmětu
                     </Link>
-                    <h1
-                        className={`text-center text-lg font-bold lg:text-left lg:text-3xl ${
-                            darkmode ? "text-neutral-200" : "text-black"
-                        }`}
-                    >
+                    <h1 className={`text-center text-lg font-bold lg:text-left lg:text-3xl ${darkmode ? "text-neutral-200" : "text-black"}`}>
                         {title}
                     </h1>
-                    <p className="text-sm font-bold uppercase tracking-widest text-neutral-500 lg:mt-3">
+                    <p className="text-xs font-bold uppercase tracking-widest text-neutral-500 lg:mt-3">
                         Tester obsahuje {questionsCount} otázek
                     </p>
                 </div>

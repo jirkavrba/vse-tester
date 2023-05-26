@@ -15,13 +15,13 @@ export const Contributors: FC = () => {
         "Endru#9239",
         "GalileoM#2464",
         "jure01#5182"
-    ];
+    ].map(name => name.replace(" ", "\u00A0"));
 
     return (
-        <footer className={`${darkmode ? "text-white" : "text-black"}`}>
+        <footer className={`w-full lg:w-1/2 text-center mx-auto ${darkmode ? "text-neutral-300" : "text-neutral-700"}`}>
             Díky {
-                names.map((name, i) => <strong key={i} className="text-blue-500">{name}</strong>).reduce((acc, current) => (<>{acc}, {current}</>))
-            } za opravy chyb a doplnění otázek ♡ 
+                names.map((name, i) => <strong key={i} className={darkmode ? "text-white" : "text-black"}>{name}</strong>).reduce((acc, current) => (<>{acc}, {current}</>))
+            } za opravy chyb a doplnění otázek ❤️
         </footer>
     );
 };

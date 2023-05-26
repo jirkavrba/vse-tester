@@ -38,6 +38,7 @@ const TesterPage: NextPage<TesterPageProps> = ({
             <main className="flex min-h-screen flex-col">
                 <Header title={name} questionsCount={questions.length} />
                 <Tester
+                    subject={subject}
                     title={name}
                     multichoice={multichoice}
                     questions={questions}

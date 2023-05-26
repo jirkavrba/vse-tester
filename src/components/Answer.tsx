@@ -37,7 +37,7 @@ const Answer: React.FC<AnswerProps> = ({
     return (
         <button
             onClick={() => onSelect(correct, text)}
-            className={`mb-2 rounded-xl border-2 px-6 py-4 text-left font-black transition lg:mb-5 lg:px-10 lg:py-8 ${
+            className={`mb-2 rounded-xl border-2 px-6 py-4 text-left font-black transition lg:mb-5 lg:px-6 lg:py-4 ${
                 revealed ? color : base
             } ${selected ? highlight : ""}`}
         >
