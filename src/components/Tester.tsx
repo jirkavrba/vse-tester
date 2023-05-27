@@ -8,6 +8,8 @@ import Button from "./Button";
 import Progress from "./Progress";
 import QuestionsOverview from "./QuestionsOverview";
 import Link from "next/link";
+import { AnimatePresence, motion } from "framer-motion";
+import { useKeyPress } from "../lib/useKeyPress";
 
 export interface TesterProps {
     subject: string;
@@ -153,8 +155,22 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
 
     useEffect(() => {
         const random = seedrandom(seed);
-        setShuffledAnswers(() => question.answers.sort(() => 0.5 - random()));
+        const answers = question.answers.sort(() => 0.5 - random());
+
+        setShuffledAnswers(answers);
     }, [seed, question.answers]);
+
+    useKeyPress(() => {
+        if (revealed) {
+            nextQuestion();
+        }
+
+        if (multichoice && !revealed) {
+            checkAnswers();
+        }
+
+    }, ["Space"]);
+    useKeyPress(() => { if (revealed) { randomQuestion(); } }, ["KeyR"]);
 
     return (
         <div className={`flex flex-grow flex-col items-stretch p-10 lg:flex-row ${darkmode ? "bg-neutral-900" : "bg-white"}`}>
@@ -166,6 +182,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                     {shuffledAnswers.map((answer, i) => (
                         <Answer
                             key={i}
+                            shortcut={shuffledAnswers.length <= 9 ? (i + 1).toString() : null}
                             text={answer.text}
                             correct={answer.correct}
                             revealed={revealed}
@@ -186,31 +203,65 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                 />
                 <div className="flex-col">
                     {multichoice && (
-                        <Button onClick={checkAnswers} className="mt-3 mr-5 w-full text-center md:mr-0">
+                        <Button onClick={checkAnswers} className="mt-3 mr-5 w-full text-center md:mr-0 relative" disabled={revealed}>
                             <FaCheck className="md:mr-5" />
                             <div className="hidden md:block">
                                 Zkontrolovat odpovědi
                             </div>
+                            {!revealed && (
+                                <motion.div
+                                    className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                    initial={{ x: -20, opacity: 1 }}
+                                    animate={{ x: 0, opacity: 1 }}
+                                    exit={{ x: -20, opacity: 0 }}
+                                >
+                                    Space
+                                </motion.div>
+                            )}
                         </Button>
                     )}
                     <div className="flex flex-row md:flex-col">
                         <Button
                             disabled={!revealed}
                             onClick={nextQuestion}
-                            className="mt-3 mr-5 w-full text-center md:mr-0"
+                            className="mt-3 mr-5 w-full text-center md:mr-0 relative"
                         >
                             <FaArrowRight className="md:mr-5" />
                             <div className="hidden md:block">Další otázka</div>
+                            <AnimatePresence>
+                                {revealed && (
+                                    <motion.div
+                                        className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                        initial={{ x: -20, opacity: 1 }}
+                                        animate={{ x: 0, opacity: 1 }}
+                                        exit={{ x: -20, opacity: 0 }}
+                                    >
+                                        Space
+                                    </motion.div>
+                                )}
+                            </AnimatePresence>
                         </Button>
                         <Button
                             disabled={!revealed}
                             onClick={randomQuestion}
-                            className="mt-3 w-full text-center"
+                            className="mt-3 w-full text-center relative"
                         >
                             <FaRandom className="md:mr-5" />
                             <div className="hidden md:block">
                                 Náhodná otázka
                             </div>
+                            <AnimatePresence>
+                                {revealed && (
+                                    <motion.div
+                                        className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                        initial={{ x: -20, opacity: 1 }}
+                                        animate={{ x: 0, opacity: 1 }}
+                                        exit={{ x: -20, opacity: 0 }}
+                                    >
+                                        R
+                                    </motion.div>
+                                )}
+                            </AnimatePresence>
                         </Button>
                     </div>
                 </div>
