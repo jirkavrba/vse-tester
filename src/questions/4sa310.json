@@ -4,7 +4,7 @@
     "multichoice": true,
     "questions": [
         {
-            "text": "Occamova břitva???",
+            "text": "Co je Occamova břitva?",
             "answers": [
                 {
                     "text": "pravidlo, že nejjednodušší řečení je zpravidla to správné",
@@ -21,6 +21,10 @@
                 {
                     "text": "princip jak vybírat jednoduchá řešení",
                     "correct": false
+                },
+                {
+                    "text": "princip podle, kterého lze vybírat z více možností",
+                    "correct": true
                 }
             ]
         },
@@ -50,7 +54,7 @@
             "answers": [
                 {
                     "text": "eliminace zbytečných činností",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "výrazné zjednodušení práce s dokumenty",
@@ -71,7 +75,7 @@
             "answers": [
                 {
                     "text": "Základní data",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "referenční data",
@@ -246,11 +250,15 @@
                 {
                     "text": "žádný, jde o ekvivalentní pojmy",
                     "correct": false
+                },
+                {
+                    "text": "Management vezme zadání vlastníků a snaží se ho provést v praxi dle definovaných Governance pravidel (plan, run, build, and monitor)",
+                    "correct": true
                 }
             ]
         },
         {
-            "text": "Která z uvedených norem je nejvíce specifická pro práci s daty?",
+            "text": "Které z uvedených norem je nejvíce specifické pro práci s daty?",
             "answers": [
                 {
                     "text": "DMBOK DAMA",
@@ -271,6 +279,10 @@
                 {
                     "text": "ISO 27000",
                     "correct": false
+                },
+                {
+                    "text": "CRISP DM",
+                    "correct": true
                 }
             ]
         },
@@ -298,7 +310,7 @@
                     "correct": false
                 },
                 {
-                    "text": "dílčí chyba je chápána jako zdroj poznání a inovace ???",
+                    "text": "dílčí chyba je chápána jako zdroj poznání a inovace",
                     "correct": true
                 }
             ]
@@ -321,6 +333,10 @@
                 {
                     "text": "produktivitu procesu",
                     "correct": false
+                },
+                {
+                    "text": "uroveň zralosti procesu",
+                    "correct": true
                 }
             ]
         },
@@ -328,7 +344,7 @@
             "text": "Které z uvedených pojmů označuje notaci zápisu procesů?",
             "answers": [
                 {
-                    "text": "BMPN",
+                    "text": "BPMN",
                     "correct": true
                 },
                 {
@@ -363,6 +379,10 @@
                 {
                     "text": "procesy",
                     "correct": false
+                },
+                {
+                    "text": "řízení výkonosti",
+                    "correct": true
                 }
             ]
         },
@@ -404,7 +424,7 @@
                 },
                 {
                     "text": "identifikace činností a procesů řízení vedoucích k nastavení struktury nutné k dosažení cílů podniku",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "analýzy informací",
@@ -511,7 +531,7 @@
                     "correct": false
                 },
                 {
-                    "text": "norma o normách",
+                    "text": "norma o normách(Úvodní norma upravující normalizační pravidla norem",
                     "correct": true
                 }
             ]
@@ -589,6 +609,10 @@
                 {
                     "text": "důraz na metody vzorkování dat",
                     "correct": false
+                },
+                {
+                    "text": "důraz na multidiciplinární pojetí a interpretaci dat v kontextu",
+                    "correct": true
                 }
             ]
         },
@@ -672,7 +696,7 @@
             ]
         },
         {
-            "text": "Která z uvedených oblastí nepatří do perspektiv (domén) Informačního modelu podniku?",
+            "text": "Která z uvedených oblastí nepatří do perspektiv (domén) informačního modelu podniku?",
             "answers": [
                 {
                     "text": "organizační struktura",
@@ -693,6 +717,10 @@
                 {
                     "text": "aplikace",
                     "correct": false
+                },
+                {
+                    "text": "ECM",
+                    "correct": true
                 }
             ]
         },
@@ -813,7 +841,7 @@
                 },
                 {
                     "text": "maticová struktura",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "štábní struktura",
@@ -843,6 +871,10 @@
                 {
                     "text": "Obchodní asistentka",
                     "correct": true
+                },
+                {
+                    "text": "PR Specialista",
+                    "correct": true
                 }
             ]
         },
@@ -858,12 +890,16 @@
                     "correct": false
                 },
                 {
-                    "text": "Řídící",
+                    "text": "Řídící proces",
                     "correct": true
                 },
                 {
                     "text": "Logistický proces",
                     "correct": false
+                },
+                {
+                    "text": "Hlavní proces",
+                    "correct": true
                 }
             ]
         },
@@ -1068,7 +1104,7 @@
             ]
         },
         {
-            "text": "Co tvoří jednotlivé vstupy zakreslované v rámci Fishbone diagram (rybí páteř)?",
+            "text": "Co tvoří obecné oblasti zakreslované v rámci Fishbone diagram (rybí páteř)?",
             "answers": [
                 {
                     "text": "Seznam rizik",
@@ -1085,6 +1121,10 @@
                 {
                     "text": "soupis všech výnosů",
                     "correct": false
+                },
+                {
+                    "text": "příciny problému",
+                    "correct": true
                 }
             ]
         },
@@ -1127,6 +1167,10 @@
                 {
                     "text": "Soulad s platnou legislativou",
                     "correct": false
+                },
+                {
+                    "text": "Celkové pokrytí aktivit podniku(E2E)",
+                    "correct": true
                 }
             ]
         },
@@ -1148,6 +1192,10 @@
                 {
                     "text": "rozdíly jsou v terminologii užívané v Evropě a USA",
                     "correct": false
+                },
+                {
+                    "text": "Governance obecně představuje PRAVIDLA tedy řídící rámec definující role, zodpovědnosti,  pravomoci, a způsob komunikace",
+                    "correct": true
                 }
             ]
         },
@@ -1198,6 +1246,10 @@
                 {
                     "text": "COBIT",
                     "correct": false
+                },
+                {
+                    "text": "DOMBOK DAMA",
+                    "correct": true
                 }
             ]
         },
@@ -1219,6 +1271,10 @@
                 {
                     "text": "Ztráty na životech",
                     "correct": false
+                },
+                {
+                    "text": "Neurčitost dopadu určitého jevu",
+                    "correct": true
                 }
             ]
         },
@@ -1252,7 +1308,7 @@
                 },
                 {
                     "text": "jak smysluplně prožít svůj život",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "jak správně žít",
@@ -1290,15 +1346,15 @@
             ]
         },
         {
-            "text": "Co lže považovat za opodstatněný důvod pro změnu firemní kultury?",
+            "text": "Co lze považovat za opodstatněný důvod pro změnu firemní kultury?",
             "answers": [
                 {
                     "text": "Negativní zpětná vazba od zákazníků",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Když firma není úspěšná",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Vysoká míra reklamací",
@@ -1307,6 +1363,10 @@
                 {
                     "text": "Zvýšená fluktuace zaměstnanců",
                     "correct": false
+                },
+                {
+                    "text": "Když se ukáže, že dosavadní kultura a nastavení firmu směřuje k úpadku",
+                    "correct": true
                 }
             ]
         },
@@ -1369,6 +1429,31 @@
                 },
                 {
                     "text": "informace",
+                    "correct": false
+                },
+                {
+                    "text": "lidský faktor",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "O jaký systém se jedná z pohledu systémové metodologie v případě řízení podnikového IT?",
+            "answers": [
+                {
+                    "text": "Hybridní systém",
+                    "correct": true
+                },
+                {
+                    "text": "Měkký a Tvrdý systém zároveň",
+                    "correct": true
+                },
+                {
+                    "text": "Diskrétní systém",
+                    "correct": false
+                },
+                {
+                    "text": "Uzavřený systém",
                     "correct": false
                 }
             ]

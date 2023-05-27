@@ -14,7 +14,8 @@ export const Contributors: FC = () => {
         "Starzor#7497",
         "Endru#9239",
         "GalileoM#2464",
-        "jure01#5182"
+        "jure01#5182",
+        "Dreamery#9607"
     ].map(name => name.replace(" ", "\u00A0"));
 
     return (
