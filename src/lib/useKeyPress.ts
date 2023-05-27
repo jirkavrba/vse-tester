@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-export const useKeyPress = (callback: () => void, keyCodes: string[]): void => {
+export const useKeyPress = (callback: () => void, keyCodes: Array<string>): void => {
     useEffect(() => {
         const handler = ({ code }: KeyboardEvent) => {
             if (keyCodes.includes(code)) {
