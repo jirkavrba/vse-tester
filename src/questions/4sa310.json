@@ -1371,27 +1371,6 @@
             ]
         },
         {
-            "text": "Které z uvedených organizačních modelů a struktur označujeme jako alternativní?",
-            "answers": [
-                {
-                    "text": "Projektová struktura",
-                    "correct": true
-                },
-                {
-                    "text": "Štábní struktura",
-                    "correct": false
-                },
-                {
-                    "text": "Liniová struktura",
-                    "correct": false
-                },
-                {
-                    "text": "Maticová struktura",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Označte IT metodiku, kterou lze považovat za obdobnou jako ITIL?",
             "answers": [
                 {
