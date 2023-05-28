@@ -29,7 +29,7 @@
                 },
                 {
                     "text": "hardwarové zařízení",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "roli, kterou plní uživatel systému",
@@ -170,7 +170,7 @@
             ]
         },
         {
-            "text": "10)Jaké nejsou cíle správy verzí:",
+            "text": "Jaké nejsou cíle správy verzí:",
             "answers": [
                 {
                     "text": "součástí správy verzí je i evidence chyb a požadavků uživatelů (bug tracking system)",
@@ -563,7 +563,7 @@
                 },
                 {
                     "text": "Originál (Original)",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Továrna (Factory)",
@@ -693,6 +693,18 @@
                 {
                     "text": "3",
                     "correct": true
+                },
+                {
+                    "text": "5",
+                    "correct": false
+                },
+                {
+                    "text": "9",
+                    "correct": false
+                },
+                {
+                    "text": "Více než 13",
+                    "correct": false
                 }
             ]
         },
@@ -910,6 +922,10 @@
             "text": "Jaké techniky (artefakty) můžeme použít k návrhu uživatelského rozhraní?",
             "answers": [
                 {
+                    "text": "Use Case diagram",
+                    "correct": false
+                },
+                {
                     "text": "navigační diagram",
                     "correct": true
                 },
@@ -1074,6 +1090,18 @@
                 {
                     "text": "13",
                     "correct": true
+                },
+                {
+                    "text": "15",
+                    "correct": false
+                },
+                {
+                    "text": "11",
+                    "correct": false
+                },
+                {
+                    "text": "8",
+                    "correct": false
                 }
             ]
         },
@@ -1128,11 +1156,11 @@
             ]
         },
         {
-            "text": "55)Odpovědnost zákazníka podle metodiky XP patří k:",
+            "text": "Odpovědnost zákazníka podle metodiky XP patří k:",
             "answers": [
                 {
                     "text": "definování funkčních testů",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "definování priorit požadavků",
@@ -1216,7 +1244,7 @@
             ]
         },
         {
-            "text": "63 ) Označte nepravdivá tvrzení o vývoji řízeném testy:",
+            "text": "Označte nepravdivá tvrzení o vývoji řízeném testy:",
             "answers": [
                 {
                     "text": "autor kódu a jednotkových testů při TDD je obvykle jedna osoba. Jednotkové testy jsou proto subjektivní - projevují se na nich stejné chyby a problémy jako na vlastním kódu",
@@ -1279,11 +1307,23 @@
             ]
         },
         {
-            "text": "71)Praktika, která se realizuje každý den v rámci iterace v metodice Scrum se nazývá",
+            "text": "Praktika, která se realizuje každý den v rámci iterace v metodice Scrum se nazývá",
             "answers": [
                 {
                     "text": "Standup Meeting",
                     "correct": true
+                },
+                {
+                    "text": "Sprint Review",
+                    "correct": false
+                },
+                {
+                    "text": "Task Breakout",
+                    "correct": false
+                },
+                {
+                    "text": "Owner Meeting",
+                    "correct": false
                 }
             ]
         },
@@ -1484,15 +1524,6 @@
                 {
                     "text": "slouží k uspořádání aktivit podle posloupnosti",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "S webovou službou (Web service) nůže komunikovat",
-            "answers": [
-                {
-                    "text": "jen aplikace či webová služba",
-                    "correct": true
                 }
             ]
         },
@@ -1710,7 +1741,7 @@
             ]
         },
         {
-            "text": "140)Stereotyp v UML",
+            "text": "Stereotyp v UML",
             "answers": [
                 {
                     "text": "je například <<interface>>",
@@ -1736,6 +1767,18 @@
                 {
                     "text": "prázdnou implementaci všech metod shodně nazvaného rozhraní sloužícího pro tvorbu ovladače událostí (např. WindowListener, MouseListener). Pokud programátor píše ovladač události jako potomka XxxAdapteru nemusí již implementovat metody rozhraní Listeneru, které ve svém kódu nepoužije.",
                     "correct": true
+                },
+                {
+                    "text": "Třídy XxxAdapter slouží k přímému propojení GUI prvků se specifickými událostmi bez nutnosti implementace rozhraní Listeneru.",
+                    "correct": false
+                },
+                {
+                    "text": "XxxAdapter třídy poskytují automatickou obsluhu událostí v GUI, aniž by bylo nutné implementovat všechny metody rozhraní Listeneru.                    ",
+                    "correct": false
+                },
+                {
+                    "text": "XxxAdapter třídy slouží ke kompletnímu vynechání implementace rozhraní Listeneru při tvorbě ovladačů událostí v GUI.",
+                    "correct": false
                 }
             ]
         },
@@ -1821,7 +1864,7 @@
                     "correct": true
                 },
                 {
-                    "text": "rychlost",
+                    "text": "rychlost (Speed)",
                     "correct": false
                 }
             ]
@@ -2115,7 +2158,7 @@
             ]
         },
         {
-            "text": "169)Vyberte z následujících tvrzení o agilních metodikách ta pravdivá.",
+            "text": "Vyberte z následujících tvrzení o agilních metodikách ta pravdivá.",
             "answers": [
                 {
                     "text": "Agilní metodiky vyžadují specializaci členů týmu na analytiky, návrháře, programátory, testery.",
@@ -2216,7 +2259,7 @@
             ]
         },
         {
-            "text": "180)Základním cílem při vývoji řízeném testy je",
+            "text": "Základním cílem při vývoji řízeném testy je",
             "answers": [
                 {
                     "text": "napsat co nejvíce testů, abychom měli jistotu, že nikde v kódu není chyba",
@@ -2237,7 +2280,7 @@
             ]
         },
         {
-            "text": "181)Základní dokument poskytující informaci o průběhu projektu je v metodice Scrum",
+            "text": "Základní dokument poskytující informaci o průběhu projektu je v metodice Scrum",
             "answers": [
                 {
                     "text": "BurnDown Chart",
@@ -2297,6 +2340,18 @@
                 {
                     "text": "2.5",
                     "correct": true
+                },
+                {
+                    "text": "2.1",
+                    "correct": false
+                },
+                {
+                    "text": "1.8",
+                    "correct": false
+                },
+                {
+                    "text": "2.3",
+                    "correct": false
                 }
             ]
         },
