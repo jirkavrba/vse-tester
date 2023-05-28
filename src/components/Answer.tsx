@@ -9,6 +9,7 @@ export interface AnswerProps {
     revealed: boolean;
     text: string;
     selected: boolean;
+    wrong?: boolean;
     shortcut?: string | null;
     onSelect: (correct: boolean, text: string) => void;
 }
@@ -19,7 +20,8 @@ const Answer: React.FC<AnswerProps> = ({
     selected,
     text,
     onSelect,
-    shortcut = null
+    shortcut = null,
+    wrong = false
 }: AnswerProps) => {
     const { darkmode } = useContext(ApplicationContext);
 
@@ -35,9 +37,16 @@ const Answer: React.FC<AnswerProps> = ({
         ? darkmode
             ? "bg-green-900 border-green-300 text-white"
             : "border-green-500 bg-green-500 text-white"
-        : darkmode
-            ? "bg-neutral-900 border-neutral-700 text-neutral-500"
-            : "text-gray-400";
+        : (
+            wrong
+                ? (darkmode
+                    ? "bg-red-900 border-red-300 text-white"
+                    : "bg-red-500 border-red-500 text-white"
+                )
+                : (darkmode
+                    ? "bg-neutral-900 border-neutral-700 text-neutral-500"
+                    : "text-gray-400")
+        );
 
     useKeyPress(() => { onSelect(correct, text) }, shortcut ? [`Digit${shortcut}`] : []);
 
@@ -52,7 +61,7 @@ const Answer: React.FC<AnswerProps> = ({
             <AnimatePresence>
                 {(shortcut && !revealed) &&
                     <motion.span
-                        className={`flex flex-row items-center justify-center text-[0.7rem] border w-4 h-4 rounded font-mono transition ${selected ? "text-white border-white" : "text-neutral-500 border-neutral-500"}`}
+                        className="hidden md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                         initial={{ x: -20, opacity: 1 }}
                         animate={{ x: 0, opacity: 1 }}
                         exit={{ x: -20, opacity: 0 }}

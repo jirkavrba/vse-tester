@@ -2,8 +2,11 @@ import { useEffect } from "react";
 
 export const useKeyPress = (callback: () => void, keyCodes: Array<string>): void => {
     useEffect(() => {
-        const handler = ({ code }: KeyboardEvent) => {
+        const handler = (event: KeyboardEvent) => {
+            const { code } = event;
+
             if (keyCodes.includes(code)) {
+                event.preventDefault();
                 callback();
             }
         };

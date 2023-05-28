@@ -21,6 +21,7 @@ export interface TesterProps {
 const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title }: TesterProps) => {
     const [revealed, setRevealed] = useState<boolean>(false);
     const [selected, setSelected] = useState<Array<string>>([]);
+    const [wrongAnswer, setWrongAnswer] = useState<string|null>(null);
     const [index, setIndex] = useState<number>(0);
     const [states, setStates] = useState<Array<QuestionState>>([]);
     const [seed, setSeed] = useState<string>("");
@@ -74,6 +75,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
         }
 
         setRevealed(true);
+        setWrongAnswer(correct ? null : text);
         setStates((states) => {
             const current = correct
                 ? QuestionState.Correct
@@ -187,11 +189,12 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             correct={answer.correct}
                             revealed={revealed}
                             selected={selected.includes(answer.text)}
+                            wrong={wrongAnswer === answer.text}
                             onSelect={select}
                         />
                     ))}
                 </div>
-                <Link href={`https://github.com/jirkavrba/vse-tester/blob/main/src/questions/${subject.toLowerCase()}.json`} target="_blank" className="text-neutral-700 font-bold text-sm hover:text-white hover:underline hover:decoration-white">
+                <Link href={`https://github.com/jirkavrba/vse-tester/blob/main/src/questions/${subject.toLowerCase()}.json`} target="_blank" className={`${darkmode ? "text-neutral-700 hover:text-white hover:decoration-white" : "text-neutral-300 hover:text-black hover:decoration-black"} font-bold text-sm hover:underline`}>
                     Odpověď je špatně? Můžeš poslat PR na Githubu!
                 </Link>
             </div>
@@ -210,7 +213,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             </div>
                             {!revealed && (
                                 <motion.div
-                                    className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                    className="hidden absolute right-4 md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                                     initial={{ x: -20, opacity: 1 }}
                                     animate={{ x: 0, opacity: 1 }}
                                     exit={{ x: -20, opacity: 0 }}
@@ -231,7 +234,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             <AnimatePresence>
                                 {revealed && (
                                     <motion.div
-                                        className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                        className="hidden absolute right-4 md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                                         initial={{ x: -20, opacity: 1 }}
                                         animate={{ x: 0, opacity: 1 }}
                                         exit={{ x: -20, opacity: 0 }}
@@ -253,7 +256,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             <AnimatePresence>
                                 {revealed && (
                                     <motion.div
-                                        className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                        className="hidden absolute right-4 md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                                         initial={{ x: -20, opacity: 1 }}
                                         animate={{ x: 0, opacity: 1 }}
                                         exit={{ x: -20, opacity: 0 }}
