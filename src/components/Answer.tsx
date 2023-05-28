@@ -52,7 +52,7 @@ const Answer: React.FC<AnswerProps> = ({
             <AnimatePresence>
                 {(shortcut && !revealed) &&
                     <motion.span
-                        className="flex flex-row items-center justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                        className="hidden md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                         initial={{ x: -20, opacity: 1 }}
                         animate={{ x: 0, opacity: 1 }}
                         exit={{ x: -20, opacity: 0 }}

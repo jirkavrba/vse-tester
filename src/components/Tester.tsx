@@ -210,7 +210,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             </div>
                             {!revealed && (
                                 <motion.div
-                                    className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                    className="hidden absolute right-4 md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                                     initial={{ x: -20, opacity: 1 }}
                                     animate={{ x: 0, opacity: 1 }}
                                     exit={{ x: -20, opacity: 0 }}
@@ -231,7 +231,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             <AnimatePresence>
                                 {revealed && (
                                     <motion.div
-                                        className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                        className="hidden absolute right-4 md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-12 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                                         initial={{ x: -20, opacity: 1 }}
                                         animate={{ x: 0, opacity: 1 }}
                                         exit={{ x: -20, opacity: 0 }}
@@ -253,7 +253,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             <AnimatePresence>
                                 {revealed && (
                                     <motion.div
-                                        className="absolute right-4 flex flex-row items-center justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
+                                        className="hidden absolute right-4 md:flex md:flex-row md:items-center md:justify-center text-[0.7rem] border w-4 h-4 rounded font-mono text-neutral-500 border-neutral-500"
                                         initial={{ x: -20, opacity: 1 }}
                                         animate={{ x: 0, opacity: 1 }}
                                         exit={{ x: -20, opacity: 0 }}
