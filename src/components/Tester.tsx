@@ -21,6 +21,7 @@ export interface TesterProps {
 const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title }: TesterProps) => {
     const [revealed, setRevealed] = useState<boolean>(false);
     const [selected, setSelected] = useState<Array<string>>([]);
+    const [wrongAnswer, setWrongAnswer] = useState<string|null>(null);
     const [index, setIndex] = useState<number>(0);
     const [states, setStates] = useState<Array<QuestionState>>([]);
     const [seed, setSeed] = useState<string>("");
@@ -74,6 +75,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
         }
 
         setRevealed(true);
+        setWrongAnswer(correct ? null : text);
         setStates((states) => {
             const current = correct
                 ? QuestionState.Correct
@@ -187,6 +189,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                             correct={answer.correct}
                             revealed={revealed}
                             selected={selected.includes(answer.text)}
+                            wrong={wrongAnswer === answer.text}
                             onSelect={select}
                         />
                     ))}
