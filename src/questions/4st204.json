@@ -3370,19 +3370,19 @@
             "text": "Z 30 hodnot byl vypočten aritmetický průměr 15 a nalezen medián 13,9. Dvě jednotky však byly opomenuty a je třeba je dodatečně zařadit do souboru. Hodnoty sledované proměnné jsou u nich 10 a 36. Opravené výsledky pak budou:",
             "answers": [
                 {
-                    "text": "průměr \\u003d 16 ; medián \\u003d 14,9",
+                    "text": "průměr = 16 ; medián = 14,9",
                     "correct": false
                 },
                 {
-                    "text": "průměr \\u003d 15,5 ; medián \\u003d 14,4",
+                    "text": "průměr = 15,5 ; medián = 14,4",
                     "correct": false
                 },
                 {
-                    "text": "průměr \\u003d 15,5 ; medián \\u003d 13,9",
+                    "text": "průměr = 15,5 ; medián = 13,9",
                     "correct": true
                 },
                 {
-                    "text": "průměr \\u003d 15 ; medián nelze určit",
+                    "text": "průměr = 15 ; medián nelze určit",
                     "correct": false
                 }
             ]
@@ -3511,7 +3511,7 @@
             ]
         },
         {
-            "text": "Medián mezd žen \\u003d 20, medián mezd mužů \\u003d taky 20, celkový medián taky 20?:",
+            "text": "Medián mezd žen = 20, medián mezd mužů = 20, celkový medián taky 20?:",
             "answers": [
                 {
                     "text": "ANO",
@@ -3712,19 +3712,19 @@
             "text": "Jen jedna znásledujících pravděpodobnostních funkcí je správná pro hodnoty 1,2,3.:",
             "answers": [
                 {
-                    "text": "P(1) \\u003d 0,2 ; P(2) \\u003d 0,4, P(3) \\u003d 0,4",
+                    "text": "P(1) = 0,2 ; P(2) = 0,4, P(3) = 0,4",
                     "correct": true
                 },
                 {
-                    "text": "P(1) \\u003d 0,1 ; P(2) \\u003d 0,4, P(3) \\u003d 0,4",
+                    "text": "P(1) = 0,1 ; P(2) = 0,4, P(3) = 0,4",
                     "correct": false
                 },
                 {
-                    "text": "P(1) \\u003d 0,3 ; P(2) \\u003d 0,4, P(3) \\u003d 0,7",
+                    "text": "P(1) = 0,3 ; P(2) = 0,4, P(3) = 0,7",
                     "correct": false
                 },
                 {
-                    "text": "P(1) \\u003d 0,2 ; P(2) \\u003d 0,4, P(3) \\u003d 0,5",
+                    "text": "P(1) = 0,2 ; P(2) = 0,4, P(3) = 0,5",
                     "correct": false
                 }
             ]
@@ -3733,15 +3733,15 @@
             "text": "Máme 3 různe zapisy distribucni funkce, ale jenom jeden z nich je spravně, urcit ktery:",
             "answers": [
                 {
-                    "text": "F(0) \\u003d 0.1, F(1) \\u003d 0.2, F(2) \\u003d 0.3",
+                    "text": "F(0) = 0.1, F(1) = 0.2, F(2) = 0.3",
                     "correct": false
                 },
                 {
-                    "text": "F(0) \\u003d 0, F(1) \\u003d 0.7, F(2) \\u003d 1",
+                    "text": "F(0) = 0, F(1) = 0.7, F(2) = 1",
                     "correct": true
                 },
                 {
-                    "text": "F(0) \\u003d 0, F(1) \\u003d 0.6, F(2) \\u003d 0.2",
+                    "text": "F(0) = 0, F(1) = 0.6, F(2) = 0.2",
                     "correct": false
                 }
             ]
@@ -3848,11 +3848,11 @@
                     "correct": true
                 },
                 {
-                    "text": "0\\u003cF(x)\\u003c1",
+                    "text": "0<F(x)<1",
                     "correct": false
                 },
                 {
-                    "text": "-1\\u003cF(x)\\u003c1",
+                    "text": "-1<F(x)<1",
                     "correct": false
                 }
             ]
@@ -3916,7 +3916,7 @@
                     "correct": true
                 },
                 {
-                    "text": "0\\u003cF(x)\\u003c1",
+                    "text": "0<F(x)<1",
                     "correct": false
                 },
                 {
@@ -4079,12 +4079,8 @@
             ]
         },
         {
-            "text": "Pokud nemáme směrodatnou odchylku základního souboru, nemůžeme použít směrodatnou odchylku výběrového",
+            "text": "Pokud nemáme směrodatnou odchylku základního souboru, nemůžeme použít směrodatnou odchylku výběrového souboru:",
             "answers": [
-                {
-                    "text": "souboru:",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": false
@@ -4116,11 +4112,11 @@
                     "correct": false
                 },
                 {
-                    "text": "Když neznáme celkový rozptyl a máme n\\u003e30",
+                    "text": "Když neznáme celkový rozptyl a máme n>30",
                     "correct": false
                 },
                 {
-                    "text": "Když neznáme celkový rozptyl a n\\u003c30",
+                    "text": "Když neznáme celkový rozptyl a n<30",
                     "correct": true
                 }
             ]
@@ -4146,7 +4142,7 @@
             "text": "Nestrannost bodového odhadu spočívá v :",
             "answers": [
                 {
-                    "text": "má nejmenšírozptylb.",
+                    "text": "má nejmenšírozptyl.",
                     "correct": false
                 },
                 {
@@ -4181,7 +4177,7 @@
             ]
         },
         {
-            "text": "Mějme vypočítán interval spolehlivosti na základě n\\u003d50 hodnot. Jestliže zvětšíme rozsah výběru a nyní je n \\u003d 150, dostaneme:",
+            "text": "Mějme vypočítán interval spolehlivosti na základě n=50 hodnot. Jestliže zvětšíme rozsah výběru a nyní je n = 150, dostaneme:",
             "answers": [
                 {
                     "text": "Užší interval spolehlivosti",
@@ -4207,14 +4203,10 @@
             ]
         },
         {
-            "text": "Který interval je spolehlivější - byly zadány 95% a 90% intervalya.:",
+            "text": "Který interval je spolehlivější - byly zadány 95% a 90% intervaly.:",
             "answers": [
                 {
-                    "text": "95% interval spolehlivosti je spolehlivější než 90 %",
-                    "correct": false
-                },
-                {
-                    "text": "ale ten 90 % je zase přesnější.",
+                    "text": "95% interval spolehlivosti je spolehlivější než 90 %, ale ten 90 % je zase přesnější.",
                     "correct": true
                 }
             ]
@@ -4249,11 +4241,11 @@
             "text": "Při nezamítnutí hypotézy, jež je na hladině významnosti 0,05 nesprávná se dopustíme chyby:",
             "answers": [
                 {
-                    "text": "první ho řádu při alfa\\u003d0,05",
+                    "text": "prvního řádu při alfa=0,05",
                     "correct": false
                 },
                 {
-                    "text": "prvního řádu při alfa\\u003d0,95",
+                    "text": "prvního řádu při alfa=0,95",
                     "correct": false
                 },
                 {
@@ -4274,7 +4266,7 @@
                     "correct": false
                 },
                 {
-                    "text": "chybudruhého řádu",
+                    "text": "chybu druhého řádu",
                     "correct": false
                 }
             ]
@@ -4314,7 +4306,7 @@
             ]
         },
         {
-            "text": "Ktestu bylo vybráno 25 aut a naměřená spotřeba před a po výměně katalyzátorů. Pro prokázání zlepšení spotřeby po výměně použijeme:",
+            "text": "K testu bylo vybráno 25 aut a naměřená spotřeba před a po výměně katalyzátorů. Pro prokázání zlepšení spotřeby po výměně použijeme:",
             "answers": [
                 {
                     "text": "analýzu rozptylu",
@@ -4348,7 +4340,7 @@
             ]
         },
         {
-            "text": "Pokud zamítneme Ho: μo \\u003dμ1 oboustranným testem, potom u jednoho zjednostranných testů při stejné hladině významnosti zamítáme hypotézu:",
+            "text": "Pokud zamítneme Ho: μo =μ1 oboustranným testem, potom u jednoho zjednostranných testů při stejné hladině významnosti zamítáme hypotézu:",
             "answers": [
                 {
                     "text": "Vždy",
@@ -4440,15 +4432,15 @@
             "text": "Co znamená při testování hypotéz 1-β:",
             "answers": [
                 {
-                    "text": "chyba I. druhu ( \\u003d PP zamítnutí správné hypotézy)",
+                    "text": "chyba I. druhu ( = PP zamítnutí správné hypotézy)",
                     "correct": false
                 },
                 {
-                    "text": "chyba II. druhu (\\u003dPP nezamítnutí nesprávné hypotézy, platí-li H1)",
+                    "text": "chyba II. druhu (=PP nezamítnutí nesprávné hypotézy, platí-li H1)",
                     "correct": false
                 },
                 {
-                    "text": "pravděpodobnost nezamítnutí správné nulové hypotézy (tohle je 1-α \\u003d spolehlivost!)",
+                    "text": "pravděpodobnost nezamítnutí správné nulové hypotézy (tohle je 1-α = spolehlivost!)",
                     "correct": false
                 },
                 {
@@ -4673,7 +4665,7 @@
             ]
         },
         {
-            "text": "Testujeme hypotézu ... vkontingenční tabulce o rozměru (r\\u003d3; s\\u003d4)...a testové kritérium vyšlo G\\u003d-12,34:",
+            "text": "Testujeme hypotézu ... v kontingenční tabulce o rozměru (r=3; s=4)...a testové kritérium vyšlo G=-12,34:",
             "answers": [
                 {
                     "text": "Zamítneme",
@@ -4694,12 +4686,8 @@
             ]
         },
         {
-            "text": "Máme kontingenční tabulku 3x3 a že testové kritérium vyjde 9.85 a jestli na 95 procentní významnosti můžeme potvrdit",
+            "text": "Máme kontingenční tabulku 3x3 a že testové kritérium vyjde 9.85 a jestli na 95 procentní významnosti můžeme potvrdit závislost.",
             "answers": [
-                {
-                    "text": "závislost.",
-                    "correct": false
-                },
                 {
                     "text": "Ano, pomocí chí-testu dobré shody s 9 stupni volnosti.",
                     "correct": false
@@ -4770,7 +4758,7 @@
             ]
         },
         {
-            "text": "Statistika G (kontingenční tabulky) vychází vždy vintervalu \\u003c-1,1\\u003e.",
+            "text": "Statistika G (kontingenční tabulky) vychází vždy vintervalu <-1,1>.",
             "answers": [
                 {
                     "text": "ANO",
@@ -5078,7 +5066,7 @@
                     "correct": true
                 },
                 {
-                    "text": "z intervalu \\u003c-1,1\\u003e",
+                    "text": "z intervalu <-1,1>",
                     "correct": false
                 },
                 {
@@ -5168,7 +5156,7 @@
             ]
         },
         {
-            "text": "Komentujte následující regresně sdružené přímky: Y\\u003d5x-2 X\\u003d5-0,2y",
+            "text": "Komentujte následující regresně sdružené přímky: Y=5x-2 X=5-0,2y",
             "answers": [
                 {
                     "text": "podle absolutní hodnoty regresních koeficientů nemůže jít o regresně sdružené přímky",
@@ -5205,15 +5193,15 @@
             "text": "Máme I² v korelační analýze, kdy je závislost nejtěsnější:",
             "answers": [
                 {
-                    "text": "ryx\\u003d 0,7",
+                    "text": "ryx= 0,7",
                     "correct": false
                 },
                 {
-                    "text": "ryx\\u003d -0,9",
+                    "text": "ryx= -0,9",
                     "correct": false
                 },
                 {
-                    "text": "I² \\u003d 0,85",
+                    "text": "I² = 0,85",
                     "correct": true
                 }
             ]
@@ -5245,7 +5233,7 @@
             ]
         },
         {
-            "text": "Když máme rovnici Y \\u003d 16 –0,8 x, platí, že:",
+            "text": "Když máme rovnici Y = 16 –0,8 x, platí, že:",
             "answers": [
                 {
                     "text": "Korelační koeficient musí být kladný",
@@ -5362,7 +5350,7 @@
             ]
         },
         {
-            "text": "Korelační koeficient: r2\\u003d-0,8 + graf, napsat, co platí",
+            "text": "Korelační koeficient: r2=-0,8 + graf, napsat, co platí",
             "answers": [
                 {
                     "text": "Silná přímá závislost",
@@ -5386,19 +5374,19 @@
             "text": "Hodnoty párového korelačního koeficientu leží vintervalu:",
             "answers": [
                 {
-                    "text": "\\u003c-1 ; 0\\u003e",
+                    "text": "<-1 ; 0>",
                     "correct": false
                 },
                 {
-                    "text": "\\u003c-1 ; 0)",
+                    "text": "<-1 ; 0)",
                     "correct": false
                 },
                 {
-                    "text": "(0 ; 1\\u003e",
+                    "text": "(0 ; 1>",
                     "correct": false
                 },
                 {
-                    "text": "\\u003c-1 ; 1\\u003e",
+                    "text": "<-1 ; 1>",
                     "correct": true
                 }
             ]
@@ -5424,7 +5412,7 @@
             "text": "Co je to index determinace?",
             "answers": [
                 {
-                    "text": "Nabývá hodnot \\u003c-1 ;1\\u003e",
+                    "text": "Nabývá hodnot <-1 ;1>",
                     "correct": false
                 },
                 {
@@ -5442,7 +5430,7 @@
             ]
         },
         {
-            "text": "Regresní přímka je zadána rovnicí Y\\u003d100 + 5x, co se stane se závislou proměnnou Y, kdyžse x zvýší o100jednotek?",
+            "text": "Regresní přímka je zadána rovnicí Y=100 + 5x, co se stane se závislou proměnnou Y, když se x zvýší o 100 jednotek?",
             "answers": [
                 {
                     "text": "Zvýší se o 500 jednotek",
@@ -5463,7 +5451,7 @@
             "text": "Hodnota součinu sdružených výběrových regresních koeficientů bxy a byx je vždy:",
             "answers": [
                 {
-                    "text": "V intervalu \\u003c0;1\\u003e",
+                    "text": "V intervalu <0;1>",
                     "correct": true
                 },
                 {
@@ -5848,7 +5836,7 @@
             ]
         },
         {
-            "text": "Jaký je relativní přírůstek, když koeficient růstu \\u003d 0,85",
+            "text": "Jaký je relativní přírůstek, když koeficient růstu = 0,85",
             "answers": [
                 {
                     "text": "-0,1517",
@@ -6015,7 +6003,7 @@
             ]
         },
         {
-            "text": "Máme bazický index zroku 2010 IB\\u003d1,28 (2009 základní rok) o řetězcovém indexu za stejné období platí",
+            "text": "Máme bazický index zroku 2010 IB=1,28 (2009 základní rok) o řetězcovém indexu za stejné období platí",
             "answers": [
                 {
                     "text": "Je větší než 1, 28",
@@ -6362,7 +6350,7 @@
             ]
         },
         {
-            "text": "Je-li X spojitá náhodná veličina, pak rozdíl distribuční funkce F(x2)-F(x1) pro x1\\u003cx2 znamená",
+            "text": "Je-li X spojitá náhodná veličina, pak rozdíl distribuční funkce F(x2)-F(x1) pro x1<x2 znamená:",
             "answers": [
                 {
                     "text": "rozptyl náhodné veličiny X",
@@ -6481,12 +6469,8 @@
             ]
         },
         {
-            "text": "Reziduální součet čtverců (v regesní analáze) je definován jako součet čtverců odchylek pozorovaných hodnot od",
+            "text": "Reziduální součet čtverců (v regresní analýze) je definován jako součet čtverců odchylek pozorovaných hodnot od vyrovnaných hodnot vysvětlované proměnné.",
             "answers": [
-                {
-                    "text": "vyrovnaných hodnot vysvětlované proměnné",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -6618,12 +6602,8 @@
             ]
         },
         {
-            "text": "Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku",
+            "text": "Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1 000 zjištěno 300, potřebujeme znát:",
             "answers": [
-                {
-                    "text": "o rozsahu 1 000 zjištěno 300, potřebujeme znát",
-                    "correct": false
-                },
                 {
                     "text": "rozsah populace",
                     "correct": false
@@ -6721,12 +6701,8 @@
             ]
         },
         {
-            "text": "Teoretický součet čtverců (v regesní analýze) je definován jako součet čtverců odchylek vyrovnaných hodnot od průměrné",
+            "text": "Teoretický součet čtverců (v regresní analýze) je definován jako součet čtverců odchylek vyrovnaných hodnot od průměrné hodnoty vysvětlované proměnné",
             "answers": [
-                {
-                    "text": "hodnoty vysvětlované proměnné",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -6779,22 +6755,18 @@
                     "correct": false
                 },
                 {
-                    "text": "ano, u dostatečně velkého výběru (n\\u003e30)",
+                    "text": "ano, u dostatečně velkého výběru (n>30)",
                     "correct": true
                 },
                 {
-                    "text": "ano, u malého výběru (n\\u003c\\u003d30)",
+                    "text": "ano, u malého výběru (n<=30)",
                     "correct": false
                 }
             ]
         },
         {
-            "text": "V rámci výzkumu byla u 25 aut zjištěna spotřeba paliva před provedením celkové opravy. chceme-li posoudit, zda oprava",
+            "text": "V rámci výzkumu byla u 25 aut zjištěna spotřeba paliva před provedením celkové opravy. chceme-li posoudit, zda oprava přispěla ke snížení spotřeby, použijeme:",
             "answers": [
-                {
-                    "text": "přispěla ke snížení spotřeby, použijeme:",
-                    "correct": false
-                },
                 {
                     "text": "test porovnávající střední hodnoty na základě dvou nezávislých výběrů",
                     "correct": false
@@ -6879,12 +6851,8 @@
             ]
         },
         {
-            "text": "U regresních funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od",
+            "text": "U regresních funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
             "answers": [
-                {
-                    "text": "vyrovnaných hodnot odhadnutého modelu vždy kladný",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -6930,7 +6898,7 @@
             ]
         },
         {
-            "text": "Testujeme hypotézu o nezávislosti v kontingenční tabulce s dvěma sloupci a třemi řádky na hladině významnosti 0,05. Rozsah výběru je 150 pozorování. Hodnota testového kritéria vyšla záporná a je rovna G \\u003d -5,98. Hypotézu o nezávislosti za těchto podmínek.",
+            "text": "Testujeme hypotézu o nezávislosti v kontingenční tabulce s dvěma sloupci a třemi řádky na hladině významnosti 0,05. Rozsah výběru je 150 pozorování. Hodnota testového kritéria vyšla záporná a je rovna G = -5,98. Hypotézu o nezávislosti za těchto podmínek.",
             "answers": [
                 {
                     "text": "nezamítneme",
@@ -7167,12 +7135,8 @@
             ]
         },
         {
-            "text": "Při výpočtu Paascheho cenového indexu používáme vážený harmonický průměr jednoduchých cenových indexů, kde",
+            "text": "Při výpočtu Paascheho cenového indexu používáme vážený harmonický průměr jednoduchých cenových indexů, kde vahami je hodnota produkce z běžného období",
             "answers": [
-                {
-                    "text": "vahami je hodnota produkce z běžného období",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -7253,7 +7217,7 @@
             ]
         },
         {
-            "text": "Která posloupnost hodnot může představovat hodnoty distribuční funkce, nabývá-li náhodná veličina celočíselných hodnot v intervalu \\u003c1;6\\u003e ?",
+            "text": "Která posloupnost hodnot může představovat hodnoty distribuční funkce, nabývá-li náhodná veličina celočíselných hodnot v intervalu <1;6> ?",
             "answers": [
                 {
                     "text": "0,2 0,4 0,5 0,4 0,6 1",
@@ -7351,12 +7315,8 @@
             ]
         },
         {
-            "text": "P-hodnota pro chí-kvadrát test dobré shody je rovna 0,03. Potom zamítneme nulovou hypotézu na hladinách významnosti",
+            "text": "P-hodnota pro chí-kvadrát test dobré shody je rovna 0,03. Potom zamítneme nulovou hypotézu na hladinách významnosti 0,01 i 0,05.",
             "answers": [
-                {
-                    "text": "0,01 i 0,05",
-                    "correct": false
-                },
                 {
                     "text": "NE",
                     "correct": true
@@ -7394,12 +7354,8 @@
             ]
         },
         {
-            "text": "Představu o nezávislosti veličin v kontingenční tabulce můžeme získat tak, že sdružené četnosti vydělíme celkovým",
+            "text": "Představu o nezávislosti veličin v kontingenční tabulce můžeme získat tak, že sdružené četnosti vydělíme celkovým rozsahem souboru",
             "answers": [
-                {
-                    "text": "rozsahem souboru",
-                    "correct": false
-                },
                 {
                     "text": "NE",
                     "correct": false
@@ -7482,15 +7438,15 @@
             "text": "Která z následujících funkcí je pravděpodobnostní funkcí náhodné veličiny s definičním oborem daným hodnotami 1, 2 a 3 ?",
             "answers": [
                 {
-                    "text": "P(1)\\u003d0,1 P(2)\\u003d0,4 P(3)\\u003d0,4",
+                    "text": "P(1)=0,1 P(2)=0,4 P(3)=0,4",
                     "correct": false
                 },
                 {
-                    "text": "P1\\u003d0,2 P2\\u003d0,4 P3\\u003d0,5",
+                    "text": "P1=0,2 P2=0,4 P3=0,5",
                     "correct": false
                 },
                 {
-                    "text": "P1\\u003d0,2 P2\\u003d0,4 P3\\u003d0,4",
+                    "text": "P1=0,2 P2=0,4 P3=0,4",
                     "correct": true
                 }
             ]
@@ -7504,11 +7460,11 @@
                 },
                 {
                     "text": "F-test v analýze rozptylu",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "t-test v korelační analýze",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -7569,12 +7525,8 @@
             ]
         },
         {
-            "text": "Nulová hypotéza při testování nezávislosti v kontingenční tabulce předpokládá, že se sdružené pozorované četnosti rovnají",
+            "text": "Nulová hypotéza při testování nezávislosti v kontingenční tabulce předpokládá, že se sdružené pozorované četnosti rovnají teoretickým četnostem",
             "answers": [
-                {
-                    "text": "teoretickým četnostem",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -7749,7 +7701,7 @@
             ]
         },
         {
-            "text": "Kovariance může nabývat jen hodnot z intervalu \\u003c0;1\\u003e",
+            "text": "Kovariance může nabývat jen hodnot z intervalu <0;1>",
             "answers": [
                 {
                     "text": "ANO",
@@ -7814,12 +7766,8 @@
             ]
         },
         {
-            "text": "Není-li podmínka chí-kvadrát testu o dostatečně velkých teoretických četnostech splněna, není možné sloučit věcně",
+            "text": "Není-li podmínka chí-kvadrát testu o dostatečně velkých teoretických četnostech splněna, není možné sloučit věcně související skupiny.",
             "answers": [
-                {
-                    "text": "související skupiny.",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": false
@@ -7844,12 +7792,8 @@
             ]
         },
         {
-            "text": "Při výpočtu Laspeyeresova cenového indexu používáme vážený aritmetický průměr, kde vahami je hodnota produkce z",
+            "text": "Při výpočtu Laspeyeresova cenového indexu používáme vážený aritmetický průměr, kde vahami je hodnota produkce z běžného období.",
             "answers": [
-                {
-                    "text": "běžného období",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": false
@@ -7874,12 +7818,8 @@
             ]
         },
         {
-            "text": "Podstatou testu nezávislosti v kontingenční tabulce je porovnávání očekávaných četností a tabulkových hodnot kvantilů",
+            "text": "Podstatou testu nezávislosti v kontingenční tabulce je porovnávání očekávaných četností a tabulkových hodnot kvantilů rozdělení chí-kvadrát.",
             "answers": [
-                {
-                    "text": "rozdělení chí-kvadrát.",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -7904,12 +7844,8 @@
             ]
         },
         {
-            "text": "Testové kritérium vypočítané při analýze rozptylu je porovnáváno s hodnotou kvantilů pro F ( Fisherovo-Snedecorovo)",
+            "text": "Testové kritérium vypočítané při analýze rozptylu je porovnáváno s hodnotou kvantilů pro F ( Fisherovo-Snedecorovo) rozdělení.",
             "answers": [
-                {
-                    "text": "rozdělení.",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": false
@@ -7960,12 +7896,8 @@
             ]
         },
         {
-            "text": "Očekávané četnosti vypočtené v jednotlivých polích kontingenční tabulky odpovídají hypotéze o závislosti 2 zkoumaných",
+            "text": "Očekávané četnosti vypočtené v jednotlivých polích kontingenční tabulky odpovídají hypotéze o závislosti 2 zkoumaných znaků.",
             "answers": [
-                {
-                    "text": "znaků.",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -8018,7 +7950,7 @@
                     "correct": false
                 },
                 {
-                    "text": "\\u003c0;1\\u003e",
+                    "text": "<0;1>",
                     "correct": true
                 }
             ]
@@ -8401,7 +8333,7 @@
             ]
         },
         {
-            "text": "V klasickém regresním lineárním modelu y \\u003d β0 + β1 + ε",
+            "text": "V klasickém regresním lineárním modelu y = β0 + β1 + ε",
             "answers": [
                 {
                     "text": "Korelační koeficient pro x a y je roven indexu determinace",
@@ -8418,7 +8350,7 @@
             ]
         },
         {
-            "text": "Vyšlo nám testové kritérium G \\u003d 7 (už nevím), pak na hladině významnosti 0,05 testovanou hypotézu:",
+            "text": "Vyšlo nám testové kritérium G = 7 (už nevím), pak na hladině významnosti 0,05 testovanou hypotézu:",
             "answers": [
                 {
                     "text": "Nezamítáme, protože Chí kvadrát s 9 stupni volnosti má kvantil 16,9",
@@ -8507,17 +8439,17 @@
             "text": "Kdy používáme t Studentovo rozdělení pro zjištění střední hodnoty?",
             "answers": [
                 {
-                    "text": "Když známe střední hodnoty a máme velký výběr (n\\u003e30)",
+                    "text": "Když známe střední hodnoty a máme velký výběr (n>30)",
                     "correct": false
                 },
                 {
-                    "text": "Když máme normální rozdělení a malý výběr (n\\u003c30)",
+                    "text": "Když máme normální rozdělení a malý výběr (n<30)",
                     "correct": true
                 }
             ]
         },
         {
-            "text": "Když máme rovnici: Y \\u003d 35 - 18X",
+            "text": "Když máme rovnici: Y = 35 - 18X",
             "answers": [
                 {
                     "text": "Korelační koeficient musí být kladný",
@@ -8586,12 +8518,8 @@
             ]
         },
         {
-            "text": "Při modelování trendů v ČŘ pomosí regresního přístupu je vždy lepším modelem trendu trend parabolický nežli trend",
+            "text": "Při modelování trendů v ČŘ pomosí regresního přístupu je vždy lepším modelem trendu trend parabolický nežli trend přimkový.",
             "answers": [
-                {
-                    "text": "přimkový",
-                    "correct": false
-                },
                 {
                     "text": "NE",
                     "correct": true
@@ -8698,7 +8626,7 @@
             ]
         },
         {
-            "text": "Regresní přímka je zadána rovnicí Y\\u003d100 + 5x, co se stane se závislou proměnnou Y, když x\\u003d100?",
+            "text": "Regresní přímka je zadána rovnicí Y=100 + 5x, co se stane se závislou proměnnou Y, když x=100?",
             "answers": [
                 {
                     "text": "zvýší se o 500 jednotek",
@@ -8868,15 +8796,15 @@
             "text": "Pro všechny stupně volnosti χ0,20 platí, že:",
             "answers": [
                 {
-                    "text": "χ0,20 \\u003e 0",
+                    "text": "χ0,20 > 0",
                     "correct": true
                 },
                 {
-                    "text": "χ0,20 \\u003c 0",
+                    "text": "χ0,20 < 0",
                     "correct": false
                 },
                 {
-                    "text": "χ0,20 | \\u003d χ0,80",
+                    "text": "χ0,20 | = χ0,80",
                     "correct": false
                 }
             ]
@@ -8929,7 +8857,7 @@
             ]
         },
         {
-            "text": "Pokud zamítáme hypotézu o α\\u003d0,05, příjímáme hypotézu o α\\u003d0,01.",
+            "text": "Pokud zamítáme hypotézu o α=0,05, příjímáme hypotézu o α=0,01.",
             "answers": [
                 {
                     "text": "ANO",
@@ -8972,7 +8900,7 @@
             ]
         },
         {
-            "text": "Oboustranný interval spolehlivosti pro pravděpodobnost koupě výrobku n 150 pozorování. Pokud zůstanou všechny vstupní údaje beze změny a zvětšíme rozsah výběru n‘\\u003d400 dostaneme:",
+            "text": "Oboustranný interval spolehlivosti pro pravděpodobnost koupě výrobku n 150 pozorování. Pokud zůstanou všechny vstupní údaje beze změny a zvětšíme rozsah výběru n‘=400 dostaneme:",
             "answers": [
                 {
                     "text": "užší interval spolehlivosti",
@@ -9023,7 +8951,7 @@
             ]
         },
         {
-            "text": "hladina významnosti je doplněk chyby II. druhu do jedné NE",
+            "text": "hladina významnosti je doplněk chyby II. druhu do jedné",
             "answers": [
                 {
                     "text": "NE",
@@ -9221,7 +9149,7 @@
             ]
         },
         {
-            "text": "Zadány 2 regresní přímky Y\\u003d x- 5 a X\\u003d 2x – 6 (čísla vymyšlena)",
+            "text": "Zadány 2 regresní přímky Y= x- 5 a X= 2x – 6 (čísla vymyšlena)",
             "answers": [
                 {
                     "text": "podle znamének regresních koeficientů nemůže jít o regresně sdružené přímky",
@@ -9268,7 +9196,7 @@
             ]
         },
         {
-            "text": "Když máme rovnici Y \\u003d 16 – 0,8 x (tie čísla som si vymyslela, ale bolo tam „mínus“), platí, že:",
+            "text": "Když máme rovnici Y = 16 – 0,8 x (tie čísla som si vymyslela, ale bolo tam „mínus“), platí, že:",
             "answers": [
                 {
                     "text": "Korelační koeficient musí být kladný",
@@ -9594,7 +9522,7 @@
             "answers": [
                 {
                     "text": "nezávislost kategoriální proměnné na kvantitativní",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "závislost kvantitativní proměnné na kategoriální",
@@ -9602,7 +9530,7 @@
                 },
                 {
                     "text": "nezávislost kvantitativní proměnné na kategoriální",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -9633,12 +9561,8 @@
             ]
         },
         {
-            "text": "Při nezávislosti dvou kategoriálních proměnných se sdružené teoretické četnosti rovnají součinu marginálních četností ( v",
+            "text": "Při nezávislosti dvou kategoriálních proměnných se sdružené teoretické četnosti rovnají součinu marginálních četností ( v příslušném řádku a sloupci) děleném rozsahem souboru",
             "answers": [
-                {
-                    "text": "příslušném řádku a sloupci) děleném rozsahem souboru",
-                    "correct": false
-                },
                 {
                     "text": "NE",
                     "correct": false
@@ -9723,12 +9647,8 @@
             ]
         },
         {
-            "text": "Sezónní složka se vyskytuje pouze ve čtvrtletních ekonomicých časových řadách a nikoliv v měsíčních ekonomických",
+            "text": "Sezónní složka se vyskytuje pouze ve čtvrtletních ekonomicých časových řadách a nikoliv v měsíčních ekonomických časových řadách",
             "answers": [
-                {
-                    "text": "časových řadách",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": false
@@ -9824,15 +9744,15 @@
             "text": "Pro distribuční funkci F(x) platí",
             "answers": [
                 {
-                    "text": "-1\\u003cF(x)\\u003c1",
+                    "text": "-1<F(x)<1",
                     "correct": false
                 },
                 {
-                    "text": "0\\u003cF(x)\\u003c1",
+                    "text": "0<F(x)<1",
                     "correct": false
                 },
                 {
-                    "text": "0\\u003c\\u003dF(x)\\u003c\\u003d1",
+                    "text": "0<=F(x)<=1",
                     "correct": true
                 }
             ]
@@ -9961,7 +9881,7 @@
             "text": "Pro popis regresní závislosti byla použita přímka. Potom pro hodnoty kovariance parametru byx platí",
             "answers": [
                 {
-                    "text": "Sxy\\u003e0, potom je byx záporný",
+                    "text": "Sxy>0, potom je byx záporný",
                     "correct": false
                 },
                 {
@@ -9969,7 +9889,7 @@
                     "correct": false
                 },
                 {
-                    "text": "Sxy\\u003e0, potom je byx kladný",
+                    "text": "Sxy>0, potom je byx kladný",
                     "correct": true
                 }
             ]
@@ -10087,7 +10007,7 @@
             ]
         },
         {
-            "text": "Kontingenční tabulka umožňuje testování existence vztahu mezi 2 znaky v klasickém regresivním modelu. y\\u003db0 + b1*x+E máte testové kritérium b0\\u003dS(b0) studentovo t rozdělení",
+            "text": "Kontingenční tabulka umožňuje testování existence vztahu mezi 2 znaky v klasickém regresivním modelu. y=b0 + b1*x+E máte testové kritérium b0=S(b0) studentovo t rozdělení",
             "answers": [
                 {
                     "text": "ANO",
