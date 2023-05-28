@@ -191,7 +191,7 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
                         />
                     ))}
                 </div>
-                <Link href={`https://github.com/jirkavrba/vse-tester/blob/main/src/questions/${subject.toLowerCase()}.json`} target="_blank" className="text-neutral-700 font-bold text-sm hover:text-white hover:underline hover:decoration-white">
+                <Link href={`https://github.com/jirkavrba/vse-tester/blob/main/src/questions/${subject.toLowerCase()}.json`} target="_blank" className={`${darkmode ? "text-neutral-700 hover:text-white hover:decoration-white" : "text-neutral-300 hover:text-black hover:decoration-black"} font-bold text-sm hover:underline`}>
                     Odpověď je špatně? Můžeš poslat PR na Githubu!
                 </Link>
             </div>
