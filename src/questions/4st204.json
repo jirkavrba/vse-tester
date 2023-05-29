@@ -8733,7 +8733,7 @@
             ]
         },
         {
-            "text": "Index determinace (je to koeficient detemrinace taky ) popisuje",
+            "text": "Index determinace (je to koeficient determinace taky) popisuje:",
             "answers": [
                 {
                     "text": "obecně sílu závislosti",
@@ -8789,7 +8789,7 @@
             ]
         },
         {
-            "text": "Zvýší-li se interval spolehlivosti(spolehlivost odhadu), co se stane s přesností? (prostě alfa je v intervalu menší)",
+            "text": "Zvýší-li se interval spolehlivosti (spolehlivost odhadu), co se stane s přesností?",
             "answers": [
                 {
                     "text": "zmenší se",
@@ -8964,7 +8964,7 @@
             ]
         },
         {
-            "text": "hladina významnosti je doplněk chyby II. druhu do jedné",
+            "text": "Hladina významnosti je doplněk chyby II. druhu do jedné.",
             "answers": [
                 {
                     "text": "NE",
@@ -9048,7 +9048,7 @@
                     "correct": true
                 },
                 {
-                    "text": "Nesmime zamitnout na 20% hladině významnosti",
+                    "text": "Nesmime zamitnout na 20 % hladině významnosti",
                     "correct": false
                 }
             ]
