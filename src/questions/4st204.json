@@ -476,7 +476,7 @@
             ]
         },
         {
-            "text": "Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu",
+            "text": "Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu.",
             "answers": [
                 {
                     "text": "Ano",
@@ -4784,7 +4784,7 @@
             ]
         },
         {
-            "text": "Pearsonův koeficient kontingence při velmi těsné závislosti proměnných dosahuje hodnoty 1",
+            "text": "Pearsonův koeficient kontingence při velmi těsné závislosti proměnných dosahuje hodnoty 1.",
             "answers": [
                 {
                     "text": "ANO",
@@ -4924,7 +4924,7 @@
             "text": "Chcete porovnat výkony pracovníků (tj. Počet vyrobených výrobků za směnu) ve třech směnách. Použijete:",
             "answers": [
                 {
-                    "text": "t test o shodě středníchhodnot",
+                    "text": "t test o shodě středních hodnot",
                     "correct": false
                 },
                 {
@@ -5114,7 +5114,7 @@
             ]
         },
         {
-            "text": "Lineární závislost 2 veličin je vyjádřena vgrafu přímkou rovnoběžnou s vodorovnou osou. Veličiny:",
+            "text": "Lineární závislost 2 veličin je vyjádřena v grafu přímkou rovnoběžnou s vodorovnou osou. Veličiny:",
             "answers": [
                 {
                     "text": "Jsou na sobě lineárně závislé",
@@ -5207,7 +5207,7 @@
             ]
         },
         {
-            "text": "Kde se používá metoda nejmenších čtverců ?",
+            "text": "Kde se používá metoda nejmenších čtverců?",
             "answers": [
                 {
                     "text": "metoda určování parametrů regresních funkcí",
@@ -5216,7 +5216,7 @@
             ]
         },
         {
-            "text": "Při t-testu(b0/s(b0)) sa používa:",
+            "text": "Při t-testu(b0/s(b0)) sa používá:",
             "answers": [
                 {
                     "text": "Studentovo rozdělení",
@@ -5233,7 +5233,7 @@
             ]
         },
         {
-            "text": "Když máme rovnici Y = 16 –0,8 x, platí, že:",
+            "text": "Když máme rovnici Y=16–0,8x, platí, že:",
             "answers": [
                 {
                     "text": "Korelační koeficient musí být kladný",
@@ -5292,7 +5292,7 @@
             "text": "Regresní koeficient",
             "answers": [
                 {
-                    "text": "vyjadřuje změnu závisle proměnné při jednotkové změně nezávislé proměnné",
+                    "text": "vyjadřuje změnu závislé proměnné při jednotkové změně nezávislé proměnné",
                     "correct": true
                 },
                 {
@@ -5323,7 +5323,7 @@
             ]
         },
         {
-            "text": "Kde se používá metoda nejmenších čtverců -?",
+            "text": "Kde se používá metoda nejmenších čtverců?",
             "answers": [
                 {
                     "text": "metoda určování parametrů regresních funkcí,",
