@@ -7861,11 +7861,11 @@
             "answers": [
                 {
                     "text": "ANO",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "NE",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
