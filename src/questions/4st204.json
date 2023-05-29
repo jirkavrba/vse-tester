@@ -5323,15 +5323,6 @@
             ]
         },
         {
-            "text": "Kde se používá metoda nejmenších čtverců?",
-            "answers": [
-                {
-                    "text": "metoda určování parametrů regresních funkcí,",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "K čemu slouží upravený index determinace?",
             "answers": [
                 {
