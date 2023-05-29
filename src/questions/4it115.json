@@ -1895,7 +1895,7 @@
             "answers": [
                 {
                     "text": "průchodnost",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "datový typ atributu",
@@ -2731,85 +2731,30 @@
             ]
         },
         {
-            "text": "Přiřaďte náplň fáze Inception v agilnim SW developmentu(ASD)",
+            "text": "Jaké fáze máme definované v metodice RUP ",
             "answers": [
                 {
-                    "text": "pochopit, co vytvářet ",
+                    "text": "Inception (začátek)",
                     "correct": true
                 },
                 {
-                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
-                    "correct": false
-                },
-                {
-                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
-                    "correct": false
-                },
-                {
-                    "text": "akceptace, prověření řešení",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Přiřaďte náplň fáze Elaboration v agilnim SW developmentu(ASD)",
-            "answers": [
-                {
-                    "text": "pochopit, co vytvářet ",
-                    "correct": false
-                },
-                {
-                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
+                    "text": "Elaboration (rozpracování)",
                     "correct": true
                 },
                 {
-                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
+                    "text": "Testing (testování)",
                     "correct": false
                 },
                 {
-                    "text": "akceptace, prověření řešení",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Přiřaďte náplň fáze Construction v agilnim SW developmentu(ASD)",
-            "answers": [
-                {
-                    "text": "pochopit, co vytvářet ",
-                    "correct": false
-                },
-                {
-                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
-                    "correct": false
-                },
-                {
-                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
+                    "text": "Construction (stavba)",
                     "correct": true
                 },
                 {
-                    "text": "akceptace, prověření řešení",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Přiřaďte náplň fáze Transition v agilnim SW developmentu(ASD)",
-            "answers": [
-                {
-                    "text": "pochopit, co vytvářet ",
+                    "text": "Deployment (nasazení)",
                     "correct": false
                 },
                 {
-                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
-                    "correct": false
-                },
-                {
-                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
-                    "correct": false
-                },
-                {
-                    "text": "akceptace, prověření řešení",
+                    "text": "Transition (přechod)",
                     "correct": true
                 }
             ]
@@ -2819,11 +2764,11 @@
             "answers": [
                 {
                     "text": "pochopit, co vytvářet ",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "pochopit, jak vytvářet",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "vytvoření plánu projektu",
@@ -2831,7 +2776,7 @@
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "programování a testování",
@@ -2856,15 +2801,15 @@
                 },
                 {
                     "text": "pochopit, jak vytvářet",
-                    "correct": false
-                },
-                {
-                    "text": "vytvoření plánu projektu",
                     "correct": true
                 },
                 {
-                    "text": "návrh a prověření architektury",
+                    "text": "vytvoření plánu projektu",
                     "correct": false
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": true
                 },
                 {
                     "text": "programování a testování",
@@ -2901,7 +2846,7 @@
                 },
                 {
                     "text": "programování a testování",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "akceptace",
@@ -2930,39 +2875,6 @@
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": true
-                },
-                {
-                    "text": "programování a testování",
-                    "correct": false
-                },
-                {
-                    "text": "akceptace",
-                    "correct": false
-                },
-                {
-                    "text": "prověření řešení",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Přiřaďte náplň fáze Deployment v metodice RUP",
-            "answers": [
-                {
-                    "text": "pochopit, co vytvářet ",
-                    "correct": false
-                },
-                {
-                    "text": "pochopit, jak vytvářet",
-                    "correct": false
-                },
-                {
-                    "text": "vytvoření plánu projektu",
-                    "correct": false
-                },
-                {
-                    "text": "návrh a prověření architektury",
                     "correct": false
                 },
                 {
@@ -2976,39 +2888,6 @@
                 {
                     "text": "prověření řešení",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Přiřaďte náplň fáze Testing v metodice RUP",
-            "answers": [
-                {
-                    "text": "pochopit, co vytvářet ",
-                    "correct": false
-                },
-                {
-                    "text": "pochopit, jak vytvářet",
-                    "correct": true
-                },
-                {
-                    "text": "vytvoření plánu projektu",
-                    "correct": false
-                },
-                {
-                    "text": "návrh a prověření architektury",
-                    "correct": false
-                },
-                {
-                    "text": "programování a testování",
-                    "correct": false
-                },
-                {
-                    "text": "akceptace",
-                    "correct": false
-                },
-                {
-                    "text": "prověření řešení",
-                    "correct": true
                 }
             ]
         },
@@ -3681,7 +3560,7 @@
             ]
         },
         {
-            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "text": "V jaké fázi životního cyklu provádíme jednotkové testování",
             "answers": [
                 {
                     "text": "analýza požadavků",
@@ -3702,7 +3581,7 @@
             ]
         },
         {
-            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "text": "V jaké fázi životního cyklu provádíme integrační testování",
             "answers": [
                 {
                     "text": "analýza požadavků",
@@ -3723,7 +3602,7 @@
             ]
         },
         {
-            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "text": "V jaké fázi životního cyklu provádíme systémové testování",
             "answers": [
                 {
                     "text": "analýza požadavků",
@@ -3975,7 +3854,7 @@
             ]
         },
         {
-            "text": "Označte pravdivá a nepravdivá tvrzení o komponentách pro tvorbu GUI v Javě",
+            "text": "Označte pravdivá tvrzení o komponentách pro tvorbu GUI v Javě",
             "answers": [
                 {
                     "text": "Pro každou komponentu je možné nastavit orámování pomocí třídy BorderFactory;",
@@ -4004,11 +3883,11 @@
             ]
         },
         {
-            "text": "Označte pravdivá a nepravdivá tvrzení o správcích rozvržení (LayoutManager) používaných při vytváření GUI v Javě",
+            "text": "Označte nepravdivá tvrzení o správcích rozvržení (LayoutManager) používaných při vytváření GUI v Javě",
             "answers": [
                 {
                     "text": "V aplikaci je možné kombinovat více druhů rozvržení komponent za pomoci panelů s různě nastavenými správci rozvržení",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Pokud do aplikace přidáte nebo naopak odeberete komponentu za běhu, je nutné zavolat metodu revalidate() kontejnerové komponenty, aby bylo upraveno umístění a velikost komponent.",
@@ -4016,7 +3895,7 @@
                 },
                 {
                     "text": "Pro jednu kontejnerovou komponentu je možné nastavit více správců rozvržení",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Pokud nenastavím správce rozvržení pro hlavní okno aplikace, bude použit BorderLayout",
@@ -4025,7 +3904,7 @@
             ]
         },
         {
-            "text": "Označte pravdivá a nepravdivá tvrzení o komponentě pro vytvoření seznamu (JList)",
+            "text": "Označte pravdivá tvrzení o komponentě pro vytvoření seznamu (JList)",
             "answers": [
                 {
                     "text": "Pro seznam je možné nastavit, kolik položek může uživatel najednou označit (jednu, více ve spojité oblasti,více v nespojitých oblastech)",
@@ -4142,7 +4021,7 @@
                 },
                 {
                     "text": "Správce rozvržení, který vytvoří z komponent tabulku (např. 3x5), všechny komp. majístejnou velikost",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Správce rozvržení, pomocí kterého lze umístít jednu komponentu doprostřed, další čtyři lzeumístit po stranách (vlevo, vpravo, nahoře, dole)",
@@ -4150,7 +4029,7 @@
                 },
                 {
                     "text": "Správce rozvržení který komponenty umísťuje za sebou, na konci řádku se přejde na dalšířádek. Komponenty jsou zobrazovány v upřednostňované velikosti (preferred size).",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -4700,11 +4579,11 @@
                 },
                 {
                     "text": "requirements development",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "configuration management",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
