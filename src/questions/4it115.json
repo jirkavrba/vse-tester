@@ -1895,7 +1895,7 @@
             "answers": [
                 {
                     "text": "průchodnost",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "datový typ atributu",
@@ -2032,11 +2032,23 @@
             ]
         },
         {
-            "text": "158 )Vyberte kolik rolí je definováno v RUP",
+            "text": "Vyberte kolik rolí je definováno v RUP",
             "answers": [
                 {
                     "text": "více než 15",
                     "correct": true
+                },
+                {
+                    "text": "5",
+                    "correct": false
+                },
+                {
+                    "text": "10",
+                    "correct": false
+                },
+                {
+                    "text": "3",
+                    "correct": false
                 }
             ]
         },
@@ -2496,6 +2508,2229 @@
                 {
                     "text": "Každodenní stabilizace odevzdaného zdrojového kódu",
                     "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Onačte následujcí charakteristiky vývoje SW, které mají podle Manifestu pro agilní vývoj SW přednost.",
+            "answers": [
+                {
+                    "text": "fungující SW",
+                    "correct": true
+                },
+                {
+                    "text": "umožnit změnu řešení",
+                    "correct": true
+                },
+                {
+                    "text": "spolupráce se zákazníkem",
+                    "correct": true
+                },
+                {
+                    "text": "osobní komunikace",
+                    "correct": true
+                },
+                {
+                    "text": "schopnosti lidí",
+                    "correct": true
+                },
+                {
+                    "text": "použití moderních SW nástrojů",
+                    "correct": false
+                },
+                {
+                    "text": "uzavření smlouvy se zákazníkem",
+                    "correct": false
+                },
+                {
+                    "text": "dokumentace",
+                    "correct": false
+                },
+                {
+                    "text": "procesy",
+                    "correct": false
+                },
+                {
+                    "text": "plnění plánu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je charakteristikou agilní metody XP",
+            "answers": [
+                {
+                    "text": "má 12 praktik a hodnoty komunikace,jednoduchost, zpětná vazba a odvaha",
+                    "correct": true
+                },
+                {
+                    "text": "vývoj podle užitných vlastností",
+                    "correct": false
+                },
+                {
+                    "text": "rodina metodik škálovatelných podle velikosti týmu a kritičnosti vytvářeného SW",
+                    "correct": false
+                },
+                {
+                    "text": "filosofické zázemí pro agilní metodiky",
+                    "correct": false
+                },
+                {
+                    "text": "rozšířena ve Velké Británii, zaměřena na prototypování",
+                    "correct": false
+                },
+                {
+                    "text": "nejpoužívanější agilní metodika, je zaměřena hlavně na řízení projektu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je charakteristikou agilní metody Feature-driven Development FDD",
+            "answers": [
+                {
+                    "text": "má 12 praktik a hodnoty komunikace,jednoduchost, zpětná vazba a odvaha",
+                    "correct": false
+                },
+                {
+                    "text": "vývoj podle užitných vlastností",
+                    "correct": true
+                },
+                {
+                    "text": "rodina metodik škálovatelných podle velikosti týmu a kritičnosti vytvářeného SW",
+                    "correct": false
+                },
+                {
+                    "text": "filosofické zázemí pro agilní metodiky",
+                    "correct": false
+                },
+                {
+                    "text": "rozšířena ve Velké Británii, zaměřena na prototypování",
+                    "correct": false
+                },
+                {
+                    "text": "nejpoužívanější agilní metodika, je zaměřena hlavně na řízení projektu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je charakteristikou agilní metody Crystal",
+            "answers": [
+                {
+                    "text": "má 12 praktik a hodnoty komunikace,jednoduchost, zpětná vazba a odvaha",
+                    "correct": false
+                },
+                {
+                    "text": "vývoj podle užitných vlastností",
+                    "correct": false
+                },
+                {
+                    "text": "rodina metodik škálovatelných podle velikosti týmu a kritičnosti vytvářeného SW",
+                    "correct": true
+                },
+                {
+                    "text": "filosofické zázemí pro agilní metodiky",
+                    "correct": false
+                },
+                {
+                    "text": "rozšířena ve Velké Británii, zaměřena na prototypování",
+                    "correct": false
+                },
+                {
+                    "text": "nejpoužívanější agilní metodika, je zaměřena hlavně na řízení projektu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je charakteristikou agilní metody Adaptive Software Development ASD",
+            "answers": [
+                {
+                    "text": "má 12 praktik a hodnoty komunikace,jednoduchost, zpětná vazba a odvaha",
+                    "correct": false
+                },
+                {
+                    "text": "vývoj podle užitných vlastností",
+                    "correct": false
+                },
+                {
+                    "text": "rodina metodik škálovatelných podle velikosti týmu a kritičnosti vytvářeného SW",
+                    "correct": false
+                },
+                {
+                    "text": "filosofické zázemí pro agilní metodiky",
+                    "correct": true
+                },
+                {
+                    "text": "rozšířena ve Velké Británii, zaměřena na prototypování",
+                    "correct": false
+                },
+                {
+                    "text": "nejpoužívanější agilní metodika, je zaměřena hlavně na řízení projektu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je charakteristikou agilní metody DSDM",
+            "answers": [
+                {
+                    "text": "má 12 praktik a hodnoty komunikace,jednoduchost, zpětná vazba a odvaha",
+                    "correct": false
+                },
+                {
+                    "text": "vývoj podle užitných vlastností",
+                    "correct": false
+                },
+                {
+                    "text": "rodina metodik škálovatelných podle velikosti týmu a kritičnosti vytvářeného SW",
+                    "correct": false
+                },
+                {
+                    "text": "filosofické zázemí pro agilní metodiky",
+                    "correct": false
+                },
+                {
+                    "text": "rozšířena ve Velké Británii, zaměřena na prototypování",
+                    "correct": true
+                },
+                {
+                    "text": "nejpoužívanější agilní metodika, je zaměřena hlavně na řízení projektu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co je charakteristikou agilní metody Scrum",
+            "answers": [
+                {
+                    "text": "má 12 praktik a hodnoty komunikace,jednoduchost, zpětná vazba a odvaha",
+                    "correct": false
+                },
+                {
+                    "text": "vývoj podle užitných vlastností",
+                    "correct": false
+                },
+                {
+                    "text": "rodina metodik škálovatelných podle velikosti týmu a kritičnosti vytvářeného SW",
+                    "correct": false
+                },
+                {
+                    "text": "filosofické zázemí pro agilní metodiky",
+                    "correct": false
+                },
+                {
+                    "text": "rozšířena ve Velké Británii, zaměřena na prototypování",
+                    "correct": false
+                },
+                {
+                    "text": "nejpoužívanější agilní metodika, je zaměřena hlavně na řízení projektu",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Inception v agilnim SW developmentu(ASD)",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": true
+                },
+                {
+                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace, prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Elaboration v agilnim SW developmentu(ASD)",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
+                    "correct": true
+                },
+                {
+                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace, prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Construction v agilnim SW developmentu(ASD)",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
+                    "correct": true
+                },
+                {
+                    "text": "akceptace, prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Transition v agilnim SW developmentu(ASD)",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet, vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování; návrh a prověření architektury, vytváření produktu",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace, prověření řešení",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Inception v metodice RUP",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet",
+                    "correct": true
+                },
+                {
+                    "text": "vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace",
+                    "correct": false
+                },
+                {
+                    "text": "prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Elaboration v metodice RUP",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet",
+                    "correct": false
+                },
+                {
+                    "text": "vytvoření plánu projektu",
+                    "correct": true
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace",
+                    "correct": false
+                },
+                {
+                    "text": "prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Construction v metodice RUP",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": true
+                },
+                {
+                    "text": "pochopit, jak vytvářet",
+                    "correct": false
+                },
+                {
+                    "text": "vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace",
+                    "correct": false
+                },
+                {
+                    "text": "prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze transition v metodice RUP",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet",
+                    "correct": false
+                },
+                {
+                    "text": "vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": true
+                },
+                {
+                    "text": "programování a testování",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace",
+                    "correct": false
+                },
+                {
+                    "text": "prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Deployment v metodice RUP",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet",
+                    "correct": false
+                },
+                {
+                    "text": "vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace",
+                    "correct": true
+                },
+                {
+                    "text": "prověření řešení",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte náplň fáze Testing v metodice RUP",
+            "answers": [
+                {
+                    "text": "pochopit, co vytvářet ",
+                    "correct": false
+                },
+                {
+                    "text": "pochopit, jak vytvářet",
+                    "correct": true
+                },
+                {
+                    "text": "vytvoření plánu projektu",
+                    "correct": false
+                },
+                {
+                    "text": "návrh a prověření architektury",
+                    "correct": false
+                },
+                {
+                    "text": "programování a testování",
+                    "correct": false
+                },
+                {
+                    "text": "akceptace",
+                    "correct": false
+                },
+                {
+                    "text": "prověření řešení",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Jaké role definuje metodika Scrum",
+            "answers": [
+                {
+                    "text": "The Development Team",
+                    "correct": true
+                },
+                {
+                    "text": "Scrum Master",
+                    "correct": true
+                },
+                {
+                    "text": "Product Owner",
+                    "correct": true
+                },
+                {
+                    "text": "Uživatel",
+                    "correct": false
+                },
+                {
+                    "text": "Analyst",
+                    "correct": false
+                },
+                {
+                    "text": "Manager",
+                    "correct": false
+                },
+                {
+                    "text": "Tester",
+                    "correct": false
+                },
+                {
+                    "text": "General",
+                    "correct": false
+                },
+                {
+                    "text": "Process Engineer",
+                    "correct": false
+                },
+                {
+                    "text": "Reviewer",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte činnosti do praktiky Sprint planning Meeting metodiky Scrum",
+            "answers": [
+                {
+                    "text": "vybírají se požadavky, které se budou realiz. v dané iteraci",
+                    "correct": true
+                },
+                {
+                    "text": "mění se priority požadavků",
+                    "correct": true
+                },
+                {
+                    "text": "přizpůsobuje se metodika",
+                    "correct": false
+                },
+                {
+                    "text": " předvádí se přírůstek zákazníkovi",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte činnosti do praktiky Sprint Retrospective metodiky Scrum",
+            "answers": [
+                {
+                    "text": "vybírají se požadavky, které se budou realiz. v dané iteraci",
+                    "correct": false
+                },
+                {
+                    "text": "mění se priority požadavků",
+                    "correct": false
+                },
+                {
+                    "text": "přizpůsobuje se metodika",
+                    "correct": true
+                },
+                {
+                    "text": " předvádí se přírůstek zákazníkovi",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte činnosti do praktiky Sprint Review metodiky Scrum",
+            "answers": [
+                {
+                    "text": "vybírají se požadavky, které se budou realiz. v dané iteraci",
+                    "correct": false
+                },
+                {
+                    "text": "mění se priority požadavků",
+                    "correct": false
+                },
+                {
+                    "text": "přizpůsobuje se metodika",
+                    "correct": false
+                },
+                {
+                    "text": " předvádí se přírůstek zákazníkovi",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Spojte správné označení viditelnosti položek private podle standardu UML.",
+            "answers": [
+                {
+                    "text": "-",
+                    "correct": true
+                },
+                {
+                    "text": "+",
+                    "correct": false
+                },
+                {
+                    "text": "#",
+                    "correct": false
+                },
+                {
+                    "text": "~",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte správné označení viditelnosti položek public podle standardu UML.",
+            "answers": [
+                {
+                    "text": "-",
+                    "correct": false
+                },
+                {
+                    "text": "+",
+                    "correct": true
+                },
+                {
+                    "text": "#",
+                    "correct": false
+                },
+                {
+                    "text": "~",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte správné označení viditelnosti položek protected podle standardu UML.",
+            "answers": [
+                {
+                    "text": "-",
+                    "correct": false
+                },
+                {
+                    "text": "+",
+                    "correct": false
+                },
+                {
+                    "text": "#",
+                    "correct": true
+                },
+                {
+                    "text": "~",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte správné označení viditelnosti položek v ramci balicku podle standardu UML.",
+            "answers": [
+                {
+                    "text": "-",
+                    "correct": false
+                },
+                {
+                    "text": "+",
+                    "correct": false
+                },
+                {
+                    "text": "#",
+                    "correct": false
+                },
+                {
+                    "text": "~",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Stažení historie změn ze vdáleného repozitáře a kombinace s lokálními změnami",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": true
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Stažení historie verzí ze vzdáleného repozitáře",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": true
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Založení prázdného repozitáře",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": true
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Nahrání všech commitů z lokálního repozitáře na vzdálený repozitář",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": true
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Stažení projektu s veškerou historií verzí",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": true
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Zkombinování dvou větví",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": true
+                },
+                {
+                    "text": "git rebase",
+                    "correct": true
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Vytvoření nové větve",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": true
+                },
+                {
+                    "text": "git checkout",
+                    "correct": false
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam příkazu git. - Přesun na jinou větev",
+            "answers": [
+                {
+                    "text": "git pull",
+                    "correct": false
+                },
+                {
+                    "text": "git fetch",
+                    "correct": false
+                },
+                {
+                    "text": "git init",
+                    "correct": false
+                },
+                {
+                    "text": "git push",
+                    "correct": false
+                },
+                {
+                    "text": "git clone",
+                    "correct": false
+                },
+                {
+                    "text": "git merge",
+                    "correct": false
+                },
+                {
+                    "text": "git branch",
+                    "correct": false
+                },
+                {
+                    "text": "git checkout",
+                    "correct": true
+                },
+                {
+                    "text": "git rebase",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam jednotlivým stavům souborů v úložišti. - Soubor připravený pro commit",
+            "answers": [
+                {
+                    "text": "staged",
+                    "correct": true
+                },
+                {
+                    "text": "commited",
+                    "correct": false
+                },
+                {
+                    "text": "modified",
+                    "correct": false
+                },
+                {
+                    "text": "untracked",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam jednotlivým stavům souborů v úložišti. - Soubor po commitu",
+            "answers": [
+                {
+                    "text": "staged",
+                    "correct": false
+                },
+                {
+                    "text": "commited",
+                    "correct": true
+                },
+                {
+                    "text": "modified",
+                    "correct": false
+                },
+                {
+                    "text": "untracked",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam jednotlivým stavům souborů v úložišti. - Upravený soubor",
+            "answers": [
+                {
+                    "text": "staged",
+                    "correct": false
+                },
+                {
+                    "text": "commited",
+                    "correct": false
+                },
+                {
+                    "text": "modified",
+                    "correct": true
+                },
+                {
+                    "text": "untracked",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam jednotlivým stavům souborů v úložišti. - Soubor, který není součástí správy verzi",
+            "answers": [
+                {
+                    "text": "staged",
+                    "correct": false
+                },
+                {
+                    "text": "commited",
+                    "correct": false
+                },
+                {
+                    "text": "modified",
+                    "correct": false
+                },
+                {
+                    "text": "untracked",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Je možné používat git i bez připojení k internetu?",
+            "answers": [
+                {
+                    "text": "ANO",
+                    "correct": true
+                },
+                {
+                    "text": "NE",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Jaký druh testování provádí vývojář",
+            "answers": [
+                {
+                    "text": "Nezávislé testování",
+                    "correct": false
+                },
+                {
+                    "text": "Závislé testování",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Jaký druh testování provádí tester",
+            "answers": [
+                {
+                    "text": "Nezávislé testování",
+                    "correct": true
+                },
+                {
+                    "text": "Závislé testování",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "answers": [
+                {
+                    "text": "analýza požadavků",
+                    "correct": true
+                },
+                {
+                    "text": "návrh jednotek",
+                    "correct": false
+                },
+                {
+                    "text": "návrh architektury",
+                    "correct": false
+                },
+                {
+                    "text": "návrh systému",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "answers": [
+                {
+                    "text": "analýza požadavků",
+                    "correct": false
+                },
+                {
+                    "text": "návrh jednotek",
+                    "correct": true
+                },
+                {
+                    "text": "návrh architektury",
+                    "correct": false
+                },
+                {
+                    "text": "návrh systému",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "answers": [
+                {
+                    "text": "analýza požadavků",
+                    "correct": false
+                },
+                {
+                    "text": "návrh jednotek",
+                    "correct": false
+                },
+                {
+                    "text": "návrh architektury",
+                    "correct": true
+                },
+                {
+                    "text": "návrh systému",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "V jaké fázi životního cyklu provádíme akceptační testování",
+            "answers": [
+                {
+                    "text": "analýza požadavků",
+                    "correct": false
+                },
+                {
+                    "text": "návrh jednotek",
+                    "correct": false
+                },
+                {
+                    "text": "návrh architektury",
+                    "correct": false
+                },
+                {
+                    "text": "návrh systému",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam k Systémovým testům",
+            "answers": [
+                {
+                    "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
+                    "correct": true
+                },
+                {
+                    "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
+                    "correct": false
+                },
+                {
+                    "text": "testování nejmenších částí systému, které provádějí vývojáři",
+                    "correct": false
+                },
+                {
+                    "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny testy",
+                    "correct": false
+                },
+                {
+                    "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam k Integračním testům",
+            "answers": [
+                {
+                    "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
+                    "correct": false
+                },
+                {
+                    "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
+                    "correct": true
+                },
+                {
+                    "text": "testování nejmenších částí systému, které provádějí vývojáři",
+                    "correct": false
+                },
+                {
+                    "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny testy",
+                    "correct": false
+                },
+                {
+                    "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam k Jednotkovým testům",
+            "answers": [
+                {
+                    "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
+                    "correct": false
+                },
+                {
+                    "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
+                    "correct": false
+                },
+                {
+                    "text": "testování nejmenších částí systému, které provádějí vývojáři",
+                    "correct": true
+                },
+                {
+                    "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny testy",
+                    "correct": false
+                },
+                {
+                    "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam k Smoke testu",
+            "answers": [
+                {
+                    "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
+                    "correct": false
+                },
+                {
+                    "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
+                    "correct": false
+                },
+                {
+                    "text": "testování nejmenších částí systému, které provádějí vývojáři",
+                    "correct": false
+                },
+                {
+                    "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny testy",
+                    "correct": true
+                },
+                {
+                    "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte význam k Akceptačním testům",
+            "answers": [
+                {
+                    "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
+                    "correct": false
+                },
+                {
+                    "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
+                    "correct": false
+                },
+                {
+                    "text": "testování nejmenších částí systému, které provádějí vývojáři",
+                    "correct": false
+                },
+                {
+                    "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny",
+                    "correct": false
+                },
+                {
+                    "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte pojem VALIDACE k jeho definici.",
+            "answers": [
+                {
+                    "text": "Jeho cílem je zjistit, zda produkt tak, jak je implementován, splňuje požadavky a očekávání zadavatele",
+                    "correct": true
+                },
+                {
+                    "text": "Ověřuje, zda produkty (výstupy) jednotlivých fází splňují požadavky stanovené na začátku dané či na závěr předchozí fáze, v průběhu vývoje",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte pojem VERIFIKACE k jeho definici.",
+            "answers": [
+                {
+                    "text": "Jeho cílem je zjistit, zda produkt tak, jak je implementován, splňuje požadavky a očekávání zadavatele",
+                    "correct": false
+                },
+                {
+                    "text": "Ověřuje, zda produkty (výstupy) jednotlivých fází splňují požadavky stanovené na začátku dané či na závěr předchozí fáze, v průběhu vývoje",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Jestliže vytváříme vlastní komponetu se specifickým vzhledem musíme:",
+            "answers": [
+                {
+                    "text": "naši komponentu vytvořit jako potomka třídy JComponent a překrýt metodu paintComponent()",
+                    "correct": true
+                },
+                {
+                    "text": "ve třídě pro tuto komponentu vytvořit metodu paintComponent(), předkem může být libovolná třída",
+                    "correct": false
+                },
+                {
+                    "text": "vytvořít komponentu jako třídu, která implementuje rozhraní Icon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Jaké je implicitní nastavení správce rozvržení (Layout Manager) pro kontejnerovou komponentu JPanel",
+            "answers": [
+                {
+                    "text": "FlowLayout",
+                    "correct": true
+                },
+                {
+                    "text": "GridLayout",
+                    "correct": false
+                },
+                {
+                    "text": "SpringLayout",
+                    "correct": false
+                },
+                {
+                    "text": "BorderLayout",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "jaké je implicitní nastavení správce rozvržení (Layout Manager) pro top-level komponenty JFrame a JDialog:",
+            "answers": [
+                {
+                    "text": "BorderLayout",
+                    "correct": true
+                },
+                {
+                    "text": "FlowLayout",
+                    "correct": false
+                },
+                {
+                    "text": "GridBagLayout",
+                    "correct": false
+                },
+                {
+                    "text": "GridLayout",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Označte pravdivá tvrzení o komponentě JPanel:",
+            "answers": [
+                {
+                    "text": "Komponenta JPanel slouží k uspořádání jiných komponet v rámci okna aplikace",
+                    "correct": true
+                },
+                {
+                    "text": "Komponenta JPanel má stejně jako JFrame několik vrstev",
+                    "correct": false
+                },
+                {
+                    "text": "Pokud do panelu vložíte jinou komponentu, není ji již možné odebrat",
+                    "correct": false
+                },
+                {
+                    "text": "Pro komponentu JPanel není možné změnit správce rozvržení (LayoutManager)",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Označte pravdivá a nepravdivá tvrzení o komponentách pro tvorbu GUI v Javě",
+            "answers": [
+                {
+                    "text": "Pro každou komponentu je možné nastavit orámování pomocí třídy BorderFactory;",
+                    "correct": true
+                },
+                {
+                    "text": "Pro formátování textu a případně obrázku uvedeného na komponentě je možné použít html tagy;",
+                    "correct": true
+                },
+                {
+                    "text": "U každé komponenty (potomka třídy JComponent) je možné nastavovat velikosti (preferovanou, maximální a minimální);",
+                    "correct": true
+                },
+                {
+                    "text": "Všechny komponenty, včetně komponent JFrame a JDialog, mají jako předka třídu JComponent;",
+                    "correct": false
+                },
+                {
+                    "text": "Pokud komponenta obsahuje text, je možné pomocí metody setColor() nastavit barvu tohoto textu;",
+                    "correct": false
+                },
+                {
+                    "text": "Na standardní komponenty není možné umísťovat obrázky. Pokud tedy chceme např.tlačítko s obrázkem, musíme si napsat vlastní třídu pro tuto komponentu",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Označte pravdivá a nepravdivá tvrzení o správcích rozvržení (LayoutManager) používaných při vytváření GUI v Javě",
+            "answers": [
+                {
+                    "text": "V aplikaci je možné kombinovat více druhů rozvržení komponent za pomoci panelů s různě nastavenými správci rozvržení",
+                    "correct": true
+                },
+                {
+                    "text": "Pokud do aplikace přidáte nebo naopak odeberete komponentu za běhu, je nutné zavolat metodu revalidate() kontejnerové komponenty, aby bylo upraveno umístění a velikost komponent.",
+                    "correct": true
+                },
+                {
+                    "text": "Pro jednu kontejnerovou komponentu je možné nastavit více správců rozvržení",
+                    "correct": false
+                },
+                {
+                    "text": "Pokud nenastavím správce rozvržení pro hlavní okno aplikace, bude použit BorderLayout",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Označte pravdivá a nepravdivá tvrzení o komponentě pro vytvoření seznamu (JList)",
+            "answers": [
+                {
+                    "text": "Pro seznam je možné nastavit, kolik položek může uživatel najednou označit (jednu, více ve spojité oblasti,více v nespojitých oblastech)",
+                    "correct": true
+                },
+                {
+                    "text": "Při kliknutí na položku seznamu vzniká jednoduchá událost typu ActionEvent stejně jako např. u tlačitka",
+                    "correct": true
+                },
+                {
+                    "text": "Standardně se v seznamu zobrazují textové položky. Vzhled jednotlivých položek v seznamu je možné změnit (např.zobrazovat obrázky), pokud vytvoříme třídu implementující rozhraní ListCellRenderer",
+                    "correct": true
+                },
+                {
+                    "text": "Položky seznamu se vkládají a odebírají do/ze seznamu prostřednictvím datového modelu (třídy implementující rozhraní ListModel)",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Označte pravdivá tvrzení o komponentě JFrame:",
+            "answers": [
+                {
+                    "text": "Viditelnost komponenty JFrame je při jejím vytvoření nastavena na false tj. pro zobrazení ji musíme \"zviditelnit\"",
+                    "correct": true
+                },
+                {
+                    "text": "Standardní nastavení ovládacího prvku pro zavření okna je u komponenty JFrame nastaveno tak,že okno je zrušeno, ale vlákno aplikce běží dál.",
+                    "correct": true
+                },
+                {
+                    "text": "Metoda pack() slouží pro nastavení velikosti okna podle velikosti komponent, které obsahuje",
+                    "correct": true
+                },
+                {
+                    "text": "Komponenta JFrame je tvořena pouze jednou vrstvou",
+                    "correct": false
+                },
+                {
+                    "text": "Pro komponentu JFrame není možné změnit nastavení správce rozvržení obsažených komponent (LayoutManager)",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte k typu rozvržení (LayoutManager) BoxLayout odpovídající popis:",
+            "answers": [
+                {
+                    "text": "Správce rozvržení, který uspořádá komponenty do jednoho řádku nebo jednoho sloupce.",
+                    "correct": true
+                },
+                {
+                    "text": "Správce rozvržení, který vytvoří z komponent tabulku (např. 3x5), všechny komp. majístejnou velikost",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení, pomocí kterého lze umístít jednu komponentu doprostřed, další čtyři lzeumístit po stranách (vlevo, vpravo, nahoře, dole)",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení který komponenty umísťuje za sebou, na konci řádku se přejde na dalšířádek. Komponenty jsou zobrazovány v upřednostňované velikosti (preferred size).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte k typu rozvržení (LayoutManager) GridLayout odpovídající popis:",
+            "answers": [
+                {
+                    "text": "Správce rozvržení, který uspořádá komponenty do jednoho řádku nebo jednoho sloupce.",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení, který vytvoří z komponent tabulku (např. 3x5), všechny komp. majístejnou velikost",
+                    "correct": true
+                },
+                {
+                    "text": "Správce rozvržení, pomocí kterého lze umístít jednu komponentu doprostřed, další čtyři lzeumístit po stranách (vlevo, vpravo, nahoře, dole)",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení který komponenty umísťuje za sebou, na konci řádku se přejde na dalšířádek. Komponenty jsou zobrazovány v upřednostňované velikosti (preferred size).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte k typu rozvržení (LayoutManager) BorderLayout odpovídající popis:",
+            "answers": [
+                {
+                    "text": "Správce rozvržení, který uspořádá komponenty do jednoho řádku nebo jednoho sloupce.",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení, který vytvoří z komponent tabulku (např. 3x5), všechny komp. majístejnou velikost",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení, pomocí kterého lze umístít jednu komponentu doprostřed, další čtyři lzeumístit po stranách (vlevo, vpravo, nahoře, dole)",
+                    "correct": true
+                },
+                {
+                    "text": "Správce rozvržení který komponenty umísťuje za sebou, na konci řádku se přejde na dalšířádek. Komponenty jsou zobrazovány v upřednostňované velikosti (preferred size).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte k typu rozvržení (LayoutManager) FlowLayout odpovídající popis:",
+            "answers": [
+                {
+                    "text": "Správce rozvržení, který uspořádá komponenty do jednoho řádku nebo jednoho sloupce.",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení, který vytvoří z komponent tabulku (např. 3x5), všechny komp. majístejnou velikost",
+                    "correct": true
+                },
+                {
+                    "text": "Správce rozvržení, pomocí kterého lze umístít jednu komponentu doprostřed, další čtyři lzeumístit po stranách (vlevo, vpravo, nahoře, dole)",
+                    "correct": false
+                },
+                {
+                    "text": "Správce rozvržení který komponenty umísťuje za sebou, na konci řádku se přejde na dalšířádek. Komponenty jsou zobrazovány v upřednostňované velikosti (preferred size).",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte pojem client server a výraz",
+            "answers": [
+                {
+                    "text": "dvě komponenty, které jsou navzájem nezávislé (běží v různých procesechnebo na různých strojích) spolu komunikují, jedna iniciuje komunikaci tím, že požadujeslužbu, kterou druhá poskytuje",
+                    "correct": true
+                },
+                {
+                    "text": "každá komponenta má stejné odpovědnosti, tj. může fungovat jako klient i jako server",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte pojem peer to peer a výraz",
+            "answers": [
+                {
+                    "text": "dvě komponenty, které jsou navzájem nezávislé (běží v různých procesechnebo na různých strojích) spolu komunikují, jedna iniciuje komunikaci tím, že požadujeslužbu, kterou druhá poskytuje",
+                    "correct": false
+                },
+                {
+                    "text": "každá komponenta má stejné odpovědnosti, tj. může fungovat jako klient i jako server",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Metoda, která slouží k nastavení dostupnosti komponenty",
+            "answers": [
+                {
+                    "text": "setEnabled()",
+                    "correct": true
+                },
+                {
+                    "text": "setVisible()",
+                    "correct": false
+                },
+                {
+                    "text": "setPrefferedSize()",
+                    "correct": false
+                },
+                {
+                    "text": "setBackground()",
+                    "correct": false
+                },
+                {
+                    "text": "setColor()",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Metoda pro nastavení optimální velikosti komponenty",
+            "answers": [
+                {
+                    "text": "setEnabled()",
+                    "correct": false
+                },
+                {
+                    "text": "setVisible()",
+                    "correct": false
+                },
+                {
+                    "text": "setPrefferedSize()",
+                    "correct": true
+                },
+                {
+                    "text": "setBackground()",
+                    "correct": false
+                },
+                {
+                    "text": "setColor()",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Metoda sloužící k nastavení barvy pozadí komponenty",
+            "answers": [
+                {
+                    "text": "setEnabled()",
+                    "correct": false
+                },
+                {
+                    "text": "setVisible()",
+                    "correct": false
+                },
+                {
+                    "text": "setPrefferedSize()",
+                    "correct": false
+                },
+                {
+                    "text": "setBackground()",
+                    "correct": true
+                },
+                {
+                    "text": "setColor()",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Metoda nastavující viditelnost komponenty",
+            "answers": [
+                {
+                    "text": "setEnabled()",
+                    "correct": false
+                },
+                {
+                    "text": "setVisible()",
+                    "correct": true
+                },
+                {
+                    "text": "setPrefferedSize()",
+                    "correct": false
+                },
+                {
+                    "text": "setBackground()",
+                    "correct": false
+                },
+                {
+                    "text": "setColor()",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte typ uživatelského rozhraní se správným popisem - Graphical User Intefaces (GUI)",
+            "answers": [
+                {
+                    "text": "vstupy i výstupy využívají různé grafické prvky složené z jednotlivých bodů, které se zobrazují na obrazovce.",
+                    "correct": true
+                },
+                {
+                    "text": "komunikace v přirozené řeči",
+                    "correct": false
+                },
+                {
+                    "text": "pomocí klávesnice se vkládají pouze znaky, které dohromady tvoří řádky textu ",
+                    "correct": false
+                },
+                {
+                    "text": "jsou rozmístěna po celé obrazovce, ale skládají se pouze ze symbolů. Výstupem jsou opět tyto symboly",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte typ uživatelského rozhraní se správným popisem - Akustické uživatelské rozhraní (AUI)",
+            "answers": [
+                {
+                    "text": "vstupy i výstupy využívají různé grafické prvky složené z jednotlivých bodů, které se zobrazují na obrazovce.",
+                    "correct": false
+                },
+                {
+                    "text": "komunikace v přirozené řeči",
+                    "correct": true
+                },
+                {
+                    "text": "pomocí klávesnice se vkládají pouze znaky, které dohromady tvoří řádky textu ",
+                    "correct": false
+                },
+                {
+                    "text": "jsou rozmístěna po celé obrazovce, ale skládají se pouze ze symbolů. Výstupem jsou opět tyto symboly",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte typ uživatelského rozhraní se správným popisem - Command-line intefaces (CLI)",
+            "answers": [
+                {
+                    "text": "vstupy i výstupy využívají různé grafické prvky složené z jednotlivých bodů, které se zobrazují na obrazovce.",
+                    "correct": false
+                },
+                {
+                    "text": "komunikace v přirozené řeči",
+                    "correct": false
+                },
+                {
+                    "text": "pomocí klávesnice se vkládají pouze znaky, které dohromady tvoří řádky textu - příkazy. Výstupem jsou pak opět řádky textu",
+                    "correct": true
+                },
+                {
+                    "text": "jsou rozmístěna po celé obrazovce, ale skládají se pouze ze symbolů. Výstupem jsou opět tyto symboly",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte typ uživatelského rozhraní se správným popisem - Text User Interfaces (TUI)",
+            "answers": [
+                {
+                    "text": "vstupy i výstupy využívají různé grafické prvky složené z jednotlivých bodů, které se zobrazují na obrazovce.",
+                    "correct": false
+                },
+                {
+                    "text": "komunikace v přirozené řeči",
+                    "correct": false
+                },
+                {
+                    "text": "pomocí klávesnice se vkládají pouze znaky, které dohromady tvoří řádky textu ",
+                    "correct": false
+                },
+                {
+                    "text": "jsou rozmístěna po celé obrazovce, ale skládají se pouze ze symbolů. Výstupem jsou opět tyto symboly",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Spojte název standardu SOAP s jeho významem",
+            "answers": [
+                {
+                    "text": "protokol pro komunikace webových služeb",
+                    "correct": true
+                },
+                {
+                    "text": "registrace služeb, vyhledávání služeb",
+                    "correct": false
+                },
+                {
+                    "text": "jazyk pro popis webových služeb",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte název standardu UDDI s jeho významem",
+            "answers": [
+                {
+                    "text": "protokol pro komunikace webových služeb",
+                    "correct": false
+                },
+                {
+                    "text": "registrace služeb, vyhledávání služeb",
+                    "correct": true
+                },
+                {
+                    "text": "jazyk pro popis webových služeb",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Spojte název standardu WSDL s jeho významem",
+            "answers": [
+                {
+                    "text": "protokol pro komunikace webových služeb",
+                    "correct": false
+                },
+                {
+                    "text": "registrace služeb, vyhledávání služeb",
+                    "correct": false
+                },
+                {
+                    "text": "jazyk pro popis webových služeb",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte project management do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": true
+                },
+                {
+                    "text": "project planning",
+                    "correct": true
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": true
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": false
+                },
+                {
+                    "text": "requirements management",
+                    "correct": false
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": false
+                },
+                {
+                    "text": "requirements development",
+                    "correct": false
+                },
+                {
+                    "text": "configuration management",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte engineering do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": false
+                },
+                {
+                    "text": "project planning",
+                    "correct": false
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": false
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": true
+                },
+                {
+                    "text": "requirements management",
+                    "correct": true
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": false
+                },
+                {
+                    "text": "requirements development",
+                    "correct": true
+                },
+                {
+                    "text": "configuration management",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte process management do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": false
+                },
+                {
+                    "text": "project planning",
+                    "correct": false
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": false
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": false
+                },
+                {
+                    "text": "requirements management",
+                    "correct": false
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": true
+                },
+                {
+                    "text": "requirements development",
+                    "correct": false
+                },
+                {
+                    "text": "configuration management",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte support do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": false
+                },
+                {
+                    "text": "project planning",
+                    "correct": false
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": false
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": false
+                },
+                {
+                    "text": "requirements management",
+                    "correct": false
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": false
+                },
+                {
+                    "text": "requirements development",
+                    "correct": false
+                },
+                {
+                    "text": "configuration management",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte správný popis k typu okna modální okno",
+            "answers": [
+                {
+                    "text": "příkladem jsou dialogová okna Open dialog, Save dialog atd",
+                    "correct": true
+                },
+                {
+                    "text": "takové okno, které musí být uzavřeno a teprve potom je předáno řízení do jiného",
+                    "correct": true
+                },
+                {
+                    "text": "okno zůstane otevřeno a je možné předat řízení na jiné otevřené okno",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte správný popis k typu okna nemodální okno",
+            "answers": [
+                {
+                    "text": "příkladem jsou dialogová okna Open dialog, Save dialog atd",
+                    "correct": false
+                },
+                {
+                    "text": "takové okno, které musí být uzavřeno a teprve potom je předáno řízení do jiného",
+                    "correct": false
+                },
+                {
+                    "text": "okno zůstane otevřeno a je možné předat řízení na jiné otevřené okno",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte úroveň 4 kvantitatevně řízená do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": false
+                },
+                {
+                    "text": "project planning",
+                    "correct": false
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": true
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": false
+                },
+                {
+                    "text": "requirements management",
+                    "correct": false
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": false
+                },
+                {
+                    "text": "requirements development",
+                    "correct": false
+                },
+                {
+                    "text": "configuration management",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte úroveň 3 definovaná (defined) do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": false
+                },
+                {
+                    "text": "project planning",
+                    "correct": false
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": false
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": true
+                },
+                {
+                    "text": "requirements management",
+                    "correct": false
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": true
+                },
+                {
+                    "text": "requirements development",
+                    "correct": true
+                },
+                {
+                    "text": "configuration management",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Přiřaďte úroveň 2 řízená (managed) do správných úrovní zralosti ve stupňovité reprezentaci CMMI",
+            "answers": [
+                {
+                    "text": "project monitoring and control",
+                    "correct": true
+                },
+                {
+                    "text": "project planning",
+                    "correct": true
+                },
+                {
+                    "text": "quantitative project management",
+                    "correct": false
+                },
+                {
+                    "text": "verification/validation",
+                    "correct": false
+                },
+                {
+                    "text": "requirements management",
+                    "correct": true
+                },
+                {
+                    "text": "organisational process focus",
+                    "correct": false
+                },
+                {
+                    "text": "requirements development",
+                    "correct": true
+                },
+                {
+                    "text": "configuration management",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Doplň význam pro silně vrstvenou architekturu",
+            "answers": [
+                {
+                    "text": "vrstva může využít služeb jen bezprostředně nižší vrstvy",
+                    "correct": true
+                },
+                {
+                    "text": "vrstva může využít služeb nižších vrstev",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Doplň význam pro slabě vrstvenou architekturu",
+            "answers": [
+                {
+                    "text": "vrstva může využít služeb jen bezprostředně nižší vrstvy",
+                    "correct": false
+                },
+                {
+                    "text": "vrstva může využít služeb nižších vrstev",
+                    "correct": true
                 }
             ]
         }
