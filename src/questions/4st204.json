@@ -476,7 +476,7 @@
             ]
         },
         {
-            "text": "Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu",
+            "text": "Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu.",
             "answers": [
                 {
                     "text": "Ano",
@@ -4784,7 +4784,7 @@
             ]
         },
         {
-            "text": "Pearsonův koeficient kontingence při velmi těsné závislosti proměnných dosahuje hodnoty 1",
+            "text": "Pearsonův koeficient kontingence při velmi těsné závislosti proměnných dosahuje hodnoty 1.",
             "answers": [
                 {
                     "text": "ANO",
@@ -4924,7 +4924,7 @@
             "text": "Chcete porovnat výkony pracovníků (tj. Počet vyrobených výrobků za směnu) ve třech směnách. Použijete:",
             "answers": [
                 {
-                    "text": "t test o shodě středníchhodnot",
+                    "text": "t test o shodě středních hodnot",
                     "correct": false
                 },
                 {
@@ -5114,7 +5114,7 @@
             ]
         },
         {
-            "text": "Lineární závislost 2 veličin je vyjádřena vgrafu přímkou rovnoběžnou s vodorovnou osou. Veličiny:",
+            "text": "Lineární závislost 2 veličin je vyjádřena v grafu přímkou rovnoběžnou s vodorovnou osou. Veličiny:",
             "answers": [
                 {
                     "text": "Jsou na sobě lineárně závislé",
@@ -5207,7 +5207,7 @@
             ]
         },
         {
-            "text": "Kde se používá metoda nejmenších čtverců ?",
+            "text": "Kde se používá metoda nejmenších čtverců?",
             "answers": [
                 {
                     "text": "metoda určování parametrů regresních funkcí",
@@ -5216,7 +5216,7 @@
             ]
         },
         {
-            "text": "Při t-testu(b0/s(b0)) sa používa:",
+            "text": "Při t-testu(b0/s(b0)) sa používá:",
             "answers": [
                 {
                     "text": "Studentovo rozdělení",
@@ -5233,7 +5233,7 @@
             ]
         },
         {
-            "text": "Když máme rovnici Y = 16 –0,8 x, platí, že:",
+            "text": "Když máme rovnici Y=16–0,8x, platí, že:",
             "answers": [
                 {
                     "text": "Korelační koeficient musí být kladný",
@@ -5292,7 +5292,7 @@
             "text": "Regresní koeficient",
             "answers": [
                 {
-                    "text": "vyjadřuje změnu závisle proměnné při jednotkové změně nezávislé proměnné",
+                    "text": "vyjadřuje změnu závislé proměnné při jednotkové změně nezávislé proměnné",
                     "correct": true
                 },
                 {
@@ -5318,15 +5318,6 @@
                 },
                 {
                     "text": "zvětší se",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Kde se používá metoda nejmenších čtverců -?",
-            "answers": [
-                {
-                    "text": "metoda určování parametrů regresních funkcí,",
                     "correct": true
                 }
             ]
@@ -7367,7 +7358,7 @@
             ]
         },
         {
-            "text": "Exstenzitní veličiny lze někdy shrnovat součtem",
+            "text": "Extenzitní veličiny lze někdy shrnovat součtem",
             "answers": [
                 {
                     "text": "ANO",
@@ -7831,7 +7822,7 @@
             ]
         },
         {
-            "text": "Normální rozdělení má vždy střední hodnotu 0 a směrodatnou odchylku 1.",
+            "text": "Normované normální rozdělení má vždy střední hodnotu 0 a směrodatnou odchylku 1.",
             "answers": [
                 {
                     "text": "ANO",
@@ -7844,7 +7835,7 @@
             ]
         },
         {
-            "text": "Testové kritérium vypočítané při analýze rozptylu je porovnáváno s hodnotou kvantilů pro F ( Fisherovo-Snedecorovo) rozdělení.",
+            "text": "Normální rozdělení má vždy střední hodnotu 0 a směrodatnou odchylku 1.",
             "answers": [
                 {
                     "text": "ANO",
@@ -7853,6 +7844,19 @@
                 {
                     "text": "NE",
                     "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Testové kritérium vypočítané při analýze rozptylu je porovnáváno s hodnotou kvantilů pro F ( Fisherovo-Snedecorovo) rozdělení.",
+            "answers": [
+                {
+                    "text": "ANO",
+                    "correct": true
+                },
+                {
+                    "text": "NE",
+                    "correct": false
                 }
             ]
         },
@@ -8720,7 +8724,7 @@
             ]
         },
         {
-            "text": "Index determinace (je to koeficient detemrinace taky ) popisuje",
+            "text": "Index determinace (je to koeficient determinace taky) popisuje:",
             "answers": [
                 {
                     "text": "obecně sílu závislosti",
@@ -8776,7 +8780,7 @@
             ]
         },
         {
-            "text": "Zvýší-li se interval spolehlivosti(spolehlivost odhadu), co se stane s přesností? (prostě alfa je v intervalu menší)",
+            "text": "Zvýší-li se interval spolehlivosti (spolehlivost odhadu), co se stane s přesností?",
             "answers": [
                 {
                     "text": "zmenší se",
@@ -8951,7 +8955,7 @@
             ]
         },
         {
-            "text": "hladina významnosti je doplněk chyby II. druhu do jedné",
+            "text": "Hladina významnosti je doplněk chyby II. druhu do jedné.",
             "answers": [
                 {
                     "text": "NE",
@@ -9035,7 +9039,7 @@
                     "correct": true
                 },
                 {
-                    "text": "Nesmime zamitnout na 20% hladině významnosti",
+                    "text": "Nesmime zamitnout na 20 % hladině významnosti",
                     "correct": false
                 }
             ]
