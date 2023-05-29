@@ -7831,7 +7831,7 @@
             ]
         },
         {
-            "text": "Normální rozdělení má vždy střední hodnotu 0 a směrodatnou odchylku 1.",
+            "text": "Normované normální rozdělení má vždy střední hodnotu 0 a směrodatnou odchylku 1.",
             "answers": [
                 {
                     "text": "ANO",
@@ -7840,6 +7840,19 @@
                 {
                     "text": "NE",
                     "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Normální rozdělení má vždy střední hodnotu 0 a směrodatnou odchylku 1.",
+            "answers": [
+                {
+                    "text": "ANO",
+                    "correct": false
+                },
+                {
+                    "text": "NE",
+                    "correct": true
                 }
             ]
         },
