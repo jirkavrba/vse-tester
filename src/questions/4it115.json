@@ -1127,7 +1127,7 @@
             ]
         },
         {
-            "text": "54)Odpovědnost vývojáře podle metodiky XP patří k:",
+            "text": "Odpovědnost vývojáře podle metodiky XP patří k:",
             "answers": [
                 {
                     "text": "definování funkčních testů",
@@ -2776,7 +2776,7 @@
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "programování a testování",
@@ -2805,11 +2805,11 @@
                 },
                 {
                     "text": "vytvoření plánu projektu",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "programování a testování",
@@ -2829,8 +2829,8 @@
             "text": "Přiřaďte náplň fáze Construction v metodice RUP",
             "answers": [
                 {
-                    "text": "pochopit, co vytvářet ",
-                    "correct": true
+                    "text": "pochopit, co vytvářet",
+                    "correct": false
                 },
                 {
                     "text": "pochopit, jak vytvářet",
@@ -2842,7 +2842,7 @@
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "programování a testování",
@@ -2859,7 +2859,7 @@
             ]
         },
         {
-            "text": "Přiřaďte náplň fáze transition v metodice RUP",
+            "text": "Přiřaďte náplň fáze Transition v metodice RUP",
             "answers": [
                 {
                     "text": "pochopit, co vytvářet ",
@@ -2887,7 +2887,7 @@
                 },
                 {
                     "text": "prověření řešení",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
