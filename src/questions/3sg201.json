@@ -411,11 +411,11 @@
                 },
                 {
                     "text": "konkurence",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "vlastníci",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "vláda",
