@@ -18,8 +18,8 @@ export const Contributors: FC = () => {
         "Dreamery#9607",
         "𝐙𝐮𝐳𝐚𝐧𝐚#3598",
         "sberan#1984",
-        "nejthyy#5851"
-
+        "nejthyy#5851",
+        "david19au#3573"
     ].map(name => name.replace(" ", "\u00A0"));
 
     return (
