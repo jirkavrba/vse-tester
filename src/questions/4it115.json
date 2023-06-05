@@ -118,7 +118,7 @@
                     "text": "Vizitor (Vizitor)",
                     "correct": false
                 },
-				{
+                {
                     "text": "Dependents",
                     "correct": true
                 },
@@ -4614,25 +4614,25 @@
             ]
         },
         {
-        "text": "Jaky je obvykly nazev pro vzdaleny repozitar v sytemu git",
-        "answers": [
-            {
-                "text": "main",
-                "correct": false
-            },
-            {
-                "text": "origin",
-                "correct": true
-            },
-            {
-                "text": "remote",
-                "correct": false
-            },
-            {
-                "text": "HEAD",
-                "correct": false
-            }
-        ]
+            "text": "Jaky je obvykly nazev pro vzdaleny repozitar v sytemu git",
+            "answers": [
+                {
+                    "text": "main",
+                    "correct": false
+                },
+                {
+                    "text": "origin",
+                    "correct": true
+                },
+                {
+                    "text": "remote",
+                    "correct": false
+                },
+                {
+                    "text": "HEAD",
+                    "correct": false
+                }
+            ]
         },
         {
             "text": "Jaky je obvykly nazev pro hlavni vetev ktera musi obsahovat uz otestovany kod a pridava se do ni pouze velke inkrementy kodu",
@@ -4667,5 +4667,6 @@
                     "correct": true
                 }
             ]
+        }
     ]
 }
