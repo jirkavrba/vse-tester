@@ -298,15 +298,15 @@
                 },
                 {
                     "text": "Zákaz vytvářet potomky",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Inicializace atributu v deklaraci",
                     "correct": false
                 },
                 {
-                    "text": "Získání instance pomocí tovární metody - např. Factory ano, Singleton ne",
-                    "correct": false
+                    "text": "Získání instance pomocí tovární metody",
+                    "correct": true
                 },
                 {
                     "text": "Vyhození výjimky při pokusu o vytvoření přespočetné instance",
@@ -2772,7 +2772,7 @@
                 },
                 {
                     "text": "vytvoření plánu projektu",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "návrh a prověření architektury",
@@ -2805,11 +2805,11 @@
                 },
                 {
                     "text": "vytvoření plánu projektu",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "programování a testování",
@@ -2842,7 +2842,7 @@
                 },
                 {
                     "text": "návrh a prověření architektury",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "programování a testování",
@@ -2887,7 +2887,7 @@
                 },
                 {
                     "text": "prověření řešení",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -3627,7 +3627,7 @@
             "answers": [
                 {
                     "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
@@ -3639,7 +3639,7 @@
                 },
                 {
                     "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny testy",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
@@ -3652,11 +3652,11 @@
             "answers": [
                 {
                     "text": "testování zaměřené na vzájemné vazby a propojení částí systému",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "testování nejmenších částí systému, které provádějí vývojáři",
@@ -3706,7 +3706,7 @@
                 },
                 {
                     "text": "provádí se před systémovým testem, ověřuje stabilitu buildu",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "testování nejmenších částí systému, které provádějí vývojáři",
@@ -3714,7 +3714,7 @@
                 },
                 {
                     "text": "hloubkový test systému, při kterém se zpravidla provádějí téměř všechny testy",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "testování, které provádí koncový uživatel a které má prokázat splnění požadavků",
@@ -4612,6 +4612,59 @@
                     "correct": true
                 }
             ]
-        }
+        },
+        "text": "Jaky je obvykly nazev pro vzdaleny repozitar v sytemu git",
+        "answers": [
+            {
+                "text": "main",
+                "correct": false
+            },
+            {
+                "text": "origin",
+                "correct": true
+            },
+            {
+                "text": "remote",
+                "correct": false
+            },
+            {
+                "text": "HEAD",
+                "correct": false
+            }
+        ]
+        },
+        {
+            "text": "Jaky je obvykly nazev pro hlavni vetev ktera musi obsahovat uz otestovany kod a pridava se do ni pouze velke inkrementy kodu",
+            "answers": [
+                {
+                    "text": "main",
+                    "correct": true
+                },
+                {
+                    "text": "origin",
+                    "correct": false
+                },
+                {
+                    "text": "remote",
+                    "correct": false
+                },
+                {
+                    "text": "HEAD",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "System git pro uchovani verzi uchovava",
+            "answers": [
+                {
+                    "text": "serii rozdílů",
+                    "correct": false
+                },
+                {
+                    "text": "serii snímků",
+                    "correct": true
+                }
+            ]
     ]
 }
