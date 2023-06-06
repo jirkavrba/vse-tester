@@ -8,15 +8,15 @@
             "answers": [
                 {
                     "text": "využívá silných stránek na konfrontaci s hrozbami",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "se zaměřuje na přežití a zachování základního fungování podniku",
                     "correct": false
                 },
                 {
-                    "text": "vyžaduje získání dalších zdrojů pro využití příležitosti\n",
-                    "correct": false
+                    "text": "vyžaduje získání dalších zdrojů pro využití příležitosti",
+                    "correct": true
                 },
                 {
                     "text": "se zaměřuje na využití příležitosti pomocí silných stránek k růstu",
@@ -197,7 +197,7 @@
             "answers": [
                 {
                     "text": "S větší pravděpodobností budou poskytovat trvalou konkurenční výhodu.",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Je snazší je získat.",
@@ -209,7 +209,7 @@
                 },
                 {
                     "text": "Vše výše uvedené.",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -327,7 +327,7 @@
                 },
                 {
                     "text": "využívá silných stránek na konfrontaci s hrozbami",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "se zaměřuje na využití příležitostí pomocí silných stránek k růstu",
@@ -335,7 +335,7 @@
                 },
                 {
                     "text": "se zaměřuje na přežití a zachování základního fungování podniku",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -390,7 +390,7 @@
                 },
                 {
                     "text": "Z vyporozovaných trendů určí nespočet nejistot, u kterých posuzuje jejich důležitost a úroveň nejistoty",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Primárně zvažuje dopad jednotlivých trendů napříč scénáři",
@@ -398,7 +398,7 @@
                 },
                 {
                     "text": "Soustředí se na více i méně podstatné faktory, které ovlivní společnost",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -411,11 +411,11 @@
                 },
                 {
                     "text": "konkurence",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "vlastníci",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "vláda",
@@ -655,27 +655,6 @@
             ]
         },
         {
-            "text": "Mezi tržní globalizační tlaky, které podporují globalizaci, patří:",
-            "answers": [
-                {
-                    "text": "konvergence technických standardů",
-                    "correct": false
-                },
-                {
-                    "text": "liberalizace mezinárodního obchodu a hospodářské politiky",
-                    "correct": false
-                },
-                {
-                    "text": "globální úspory z rozsahu",
-                    "correct": false
-                },
-                {
-                    "text": "sjednocování potřeb zákazníků",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Relativní podíl na trhu pro účely sestavení BCG matice se určí jako:",
             "answers": [
                 {
@@ -692,27 +671,6 @@
                 },
                 {
                     "text": "tržby za produkt u dané firmy děleno celkové tržby za daný produkt na trhu",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Dobře zavedená značka může být zdrojem udržitelné konkurenční výhody, protože:",
-            "answers": [
-                {
-                    "text": "Je nákladné ji replikovat. Svoji dlouhodobou hodnotu může ztrácet většinou jen tehdy, když předchází od jedné firmy ke druhé",
-                    "correct": false
-                },
-                {
-                    "text": "spotřebitelé vždy zaplatí prémiovou cenu za uznávanou značku",
-                    "correct": false
-                },
-                {
-                    "text": "značka chrání firmu před konkurencí ze strany nově vstupujících nízkonákladových společností",
-                    "correct": true
-                },
-                {
-                    "text": "značky mohou být chráněny zákonem o ochranných známkách",
                     "correct": false
                 }
             ]
@@ -760,7 +718,7 @@
             ]
         },
         {
-            "text": "Metody scénáře slouží primárně: (ale jen asi dobře)",
+            "text": "Metody scénáře slouží primárně:",
             "answers": [
                 {
                     "text": "pro vytvoření kvalitní podnikové strategie",
@@ -772,11 +730,11 @@
                 },
                 {
                     "text": "pro pochopení nejjistějších a nejvýznamnějších faktorů, které mohou ovlivňovat budoucnost",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "pro prognózování budoucího vývoje společnosti",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -940,11 +898,11 @@
                 },
                 {
                     "text": "strategie se stává důležitější pro udávání směřování společnosti",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "strategie se stává méně důležitou než intuice",
-                    "correct": true
+                    "correct": false
                 }
             ]
         },
@@ -991,7 +949,7 @@
             ]
         },
         {
-            "text": "Pro posouzení schopnosti využívat věcné zdroje se NEPOUŽÍVÁ: (netuším)",
+            "text": "Pro posouzení schopnosti využívat věcné zdroje se NEPOUŽÍVÁ:",
             "answers": [
                 {
                     "text": "majetková vybavenost",
@@ -1007,7 +965,7 @@
                 },
                 {
                     "text": "stupeň odepisování majetku",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1457,7 +1415,7 @@
             "answers": [
                 {
                     "text": "vyžaduje získání dalších zdrojů pro využití příležitostí",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "využívá silných stránek na konfrontaci s hrozbami",
@@ -1469,7 +1427,7 @@
                 },
                 {
                     "text": "se zaměřuje na přežití a zachování základního fungování podniku",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1541,7 +1499,7 @@
             "answers": [
                 {
                     "text": "Síla konkurenčních značek",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Bariéry vstupu do odvětvi ",
@@ -1553,7 +1511,7 @@
                 },
                 {
                     "text": "Vše uvedené se dá použít",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1642,7 +1600,7 @@
             ]
         },
         {
-            "text": "Pro stakeholdery neplatí ",
+            "text": "Pro stakeholdery neplatí",
             "answers": [
                 {
                     "text": "ovlivňuje organizaci nepřímo",
@@ -1688,11 +1646,11 @@
             "answers": [
                 {
                     "text": "Vytvářet hodnotu pro stakeholdery",
-                    "correct": false
+                    "correct": true
                 },
                 {
                     "text": "Vytvářet zisk",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Zajistit růst svých tržeb",
@@ -1852,27 +1810,6 @@
             ]
         },
         {
-            "text": "O kterou z níže uvedených bariér vstupu do odvětví by se měly firmy primárně snažit?",
-            "answers": [
-                {
-                    "text": "vytvořit legislativní bariéru vstupu nových firem.",
-                    "correct": false
-                },
-                {
-                    "text": "monopolizovat trh",
-                    "correct": false
-                },
-                {
-                    "text": "vytvořit si dlouhodobý vzájemně výhodný vztah se svými zákazníky",
-                    "correct": true
-                },
-                {
-                    "text": "silovat o vytvoření vysokých vstupních investičních nákladů.",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Vyjednávací síla zákazníka je vysoka pokud:",
             "answers": [
                 {
@@ -1910,6 +1847,447 @@
                 },
                 {
                     "text": "Vstup do odvětví vyžaduje vlastnictví know-how a je obtížný",
+                    "correct": true
+                }
+            ]
+        },
+        {
+        "text": "Princip „strategických hodin“ je založen na kombinaci:",
+        "answers": [
+                {
+                    "text": "konkurenční výhody a konkurenčního rozsahu",
+                    "correct": false
+                },
+                {
+                    "text": "nákladů a počtu segmentů trhu",
+                    "correct": false
+                },
+                {
+                    "text": "zákazníkem vnímané hodnoty a tržního podílu",
+                    "correct": false
+                },
+                {
+                    "text": "zákazníkem vnímané hodnoty a ceny",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Vyberte správné tvrzení, které se týká Porterova hodnototvorného řetězce:",
+            "answers": [
+                {
+                    "text": "hodnototvorný řetězec podniků ve stejném odvětví se neliší",
+                    "correct": false
+                },
+                {
+                    "text": "hodnototvorné činnosti jsou fyzicky a technologicky odlišné činnosti, kterými podnik vytváří výrobek nebo poskytuje služby, které mají pro zákazníka hodnotu",
+                    "correct": true
+                },
+                {
+                    "text": "činnosti se člení na primární a podpůrné, protože primární činnosti jsou důležitější a přinášejí vyšší hodnotu a marži než činnosti podpůrné",
+                    "correct": false
+                },
+                {
+                    "text": "činnosti v Porterově hodnototvorném řetězci se člení výrobní a obstaravatelské",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Typické charakteristiky konsolidovaného odvětví jsou:",
+            "answers": [
+                {
+                    "text": "existence trhu jednoho produktu v rámci odvětví",
+                    "correct": false
+                },
+                {
+                    "text": "malý počet firem, malé vstupní bariéry",
+                    "correct": false
+                },
+                {
+                    "text": "malý počet firem, velké vstupní bariéry",
+                    "correct": true
+                },
+                {
+                    "text": "velký počet malých podniků",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "V portofoliové matici BCG byste relativní podíl produktu firmy XY na trhu ČR počítali jako:",
+            "answers": [
+                {
+                    "text": "Podíl tržeb produktu firmy XY na celkových tržbách za obdobné produkty všech konkurentů v ČR",
+                    "correct": false
+                },
+                {
+                    "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku u průměrného konkurenta firmy XY v ČR",
+                    "correct": false
+                },
+                {
+                    "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku u největšího konkurenta firmy XY v ČR",
+                    "correct": true
+                },
+                {
+                    "text": "Podíl produktu firmy XY na trhu dělený tržním podílem obdobného výrobku u nejmenšího konkurenta firmy XY v ČR",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Celková zadluženost podniku se počítá vzorcem:",
+            "answers": [
+                {
+                    "text": "čistý zisk/vlastní kapitál",
+                    "correct": false
+                },
+                {
+                    "text": "tržby/aktiva celkem",
+                    "correct": false
+                },
+                {
+                    "text": "cizí zdroje/aktiva",
+                    "correct": true
+                },
+                {
+                    "text": "(pasiva-zisk)/aktiva",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Pokud bude odvětví vykazovat nízké překážky vstupu a nízké překážky výstupu, potom výnosy budou:",
+            "answers": [
+                {
+                    "text": "Nízké a stabilní",
+                    "correct": true
+                },
+                {
+                    "text": "Vysoké a stabilní",
+                    "correct": false
+                },
+                {
+                    "text": "Nízké a riskantní",
+                    "correct": false
+                },
+                {
+                    "text": "Vysoké a riskantní",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Na rozdíl od Porterova modelu pěti sil, kde se na zákazníka do jisté míry pohlíží „konkurenčním“ pohledem a analyzuje se, jaká je jejich vyjednávací síla a jakým způsobem ji omezit, Delta model směřuje k vytvoření vztahu se zákazníkem a nevidí je jako „konkurenci“. Silného pouta mezi společnosti a zákazníkem lze dosáhnout kombinací následujícího:",
+            "answers": [
+                {
+                    "text": "Systém lock-in, komplexní řešení pro zákazníka, best product",
+                    "correct": true
+                },
+                {
+                    "text": "Total customer satisfaction, nejlepší poměr cena/výkon, systémová integrace",
+                    "correct": false
+                },
+                {
+                    "text": "Cheapest product, celková integrace zákazníka, proprietární standard",
+                    "correct": false
+                },
+                {
+                    "text": "Systémové propojení, nejatraktivnější produkt, celkové potěšení zákazníka",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Interní finanční analýzu provádí",
+            "answers": [
+                {
+                    "text": "Burzovní makléři",
+                    "correct": false
+                },
+                {
+                    "text": "Banky",
+                    "correct": false
+                },
+                {
+                    "text": "Investoři",
+                    "correct": false
+                },
+                {
+                    "text": "Finanční manažeři a analytici",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Obrat aktiv se počítá vzorcem:",
+            "answers": [
+                {
+                    "text": "čistý zisk/vlastní kapitál",
+                    "correct": false
+                },
+                {
+                    "text": "cizí zdroje/aktiva",
+                    "correct": false
+                },
+                {
+                    "text": "tržby/aktiva celkem",
+                    "correct": true
+                },
+                {
+                    "text": "(pasiva-zisk)/aktiva",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Jste zodpovědný za strategické řízení společnosti. Která z následujících možností popisuje plán, který by s největší pravděpodobností vedl k úspěšnému strategickému řízení společnosti?",
+            "answers": [
+                {
+                    "text": "Navrhnout takový sled analýzy, formulace a implementace strategie, aby se tyto jednotlivé kroky nepřekrývaly a byly vykonány jednotlivě ve schváleném čase",
+                    "correct": false
+                },
+                {
+                    "text": "Doporučit pravidelně se opakující plán, který zahrnuje analýzu, formulaci a implementaci",
+                    "correct": true
+                },
+                {
+                    "text": "Požádat vedení společnosti, aby stanovilo jeden nejdůležitější prvek strategického řízení a prioritizovat pouze tento aspekt",
+                    "correct": false
+                },
+                {
+                    "text": "Zaměřit se zejména na strategickou analýzu, neboť formulace a implementace strategie ovlivní celkové strategické řízení s daleko menší pravděpodobností",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Co z následujících aspektů je nejdůležitější v rámci řízení stakeholderů?",
+            "answers": [
+                {
+                    "text": "Standardizace hodnot stakeholderů",
+                    "correct": false
+                },
+                {
+                    "text": "Prioritizace vytváření hodnoty na základě důležitosti jednotlivých stakeholderů",
+                    "correct": false
+                },
+                {
+                    "text": "Sladění zájmů společnosti a stakeholderů",
+                    "correct": false
+                },
+                {
+                    "text": "Strategicky a selektivně zvažovat dopad jednotlivých rozhodnutí společnosti na stakeholdery",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Chytré náramky a hodinky (např. Fitbit, Jawbone, Garmin,…) jsou relativně novým fenoménem a mnoho společností začíná s jejich výrobou. V jaké fázi se nachází toto odvětví?",
+            "answers": [
+                {
+                    "text": "Fáze růstu",
+                    "correct": true
+                },
+                {
+                    "text": "Fáze zralosti",
+                    "correct": false
+                },
+                {
+                    "text": "Disrupce",
+                    "correct": false
+                },
+                {
+                    "text": "Zaváděcí fáze",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Firmy obsluhující tržní niky/výklenky jsou často vysoce ziskové, protože:",
+            "answers": [
+                {
+                    "text": "Obvykle je ignorují velké korporace",
+                    "correct": false
+                },
+                {
+                    "text": "Tržní niky jsou obvykle dostatečné malé na to, aby si jedna firma mohla vybudovat dominantní postavení",
+                    "correct": false
+                },
+                {
+                    "text": "Tržní niky mají obvykle vysoké překážky vstupu",
+                    "correct": false
+                },
+                {
+                    "text": "Většinou dodávají speciální výrobky spotřeba telóm s vysokými příjmy",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Co by mělo být obecným celkovým cílem stratéga při použití SWOT analýzy?",
+            "answers": [
+                {
+                    "text": "ohodnotit schopnosti společnosti",
+                    "correct": false
+                },
+                {
+                    "text": "určit, jak konkurovat na více trzích",
+                    "correct": false
+                },
+                {
+                    "text": "identifikovat příležitosti a hrozby",
+                    "correct": true
+                },
+                {
+                    "text": "pochopit a charakterizovat konkurenční prostředí společnosti",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Společnost Nestle by v rámci klasifikace jednotlivých skupin stakeholderů ráda zařadila skupinu zákazníků kupujících jejich populární cereálie Nesquik. Dokteré skupiny by je pravděpodobně zařadila?",
+            "answers": [
+                {
+                    "text": "klíčoví hráči",
+                    "correct": false
+                },
+                {
+                    "text": "minimální pozornost",
+                    "correct": false
+                },
+                {
+                    "text": "udržuj spokojené",
+                    "correct": true
+                },
+                {
+                    "text": "udržuj informované",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "3x Mise identifikuje",
+            "answers": [
+                {
+                    "text": "přístup ke zdrojům",
+                    "correct": false
+                },
+                {
+                    "text": "budoucí stav podniku",
+                    "correct": false
+                },
+                {
+                    "text": "tvorbu metod a nástrojů k dosažení cílů",
+                    "correct": false
+                },
+                {
+                    "text": "smysl existence organizace",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "text": "Jak co nejúspěšněji uspokojit stakeholdery?",
+            "answers": [
+                {
+                    "text": "Soustředit se na stakeholdery spojené s trhem",
+                    "correct": false
+                },
+                {
+                    "text": "Soustředit se na všechny stakeholdery a plánovat pomocí managementu očekávání",
+                    "correct": true
+                },
+                {
+                    "text": "Soustředit se na minoritní stakeholdery",
+                    "correct": false
+                },
+                {
+                    "text": "Soustředit se na podstatné stakeholdery a splnit jejich očekávání",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Která z následujících nepřispívá k vyjednávací síle odběratelů?",
+            "answers": [
+                {
+                    "text": "schopnost odběratelů zpětné integrace",
+                    "correct": false
+                },
+                {
+                    "text": "vysoká úroveň diferenciace mezi produkty, které kupují odběratelé",
+                    "correct": true
+                },
+                {
+                    "text": "nízké náklady na přechod k jinému dodavateli",
+                    "correct": false
+                },
+                {
+                    "text": "velikost odběratelů ve srovnání s velikostí dodavatelů",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Cenoví šampioni spoléhají na efekt z úspor z rozsahu, což znamená vyrábět…",
+            "answers": [
+                {
+                    "text": "Takové množství produkce, kdy firma dosahuje minimálních průměrných nákladů na jednotku produkce",
+                    "correct": true
+                },
+                {
+                    "text": "Co možná nejvíce výrobků stejného typu",
+                    "correct": false
+                },
+                {
+                    "text": "Co největší množství produkce, aby byly celkové náklady co nejnižší",
+                    "correct": false
+                },
+                {
+                    "text": "Vyrábět co nejlevněji je to možné",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Pro snížení konkurenčního pnutí v odvětví je typický výhodné:",
+            "answers": [
+                {
+                    "text": "velký počet různorodých konkurentů, nízká míra růstu trhu, velká diferenciace produktů",
+                    "correct": false
+                },
+                {
+                    "text": "menší počet konkurentů, vysoké fixní náklady, vysoká diferenciace produktů",
+                    "correct": false
+                },
+                {
+                    "text": "menší počet konkurentů, vysoká diferenciace produktů, vyšší míra růstu trhu",
+                    "correct": true
+                },
+                {
+                    "text": "menší počet konkurentů, vysoká míra růstu trhu, nízká diferenciace produktů",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "text": "Která z následujících interpretací nejlépe vystihuju výplatní matici?",
+            "answers": [
+                {
+                    "text": "Společnost A by neměla snižovat cenu",
+                    "correct": false
+                },
+                {
+                    "text": "V daném scénáři neexistuje dominantní strategie",
+                    "correct": false
+                },
+                {
+                    "text": "Jestliže společnost B sníží ceny a společnost A nikoliv, společnost B přijde o svůj tržní podíl a sníží se poptávka po jejich výrobcích",
+                    "correct": false
+                },
+                {
+                    "text": "Jestliže jedna společnost sníží cenu, měla by ji snížit i druhá společnost.",
                     "correct": true
                 }
             ]
