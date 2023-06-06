@@ -658,7 +658,7 @@
             "text": "Relativní podíl na trhu pro účely sestavení BCG matice se určí jako:",
             "answers": [
                 {
-                    "text": "ržní podíl produktu u dané firmy děleno tržním podílem u podobného produktu největšího konkurenta",
+                    "text": "Tržní podíl produktu u dané firmy děleno tržním podílem u podobného produktu největšího konkurenta",
                     "correct": true
                 },
                 {
@@ -1201,27 +1201,6 @@
             ]
         },
         {
-            "text": "VRIO analýza u zdrojů NEHODNOTÍ",
-            "answers": [
-                {
-                    "text": "možnost substituce",
-                    "correct": true
-                },
-                {
-                    "text": "vzácnost",
-                    "correct": false
-                },
-                {
-                    "text": "uspořádání",
-                    "correct": false
-                },
-                {
-                    "text": "napodobitelnost",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "U GE matice pro produkty v zóně selektivních strategii se doporučuje strategie: (asi)",
             "answers": [
                 {
@@ -1352,7 +1331,7 @@
             "answers": [
                 {
                     "text": "řídící",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "operativní",
@@ -1364,7 +1343,7 @@
                 },
                 {
                     "text": "taktický",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1646,7 +1625,7 @@
             "answers": [
                 {
                     "text": "Vytvářet hodnotu pro stakeholdery",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Vytvářet zisk",
@@ -1658,7 +1637,7 @@
                 },
                 {
                     "text": "Rozšiřovat svůj tržní podíl",
-                    "correct": false
+                    "correct": true
                 }
             ]
         },
@@ -1722,27 +1701,6 @@
                 {
                     "text": "Nízké hodnoty vnímaní zákazníkem a vysoké ceny",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Jaké je spravné pořadí analýz v rámci komplexní strategické analýzy firmy?",
-            "answers": [
-                {
-                    "text": "SWOT, PESTEL, 5 sil, Analýza stakeholderů, VRIO",
-                    "correct": false
-                },
-                {
-                    "text": "Analýza stakeholderů, PESTEL, VRIO, SWOT, 5 sil",
-                    "correct": false
-                },
-                {
-                    "text": "5 sil, PESTEL, Analýza stakeholderů, SWOT, VRIO",
-                    "correct": false
-                },
-                {
-                    "text": "Analýza stakeholderů, PESTEL, 5 sil, VRIO, SWOT",
-                    "correct": true
                 }
             ]
         },
@@ -2163,27 +2121,6 @@
                 {
                     "text": "udržuj informované",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "3x Mise identifikuje",
-            "answers": [
-                {
-                    "text": "přístup ke zdrojům",
-                    "correct": false
-                },
-                {
-                    "text": "budoucí stav podniku",
-                    "correct": false
-                },
-                {
-                    "text": "tvorbu metod a nástrojů k dosažení cílů",
-                    "correct": false
-                },
-                {
-                    "text": "smysl existence organizace",
-                    "correct": true
                 }
             ]
         },
