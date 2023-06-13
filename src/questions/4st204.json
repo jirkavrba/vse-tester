@@ -4,19 +4,6 @@
     "multichoice": false,
     "questions": [
         {
-            "text": "Použití harmonického průměru je vhodné, pokud chceme spočítat průměrnou rychlost.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Rozptyl vzájemně různých záporných čísel je:",
             "answers": [
                 {
@@ -48,19 +35,6 @@
         },
         {
             "text": "Násobíme-li všechny četnosti při výpočtu váženého arit. průměru konstantou, průměr se rovněž násobí touto konstantou.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Když změníme řadu čísel o konstantu, medián se nezmění.",
             "answers": [
                 {
                     "text": "Ano",
@@ -125,19 +99,6 @@
                 {
                     "text": "Může nabývat libovolné hodnoty",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "směrodatná odchylka náhodné veličiny může být 0.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
                 }
             ]
         },
@@ -236,23 +197,6 @@
             ]
         },
         {
-            "text": "Ve výsečovém diagramu vyjadřuje velikost úhlu každé výseče:",
-            "answers": [
-                {
-                    "text": "průměrnou hodnotu veličiny",
-                    "correct": false
-                },
-                {
-                    "text": "absolutní či relativní četnost",
-                    "correct": true
-                },
-                {
-                    "text": "kumulativní absolutní četnost",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Směrodatná odchylka může být záporná",
             "answers": [
                 {
@@ -262,19 +206,6 @@
                 {
                     "text": "Ne",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Směrodatná odchylka konstanty je rovna nule:",
-            "answers": [
-                {
-                    "text": "Pravda",
-                    "correct": true
-                },
-                {
-                    "text": "Lež",
-                    "correct": false
                 }
             ]
         },
@@ -292,19 +223,6 @@
                 {
                     "text": "výšky sloupce",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Chci kvíz 100% dokončit a nemít případnou možnost otázky opakovat bez správných odpovědí?",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
                 }
             ]
         },
@@ -369,23 +287,6 @@
                 {
                     "text": "relativní četnost kategorie popisované proměnné",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Průměrný koeficient růstu se vypočítá jako:",
-            "answers": [
-                {
-                    "text": "aritmetický průměr",
-                    "correct": false
-                },
-                {
-                    "text": "geometrický průměr",
-                    "correct": true
-                },
-                {
-                    "text": "harmonický průměr",
-                    "correct": false
                 }
             ]
         },
@@ -464,19 +365,6 @@
         },
         {
             "text": "Distribuční funkci spojité náhodné veličiny lze získat integrací hustoty pravděpodobnosti této veličiny.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Statistická definice pravděpodobnosti je založena na velkém množství nezávislých opakování téhož náhodného pokusu.",
             "answers": [
                 {
                     "text": "Ano",
@@ -583,19 +471,6 @@
             ]
         },
         {
-            "text": "Při zvyšujících se pokusech se binomické rozdělení blíží normálnímu",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Měříme spotřebu auta na 100 km/h, co znamená F(8) - F(6)?",
             "answers": [
                 {
@@ -622,66 +497,6 @@
                 {
                     "text": "Ne",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Je možné, aby se u symetrického rozdělení neshodoval průměr s mediánem?",
-            "answers": [
-                {
-                    "text": "Není to možné",
-                    "correct": true
-                },
-                {
-                    "text": "Je to možné, pokud se vyskytují příliš vysoké hodnoty.",
-                    "correct": false
-                },
-                {
-                    "text": "Je to možné, pokud se vyskytují příliš malé hodnoty.",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Binomické rozdělení lze za jistých okolností aproximovat normálním rozdělením.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Pro normální rozdělení platí:",
-            "answers": [
-                {
-                    "text": "Střední hodnota a medián se nerovnají",
-                    "correct": false
-                },
-                {
-                    "text": "Střední hodnota a medián se rovnají",
-                    "correct": true
-                },
-                {
-                    "text": "Střední hodnota je menší než medián.",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "U normálního rozdělení je střední hodnota nula a rozptyl 1.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
                 }
             ]
         },
@@ -733,19 +548,6 @@
             ]
         },
         {
-            "text": "Binomické rozdělení využijeme u nespojitých veličin.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Pravděpodobnost sjednocení dvou slučitelných jevů je definována jako:",
             "answers": [
                 {
@@ -780,7 +582,7 @@
             ]
         },
         {
-            "text": "Oboustranný interval spolehlivosti pro pravděpodobnost koupě nového výrobku z n=150(nebo 50) pozorování. Pokud zůstanou všechny vstupní údaje nezměněné budeme provádět na základě vyššího rozsahu výběru n´=400(nebo 150), dostaneme:",
+            "text": "Oboustranný interval spolehlivosti pro pravděpodobnost koupě nového výrobku z n=150 (nebo 50) pozorování. Pokud zůstanou všechny vstupní údaje nezměněné budeme provádět na základě vyššího rozsahu výběru n=400 (nebo 150), dostaneme:",
             "answers": [
                 {
                     "text": "Užší interval spolehlivosti",
@@ -835,6 +637,10 @@
                 },
                 {
                     "text": "zvětší",
+                    "correct": false
+                },
+                {
+                    "text": "nezmění se",
                     "correct": false
                 },
                 {
@@ -913,23 +719,6 @@
                 {
                     "text": "Ne",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Když se změní u testování alfa z 5% na 1%, tak se kritický obor:",
-            "answers": [
-                {
-                    "text": "nezmění",
-                    "correct": false
-                },
-                {
-                    "text": "zmenší",
-                    "correct": true
-                },
-                {
-                    "text": "zvětší",
-                    "correct": false
                 }
             ]
         },
@@ -1019,20 +808,7 @@
             ]
         },
         {
-            "text": "Pokud nemáme směrodatnou odchylku základního souboru, nemůžeme použít směrodatnou odchylku výběrového souboru.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Pokud máme kvantil u (0,7), dokážeme z něj spočítat kvantil u (0,3).",
+            "text": "Pokud máme kvantil u(0,7), dokážeme z něj spočítat kvantil u(0,3).",
             "answers": [
                 {
                     "text": "Ano",
@@ -1071,33 +847,7 @@
             ]
         },
         {
-            "text": "Přesnost intervalového odhadu je nepřímo úměrná šířce intervalu spolehlivosti.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Spolehlivost odhadu značíme jako 1-alfa",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát:",
+            "text": "Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát: (IDK)",
             "answers": [
                 {
                     "text": "rozsah populace",
@@ -1105,6 +855,10 @@
                 },
                 {
                     "text": "spolehlivost odhadu",
+                    "correct": true
+                },
+                {
+                    "text": "hladinu významnosti",
                     "correct": true
                 },
                 {
@@ -1521,7 +1275,7 @@
             ]
         },
         {
-            "text": "U reg. funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
+            "text": "U regresních funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
             "answers": [
                 {
                     "text": "Ano",
@@ -1611,23 +1365,6 @@
             ]
         },
         {
-            "text": "Regresní analýza vyjadřuje závislost",
-            "answers": [
-                {
-                    "text": "Dvou kvantitativních proměnných",
-                    "correct": true
-                },
-                {
-                    "text": "Dvou kvalitativních proměnnýh",
-                    "correct": false
-                },
-                {
-                    "text": "Závislost kvalitativní a kvantitativní proměnné",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Pokud v chí-kvadrátu není splněna podmínka o počtu skupin, můžeme případně některé skupiny, které jsou věcně společné sloučit.",
             "answers": [
                 {
@@ -1637,32 +1374,6 @@
                 {
                     "text": "Ne",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Chí-kvadrát test dobré shody ověřuje rovnost hodnot v jednotlivých skupinách",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Korelační koeficient je podíl reziduálního součtu čtverců na celkovém součtu čtverců.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
                 }
             ]
         },
@@ -1714,19 +1425,6 @@
             ]
         },
         {
-            "text": "Jestliže do modelu přidáme další vysvětlující proměnnou, může se index determinace snížit.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Chí-kvadrát test dobré shody má počet stupňů volnosti rovný počtu členů mínus 2.",
             "answers": [
                 {
@@ -1757,19 +1455,6 @@
             ]
         },
         {
-            "text": "Korelační koeficient je podíl reziduálního součtu čtverců na celkovém součtu čtverců.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Když zaměníme řádky a sloupce u kontingenčních tabulek, nemá to vliv na výsledek.",
             "answers": [
                 {
@@ -1783,33 +1468,7 @@
             ]
         },
         {
-            "text": "Může být index determinace vyšší než upravený index determinace.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Chí-kvadrát test dobré shody je založen na srovnávání pozorovaných četností a teoretických četností v jednotlivých skupinách.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Klouzavé průměry umožňují vyhladit průběh časové řady a naznačit její trend",
             "answers": [
                 {
                     "text": "Ano",
@@ -1989,19 +1648,6 @@
             ]
         },
         {
-            "text": "Sezónní umělé proměnné jsou jen u čtvrtletních intervalů, ne u měsíčních ani ročních.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Pokud jsou všechny koef. růstu v časové řadě větší než 1, je i průměrný koeficient růstu větší než 1.",
             "answers": [
                 {
@@ -2122,36 +1768,6 @@
             ]
         },
         {
-            "text": "Průměrnou hodnotu čas. řady je vždy vhodné vypočítat jako prostý arit. průměr jejich jednotlivých hodnot",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Chronologický průměr se používá pro výpočet",
-            "answers": [
-                {
-                    "text": "průměru hodnot intervalové čas. řady",
-                    "correct": false
-                },
-                {
-                    "text": "průměru hodnot okamžikové čas. řady",
-                    "correct": true
-                },
-                {
-                    "text": "průměrného růstu čas. řady ve sled. období",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Chronologický průměr se využívá o okamžikových časových řad",
             "answers": [
                 {
@@ -2242,19 +1858,6 @@
             ]
         },
         {
-            "text": "Mírou inflace se rozumí změna spotřebního koše vyjádřena relativně",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Pokud znáte Paascheho cen. index a Fisherův cen. index můžete zjistit:",
             "answers": [
                 {
@@ -2284,40 +1887,6 @@
                 },
                 {
                     "text": "0,88",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "K porovnání hodnot ve dvou po sobě jdoucích následujících obdobích se používá:",
-            "answers": [
-                {
-                    "text": "index korelace",
-                    "correct": false
-                },
-                {
-                    "text": "bázický index",
-                    "correct": false
-                },
-                {
-                    "text": "řetězový index",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Mezi extenzitní ukazatele patří:",
-            "answers": [
-                {
-                    "text": "pouze hodnota",
-                    "correct": false
-                },
-                {
-                    "text": "množství i úroveň",
-                    "correct": false
-                },
-                {
-                    "text": "množství i hodnota",
                     "correct": true
                 }
             ]
@@ -2370,19 +1939,6 @@
             ]
         },
         {
-            "text": "Soubor reprezentantů a váhový systém indexu spotřebních cen se nazývá spotřební koš",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Individuální indexy dělíme na:",
             "answers": [
                 {
@@ -2411,25 +1967,12 @@
                     "correct": false
                 },
                 {
+                    "text": "Soubor zpravodajských jednotek a periodicitu zjišťování cen",
+                    "correct": false
+                },
+                {
                     "text": "soubor reprezentantů a váhový systém indexu spotřeb. cen",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Jaký typ průměru je použit ve vzorci index množství Laspeyresův.",
-            "answers": [
-                {
-                    "text": "Vážený aritmetický",
-                    "correct": true
-                },
-                {
-                    "text": "Vážený harmonický",
-                    "correct": false
-                },
-                {
-                    "text": "Prostý aritmetický",
-                    "correct": false
                 }
             ]
         },
@@ -2452,19 +1995,6 @@
         },
         {
             "text": "Soubor reprezentantů a váhový systém indexu spotřeb. cen se nazývá spotřební koš.",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Členění na indexy množství a úrovně vychází z typu posuzovaného ukazatele",
             "answers": [
                 {
                     "text": "Ano",
@@ -2524,19 +2054,6 @@
             ]
         },
         {
-            "text": "Index spotřebitelských cen je zveřejňován týdně",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Při indexní analýze pro index 1,2; 1,42; 1,36; 1,48 nemůže výsledek být.",
             "answers": [
                 {
@@ -2554,7 +2071,7 @@
             ]
         },
         {
-            "text": "inflaci lze například říci, že:",
+            "text": "O inflaci lze například říci, že:",
             "answers": [
                 {
                     "text": "je vždy měsíčním bázickým indexem spotřebitelských cen",
@@ -2648,36 +2165,6 @@
                 {
                     "text": "Ne",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Mírou inflace se rozumí změna cenové hladiny vyjádřena absolutně",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Pro distribuční funkci F(x) platí:",
-            "answers": [
-                {
-                    "text": "0<F(x)<1",
-                    "correct": false
-                },
-                {
-                    "text": "0<=F(x)<=1",
-                    "correct": true
-                },
-                {
-                    "text": "-1<F(x)<1",
-                    "correct": false
                 }
             ]
         },
@@ -2819,19 +2306,6 @@
             ]
         },
         {
-            "text": "Síla testu je doplněk hladiny významnosti do jedné",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Pravděpodobnost chyby prvního druhu je vždy větší než prav. chyby druhého druhu",
             "answers": [
                 {
@@ -2922,19 +2396,6 @@
             ]
         },
         {
-            "text": "Individuální složené indexy používáme v případě nestejnorodých ukazatelů",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Binomické rozdělení je vhodným modelem, pokud se jedná o nez. náhodné pokusy",
             "answers": [
                 {
@@ -2991,19 +2452,6 @@
             ]
         },
         {
-            "text": "Poměr determinace se používá v analýze rozptylu, index determinace v regresní analýze",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": true
-                },
-                {
-                    "text": "Ne",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Co lze vyčíst z hodnoty párového korelačního koeficientu -1,27?",
             "answers": [
                 {
@@ -3017,19 +2465,6 @@
                 {
                     "text": "Lineární nezávislost dvou proměnných",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Při výpočtu Laspeyeresova cenového indexu používáme vážený aritmetický průměr, kde vahami je hodnota produkce z běžného období",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
                 }
             ]
         },
@@ -3060,19 +2495,6 @@
                 {
                     "text": "Ano",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Směrodatná odchylka souboru je ve čtvercích jednotek, ve kterých jsou uvedeny původní hodnoty souboru",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
                 }
             ]
         },
@@ -3205,36 +2627,6 @@
                 },
                 {
                     "text": "cenové hladině ve sledovaném měsíci oproti témuž měsíci loňského roku",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Zahrnutím další vysvětlující proměnné do lineárního regresního modelu se hodnota indexu determinace může snížít",
-            "answers": [
-                {
-                    "text": "Ano",
-                    "correct": false
-                },
-                {
-                    "text": "Ne",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Čím znázorníme rozdělení četností hodnot spojité veličiny:",
-            "answers": [
-                {
-                    "text": "Výsečový graf",
-                    "correct": false
-                },
-                {
-                    "text": "Sloupcový graf",
-                    "correct": false
-                },
-                {
-                    "text": "Histogram",
                     "correct": true
                 }
             ]
@@ -3388,23 +2780,6 @@
             ]
         },
         {
-            "text": "Modus:",
-            "answers": [
-                {
-                    "text": "Je 25% kvantil",
-                    "correct": false
-                },
-                {
-                    "text": "Je 50% kvantil -median",
-                    "correct": false
-                },
-                {
-                    "text": "Nepatří mezi kvantily",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Byly naměřeny teploty pod bodem mrazu, rozptyl bude:",
             "answers": [
                 {
@@ -3537,20 +2912,7 @@
             ]
         },
         {
-            "text": "Rozptyl je vždy větší než směrodatná odchylka :",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Směrodatná odchylka může být záporná:",
+            "text": "Rozptyl je vždy větší než směrodatná odchylka:",
             "answers": [
                 {
                     "text": "ANO",
@@ -3602,46 +2964,7 @@
             ]
         },
         {
-            "text": "Pokud máme kvantil U0,70, dokážeme zněj spočítat kvantil U0,30?:",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Pokud vynásobím váhy ve váženém aritmetickém průměru konstantou, průměr se nezmění.:",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Pokud při výpočtu váženého aritmetického průměru vynásobíme četnosti konstantou, také průměr se vynásobí touto konstantou:",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "50% kvantil se nemůže rovnat 75%kvantilu z těch samých hodnot:",
+            "text": "50% kvantil se nemůže rovnat 75% kvantilu z těch samých hodnot:",
             "answers": [
                 {
                     "text": "ANO",
@@ -3666,23 +2989,6 @@
                 },
                 {
                     "text": "Tato situace nikdy nemůže nastat, jelikož sjednocení se vždy rovná násobku daných pravděpodobností",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Proměnná obor studia je veličina:",
-            "answers": [
-                {
-                    "text": "kvalitativní",
-                    "correct": true
-                },
-                {
-                    "text": "kvantitativní",
-                    "correct": false
-                },
-                {
-                    "text": "diskrétní",
                     "correct": false
                 }
             ]
@@ -3809,26 +3115,13 @@
                     "correct": true
                 },
                 {
-                    "text": "– NE",
+                    "text": "NE",
                     "correct": false
                 }
             ]
         },
         {
-            "text": "Při zvyšujících se pokusech se binomické rozdělení blížínormálnímu:",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "– NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Binomické rozdělení využijeme u nespojitých veličin:",
+            "text": "Při zvyšujících se pokusech se binomické rozdělení blíží normálnímu:",
             "answers": [
                 {
                     "text": "ANO",
@@ -3968,41 +3261,7 @@
             ]
         },
         {
-            "text": "Měříme spotřebu auta na 100 km/h, co znamená F(8)-F(6)?:",
-            "answers": [
-                {
-                    "text": "Pravděpodobnost, že průměrná spotřebana 100 km/h bude vintervalu 6 až 8",
-                    "correct": false
-                },
-                {
-                    "text": "Pravděpodobnost, že za jednu stokilometrovou jízdu auto spotřebuje benzín vintervalu 6 až 8",
-                    "correct": true
-                },
-                {
-                    "text": "Pravděpodobnost, že za jednu stokilometrovou jízdu auto nespotřebuje benzín vintervalu 6 až8",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Hustota pravděpodobnosti je:",
-            "answers": [
-                {
-                    "text": "Jiný název pro distribuční funkci",
-                    "correct": false
-                },
-                {
-                    "text": "Funkce popisující pravděpodobnostní rozdělení nespojité náhodné veličiny",
-                    "correct": false
-                },
-                {
-                    "text": "Funkce popisující pravděpodobnostní rozdělení spojité náhodné veličiny",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "U normálního rozdělení je střední hodnota nula a rozptyl1. :",
+            "text": "U normálního rozdělení je střední hodnota nula a rozptyl 1. :",
             "answers": [
                 {
                     "text": "ANO",
@@ -4225,19 +3484,6 @@
             ]
         },
         {
-            "text": "Velká variabilita hodnot X snižuje přesnost odhadu jejich průměru:",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Při nezamítnutí hypotézy, jež je na hladině významnosti 0,05 nesprávná se dopustíme chyby:",
             "answers": [
                 {
@@ -4340,7 +3586,7 @@
             ]
         },
         {
-            "text": "Pokud zamítneme Ho: μo =μ1 oboustranným testem, potom u jednoho zjednostranných testů při stejné hladině významnosti zamítáme hypotézu:",
+            "text": "Pokud zamítneme Ho: μo=μ1 oboustranným testem, potom u jednoho zjednostranných testů při stejné hladině významnosti zamítáme hypotézu:",
             "answers": [
                 {
                     "text": "Vždy",
@@ -4408,7 +3654,7 @@
             ]
         },
         {
-            "text": "Když se změní u testování alfa z5% na 1% tak se KRITICKÝ OBOR:",
+            "text": "Když se změní u testování alfa z 5% na 1%, tak se kritický obor:",
             "answers": [
                 {
                     "text": "nezmění",
@@ -4467,23 +3713,6 @@
             ]
         },
         {
-            "text": "Zvětšením spolehlivosti se při stejném rozsahu výběru přesnost intervalového odhadu střední hodnoty normálního rozdělení:",
-            "answers": [
-                {
-                    "text": "zmenší",
-                    "correct": true
-                },
-                {
-                    "text": "zvětší",
-                    "correct": false
-                },
-                {
-                    "text": "nezmění se",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Co platí pro test rovnosti středních hodnot dvou rozdělení, pokud jsou n1 a n2 větší než 30?.:",
             "answers": [
                 {
@@ -4523,7 +3752,7 @@
             ]
         },
         {
-            "text": "Spolehlivost odhadu značíme jako1-alfa",
+            "text": "Spolehlivost odhadu značíme jako 1-alfa",
             "answers": [
                 {
                     "text": "ANO",
@@ -4536,7 +3765,7 @@
             ]
         },
         {
-            "text": "Pravděpodobnost chyby1.druhu je větší než pravděpodobnost chyby2.druhu.",
+            "text": "Pravděpodobnost chyby 1.druhu je větší než pravděpodobnost chyby 2.druhu.",
             "answers": [
                 {
                     "text": "ANO",
@@ -4549,7 +3778,7 @@
             ]
         },
         {
-            "text": "Testové kritérium vyčteme vtabulkách a proměnou vypočtenou ztestového kritéria musíme dopočítat.",
+            "text": "Testové kritérium vyčteme v tabulkách a proměnou vypočtenou z testového kritéria musíme dopočítat.",
             "answers": [
                 {
                     "text": "ANO",
@@ -4609,7 +3838,7 @@
             ]
         },
         {
-            "text": "Chí-kvadrát test dobré shody ověřuje rovnost hodnot vjednotlivých skupinách",
+            "text": "Chí-kvadrát test dobré shody ověřuje rovnost hodnot v jednotlivých skupinách",
             "answers": [
                 {
                     "text": "ANO",
@@ -4635,7 +3864,7 @@
             ]
         },
         {
-            "text": "Vtestu chí kvadrátu vyšlo testové kritérim -44. Co můžeme říci?",
+            "text": "V testu chí kvadrátu vyšlo testové kritérim -44. Co můžeme říci?",
             "answers": [
                 {
                     "text": "bylo špatně vypočítané kritérium",
@@ -4745,19 +3974,6 @@
             ]
         },
         {
-            "text": "Podmínkou pro využití chí-kvadrátu je dostatečné obsazení ve všech skupinách",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Statistika G (kontingenční tabulky) vychází vždy vintervalu <-1,1>.",
             "answers": [
                 {
@@ -4771,7 +3987,7 @@
             ]
         },
         {
-            "text": "Pro použití chí-kvadrát testu předpokládáme dostatečně velké hodnoty pozorovaných četností vjednotlivých třídách.",
+            "text": "Pro použití chí-kvadrát testu předpokládáme dostatečně velké hodnoty pozorovaných četností v jednotlivých třídách.",
             "answers": [
                 {
                     "text": "ANO",
@@ -4797,7 +4013,7 @@
             ]
         },
         {
-            "text": "Když zaměním řádky za sloupce u kontingenčních tabulek, nemá to vliv na výsledek-",
+            "text": "Když zaměním řádky za sloupce u kontingenčních tabulek, nemá to vliv na výsledek",
             "answers": [
                 {
                     "text": "ANO",
@@ -4895,19 +4111,6 @@
                 {
                     "text": "rovnost rozptylů",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Co říká alternativní hypotéza u analýzy rozptylu?",
-            "answers": [
-                {
-                    "text": "všechny střední hodnoty se liší",
-                    "correct": false
-                },
-                {
-                    "text": "alespoň jedna střední hodnota se liší od ostatních",
-                    "correct": true
                 }
             ]
         },
@@ -5216,7 +4419,7 @@
             ]
         },
         {
-            "text": "Při t-testu(b0/s(b0)) sa používá:",
+            "text": "Při t-testu(b0/s(b0)) se používá:",
             "answers": [
                 {
                     "text": "Studentovo rozdělení",
@@ -5362,7 +4565,7 @@
             ]
         },
         {
-            "text": "Hodnoty párového korelačního koeficientu leží vintervalu:",
+            "text": "Hodnoty párového korelačního koeficientu leží v intervalu:",
             "answers": [
                 {
                     "text": "<-1 ; 0>",
@@ -5554,19 +4757,6 @@
             ]
         },
         {
-            "text": "Může být index determinace vyšší než upravený index determinace",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Jestliže do modelu přidáme další vysvětlující proměnnou, může se index determinace snížit",
             "answers": [
                 {
@@ -5602,45 +4792,6 @@
                 {
                     "text": "NE",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Jestliže do modelu přidáme další vysvětlující proměnnou, může se index determinace snížit",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Korelační koeficient se používá pro určení závislosti analýzy rozptylu.",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Metodu nejmenších čtverců lze přímo použít k odhadu parametrů u nelineární regrese",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
                 }
             ]
         },
@@ -5994,7 +5145,7 @@
             ]
         },
         {
-            "text": "Máme bazický index zroku 2010 IB=1,28 (2009 základní rok) o řetězcovém indexu za stejné období platí",
+            "text": "Máme bazický index z roku 2010 IB=1,28 (2009 základní rok) o řetězcovém indexu za stejné období platí",
             "answers": [
                 {
                     "text": "Je větší než 1, 28",
@@ -6011,7 +5162,7 @@
             ]
         },
         {
-            "text": "Včasové řadě skladnými hodnotami je hodnota jednoho z koeficientů růstu 0,85. Pak hodnota odpovídajícího relativního přírůstku (nepřevedená na %) musí být:",
+            "text": "V časové řadě skladnými hodnotami je hodnota jednoho z koeficientů růstu 0,85. Pak hodnota odpovídajícího relativního přírůstku (nepřevedená na %) musí být:",
             "answers": [
                 {
                     "text": "také kladná",
@@ -6108,28 +5259,7 @@
             ]
         },
         {
-            "text": "Spotřební koš představuje",
-            "answers": [
-                {
-                    "text": "Váhový systém indexu spotřebitelských cen a ceny všech výrobků na trhu",
-                    "correct": false
-                },
-                {
-                    "text": "Soubor zpravodajských jednotek a periodicitu zjišťování cen",
-                    "correct": false
-                },
-                {
-                    "text": "Soubor reprezentantů a váhový systém indexu spotřebitelských cen",
-                    "correct": true
-                },
-                {
-                    "text": "Homogenní skupiny výrobků, jejichž ceny se pravidelně zjišťují",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Míra inflace je (nevím)",
+            "text": "Míra inflace je",
             "answers": [
                 {
                     "text": "Růst cenové hladiny vyjádřený relativně",
@@ -6209,7 +5339,7 @@
             ]
         },
         {
-            "text": "Jaký typ průměru je použit ve vzorci Index množství Laspeyresův ( ):",
+            "text": "Jaký typ průměru je použit ve vzorci Index množství Laspeyresův:",
             "answers": [
                 {
                     "text": "Prostý aritmetický",
@@ -6426,7 +5556,7 @@
             ]
         },
         {
-            "text": "Korelační koeficient mezi proměnnými x (vodorovná osa) a y(svislá osa) z 10 hodnot (viz obrázek) vyšel -0,8. Jaký závěr",
+            "text": "Korelační koeficient mezi proměnnými x (vodorovná osa) a y (svislá osa) z 10 hodnot (viz obrázek) vyšel -0,8. Jaký závěr",
             "answers": [
                 {
                     "text": "uděláte?",
@@ -6521,23 +5651,6 @@
                 {
                     "text": "NE",
                     "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Hodnota součinu sdružených výběrových regresních koeficientů byx a bxy je vždy: (mby spatne)",
-            "answers": [
-                {
-                    "text": "větší než jedna",
-                    "correct": false
-                },
-                {
-                    "text": "rovna jedné",
-                    "correct": false
-                },
-                {
-                    "text": "v intervalu [0,1]",
-                    "correct": true
                 }
             ]
         },
@@ -6722,7 +5835,7 @@
             ]
         },
         {
-            "text": "kořelační koeficient",
+            "text": "korelační koeficient",
             "answers": [
                 {
                     "text": "vyjadřuje sílu lineární závislosti",
@@ -6842,19 +5955,6 @@
             ]
         },
         {
-            "text": "U regresních funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Hodnota kritéria MSE používaného v časových řadách",
             "answers": [
                 {
@@ -6926,7 +6026,7 @@
             "text": "Testové kritérium",
             "answers": [
                 {
-                    "text": "nikdy nemůže nabýát záporné hodnoty",
+                    "text": "nikdy nemůže nabývat záporné hodnoty",
                     "correct": false
                 },
                 {
@@ -7087,7 +6187,7 @@
             ]
         },
         {
-            "text": "Směrodatná odchylka konstanty je rovna nule (no idea what that is)",
+            "text": "Směrodatná odchylka konstanty je rovna nule",
             "answers": [
                 {
                     "text": "ANO",
@@ -7259,7 +6359,7 @@
             ]
         },
         {
-            "text": "Sezónně očištěná časová řady zahrunje:",
+            "text": "Sezónně očištěná časová řada zahrunje:",
             "answers": [
                 {
                     "text": "jen trendovou složku",
@@ -7486,12 +6586,8 @@
             ]
         },
         {
-            "text": "Pravděpodobnost chyby prvního druhu může být větší, rovna nebo menší než pravděpodobnost chyby druhého druhu (mby",
+            "text": "Pravděpodobnost chyby prvního druhu může být větší, rovna nebo menší než pravděpodobnost chyby druhého druhu",
             "answers": [
-                {
-                    "text": "spatne)",
-                    "correct": false
-                },
                 {
                     "text": "ANO",
                     "correct": true
@@ -7666,7 +6762,7 @@
             ]
         },
         {
-            "text": "Pravděpodobnost chyby 2. druhu lze určit pouze na základě znalosti alfa(hladiny významnosti)",
+            "text": "Pravděpodobnost chyby 2. druhu lze určit pouze na základě znalosti alfa (hladiny významnosti)",
             "answers": [
                 {
                     "text": "ANO",
@@ -7731,7 +6827,7 @@
             ]
         },
         {
-            "text": "Laspeyresův souhrnný cenový index se počítá na základě objemu ( množství) pouze ze základního? období.",
+            "text": "Laspeyresův souhrnný cenový index se počítá na základě objemu (množství) pouze ze základního? období.",
             "answers": [
                 {
                     "text": "ANO",
@@ -7758,19 +6854,6 @@
         },
         {
             "text": "Není-li podmínka chí-kvadrát testu o dostatečně velkých teoretických četnostech splněna, není možné sloučit věcně související skupiny.",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": false
-                },
-                {
-                    "text": "NE",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Systematické složky v časové řadě jsou jen trendová a cyklická.",
             "answers": [
                 {
                     "text": "ANO",
@@ -8548,7 +7631,7 @@
             ]
         },
         {
-            "text": "Pomocí regrese je možné měřit závislost dvou kvantitativních ...",
+            "text": "Pomocí regrese je možné měřit závislost dvou kvantitativních proměnných",
             "answers": [
                 {
                     "text": "ANO",
@@ -8574,32 +7657,11 @@
             ]
         },
         {
-            "text": "Velká variabilita hodnot X snižuje přesnost odhadu jejich průměru.",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "co se stane s rozptylem a variačním koeficientem, když se všechna x zvýší o 20 %?",
             "answers": [
                 {
                     "text": "rozptyl vzroste o 44 % a variační koeficient se nezmění",
                     "correct": true
-                },
-                {
-                    "text": "idk",
-                    "correct": false
-                },
-                {
-                    "text": "idk",
-                    "correct": false
                 }
             ]
         },
@@ -8617,7 +7679,7 @@
             ]
         },
         {
-            "text": "Chí kvadrát test dobré shody má počet stupňů volnosti rovný počtu měření minus počet třid",
+            "text": "Chí kvadrát test dobré shody má počet stupňů volnosti rovný počtu měření minus počet tříd",
             "answers": [
                 {
                     "text": "ANO",
@@ -8635,14 +7697,6 @@
                 {
                     "text": "zvýší se o 500 jednotek",
                     "correct": true
-                },
-                {
-                    "text": "idk",
-                    "correct": false
-                },
-                {
-                    "text": "idk",
-                    "correct": false
                 }
             ]
         },
@@ -8741,24 +7795,7 @@
             ]
         },
         {
-            "text": "Pokud chceme porovnat ceny dvou období, použijeme:",
-            "answers": [
-                {
-                    "text": "řetězový index",
-                    "correct": true
-                },
-                {
-                    "text": "korelační koeficient",
-                    "correct": false
-                },
-                {
-                    "text": "index determinace",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Co je to 1-b? (je to správné rozhodnutí druhého druhu)",
+            "text": "Co je to 1-beta? (je to správné rozhodnutí druhého druhu)",
             "answers": [
                 {
                     "text": "zamítnutí H0, platí li H1",
@@ -8809,23 +7846,6 @@
                 },
                 {
                     "text": "χ0,20 | = χ0,80",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "U kontingenčních tabulek využijeme:",
-            "answers": [
-                {
-                    "text": "Chí-kvadrát",
-                    "correct": true
-                },
-                {
-                    "text": "Studentův t-test",
-                    "correct": false
-                },
-                {
-                    "text": "F-test",
                     "correct": false
                 }
             ]
@@ -9058,7 +8078,7 @@
             ]
         },
         {
-            "text": "Teoretický/regresní součet čtvrcu je součet čtvrcových odchylek výrovnaných hodnot od průměrné hodnoty",
+            "text": "Teoretický/regresní součet čtverců je součet čtvercových odchylek vyrovnaných hodnot od průměrné hodnoty",
             "answers": [
                 {
                     "text": "ANO",
@@ -9079,28 +8099,6 @@
                 },
                 {
                     "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Co značí síla testu:",
-            "answers": [
-                {
-                    "text": "pravděpodobnost zamítnutí neplatné nulové hypotézy",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Metodu nejmenších čtverců lze přímo použít k odhadu parametrů u nelineární regrese",
-            "answers": [
-                {
-                    "text": "NE",
-                    "correct": true
-                },
-                {
-                    "text": "ANO",
                     "correct": false
                 }
             ]
@@ -9170,19 +8168,6 @@
             ]
         },
         {
-            "text": "Když zaměním řádky za sloupce u kontingenčních tabulek, nemá to vliv na výsledek",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "U normálního rozdělení",
             "answers": [
                 {
@@ -9230,27 +8215,10 @@
             ]
         },
         {
-            "text": "Proměnná obor studia je:",
-            "answers": [
-                {
-                    "text": "kvalitativní",
-                    "correct": true
-                },
-                {
-                    "text": "ordinální",
-                    "correct": false
-                },
-                {
-                    "text": "kvantitativní",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Považujme výšku postavy za spojitou náhodnou veličinu se střední hodnotou 178. Pak pravděpodobnost, že výška náhodně vybrané osoby je 178 cm",
             "answers": [
                 {
-                    "text": "je tak malá, že ji považujem za nulovou",
+                    "text": "je tak malá, že ji považujeme za nulovou",
                     "correct": true
                 },
                 {
@@ -9298,23 +8266,6 @@
             ]
         },
         {
-            "text": "Ukazatel meziroční inflace vypovídá o procentní změně",
-            "answers": [
-                {
-                    "text": "cenové hladiny ve sledovaném měsíci oproti měsíci bezprostředně předcházejícímu",
-                    "correct": false
-                },
-                {
-                    "text": "prodaného množství ve sledovaném měsíci oproti témuž měsíci loňského roku",
-                    "correct": false
-                },
-                {
-                    "text": "cenové hladiny ve sledovaném měsíci oproti témuž měsíci loňského roku",
-                    "correct": true
-                }
-            ]
-        },
-        {
             "text": "Výběrové šetření je takový druh šetření, při kterém jsou šetřeny jen některé jednotky ze základního souboru",
             "answers": [
                 {
@@ -9350,19 +8301,6 @@
                 {
                     "text": "NE",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Metoda nejmenších čtverců je použitelná k pořízení bodového odhadu parametrů regresní funkce lineární v parametrech",
-            "answers": [
-                {
-                    "text": "ANO",
-                    "correct": true
-                },
-                {
-                    "text": "NE",
-                    "correct": false
                 }
             ]
         },
@@ -9445,19 +8383,6 @@
             ]
         },
         {
-            "text": "Průměrnou hodnotu časové řady je vždy vhodné vypočítat jako prostý aritmetický průměr jejích jednotlivých hodnot",
-            "answers": [
-                {
-                    "text": "NE",
-                    "correct": true
-                },
-                {
-                    "text": "ANO",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Fisherův index je aritmetickým průměrem Laspeyersova a Paascheho indexu",
             "answers": [
                 {
@@ -9483,40 +8408,6 @@
                 },
                 {
                     "text": "rozptyl ani variační koeficient se nezmění.",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Hustota pravděpodobnosti je",
-            "answers": [
-                {
-                    "text": "funkce popisující pravděpodobnostní rozdělení spojité náhodné veličiny",
-                    "correct": true
-                },
-                {
-                    "text": "funkce popisující pravděpodobnostní rozdělení nespojité náhodné veličiny",
-                    "correct": false
-                },
-                {
-                    "text": "jiný název pro distribuční funkci",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "Na základě náhodného výběru máme rozhodnout, zda podíl kuřáků v populaci přesahuje určité procento. Je-li jich ve vzorku o rozsahu 1000 zjištěno 300, potřebujeme znát",
-            "answers": [
-                {
-                    "text": "hladinu významnosti",
-                    "correct": true
-                },
-                {
-                    "text": "rozsah populace",
-                    "correct": false
-                },
-                {
-                    "text": "spolehlivost odhadu",
                     "correct": false
                 }
             ]
@@ -9565,7 +8456,7 @@
             ]
         },
         {
-            "text": "Při nezávislosti dvou kategoriálních proměnných se sdružené teoretické četnosti rovnají součinu marginálních četností ( v příslušném řádku a sloupci) děleném rozsahem souboru",
+            "text": "Při nezávislosti dvou kategoriálních proměnných se sdružené teoretické četnosti rovnají součinu marginálních četností (v příslušném řádku a sloupci) děleném rozsahem souboru",
             "answers": [
                 {
                     "text": "NE",
@@ -9574,19 +8465,6 @@
                 {
                     "text": "ANO",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Chronologický průměr se používá při výpočtu průměrného koeficientu růstu",
-            "answers": [
-                {
-                    "text": "NE (protože se používá geometrický ne?)",
-                    "correct": true
-                },
-                {
-                    "text": "ANO",
-                    "correct": false
                 }
             ]
         },
@@ -9677,23 +8555,6 @@
             ]
         },
         {
-            "text": "Pro normování normálně rozdělené náhodné veličiny potřebujeme znát",
-            "answers": [
-                {
-                    "text": "střední hodnotu a rozptyl náhodné veličiny",
-                    "correct": true
-                },
-                {
-                    "text": "pouze rozptyl této veličiny",
-                    "correct": false
-                },
-                {
-                    "text": "pouze střední hodnotu této veličiny",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Testová statistika používaná při analýze nezávislosti v kontingenční tabulce má za předpokladu platnosti testovan",
             "answers": [
                 {
@@ -9707,23 +8568,6 @@
                 {
                     "text": "Chí-kvadrát rozdělení (neznám celou otázku ale v kontingenční tabulce se využívá chí-kvadrát takže asi tohle :-))",
                     "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Co lze vyčíst z hodnoty párového korelačního koeficientu -1,27?",
-            "answers": [
-                {
-                    "text": "Chybu (této hodnoty korelační koeficient nemůže nabýt)",
-                    "correct": true
-                },
-                {
-                    "text": "nepřímou lineární závislost dvou proměnných",
-                    "correct": false
-                },
-                {
-                    "text": "lineární nezávislost dvou proměnných",
-                    "correct": false
                 }
             ]
         },
@@ -9928,19 +8772,6 @@
                 },
                 {
                     "text": "1,11",
-                    "correct": false
-                }
-            ]
-        },
-        {
-            "text": "U regresních funkcí lineárních v parametrech je součet odchylek skutečně pozorovaných hodnot vysvětlované proměnné od vyrovnaných hodnot odhadnutého modelu vždy kladný",
-            "answers": [
-                {
-                    "text": "NE",
-                    "correct": true
-                },
-                {
-                    "text": "ANO",
                     "correct": false
                 }
             ]
