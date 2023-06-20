@@ -3,6 +3,281 @@
     "name": "Finanční teorie, politika a instituce",
     "multichoice": false,
     "questions": [
+	{
+            "text": "Transakce: Poskytnutí bezhotovostního úvěru nebankovnímu subjektu (40 jednotek); Nákup pokladničních poukázek od centrální banky (20 jednotek); Prodej devizových prostředků centrální bance (25 jednotek); Výběr oběživa z centrální banky (5 jednotek) - Výsledná změna - aktiva i pasiva se",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "zvýší o 5"
+                },
+                {
+                    "correct": false,
+                    "text": "zvýší o 45"
+                },
+                {
+                    "correct": false,
+                    "text": "sníží o 70 "
+                },
+		{
+                    "correct": false,
+                    "text": "sníží o 90 "
+                },
+                {
+                    "correct": true,
+                    "text": "zvýší o 40"
+                }
+            ]
+        },
+	{
+            "text": "Součástí žádosti o přidělení bankovní licence nejsou",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "minimální výše kapitálu"
+                },
+		{
+                    "correct": false,
+                    "text": "informace o organizační struktuře"
+                },
+                {
+                    "correct": false,
+                    "text": "prokázání původu kapitálu"
+                },
+                {
+                    "correct": false,
+                    "text": "návrh stanov"
+                },
+                {
+                    "correct": true,
+                    "text": "hlášení o devizové pozici"
+                }
+            ]
+        },
+	{
+            "text": "Peníze v současnosti emitují",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "výhradně centrální banka, a to do ekonomiky i bankovního systému"
+                },
+                {
+                    "correct": false,
+                    "text": "výhradně obchodní banky, a to do ekonomiky i bankovního systému"
+                },
+                {
+                    "correct": false,
+                    "text": "centrální banka i obchodní banky do ekonomiky"
+                },
+		{
+                    "correct": false,
+                    "text": "centrální banka do bankovního systému a obchodní banky do ekonomiky"
+                },
+                {
+                    "correct": true,
+                    "text": "centrální banka do ekonomiky a obchodní banky do bankovního systému"
+                }
+            ]
+        },
+	{
+            "text": "Na peněžním trhu nejsou obchodovány",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "pokladniční poukázky"
+                },
+                {
+                    "correct": false,
+                    "text": "dluhopisy se splatností do 1 roku"
+                },
+                {
+                    "correct": false,
+                    "text": "depozitní certifikáty"
+                },
+		{
+                    "correct": false,
+                    "text": "vkladové listy"
+                },
+                {
+                    "correct": true,
+                    "text": "akciové instrumenty"
+                }
+            ]
+        },
+	{
+            "text": "Pro bilanci České národní banky v současnosti platí",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "je vyrovnána položkou chyby a opomenutí"
+                },
+                {
+                    "correct": false,
+                    "text": "rozhodující položkou na pasivech je oběživo"
+                },
+                {
+                    "correct": false,
+                    "text": "bilanční položka zlato má výrazně rostoucí tendenci"
+                },
+		{
+                    "correct": false,
+                    "text": "vysoký podíl úvěrů poskytovaných státu"
+                },
+                {
+                    "correct": true,
+                    "text": "rozhodující položkou na aktivech jsou devizové rezervy"
+                }
+            ]
+        },
+	{
+            "text": "Do aktiv obchodní banky patří",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "nerozdělený zisk"
+                },
+                {
+                    "correct": false,
+                    "text": "termínovaný podřízený dluh"
+                },
+                {
+                    "correct": false,
+                    "text": "dividendy"
+                },
+		{
+                    "correct": false,
+                    "text": "povinné minimální rezervy"
+                },
+                {
+                    "correct": true,
+                    "text": "cenné papíry ve správě"
+                }
+            ]
+        },
+	{
+            "text": "Příliv zahraniční měny do ekonomiky za jinak neměnných okolností vytváří tlak na",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "oslabení domácí a posílení zahraniční měny"
+                },
+                {
+                    "correct": false,
+                    "text": "relativní oslabení domácí měny"
+                },
+                {
+                    "correct": false,
+                    "text": "devalvaci domácí měny"
+                },
+		{
+                    "correct": false,
+                    "text": "revalvaci zahraniční měny"
+                },
+                {
+                    "correct": true,
+                    "text": "posílení domácí a oslabení zahraniční měny"
+                }
+            ]
+        },
+	{
+            "text": "Výnosová křivka zleva doprava je",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "ve tvaru písmene V"
+                },
+                {
+                    "correct": false,
+                    "text": "vždy klesající"
+                },
+                {
+                    "correct": false,
+                    "text": "vždy rostoucí"
+                },
+                {
+                    "correct": true,
+                    "text": "obvykle rostoucí"
+                },
+		{
+                    "correct": false,
+                    "text": "v zásadě kolmá na časovou osu"
+                }
+            ]
+        },
+	{
+            "text": "Měnové agregáty představují",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "podíly povinných minimální rezerv na běžných a termínovaných vkladech"
+                },
+                {
+                    "correct": false,
+                    "text": "deflátor hrubého národního produktu"
+                },
+		{
+                    "correct": false,
+                    "text": "objem zahraničních měn na účtech centrální banky"
+                },
+                {
+                    "correct": false,
+                    "text": "objem zahraničních měn na účtech obchodních bank"
+                },
+                {
+                    "correct": true,
+                    "text": "množství peněz v oběhu"
+                }
+            ]
+        },
+	{
+            "text": "Mezi základní součásti systému bankovní regulace patří",
+            "answers": [
+                {
+                    "correct": true,
+                    "text": "stanovení minimálního tempa růstu úvěrů a vkladů"
+                },
+                {
+                    "correct": false,
+                    "text": "podmíněná prognóza inflace"
+                },
+                {
+                    "correct": false,
+                    "text": "limitování vnitřních úvěrů tempem ekonomického růstu"
+                },
+                {
+                    "correct": false,
+                    "text": "kvantifikace inflačního cíle"
+                },
+		{
+                    "correct": false,
+                    "text": "pomoc věřitele poslední instance"
+                }
+            ]
+        },
+	{
+            "text": "Jednoduchý depozitní multiplikátor vyjadřuje poměr",
+            "answers": [
+                {
+                    "correct": false,
+                    "text": "běžné vklady / rezervy bank"
+                },
+                {
+                    "correct": false,
+                    "text": "běžné a termínované vklady / měnový agregát M1"
+                },
+                {
+                    "correct": false,
+                    "text": "měnový agregát M1 / běžné vklady"
+                },
+                {
+                    "correct": true,
+                    "text": "běžné vklady / měnová báze"
+                },
+		{
+                    "correct": false,
+                    "text": "měnový agregát M1 / běžné a termínované vklady"
+                }
+            ]
+        },
         {
             "text": "Veřejný dluh",
             "answers": [
