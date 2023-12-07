@@ -204,7 +204,7 @@
             ]
         },
         {
-            "text": "Z titulu zaměstnávání pracovníků se zdravotním postižením............",
+            "text": "Z titulu zaměstnávání pracovníků se zdravotním postižením lze:",
             "answers": [
                 {
                     "text": "Uplatnit slevu na dani, zaměstnavatel si podle zákona může od své daňové povinnosti odečíst částku stanovenou na každého pracovníka",
@@ -232,7 +232,7 @@
             "answers": [
                 { "text": "finanční kontrolu", "correct": true },
                 { "text": "finanční plánování", "correct": false },
-                { "text": "strategická kontrola", "correct": false },
+                { "text": "strategickou kontrolu", "correct": false },
                 { "text": "strategické plánování", "correct": false }
             ]
         },
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "text": "Označit vzorec (ukazatel) doby obratu zásob ve dnech:",
+            "text": "Označite vzorec (ukazatel) doby obratu zásob ve dnech:",
             "answers": [
                 {
                     "text": "poměr průměrného stavu zásob a denní výše tržeb, výnosů nebo nákladů",
@@ -344,7 +344,7 @@
                     "correct": false
                 },
                 {
-                    "text": "součin poměr průměrného stavu zásob a denní výše tržeb, výnosů nebo nákladů",
+                    "text": "součin poměru průměrného stavu zásob a denní výše tržeb, výnosů nebo nákladů",
                     "correct": false
                 }
             ]
@@ -357,7 +357,7 @@
             ]
         },
         {
-            "text": "Co nepatři do vnějších podmínek způsobující nejistotu v podniku",
+            "text": "Co nepatří do vnějších podmínek způsobující nejistotu v podniku",
             "answers": [
                 { "text": "nestabilita politické situace", "correct": false },
                 {
@@ -553,11 +553,11 @@
             "text": "Vyberte pravdivé tvrzení:",
             "answers": [
                 {
-                    "text": "Ztráta lze krýt z rezervního fondu",
+                    "text": "Ztrátu lze krýt z rezervního fondu",
                     "correct": true
                 },
                 {
-                    "text": "Ztráta nelze krýt z rezervního fondu",
+                    "text": "Ztrátu nelze krýt z rezervního fondu",
                     "correct": false
                 }
             ]
@@ -713,11 +713,11 @@
                 { "text": "Kauzální", "correct": false },
                 { "text": "Intuitivní", "correct": false },
                 { "text": "Statistická", "correct": true },
-                { "text": "Jiná mrdka", "correct": false }
+                { "text": "Technická", "correct": false }
             ]
         },
         {
-            "text": "Opakované pozorování určité dílčí události je ... mžÝenŪ pravděpodobnosti.",
+            "text": "Opakované pozorování určité dílčí události je ... měření pravděpodobnosti.",
             "answers": [
                 { "text": "subjektivní", "correct": false },
                 { "text": "objektivní", "correct": true }
@@ -763,7 +763,7 @@
                     "correct": false
                 },
                 {
-                    "text": "Div. politika založené na stŠlť vżöi dividendového podílu (DP)",
+                    "text": "Div. politika založené na stálé výši dividendového podílu (DP)",
                     "correct": false
                 }
             ]
@@ -797,7 +797,7 @@
                     "text": "finanční, legislativní, ostatní objektivní, subjektivní",
                     "correct": true
                 },
-                { "text": "bavim se", "correct": false }
+                { "text": "interní, externí, časové, prostorové", "correct": false }
             ]
         },
         {
@@ -1036,7 +1036,7 @@
                     "correct": true
                 },
                 {
-                    "text": "pomocí tržní ceny akcie a prie earning ratio",
+                    "text": "pomocí tržní ceny akcie a price earnings ratio",
                     "correct": false
                 }
             ]
@@ -1058,8 +1058,8 @@
         {
             "text": "Racionální investor má: ..... postoj k riziku:",
             "answers": [
-                { "text": "pozitivní", "correct": false },
-                { "text": "negativní", "correct": true }
+                { "text": "pozitivní (zamilovaný)", "correct": false },
+                { "text": "negativní (averzní)", "correct": true }
             ]
         },
         {
