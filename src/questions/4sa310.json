@@ -23,6 +23,10 @@
                     "correct": false
                 },
                 {
+                    "text": "Pravidlo pro řízení rizik",
+                    "correct": false
+                },
+                {
                     "text": "princip podle, kterého lze vybírat z více možností",
                     "correct": true
                 }
@@ -33,6 +37,14 @@
             "answers": [
                 {
                     "text": "řízení přístupu k datům",
+                    "correct": false
+                },
+                {
+                    "text": "řízený přístup k datům",
+                    "correct": false
+                },
+                {
+                    "text": "řízení kvality dat",
                     "correct": false
                 },
                 {
@@ -67,6 +79,14 @@
                 {
                     "text": "soulad s platnou legislativou",
                     "correct": true
+                },
+                {
+                    "text": "Finanční úspory vznikle díky dodržování norem",
+                    "correct": false
+                },
+                {
+                    "text": "Efektivnější procesy díky dodržení ověřených postupů",
+                    "correct": false
                 }
             ]
         },
@@ -87,6 +107,10 @@
                 },
                 {
                     "text": "agregovaná data",
+                    "correct": false
+                },
+                {
+                    "text": "transakční data",
                     "correct": false
                 },
                 {
@@ -128,7 +152,7 @@
             "text": "Kterou oblast pokrývá pojem Bi-modální řízení IT?",
             "answers": [
                 {
-                    "text": "???",
+                    "text": "řízení změn",
                     "correct": false
                 },
                 {
@@ -154,27 +178,6 @@
             ]
         },
         {
-            "text": "Který z uvedených standardů nepatří mezi agilní projektové metodiky?",
-            "answers": [
-                {
-                    "text": "IMPA",
-                    "correct": true
-                },
-                {
-                    "text": "PMI",
-                    "correct": true
-                },
-                {
-                    "text": "Kanban",
-                    "correct": false
-                },
-                {
-                    "text": "XP",
-                    "correct": false
-                }
-            ]
-        },
-        {
             "text": "Co znamená Gantt Chart v rámci projektového řízení?",
             "answers": [
                 {
@@ -190,7 +193,7 @@
                     "correct": false
                 },
                 {
-                    "text": "graf nákladů",
+                    "text": "graf výnosů",
                     "correct": false
                 },
                 {
@@ -237,6 +240,10 @@
             "answers": [
                 {
                     "text": "Governance je podmnožina nástrojů užívaných v Managementu",
+                    "correct": false
+                },
+                {
+                    "text": "Management je starší pojem užívaný při řízení podniku, který se dnes nahrazuje pojmem Governance",
                     "correct": false
                 },
                 {
@@ -335,6 +342,10 @@
                     "correct": false
                 },
                 {
+                    "text": "efektivitu procesu",
+                    "correct": false
+                },
+                {
                     "text": "uroveň zralosti procesu",
                     "correct": true
                 }
@@ -348,11 +359,19 @@
                     "correct": true
                 },
                 {
+                    "text": "ISO 20000",
+                    "correct": false
+                },
+                {
                     "text": "EPC",
                     "correct": true
                 },
                 {
                     "text": "COBIT",
+                    "correct": false
+                },
+                {
+                    "text": "ITIL",
                     "correct": false
                 },
                 {
@@ -381,6 +400,10 @@
                     "correct": false
                 },
                 {
+                    "text": "Organizační struktury",
+                    "correct": false
+                },
+                {
                     "text": "řízení výkonosti",
                     "correct": true
                 }
@@ -403,6 +426,10 @@
                 },
                 {
                     "text": "vzdálený team",
+                    "correct": false
+                },
+                {
+                    "text": "Lokální team",
                     "correct": false
                 },
                 {
@@ -460,6 +487,10 @@
                     "correct": false
                 },
                 {
+                    "text": "Datová pumpa",
+                    "correct": false
+                },
+                {
                     "text": "Míra informace",
                     "correct": true
                 }
@@ -471,6 +502,14 @@
                 {
                     "text": "oddělení role vlastníků a manažerů",
                     "correct": true
+                },
+                {
+                    "text": "Vytváření synergie a teamová spolupráce",
+                    "correct": false
+                },
+                {
+                    "text": "Vizualizace výchozí situace IT v podniku",
+                    "correct": false
                 },
                 {
                     "text": "eliminace zbytečných činností a centralizace zdrojů",
@@ -499,6 +538,10 @@
                 },
                 {
                     "text": "jsou rovnocené",
+                    "correct": false
+                },
+                {
+                    "text": "Není zde žádný vztah",
                     "correct": false
                 },
                 {
@@ -531,7 +574,7 @@
                     "correct": false
                 },
                 {
-                    "text": "norma o normách(Úvodní norma upravující normalizační pravidla norem",
+                    "text": "norma o normách (Úvodní norma upravující normalizační pravidla norem)",
                     "correct": true
                 }
             ]
@@ -549,6 +592,10 @@
                 },
                 {
                     "text": "informace",
+                    "correct": false
+                },
+                {
+                    "text": "názor",
                     "correct": false
                 },
                 {
@@ -570,6 +617,10 @@
                 },
                 {
                     "text": "Enabling Information",
+                    "correct": false
+                },
+                {
+                    "text": "Enabling Processes",
                     "correct": false
                 },
                 {
@@ -629,6 +680,14 @@
                 },
                 {
                     "text": "service operations",
+                    "correct": false
+                },
+                {
+                    "text": "service transition",
+                    "correct": false
+                },
+                {
+                    "text": "service design",
                     "correct": false
                 },
                 {
@@ -827,6 +886,14 @@
                     "correct": true
                 },
                 {
+                    "text": "Kontrola plnění příkazů",
+                    "correct": false
+                },
+                {
+                    "text": "Systém pochval a trestů",
+                    "correct": false
+                },
+                {
                     "text": "nevšímavost",
                     "correct": false
                 }
@@ -845,6 +912,10 @@
                 },
                 {
                     "text": "štábní struktura",
+                    "correct": false
+                },
+                {
+                    "text": "Projektové struktura",
                     "correct": false
                 },
                 {
@@ -879,6 +950,35 @@
             ]
         },
         {
+            "text": "Který z uvedených uživatelů není ve své práci ovlivněn COBIT metodikou?",
+            "answers": [
+                {
+                    "text": "Finanční ředitel",
+                    "correct": false
+                },
+                {
+                    "text": "IT Auditor",
+                    "correct": false
+                },
+                {
+                    "text": "Vlastník firmy",
+                    "correct": false
+                },
+                {
+                    "text": "Manažer IT",
+                    "correct": false
+                },
+                {
+                    "text": "Obchodní asistentka",
+                    "correct": true
+                },
+                {
+                    "text": "PR Specialista",
+                    "correct": true
+                }
+            ]
+        },
+        {
             "text": "Které z uvedených typů procesů patří mezi elementární typové dělení procesů?",
             "answers": [
                 {
@@ -895,6 +995,10 @@
                 },
                 {
                     "text": "Logistický proces",
+                    "correct": false
+                },
+                {
+                    "text": "IT proces",
                     "correct": false
                 },
                 {
@@ -969,11 +1073,15 @@
                     "correct": false
                 },
                 {
-                    "text": "Přehled o aktivitě uživatelů a Workflow dokumentů",
+                    "text": "Přehled o aktivitě uživatelů a Work-flow dokumentů",
                     "correct": true
                 },
                 {
                     "text": "Příjemné grafické rozhraní (GUI)",
+                    "correct": false
+                },
+                {
+                    "text": "Možnost vytvářet webové aplikace",
                     "correct": false
                 },
                 {
@@ -998,6 +1106,14 @@
                     "correct": false
                 },
                 {
+                    "text": "Zakladatelská smlouva podniku",
+                    "correct": false
+                },
+                {
+                    "text": "Firemní normy",
+                    "correct": false
+                },
+                {
                     "text": "Procesy",
                     "correct": true
                 }
@@ -1016,6 +1132,10 @@
                 },
                 {
                     "text": "Destroy",
+                    "correct": false
+                },
+                {
+                    "text": "Use and share",
                     "correct": false
                 },
                 {
@@ -1079,7 +1199,7 @@
             "answers": [
                 {
                     "text": "Prince 2",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "IMPA",
@@ -1094,7 +1214,7 @@
                     "correct": false
                 },
                 {
-                    "text": "XP",
+                    "text": "XP (extrémní programování)",
                     "correct": false
                 },
                 {
@@ -1123,28 +1243,11 @@
                     "correct": false
                 },
                 {
+                    "text": "soupis všech nákladů",
+                    "correct": false
+                },
+                {
                     "text": "příciny problému",
-                    "correct": true
-                }
-            ]
-        },
-        {
-            "text": "Které z uvedených pojmů označuje notaci zápisu procesů?",
-            "answers": [
-                {
-                    "text": "ISO 27000",
-                    "correct": false
-                },
-                {
-                    "text": "COBIT",
-                    "correct": false
-                },
-                {
-                    "text": "ISO 20000",
-                    "correct": false
-                },
-                {
-                    "text": "EPC",
                     "correct": true
                 }
             ]
@@ -1154,6 +1257,10 @@
             "answers": [
                 {
                     "text": "Řízení rostoucí komplexity v IT službách (na to reaguje ITIL 4)",
+                    "correct": false
+                },
+                {
+                    "text": "Zapojení externích dodavatelů do IT služeb",
                     "correct": false
                 },
                 {
@@ -1196,6 +1303,10 @@
                 {
                     "text": "Governance obecně představuje PRAVIDLA tedy řídící rámec definující role, zodpovědnosti,  pravomoci, a způsob komunikace",
                     "correct": true
+                },
+                {
+                    "text": "Governance obecne definuje PRAVIDLA tedy řidicí ramec a Management se pak pohybuje v ramci danných pravidel",
+                    "correct": true
                 }
             ]
         },
@@ -1232,23 +1343,27 @@
             "text": "Která z uvedených norem je úzce specifická pro práci s daty?",
             "answers": [
                 {
-                    "text": "ISO 27000",
-                    "correct": false
+                    "text": "DMBOK DAMA",
+                    "correct": true
                 },
                 {
                     "text": "ITIL",
                     "correct": false
                 },
                 {
-                    "text": "CRISP DM",
-                    "correct": true
-                },
-                {
                     "text": "COBIT",
                     "correct": false
                 },
                 {
-                    "text": "DOMBOK DAMA",
+                    "text": "ISO 9000",
+                    "correct": false
+                },
+                {
+                    "text": "ISO 27000",
+                    "correct": false
+                },
+                {
+                    "text": "CRISP DM",
                     "correct": true
                 }
             ]
@@ -1273,12 +1388,16 @@
                     "correct": false
                 },
                 {
+                    "text": "Finanční postih",
+                    "correct": false
+                },
+                {
                     "text": "Neurčitost dopadu určitého jevu",
                     "correct": true
                 }
             ]
         },
-         {
+        {
             "text": "Který z uvedených typů IT teamů patří do rozdělení teamů dle samostatnosti?",
             "answers": [
                 {
@@ -1291,6 +1410,14 @@
                 },
                 {
                     "text": "homogenní team",
+                    "correct": false
+                },
+                {
+                    "text": "Autonomní team",
+                    "correct": true
+                },
+                {
+                    "text": "lokální team",
                     "correct": false
                 },
                 {
@@ -1365,6 +1492,10 @@
                     "correct": false
                 },
                 {
+                    "text": "Špatné chování zaměstnanců",
+                    "correct": false
+                },
+                {
                     "text": "Když se ukáže, že dosavadní kultura a nastavení firmu směřuje k úpadku",
                     "correct": true
                 }
@@ -1378,12 +1509,20 @@
                     "correct": false
                 },
                 {
+                    "text": "SOTIF ISO/PAS 21448",
+                    "correct": false
+                },
+                {
                     "text": "ISO 20000",
                     "correct": true
                 },
                 {
                     "text": "COBIT",
                     "correct": true
+                },
+                {
+                    "text": "ISO 9000",
+                    "correct": false
                 },
                 {
                     "text": "ISO 14000",
@@ -1400,6 +1539,10 @@
                 },
                 {
                     "text": "data",
+                    "correct": false
+                },
+                {
+                    "text": "technologie",
                     "correct": false
                 },
                 {
@@ -1429,6 +1572,14 @@
                 },
                 {
                     "text": "Diskrétní systém",
+                    "correct": false
+                },
+                {
+                    "text": "Statický",
+                    "correct": false
+                },
+                {
+                    "text": "Stochastický systém",
                     "correct": false
                 },
                 {
