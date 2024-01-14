@@ -1,0 +1,1429 @@
+{
+  "code": "4IZ210",
+  "name": "Zpracování informací a znalostí",
+  "multichoice": true,
+  "questions": [
+    {
+      "text": "Který z následujících termínů nesouvisí s problematikou PageRanku?",
+      "answers": [
+        {
+          "text": "matice incidence",
+          "correct": false
+        },
+        {
+          "text": "konvergenční kritérium",
+          "correct": false
+        },
+        {
+          "text": "rank sink",
+          "correct": false
+        },
+        {
+          "text": "náhodný surfař",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích",
+          "correct": true
+        },
+        {
+          "text": "damping faktor",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaká je správná syntaxe pro pole obsahující pět čísel 1,2,3,4,5 v JSON?",
+      "answers": [
+        {
+          "text": "[1,2,3,4,5]",
+          "correct": true
+        },
+        {
+          "text": "(1,2,3,4,5)",
+          "correct": false
+        },
+        {
+          "text": "<1,2,3,4,5>",
+          "correct": false
+        },
+        {
+          "text": "{1,2,3,4,5}",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaká JSON hodnota je nevalidní?",
+      "answers": [
+        {
+          "text": "1.5",
+          "correct": false
+        },
+        {
+          "text": "1500",
+          "correct": false
+        },
+        {
+          "text": "[\"a\",\"b\",\"c\"]",
+          "correct": false
+        },
+        {
+          "text": "všechny jsou validní",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Jak bude vypadat Google matice při dumping faktoru 1?",
+      "answers": [
+        {
+          "text": "Totožná s maticí S",
+          "correct": true
+        },
+        {
+          "text": "Matice bude obsahovat samé nuly",
+          "correct": false
+        },
+        {
+          "text": "Diagonála matice bude vždy obsahovat pouze nulové hodnoty",
+          "correct": false
+        },
+        {
+          "text": "Pravděpodobnost přechodu do kteréhokoliv uzlu je pro každý uzel stejná; tedy matice bude obsahovat pouze hodnoty 1/n, kde n je počet všech uzlů",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Co není v regexu kvantifikátor?",
+      "answers": [
+        {
+          "text": "otazník",
+          "correct": false
+        },
+        {
+          "text": "pomlčka",
+          "correct": true
+        },
+        {
+          "text": "plus",
+          "correct": false
+        },
+        {
+          "text": "hvězdička",
+          "correct": false
+        },
+        {
+          "text": "{min, max}",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Normalizovaná term frekvence může nabývat hodnot?",
+      "answers": [
+        {
+          "text": "menších nebo rovno 1",
+          "correct": true
+        },
+        {
+          "text": "větších než 1",
+          "correct": false
+        },
+        {
+          "text": "libovolných",
+          "correct": false
+        },
+        {
+          "text": "ani jedna z odpovědí není správná",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jak se liší poměrný informační zisk použitý v algoritmu C4.5 od informačního zisku ID3?",
+      "answers": [
+        {
+          "text": "informační zisk preferuje atributy s vysokým počtem hodnot, poměrný informační člen má normalizační člen, který to řeší",
+          "correct": true
+        },
+        {
+          "text": "umožňuje zpracovat spojité atributy",
+          "correct": false
+        },
+        {
+          "text": "Poměrný informační zisk vyjadřuje poměr informačního zisku kořenového atributu a informačního zisku cílového atributu",
+          "correct": false
+        },
+        {
+          "text": "Na rozdíl od informačního zisku, který je heuristikou, zaručuje poměrný zisk optimální řešení",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Co neplatí o algoritmu ID3?",
+      "answers": [
+        {
+          "text": "Algoritmus vybere jako kořenový uzel stromu atribut s nejpříznivější hodnotou použité míry dobroty (Goodness)",
+          "correct": false
+        },
+        {
+          "text": "Algoritmus negarantuje nalezení optimálního řešení",
+          "correct": false
+        },
+        {
+          "text": "Algoritmus je postaven na žravém principu, pokud je jednou do stromu přidán atribut jako rozhodovací uzel, algoritmus se k němu již nemůže vrátit a změnit ho.",
+          "correct": false
+        },
+        {
+          "text": "Algoritmus může provádět „backtracking“ (pokud je jednou do stromu přidán atribut jako rozhodovací uzel, algoritmus se k němu může vrátit a změnit ho)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Při shlukové analýze (clusterování) jsou objekty seskupovány tak, že:",
+      "answers": [
+        {
+          "text": "minimalizují vnitroshlukové vzdálenosti a maximalizují mezishlukové vzdálenosti",
+          "correct": true
+        },
+        {
+          "text": "maximalizují vnitroshlukové i mezishlukové vzdálenosti",
+          "correct": false
+        },
+        {
+          "text": "maximalizují vnitroshlukové vzdálenosti a minimalizují mezishlukové vzdálenosti",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "O shlukování platí:",
+      "answers": [
+        {
+          "text": "Shlukování spadá pod klasifikační data-miningovou úlohu",
+          "correct": false
+        },
+        {
+          "text": "Principem je maximalizace vnitroshlukové vzdálenosti a minimalizace mezishlukové vzdálenosti",
+          "correct": false
+        },
+        {
+          "text": "Jedním z používaných algoritmů je algoritmus apriori",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Uvažujme shluk obsahující A=[4,6,50] B=[7,9,4] C=[1,0,0]. Jaký bude centroid tohoho shluku?",
+      "answers": [
+        {
+          "text": "[12,15,9]",
+          "correct": false
+        },
+        {
+          "text": "[4,4,0]",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Uvažujme shluk obsahující A=[4,6,5] B=[7,9,4] C=[1,0,0] Jaký bude centroid tohoho shluku?",
+      "answers": [
+        {
+          "text": "[4,5,3]",
+          "correct": true
+        },
+        {
+          "text": "[6,9,1]",
+          "correct": false
+        },
+        {
+          "text": "[2,3,1]",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "K čemu neslouží jazyk XML Schema?",
+      "answers": [
+        {
+          "text": "K popsání struktury XML dokumentu",
+          "correct": false
+        },
+        {
+          "text": "K definici vizuální reprezentace informací obsažených v XML dokumentu",
+          "correct": true
+        },
+        {
+          "text": "K definici omezení na obsah elementů v XML dokumentu",
+          "correct": false
+        },
+        {
+          "text": "K definici povolených elementů v XML dokumentu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaké tvrzení o XML Schema je pravdivé?",
+      "answers": [
+        {
+          "text": "XML Schema umožňuje kontrolovat obsah libovolných strukturovaných dokumentů",
+          "correct": true
+        },
+        {
+          "text": "XML Schema se zapisuje v jazyce XML",
+          "correct": true
+        },
+        {
+          "text": "XML Schema slouží ke stejnému účelu jako JSON, ale má více možností",
+          "correct": false
+        },
+        {
+          "text": "XML Schema slouží ke stejnému účelu jako CSV, ale má více možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaká z následujících syntaxí je v XML povolena:",
+      "answers": [
+        {
+          "text": "neuzavřené tagy, např.: <br>",
+          "correct": false
+        },
+        {
+          "text": "prázdný element <emai1/>",
+          "correct": true
+        },
+        {
+          "text": "vyhrazené znaky uvnitř elementu, např.. <text> < </text>",
+          "correct": false
+        },
+        {
+          "text": "více než jeden kořenový element",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Uvažujte element „produkt“, který je definován v XML Schema pomocí xs:element. V definici je uvedena hodnota atributu maxOccurs „unbounded“ a hodnota minOccurs není uvedena. Kolikrát se element produkt musí dle této definice na patřičném místě dokumentu vyskytnout?",
+      "answers": [
+        {
+          "text": "Nejméně 0x",
+          "correct": false
+        },
+        {
+          "text": "Nejvíce 1x",
+          "correct": false
+        },
+        {
+          "text": "Právě jednou",
+          "correct": false
+        },
+        {
+          "text": "Nejméně 1x",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Které tvrzení o formátu CSV není pravdivé?",
+      "answers": [
+        {
+          "text": "Každý záznam obsahuje stejné pole ve stejném pořadí",
+          "correct": true
+        },
+        {
+          "text": "Je možno použít libovolné kódování",
+          "correct": false
+        },
+        {
+          "text": "Obsahuje záznamy, jeden záznam může být na více řádcích",
+          "correct": true
+        },
+        {
+          "text": "Není možné vyjádřit relace mezi záznamy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Pro jaký způsob využití v procesu hodnocení webové stránky na určitý dotaz byl algoritmus PageRank navržen?",
+      "answers": [
+        {
+          "text": "Hodnota PR se použije jako jediná míra relevance stránky na daný dotaz. Nejvyšší PR je první ve výsledcích",
+          "correct": true
+        },
+        {
+          "text": "Výsledná relevance stránky vznikne zkombinováním hodnoty PR s hub score",
+          "correct": false
+        },
+        {
+          "text": "Hodnota PR pro danou stránku se zkombinuje s dalšími měrami relevance stránky na daný dotaz",
+          "correct": false
+        },
+        {
+          "text": "Hodnota PR se použije jako jediná míra relevance stránky na daný dotaz. Nejvyšší PR je Google poslední ve výsledcích",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Označme symbolem G Google matici a symbolem H příslušnou H matici celého internetu. Jaké tvrzení je pravdivé?",
+      "answers": [
+        {
+          "text": "Matice G je hustší než matice H",
+          "correct": true
+        },
+        {
+          "text": "Matice G je stejně hustá jako matice H",
+          "correct": false
+        },
+        {
+          "text": "Matice G může být v některých případech řidší než matice H, jindy hustší",
+          "correct": false
+        },
+        {
+          "text": "Matice G je řidší než matice H",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Pro rozšiřování Booleovského modelu vyhledávání dokumentů platí:",
+      "answers": [
+        {
+          "text": "Řazení vybraných dokumentů podle důležitosti nepatří mezi důvody rozšiřování Booleovského modelu",
+          "correct": false
+        },
+        {
+          "text": "Rozlišení důležitosti deskriptorů v dotazu nepatří mezi důvody rozšiřování Booleovského modelu",
+          "correct": false
+        },
+        {
+          "text": "Odstranění tvrdosti booleovských operací patří mezi důvody rozšiřování Booleovského modelu",
+          "correct": true
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Rozšíření booleovského modelu vyhledávání dokumentu pomocí fuzzy logiky neumožňuje:",
+      "answers": [
+        {
+          "text": "Odstranit tvrdost booleovských operací (AND)",
+          "correct": true
+        },
+        {
+          "text": "Rozlišit důležitost deskriptorů v dotazu",
+          "correct": false
+        },
+        {
+          "text": "Řadit vybrané dokumenty podle důležitosti",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Geometrické rozšíření booleovského modelu vyhledávání dokumentu neumožňuje:",
+      "answers": [
+        {
+          "text": "Řadit vybrané dokumenty podle důležitosti",
+          "correct": true
+        },
+        {
+          "text": "Rozlišit důležitost deskriptorů v dotazu",
+          "correct": false
+        },
+        {
+          "text": "Rozlišit důležitost deskriptorů v dokumentu",
+          "correct": false
+        },
+        {
+          "text": "Odstranit tvrdost booleovských operací (AND)",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaký je název pro syntaktický konstrukt (?=b)?",
+      "answers": [
+        {
+          "text": "Atomické seskupování",
+          "correct": false
+        },
+        {
+          "text": "Pozitivní lookbehind",
+          "correct": false
+        },
+        {
+          "text": "Pozitivní lookahead",
+          "correct": true
+        },
+        {
+          "text": "Posesivní kvantifikátor",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Co nesouvisí s algoritmy pro rozhodovací stromy?",
+      "answers": [
+        {
+          "text": "Centroid",
+          "correct": true
+        },
+        {
+          "text": "C4.5",
+          "correct": false
+        },
+        {
+          "text": "Míra dobroty (Goodness)",
+          "correct": false
+        },
+        {
+          "text": "Poměrný informační zisk",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaké tvrzení o Lloydově algoritmu pro k-means shlukování je nepravdivé?",
+      "answers": [
+        {
+          "text": "Výsledkem algoritmu je přiřazení do právě tří shluku",
+          "correct": false
+        },
+        {
+          "text": "Na začátku výpočtu je nutné zvolit počet clusterů",
+          "correct": false
+        },
+        {
+          "text": "Výsledek je vždy jednoznačný, nezáleží na volbě počátečních centroidů",
+          "correct": true
+        },
+        {
+          "text": "Euklidovská vzdálenost je jednou z možných metrik, kterou algoritmus využívá pro přiřazení instance nejbližšímu centroidu.",
+          "correct": false
+        },
+        {
+          "text": "Shlukování probíhá v prostoru dimenze d, kde každý atribut (sloupec/rys) tvoří právě jednu dimenzi.",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Které tvrzení vztahující se k logistické regresi je pravdivé?",
+      "answers": [
+        {
+          "text": "Logistická regrese nepracuje přímo s vícehodnotovými kategoriálními proměnnými, ale pro využití takových proměnných lze využít transformaci na dummy proměnné.",
+          "correct": true
+        },
+        {
+          "text": "Logistická regrese nepracuje přímo s vícehodnotovými numerickými  proměnnými, ale pro využití takových proměnných lze využít transformaci na dummy proměnné.",
+          "correct": true
+        },
+        {
+          "text": "Parametry modelu logistické regrese je možné získat pomocí́ metody nejmenších čtverců (normální rovnice).",
+          "correct": false
+        },
+        {
+          "text": "Parametry modelu logistické regrese je možné získat pomocí́ algoritmu největšího spádu.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Co platí o tvrzeních v jazyce RDF?",
+      "answers": [
+        {
+          "text": "Predikát tvrzení musí být identifikován pomocí URL adresy.",
+          "correct": true
+        },
+        {
+          "text": "RDF tvrzení se sestávají ze subjektu, objektu a předmětu.",
+          "correct": false
+        },
+        {
+          "text": "Předmět tvrzení může být identifikován pomocí URL adresy.",
+          "correct": true
+        },
+        {
+          "text": "Subjekt tvrzení musí být identifikován pomocí URL adresy.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Jaký dotazovací jazyk se používá pro datový formát RDF? (multiple choice?)",
+      "answers": [
+        {
+          "text": "SPARQL",
+          "correct": true
+        },
+        {
+          "text": "Booleovský model",
+          "correct": false
+        },
+        {
+          "text": "Vektorový model",
+          "correct": false
+        },
+        {
+          "text": "SQL",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Které z uvedených patří mezi zásady pro zveřejňování propojených dat? (asi)",
+      "answers": [
+        {
+          "text": "Preferovaným formátem pro propojená data je XML Schema.",
+          "correct": false
+        },
+        {
+          "text": "Preferovaným formátem pro propojená data je JSON.",
+          "correct": false
+        },
+        {
+          "text": "Preferovaným formátem pro propojená data je CSV.",
+          "correct": false
+        },
+        {
+          "text": "Použitá adresa je pouze identifikátorem, neposkytuje popis zdroje přes HTTP protokol (naopak ano)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Který z uvedených CSV dokumentů je syntakticky správně?",
+      "answers": [
+        {
+          "text": "\"id\",\"produkt\"",
+          "correct": false
+        },
+        {
+          "text": "\"1\",\"káva\\\"super\"",
+          "correct": false
+        },
+        {
+          "text": "\"id\",\"produkt\"",
+          "correct": false
+        },
+        {
+          "text": "\"1\",\"\\\"káva\\\"super\"",
+          "correct": false
+        },
+        {
+          "text": "id,produkt",
+          "correct": false
+        },
+        {
+          "text": "1,\"káva\\\"super\"",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Vyberte jen jednu z následujících možných odpovědí:",
+      "answers": [
+        {
+          "text": "V úloze lineární regrese je výstupní proměnná kvantitativní, v úloze logistické regrese je výstupní proměnná kvantitativní.",
+          "correct": false
+        },
+        {
+          "text": "V úloze lineární regrese je výstupní proměnná kvantitativní, v úloze logistické regrese je výstupní proměnná kategoriální.",
+          "correct": true
+        },
+        {
+          "text": "V úloze lineární regrese je výstupní proměnná kategoriální, v úloze logistické regrese je výstupní proměnná kategoriální.",
+          "correct": false
+        },
+        {
+          "text": "V úloze lineární regrese je výstupní proměnná kategoriální, v úloze logistické regrese je výstupní proměnná kvantitativní.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Co rozpozná regex výraz ^ pokud je aktivován režim multiline?",
+      "answers": [
+        {
+          "text": "konec řádku",
+          "correct": false
+        },
+        {
+          "text": "začátek řádku",
+          "correct": true
+        },
+        {
+          "text": "konec řetězce",
+          "correct": false
+        },
+        {
+          "text": "začátek řetězce",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Co rozpozná regex výraz $ pokud je aktivován režim multiline?",
+      "answers": [
+        {
+          "text": "konec řádku",
+          "correct": true
+        },
+        {
+          "text": "začátek řádku",
+          "correct": false
+        },
+        {
+          "text": "konec řetězce",
+          "correct": false
+        },
+        {
+          "text": "začátek řetězce",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Které tvrzení o přeučení není pravdivé?",
+      "answers": [
+        {
+          "text": "Při prořezávání na zadržených (hold-out) datech se pro prořezávání stromu nepoužijí trénovací data.",
+          "correct": false
+        },
+        {
+          "text": "Všechna níže uvedená tvrzení jsou pravdivá",
+          "correct": true
+        },
+        {
+          "text": "Přeučení se řeší pomocí prořezávání rozhodovacího stromu",
+          "correct": false
+        },
+        {
+          "text": "„Resubstitution erorr“ je zvýšení chyby stromu na trénovacích datech.",
+          "correct": false
+        },
+        {
+          "text": "Jedním z algoritmů pro prořezávání je Reduced Error Pruning",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Který z uvedených popisů necharakterizuje přeučený rozhodovací strom?",
+      "answers": [
+        {
+          "text": "Strom má velký počet listových uzlů",
+          "correct": false
+        },
+        {
+          "text": "Strom má velkou hloubku",
+          "correct": false
+        },
+        {
+          "text": "Strom má malou hloubku",
+          "correct": true
+        },
+        {
+          "text": "Strom klasifikuje trénovací instance s výrazně menší chybou než testovací instance.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Nechť S je spolehlivost, P je podpora a L je lift asociačního pravidla φ ≈  v matici dat D. Potom obecně platí:",
+      "answers": [
+        {
+          "text": "P + L = 1",
+          "correct": false
+        },
+        {
+          "text": "existuje taková matice dat, pro kterou platí L < 1",
+          "correct": true
+        },
+        {
+          "text": "L ≥ 1",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Které tvrzení je pravdivé?",
+      "answers": [
+        {
+          "text": "Koeficienty v lineární regresi lze přesně odhadnout pouze pomocí metody největšího spádu, metoda nejmenších čtverců dává pouze aproximativní řešení.",
+          "correct": false
+        },
+        {
+          "text": "Metoda největšího spádu vždy nalezne exaktní řešení.",
+          "correct": false
+        },
+        {
+          "text": "Metoda nejmenších čtverců může být na velkých datech rychlejší než metoda největšího spádu, metodu největšího spádu ale nelze použít pro odhad koeficientů v lineární regresi.",
+          "correct": false
+        },
+        {
+          "text": "Metoda největšího spádu je jedna z metod pro odhad koeficientů v lineární regresi.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Výraz pro atomické seskupování je:",
+      "answers": [
+        {
+          "text": "?<!",
+          "correct": false
+        },
+        {
+          "text": "?>",
+          "correct": true
+        },
+        {
+          "text": "?=",
+          "correct": false
+        },
+        {
+          "text": "<3",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Pro rozšiřování Booleovského modelu vyhledávání dokumentů platí?",
+      "answers": [
+        {
+          "text": "řazení vybraných dokumentů podle důležitosti nepatří mezi důvody rozšiřování",
+          "correct": false
+        },
+        {
+          "text": "rozlišení důležitosti deskriptorů v dotazu nepatří mezi důvody rozšiřování",
+          "correct": false
+        },
+        {
+          "text": "odstranění tvrdosti Booleovských operací patří mezi důvody rozšiřování",
+          "correct": true
+        },
+        {
+          "text": "žádná z předchozích",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Dokument D má dva destriptory U a V. Váha U je 0,6 a váha V je 0,3. Dotaz [U; 0,2] AND [V; Y] znamená, že nás zajímají dokumenty, ve kterých se vyskytuje deskriptor U a zároveň deskriptor V. Váha deskriptoru U v tomto dotazu je 0,2, váha deskriptoru V není známá, značíme ji Y. Váha tohoto dotazu v dokumentu D vypočítaná v rozšíření boolovského modelu pomocí fuzzy logiky je rovna 0,12. Pro každou z možných hodnot Y tedy platí?",
+      "answers": [
+        {
+          "text": "Y >= 0,4",
+          "correct": true
+        },
+        {
+          "text": "Y <= 0,6",
+          "correct": false
+        },
+        {
+          "text": "Y = 0,3",
+          "correct": false
+        },
+        {
+          "text": "Y = sqrt(0,3^2+0,12^2/2)",
+          "correct": false
+        },
+        {
+          "text": "AND bere menší číslo",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Dokument D má dva destriptory U a V. Váha U je 0,6 a váha V je 0,3. Dotaz [U; 0,2] OR [V; Y] znamená, že nás zajímají dokumenty, ve kterých se vyskytuje deskriptor U a zároveň deskriptor V. Váha deskriptoru U v tomto dotazu je 0,2, váha deskriptoru V není známá, značíme ji Y. Váha tohoto dotazu v dokumentu D vypočítaná v rozšíření boolovského modelu pomocí fuzzy logiky je rovna 0,12. Pro každou z možných hodnot Y tedy platí?",
+      "answers": [
+        {
+          "text": "Y <= 0,4",
+          "correct": true
+        },
+        {
+          "text": "Y = 0,5",
+          "correct": false
+        },
+        {
+          "text": "Y >= 0,3",
+          "correct": false
+        },
+        {
+          "text": "Y = sqrt(0,3^2+0,12^2/2)",
+          "correct": false
+        },
+        {
+          "text": "OR bere větší číslo",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Dokument má 2 deskriptory U a V. U je 0,5 a V je 0,4. Dotaz [U; 0,8] OR [V; 0,2]. Váha tohoto dotazu je X a je rovna?",
+      "answers": [
+        {
+          "text": "X = 0,5",
+          "correct": false
+        },
+        {
+          "text": "X = 0,2",
+          "correct": false
+        },
+        {
+          "text": "X = 1",
+          "correct": false
+        },
+        {
+          "text": "X = 0,4",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Term se vyskytuje v 10 dokumentech a jeho inverzní dokumentová frek je 0. Kolik je celkem zaindexovaných dokumentů?",
+      "answers": [
+        {
+          "text": "10",
+          "correct": true
+        },
+        {
+          "text": "log10",
+          "correct": false
+        },
+        {
+          "text": "10*10",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme body v euklidovském prostoru A = [a1,15]a B = [0, 12] s neznámou souřadnicí a1. Víme, že euklidovská vzdálenost mezi oběma body je 5. Jaká je hodnota neznámé a1?",
+      "answers": [
+        {
+          "text": "2",
+          "correct": false
+        },
+        {
+          "text": "5",
+          "correct": false
+        },
+        {
+          "text": "3",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Jako konvergenční kritérium algoritmu Page Rank byl zvolen rozdíl L1 normy oproti předchozí itineraci. Jaká bude velikost tohoto rozdílu máme-li tyto vektory Pi5=[0,489 0,090 0,465 0,040] a pi6=[0,423 0,090 0,456 0,040]?",
+      "answers": [
+        {
+          "text": "0,073",
+          "correct": false
+        },
+        {
+          "text": "1",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Mějme PageRank vektory = [ 0,25 0,5 0,05 0,2] & [ 0,2 0,5 0,15 0,15 ]. Jak by vypadal PageRank vektor v nulté iteraci?",
+      "answers": [
+        {
+          "text": "[ 0,25 0,25 0,25 0,25 ]",
+          "correct": true
+        },
+        {
+          "text": "[ -0,05 0 0,1 -0,05 ]",
+          "correct": false
+        },
+        {
+          "text": "[0 0 0 0]",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Tabulka odpovídá invertovanému souboru pro dokumenty D1,D2,D3 a D4: Informace:D2,D3; Počítač:D1,D3,D4; Systém:D1,D2,D4; Tiskárna:D1; Výsledek boolovského dotazu informace AND tiskárna je množina:",
+      "answers": [
+        {
+          "text": "{D2,D3}",
+          "correct": false
+        },
+        {
+          "text": "{D3,D4}",
+          "correct": false
+        },
+        {
+          "text": "{D1}",
+          "correct": false
+        },
+        {
+          "text": "Žádná z předchozích možností",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Co rozpozná regulární výraz 00*?10+ v řetezci 1010001001?",
+      "answers": [
+        {
+          "text": "celý řetězec",
+          "correct": false
+        },
+        {
+          "text": "01000",
+          "correct": true
+        },
+        {
+          "text": "01001",
+          "correct": false
+        },
+        {
+          "text": "101000",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Uvažujte následující regulární výraz: (?<=@).+(?=\\.) co tento regulární výraz rozpozná v textu: name@domain.cz?",
+      "answers": [
+        {
+          "text": "name@domain",
+          "correct": false
+        },
+        {
+          "text": "domain",
+          "correct": true
+        },
+        {
+          "text": "žádné z uvedených",
+          "correct": false
+        },
+        {
+          "text": "domain.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Regulární výraz \\d\\.\\s(\\w)(.)\\1 Který z řetězců bude rozpoznán celý?",
+      "answers": [
+        {
+          "text": "9. 9a1",
+          "correct": false
+        },
+        {
+          "text": "5. w?w",
+          "correct": true
+        },
+        {
+          "text": "žádný z uvedených",
+          "correct": false
+        },
+        {
+          "text": "8.klk",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=30 b=x c=y d=8697. Kolik je x, když přesnost je 1/3?",
+      "answers": [
+        {
+          "text": "60",
+          "correct": true
+        },
+        {
+          "text": "20",
+          "correct": false
+        },
+        {
+          "text": "30",
+          "correct": false
+        },
+        {
+          "text": "40",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=30 b=x c=y d=8697. Kolik je x, když úplnost je 1/2?",
+      "answers": [
+        {
+          "text": "60",
+          "correct": false
+        },
+        {
+          "text": "20",
+          "correct": false
+        },
+        {
+          "text": "30",
+          "correct": true
+        },
+        {
+          "text": "40",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=235 b=15 c=35 d=265. Jaká je správnost?",
+      "answers": [
+        {
+          "text": "500/550",
+          "correct": true
+        },
+        {
+          "text": "235/550",
+          "correct": false
+        },
+        {
+          "text": "50/500",
+          "correct": false
+        },
+        {
+          "text": "235/250",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=235 b=15 c=35 d=265. Jaká je úplnost pro třídu ANO?",
+      "answers": [
+        {
+          "text": "500/550",
+          "correct": false
+        },
+        {
+          "text": "235/270",
+          "correct": true
+        },
+        {
+          "text": "265/280",
+          "correct": false
+        },
+        {
+          "text": "235/250",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=235 b=15 c=35 d=265. Jaká je přesnost pro třídu ANO?",
+      "answers": [
+        {
+          "text": "235/250",
+          "correct": true
+        },
+        {
+          "text": "235/550",
+          "correct": false
+        },
+        {
+          "text": "50/500",
+          "correct": false
+        },
+        {
+          "text": "235/270",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=235 b=15 c=35 d=265. Jaká je hodnota false positive?",
+      "answers": [
+        {
+          "text": "15",
+          "correct": true
+        },
+        {
+          "text": "235",
+          "correct": false
+        },
+        {
+          "text": "265",
+          "correct": false
+        },
+        {
+          "text": "35",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=235 b=15 c=35 d=265. Jaká je hodnota true negative?",
+      "answers": [
+        {
+          "text": "15",
+          "correct": false
+        },
+        {
+          "text": "235",
+          "correct": false
+        },
+        {
+          "text": "265",
+          "correct": true
+        },
+        {
+          "text": "35",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme 4polní tabulku a=235 b=15 c=35 d=265. Jaká je hodnota false negative?",
+      "answers": [
+        {
+          "text": "15",
+          "correct": false
+        },
+        {
+          "text": "235",
+          "correct": false
+        },
+        {
+          "text": "265",
+          "correct": false
+        },
+        {
+          "text": "35",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Regulární výraz [a-z]{4} je zde použit jaký typ lookaround?",
+      "answers": [
+        {
+          "text": "nagativní lookhead",
+          "correct": false
+        },
+        {
+          "text": "atomický lookaround",
+          "correct": false
+        },
+        {
+          "text": "pozitivní lookbehond",
+          "correct": false
+        },
+        {
+          "text": "žádná z předchozích",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Máme regex (?:cde)(abc)X?[abc]*?\\1 a řetězec cdeabcXabcabccde. Pokud bychom (?:cde) nahradili podvýrazem (cde), jak by bylo třeba upravit zbytek výrazu, aby se rozpoznávaná množina znaků nezměnila?",
+      "answers": [
+        {
+          "text": "(cde)(?:abc)X?[abc]*",
+          "correct": false
+        },
+        {
+          "text": "(cde)(abc)X?[abc]*\\1",
+          "correct": false
+        },
+        {
+          "text": "(cde)(?:abc)X?[abc]*\\1",
+          "correct": false
+        },
+        {
+          "text": "(cde)(abc)X?[abc]*?\\2",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Kolik maximálně znaků rozpozná regex ^\\???$?",
+      "answers": [
+        {
+          "text": "2",
+          "correct": false
+        },
+        {
+          "text": "5",
+          "correct": false
+        },
+        {
+          "text": "1",
+          "correct": true
+        },
+        {
+          "text": "0",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Uvedený regex \\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3} rozpozná ipv4 adresu, upravte tak, aby třetí byte byl vždy stejný jako druhý?",
+      "answers": [
+        {
+          "text": "\\d{1,3}\\.(\\d{1,3})\\.\\1\\.\\d{1,3}",
+          "correct": true
+        },
+        {
+          "text": "(\\d{1,3}\\.){2}\\d{1,3}\\.\\d{1,3}",
+          "correct": false
+        },
+        {
+          "text": "(=next)(\\-\\d{1,3})\\.\\d{1,3}\\.\\d{1,3}",
+          "correct": false
+        },
+        {
+          "text": "(\\d{1,3}\\.)(=previous)\\d{1,3}\\.\\d{1,3}",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme regex (?:cde)(abc)X?[abc]*?\\1 a řetězec cdeabcXabcabccde. Co rozpozná?",
+      "answers": [
+        {
+          "text": "cdeabcXabc",
+          "correct": true
+        },
+        {
+          "text": "cdeabcXabcabc",
+          "correct": false
+        },
+        {
+          "text": "abc",
+          "correct": false
+        },
+        {
+          "text": "výraz selže",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Máme regex b?(aaa)+? co rozpozná v aabaaaaa?",
+      "answers": [
+        {
+          "text": "nic",
+          "correct": false
+        },
+        {
+          "text": "aa za béčkem",
+          "correct": false
+        },
+        {
+          "text": "baaa",
+          "correct": true
+        },
+        {
+          "text": "aa na začátku",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaký regex je chybný?",
+      "answers": [
+        {
+          "text": "\\\\",
+          "correct": false
+        },
+        {
+          "text": "a(\\^2)?",
+          "correct": false
+        },
+        {
+          "text": "*\\w{3,5}",
+          "correct": true
+        },
+        {
+          "text": "[^1-3]",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "text": "Jaký regex je totožný s (?>.)abc",
+      "answers": [
+        {
+          "text": ".(abc)",
+          "correct": true
+        },
+        {
+          "text": ".abc",
+          "correct": false
+        },
+        {
+          "text": ".?abc",
+          "correct": false
+        },
+        {
+          "text": "(.?:)abc",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

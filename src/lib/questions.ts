@@ -1,7 +1,7 @@
 import type { QuestionSet } from "../types";
 
 export const fetchQuestionSets = async (): Promise<Array<QuestionSet>> => {
-    const sets = ["1fp201", "3sg201", "4it115", "4sa310", "4st204", "11f201"];
+    const sets = ["1fp201", "3sg201", "4it115", "4sa310", "4st204", "11f201", "4iz210"];
     const promises = sets.map(async (set: string) => {
         const source = await import(`../questions/${set}.json`);
 
