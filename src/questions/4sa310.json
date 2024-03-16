@@ -921,6 +921,10 @@
                 {
                     "text": "liniová struktura",
                     "correct": false
+                },
+                {
+                    "text": "crowdsourcing",
+                    "correct": true
                 }
             ]
         },
