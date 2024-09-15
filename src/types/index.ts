@@ -6,6 +6,7 @@ export type Answer = {
 export type Question = {
     text: string;
     answers: Array<Answer>;
+    image?: string;
 };
 
 export type QuestionSet = {

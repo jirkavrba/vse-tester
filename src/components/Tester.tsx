@@ -21,7 +21,7 @@ export interface TesterProps {
 const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title }: TesterProps) => {
     const [revealed, setRevealed] = useState<boolean>(false);
     const [selected, setSelected] = useState<Array<string>>([]);
-    const [wrongAnswer, setWrongAnswer] = useState<string|null>(null);
+    const [wrongAnswer, setWrongAnswer] = useState<string | null>(null);
     const [index, setIndex] = useState<number>(0);
     const [states, setStates] = useState<Array<QuestionState>>([]);
     const [seed, setSeed] = useState<string>("");
@@ -177,6 +177,10 @@ const Tester: React.FC<TesterProps> = ({ subject, questions, multichoice, title 
     return (
         <div className={`flex flex-grow flex-col items-stretch p-10 lg:flex-row ${darkmode ? "bg-neutral-900" : "bg-white"}`}>
             <div className="w-full md:w-1/2 xl:w-3/5 2xl:w-3/4">
+                {question.image &&
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img src={question.image} alt="Question image" className="max-h-48 mb-8 rounded-xl"/>
+                }
                 <h1 className={`${darkmode ? "text-white" : "text-black"} text-xl font-bold lg:text-2xl`}>
                     {question.text}
                 </h1>
